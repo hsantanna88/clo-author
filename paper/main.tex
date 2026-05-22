@@ -1,0 +1,198 @@
+\documentclass[12pt]{article}
+
+% ====== Page Layout and Basic Formatting ======
+\usepackage[left=1.0in,right=1.0in,top=1.0in,bottom=1.0in]{geometry}
+\usepackage{setspace}
+\doublespacing
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+% ====== Typography and Fonts ======
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[normalem]{ulem}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,es-noquoting,es-tabla]{babel}
+
+% ====== Section Styling ======
+\usepackage{titlesec}
+\usepackage[title]{appendix}
+\usepackage{titling}
+\pretitle{\begin{center}\large\bfseries}
+\posttitle{\end{center}}
+\preauthor{\begin{center}\normalsize}
+\postauthor{\end{center}}
+\predate{\begin{center}\normalsize}
+\postdate{\end{center}}
+
+% ====== Math Packages (mínimo para artículo jurídico) ======
+\usepackage{amssymb, amsmath}
+
+% ====== Table Packages ======
+\usepackage{array, booktabs, makecell}
+\usepackage[flushleft]{threeparttable}
+\usepackage{tabularx}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs}
+
+% ====== Figure and Caption Packages ======
+\usepackage{graphicx}
+\usepackage{caption}
+\captionsetup{font=small, labelfont=bf, justification=justified}
+
+% ====== List Formatting ======
+\usepackage{enumitem}
+
+% ====== Bibliography and Citation (biblatex + biber) ======
+\usepackage{xurl}
+\usepackage{xcolor}
+\definecolor{citationcolor}{RGB}{0, 127, 255}
+
+\usepackage[backend=biber,
+            style=authoryear,
+            maxcitenames=3,
+            mincitenames=1,
+            maxbibnames=99,
+            giveninits=true,
+            uniquename=false,
+            uniquelist=true,
+            dashed=false,
+            urldate=long,
+            url=true,
+            natbib=true]{biblatex}
+\addbibresource{../Bibliography_base.bib}
+
+\renewcommand*{\nameyeardelim}{\addcomma\space}
+\DeclareCiteCommand{\cite}
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \printtext[bibhyperref]{\color{citationcolor}\usebibmacro{cite}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+\DeclareCiteCommand{\parencite}[\mkbibparens]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \printtext[bibhyperref]{\color{citationcolor}\usebibmacro{cite}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+% ====== Footnote Settings ======
+\interfootnotelinepenalty=10000
+\setlength{\footnotesep}{0.5cm}
+
+% ====== URL Bleeding Fixes ======
+\setcounter{biburllcpenalty}{7000}
+\setcounter{biburlucpenalty}{8000}
+\setcounter{biburlnumpenalty}{9000}
+
+% ====== Hyperref (loaded second-to-last) ======
+\usepackage[hidelinks, breaklinks, colorlinks=true,
+            linkcolor=citationcolor, citecolor=citationcolor,
+            urlcolor=citationcolor]{hyperref}
+
+% ====== Cleveref (loaded after hyperref) ======
+\usepackage[nameinlink]{cleveref}
+
+% ====== Comandos para derecho ======
+% Abreviatura de casación
+\newcommand{\cas}[1]{\textit{CAS.~#1}}
+% Artículo del Código Civil
+\newcommand{\ccart}[1]{art.~#1~CC}
+
+% ==========================================================
+
+\title{%
+  \textit{Lex artis}, consentimiento informado y daño médico:\\
+  criterios jurisprudenciales de responsabilidad civil en el Perú%
+  \thanks{El autor agradece a [mencionar si aplica].
+  Las opiniones expresadas son de exclusiva responsabilidad del autor.}%
+}
+
+\author{%
+  [Nombre del autor]%
+  \thanks{Docente de la Facultad de Derecho, Universidad César Vallejo.
+  Correo electrónico: \href{mailto:correo@ucv.edu.pe}{correo@ucv.edu.pe}.}%
+}
+
+\date{Mayo 2026}
+
+% ==========================================================
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+% ====== Resumen ======
+\begin{abstract}
+\noindent \singlespacing
+El presente artículo analiza los criterios jurisprudenciales que emplea la judicatura peruana
+para determinar la responsabilidad civil en el ámbito médico, con especial atención a tres ejes:
+la \textit{lex artis} médica, el consentimiento informado y el daño médico resarcible.
+A partir de un análisis dogmático del Código Civil de 1984 y de la normativa sanitaria especial
+(Ley 26842 y Ley 29414), y mediante el estudio de sentencias de la Corte Suprema de Justicia
+y Cortes Superiores emitidas entre 2010 y 2024, se identifican patrones y divergencias en la
+aplicación de estos criterios. El artículo concluye con propuestas orientadas a fortalecer la
+coherencia y predictibilidad del sistema de responsabilidad civil médica peruano.
+\end{abstract}
+
+\vspace{0.8em}
+\noindent \textbf{Palabras clave:} responsabilidad civil médica, \textit{lex artis}, consentimiento
+informado, daño médico, jurisprudencia peruana, Código Civil del Perú.
+
+\vspace{0.4em}
+\noindent \textbf{Área temática:} Derecho Civil — Derecho de Daños.
+
+\vspace{1.2em}
+
+% ====== Abstract (English) ======
+\begin{otherlanguage}{english}
+\begin{abstract}
+\noindent \singlespacing
+This article examines the jurisprudential criteria applied by Peruvian courts to determine
+civil liability in the medical field, focusing on three axes: medical \textit{lex artis},
+informed consent, and compensable medical harm. Through a doctrinal analysis of the 1984
+Civil Code and special health legislation (Laws 26842 and 29414), and by studying Supreme
+Court and Superior Court decisions from 2010 to 2024, the article identifies patterns and
+divergences in the application of these standards. The article concludes with proposals aimed
+at enhancing the coherence and predictability of Peru's medical civil liability system.
+\end{abstract}
+
+\noindent \textbf{Keywords:} medical civil liability, \textit{lex artis}, informed consent,
+medical harm, Peruvian case law, Peruvian Civil Code.
+\end{otherlanguage}
+
+\newpage
+\setcounter{page}{1}
+
+% ==========================================================
+% CUERPO DEL ARTÍCULO
+% ==========================================================
+
+\input{sections/01_introduccion}
+
+\input{sections/02_responsabilidad_civil_medica}
+
+\input{sections/03_lex_artis}
+
+\input{sections/04_consentimiento_informado}
+
+\input{sections/05_dano_medico}
+
+\input{sections/06_analisis_jurisprudencial}
+
+\input{sections/07_conclusiones}
+
+% ==========================================================
+% REFERENCIAS
+% ==========================================================
+
+\clearpage
+\small
+\singlespacing
+\printbibliography[title={Referencias}]
+
+\end{document}
