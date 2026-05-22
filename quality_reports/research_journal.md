@@ -19,3 +19,12 @@
 **Report:** `quality_reports/literature/lex-artis/annotated_bibliography.md` (vuelta 2, actualizado)
 
 ---
+
+### 2026-05-21 — explorer + explorer-critic
+**Phase:** Discovery — Data
+**Target:** `quality_reports/data_exploration_lex-artis.md`
+**Score:** 35/100 — FAIL (umbral: 75)
+**Verdict:** Las fuentes identificadas (JNS, El Peruano, LP Pasión) son las correctas para el corpus peruano. El FAIL refleja ausencia de protocolo de búsqueda documentado, sin procedimiento de verificación de cobertura, y sin búsqueda en repositorios de tesis (ALICIA, PUCP, UNMSM). No se requieren nuevas fuentes — se requiere arquitectura metodológica para el corpus. 6 condiciones bloqueantes identificadas.
+**Report:** `quality_reports/data_exploration_lex-artis.md`
+
+---
