@@ -1,0 +1,57 @@
+\section{Metodolog\'{i}a}
+\label{sec:methodology}
+
+\subsection{Dise\~{n}o de la Investigaci\'{o}n}
+\label{subsec:design}
+
+[Tipo de investigaci\'{o}n: aplicada, cuantitativa, experimental. Enfoque: comparaci\'{o}n de algoritmos ML + componente prescriptivo.]
+
+\subsection{Arquitectura del Sistema Propuesto}
+\label{subsec:architecture}
+
+[Descripci\'{o}n del pipeline:
+\begin{enumerate}
+    \item Ingesta y preprocesamiento de datos
+    \item Feature engineering
+    \item Entrenamiento y evaluaci\'{o}n de modelos predictivos
+    \item M\'{o}dulo prescriptivo (optimizaci\'{o}n de inventario)
+    \item Generaci\'{o}n de recomendaciones
+\end{enumerate}]
+
+\subsection{Algoritmos de Machine Learning}
+\label{subsec:algorithms}
+
+[Descripci\'{o}n formal de cada algoritmo evaluado:]
+
+\subsubsection{Random Forest}
+[Formulaci\'{o}n, hiperpar\'{a}metros clave, justificaci\'{o}n de inclusi\'{o}n.]
+
+\subsubsection{XGBoost}
+[Formulaci\'{o}n basada en \cite{chen2016xgboost}, ventajas para datos tabulares.]
+
+\subsubsection{LightGBM}
+[Formulaci\'{o}n basada en \cite{ke2017lightgbm}, eficiencia computacional.]
+
+\subsubsection{Support Vector Regression}
+[Formulaci\'{o}n, kernel selection.]
+
+\subsubsection{Baselines Estad\'{i}sticos}
+[ARIMA, Holt-Winters como benchmarks de comparaci\'{o}n.]
+
+\subsection{M\'{e}tricas de Evaluaci\'{o}n}
+\label{subsec:metrics}
+
+Las m\'{e}tricas utilizadas para evaluar el desempe\~{n}o predictivo son:
+
+\begin{align}
+    \text{RMSE} &= \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2} \label{eq:rmse} \\
+    \text{MAE}  &= \frac{1}{n}\sum_{i=1}^{n}|y_i - \hat{y}_i| \label{eq:mae} \\
+    \text{MAPE} &= \frac{100}{n}\sum_{i=1}^{n}\left|\frac{y_i - \hat{y}_i}{y_i}\right| \label{eq:mape}
+\end{align}
+
+[Para el componente prescriptivo: costo total de inventario, nivel de servicio, fill rate.]
+
+\subsection{Estrategia de Validaci\'{o}n}
+\label{subsec:validation}
+
+[Walk-forward validation (expanding window) para respetar la estructura temporal. Justificaci\'{o}n de por qu\'{e} no usar random split.]

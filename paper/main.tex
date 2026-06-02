@@ -1,0 +1,160 @@
+\documentclass[12pt]{article}
+% ====== Page Layout and Basic Formatting ======
+\usepackage[left=1.0in,right=1.0in,top=1.0in,bottom=1.0in]{geometry}
+\usepackage{setspace}
+\doublespacing
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+% ====== Typography and Fonts ======
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[normalem]{ulem}
+\usepackage[T1]{fontenc}
+
+% ====== Section Styling ======
+\usepackage{titlesec}
+\usepackage[title]{appendix}
+\usepackage{titling}
+\pretitle{\begin{center}\large\bfseries}
+\posttitle{\end{center}}
+\preauthor{\begin{center}\normalsize}
+\postauthor{\end{center}}
+\predate{\begin{center}\normalsize}
+\postdate{\end{center}}
+
+% ====== Math Packages ======
+\usepackage{amssymb, amsmath, amsfonts, mathtools}
+\usepackage{dsfont}
+\usepackage{amsthm}
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+\newtheorem{definition}{Definition}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+\newcommand{\1}[1]{\mathds{1}\left[#1\right]}
+
+% ====== Table Packages ======
+\usepackage{array, booktabs, makecell, cellspace}
+\usepackage{siunitx}
+\usepackage[flushleft]{threeparttable}
+\usepackage{rotating, tabularx}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs, siunitx}
+
+% ====== Figure and Caption Packages ======
+\usepackage{graphicx, subcaption}
+\usepackage{pdflscape, tikz}
+\usepackage{caption}
+\captionsetup{font=small, labelfont=bf, justification=justified}
+\captionsetup[figure]{labelfont=bf}
+\usepackage{float}
+
+% ====== Algorithm Packages ======
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+% ====== List Formatting ======
+\usepackage{enumitem}
+
+% ====== Bibliography and Citation (biblatex + biber) ======
+\usepackage{xurl}
+\usepackage{xcolor}
+\definecolor{citationcolor}{RGB}{0, 127, 255}
+
+\usepackage[backend=biber,
+            style=authoryear,
+            maxcitenames=3,
+            mincitenames=1,
+            maxbibnames=99,
+            giveninits=true,
+            uniquename=false,
+            uniquelist=true,
+            dashed=false,
+            urldate=long,
+            url=true,
+            natbib=true]{biblatex}
+\addbibresource{references.bib}
+
+\renewcommand*{\nameyeardelim}{\addcomma\space}
+\DeclareCiteCommand{\cite}
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \printtext[bibhyperref]{\color{citationcolor}\usebibmacro{cite}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+\DeclareCiteCommand{\parencite}[\mkbibparens]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \printtext[bibhyperref]{\color{citationcolor}\usebibmacro{cite}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+% ====== Custom Column Types ======
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\arraybackslash\hspace{0pt}}m{#1}}
+
+% ====== Footnote Settings ======
+\interfootnotelinepenalty=10000
+\setlength{\footnotesep}{0.5cm}
+
+% ====== URL Bleeding Fixes ======
+\setcounter{biburllcpenalty}{7000}
+\setcounter{biburlucpenalty}{8000}
+\setcounter{biburlnumpenalty}{9000}
+
+% ====== Hyperref (loaded second-to-last) ======
+\usepackage[hidelinks, breaklinks, colorlinks=true,
+            linkcolor=citationcolor, citecolor=citationcolor,
+            urlcolor=citationcolor]{hyperref}
+
+% ====== Cleveref (loaded after hyperref) ======
+\usepackage[nameinlink]{cleveref}
+
+% ================================================================
+% DOCUMENT
+% ================================================================
+
+\title{Sistema de Anal\'{i}tica Prescriptiva Basado en Machine Learning para la Gesti\'{o}n de Inventarios en el Sector Log\'{i}stico del Per\'{u}\thanks{Tesis para optar el t\'{i}tulo de Ingeniero de Sistemas. Universidad Peruana de Ciencias Aplicadas (UPC).}}
+
+\author{[Nombre del Autor]\thanks{Facultad de Ingenier\'{i}a, Universidad Peruana de Ciencias Aplicadas (UPC). Email: [correo].}}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\begin{abstract}
+\noindent \singlespacing
+[Resumen de la investigaci\'{o}n: problema, metodolog\'{i}a, resultados principales y conclusiones. M\'{a}ximo 150 palabras.]
+\end{abstract}
+
+\vspace{1em}
+\noindent \textbf{Palabras clave:} anal\'{i}tica prescriptiva, machine learning, gesti\'{o}n de inventarios, sector log\'{i}stico, Per\'{u}
+
+\newpage
+\setcounter{page}{1}
+
+% ====== Sections ======
+\input{sections/introduction}
+\input{sections/literature}
+\input{sections/methodology}
+\input{sections/data}
+\input{sections/results}
+\input{sections/conclusion}
+
+% ====== Bibliography ======
+\clearpage
+\small
+\printbibliography
+
+\end{document}

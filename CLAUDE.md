@@ -1,13 +1,13 @@
-# CLAUDE.MD -- Empirical Economics Research with Claude Code
+# CLAUDE.MD -- ML Prescriptive Analytics for Inventory Management
 
 <!-- HOW TO USE: Replace [BRACKETED PLACEHOLDERS] with your project info.
      Customize Beamer environments for your talk preamble.
      Keep this file under ~150 lines — Claude loads it every session.
      See the guide at https://hugosantanna.github.io/clo-author/ for full documentation. -->
 
-**Project:** [YOUR PROJECT NAME]
-**Institution:** [YOUR INSTITUTION]
-**Field:** [YOUR FIELD — Economics by default. Can be adapted to Finance, Accounting, Marketing, etc.]
+**Project:** Sistema de Analítica Prescriptiva Basado en Machine Learning para la Gestión de Inventarios en el Sector Logístico del Perú
+**Institution:** Universidad Peruana de Ciencias Aplicadas (UPC)
+**Field:** Ingeniería de Sistemas — Operations Research & Machine Learning
 **Branch:** main
 
 ---
@@ -116,7 +116,8 @@ See `quality.md` for weighted aggregation formula.
 
 | Environment       | Effect        | Use Case       |
 |-------------------|---------------|----------------|
-| `[your-env]`      | [Description] | [When to use]  |
+| `resultframe`     | Highlighted result box | Key findings and metrics |
+| `algorithmframe`  | Algorithm pseudocode | ML pipeline steps |
 
 ---
 
@@ -134,7 +135,7 @@ Output organization: by-script
 
 | Component | File | Status | Description |
 |-----------|------|--------|-------------|
-| Paper | `paper/main.tex` | [draft/submitted/R&R] | [Brief description] |
-| Data | `scripts/R/` | [complete/in-progress] | [Analysis description] |
-| Replication | `paper/replication/` | [not started/ready] | [Deposit status] |
-| Job Market Talk | `paper/talks/job_market_talk.tex` | -- | [Status] |
+| Paper | `paper/main.tex` | draft | Tesis: analítica prescriptiva ML para inventarios |
+| Data | `scripts/python/` | in-progress | Comparación de algoritmos ML sobre datos de compras |
+| Replication | `paper/replication/` | not started | Pendiente |
+| Presentación | `paper/talks/` | -- | Pendiente |

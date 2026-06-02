@@ -1,0 +1,28 @@
+\section{Datos y Preprocesamiento}
+\label{sec:data}
+
+\subsection{Descripci\'{o}n del Dataset}
+\label{subsec:dataset}
+
+[Fuente de datos: hist\'{o}rico de compras del \'{a}rea log\'{i}stica de la empresa. Per\'{i}odo cubierto, n\'{u}mero de registros, n\'{u}mero de SKUs, variables disponibles.]
+
+\subsection{An\'{a}lisis Exploratorio}
+\label{subsec:eda}
+
+[Estad\'{i}sticas descriptivas, distribuci\'{o}n de la demanda, estacionalidad, tendencia, an\'{a}lisis ABC de productos, outliers.]
+
+\subsection{Feature Engineering}
+\label{subsec:features}
+
+[Variables construidas para los modelos ML:]
+\begin{itemize}
+    \item Variables temporales (d\'{i}a de semana, mes, trimestre, d\'{i}as desde \'{u}ltima compra)
+    \item Lags de demanda ($y_{t-1}, y_{t-2}, \ldots, y_{t-k}$)
+    \item Estad\'{i}sticas m\'{o}viles (media m\'{o}vil, desviaci\'{o}n est\'{a}ndar m\'{o}vil)
+    \item Variables categ\'{o}ricas (categor\'{i}a de producto, proveedor)
+\end{itemize}
+
+\subsection{Preprocesamiento}
+\label{subsec:preprocessing}
+
+[Tratamiento de valores faltantes, encoding de variables categ\'{o}ricas, normalizaci\'{o}n/estandarizaci\'{o}n, split temporal train/test.]

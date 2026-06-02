@@ -3,125 +3,107 @@
 <!--
 HOW TO USE: Fill this in manually OR let /discover (interactive interview) generate it.
 All agents read this file to calibrate their field-specific behavior.
-Delete sections that don't apply. Add sections specific to your field.
-If no field is specified, agents default to applied economics.
 -->
 
 ## Field
 
-**Primary:** [e.g., Health Economics, Labor Economics, Development, IO, Public Finance]
-**Adjacent subfields:** [e.g., Labor, Public, IO — fields whose methods and journals overlap]
+**Primary:** Ingeniería de Sistemas — Machine Learning aplicado a Supply Chain Management
+**Adjacent subfields:** Operations Research, Inventory Optimization, Demand Forecasting, Prescriptive Analytics
 
 ---
 
-## Target Journals (ranked by tier)
+## Target Journals (for bibliography reference)
 
-<!-- The Orchestrator uses this for journal selection. The Librarian prioritizes these in searches. -->
+<!-- Used to identify high-quality references, not for submission (this is a thesis). -->
 
 | Tier | Journals |
 |------|----------|
-| Top-5 | AER, Econometrica, JPE, QJE, REStud |
-| Top field | [e.g., JHE, RAND JE, AEJ:EP, AEJ:Applied] |
-| Strong field | [e.g., Health Affairs, AJHE, JPubE, JHR] |
-| Specialty | [e.g., Medical Care, Health Services Research] |
+| Top | International Journal of Production Economics (IJPE), European Journal of Operational Research (EJOR) |
+| Strong field | Computers & Industrial Engineering, Applied Soft Computing, Expert Systems with Applications |
+| Specialty | Journal of Business Logistics, International Journal of Logistics Management |
+| Conferences | IEEE ICMLA, LACCEI, CIMPS |
 
 ---
 
 ## Common Data Sources
 
-<!-- The Explorer prioritizes these. The explorer-critic knows their quirks. -->
-
 | Dataset | Type | Access | Notes |
 |---------|------|--------|-------|
-| [e.g., CPS] | [survey/admin/panel] | [public/restricted] | [key strengths and limitations] |
+| Historical purchase orders | Transactional | Company (private) | Core dataset — compras del área logística |
+| ERP/WMS exports | System logs | Company (private) | Stock levels, lead times, supplier data |
+| INEI Peru statistics | Administrative | Public | Sector logístico peruano — contexto macro |
+| Kaggle supply chain datasets | Benchmark | Public | For methodology validation if needed |
 
 ---
 
-## Common Identification Strategies
+## Methodology Framework
 
-<!-- The Strategist considers these first. The strategist-critic knows field-specific threats. -->
+<!-- This project uses ML algorithm comparison, not causal inference. -->
 
-| Strategy | Typical Application | Key Assumption to Defend |
-|----------|-------------------|------------------------|
-| [e.g., State-level DiD] | [Policy variation across states] | [Parallel trends in outcomes across treated/control states] |
+| Approach | Application | Key Metric |
+|----------|------------|------------|
+| Train/Test temporal split | Avoid data leakage in time series | Out-of-sample performance |
+| K-Fold Cross-validation | Hyperparameter tuning | Generalization error |
+| Backtesting | Simulate real deployment | Cumulative cost savings |
+| Baseline comparison | ARIMA, Holt-Winters, EOQ | Improvement over traditional methods |
 
 ---
 
 ## Field Conventions
 
-<!-- The Coder and Writer follow these. The writer-critic checks for them. -->
-
-- [e.g., Binary outcomes → report LPM alongside logit/probit marginal effects]
-- [e.g., Cost outcomes → log transform or GLM (Gamma, log link)]
-- [e.g., Clustering at state level for state-level policy variation]
-- [e.g., Always discuss moral hazard / adverse selection implications]
-- [e.g., Welfare analysis expected in top-5 submissions]
+- **Metrics:** RMSE, MAE, MAPE for prediction; total cost, service level, fill rate for prescriptive
+- **Baselines obligatorios:** Al menos un método estadístico clásico (ARIMA/ETS) y un modelo simple (linear regression)
+- **Algorithms to compare:** Random Forest, XGBoost, LightGBM, LSTM/GRU (if temporal), SVR
+- **Prescriptive component:** Optimization layer on top of predictions (minimize cost subject to service level)
+- **Validation:** Out-of-time validation (not random split) for time-series data
+- **Reporting:** Tabla comparativa de todos los modelos con múltiples métricas + test estadístico de diferencias
+- **Reproducibility:** Seeds fijos, requirements.txt, datos preprocesados documentados
 
 ---
 
 ## Notation Conventions
 
-<!-- The Writer and writer-critic enforce these. -->
-
 | Symbol | Meaning | Anti-pattern |
 |--------|---------|-------------|
-| [e.g., $Y_{it}$] | [Outcome for individual i at time t] | [Don't use $y$ without subscripts] |
+| $\hat{y}_t$ | Predicted demand at time $t$ | Don't use $\hat{d}$ without defining |
+| $X \in \mathbb{R}^{n \times p}$ | Feature matrix ($n$ samples, $p$ features) | Don't use $D$ for both data and demand |
+| $Q^*$ | Optimal order quantity | Don't confuse with $Q$ (generic quantity) |
+| $L$ | Lead time | Don't use $l$ (looks like 1) |
+| $SS$ | Safety stock | Spell out on first use |
+| $\text{MAPE}$ | Mean Absolute Percentage Error | Always in text mode |
 
 ---
 
 ## Seminal References
 
-<!-- The Librarian ensures these are cited when relevant. The strategist-critic knows their methods. -->
-
 | Paper | Why It Matters |
 |-------|---------------|
-| [e.g., Finkelstein et al. (2012)] | [Oregon HIE — gold standard for insurance effects] |
+| Silver, Pyke & Peterson (1998) | Inventory Management and Production Planning — textbook foundation |
+| Syntetos et al. (2009) | Demand categorization for forecasting method selection |
+| Carbonneau et al. (2008) | ML vs traditional methods for supply chain demand forecasting |
+| Bohanec et al. (2017) | ML for inventory management — comprehensive review |
+| Bertsimas & Kallus (2020) | Data-driven prescriptive analytics framework (from predict to prescribe) |
+| Huber et al. (2019) | ML for demand forecasting in retail — benchmark study |
+| Priore et al. (2019) | ML for inventory control: review and taxonomy |
 
 ---
 
-## Theoretical Foundational References
+## Field-Specific Reviewer Concerns
 
-<!-- The Theorist and theorist-critic default to these anchors when building or reviewing a theory section.
-     Only needed if the paper has a formal theory section (econometric methods, theory+empirics,
-     structural identification, or methodological reduced-form).
-     Leave empty to fall back to the generic econometric theory defaults baked into the theorist agent. -->
-
-| Topic | Anchor references |
-|-------|------------------|
-| [e.g., DiD with staggered adoption] | [e.g., Callaway & Sant'Anna (2021); Sant'Anna & Zhao (2020)] |
-| [e.g., Semiparametric efficiency] | [e.g., Newey (1990, 1994); Bickel-Klaassen-Ritov-Wellner (1993)] |
-
----
-
-## Paper Author Team
-
-<!-- Used by the theorist-critic to calibrate respect. If the authors are themselves among the reference
-     literature on a topic, the critic avoids lecturing them on their own contributions.
-     List author surnames + the topics they are foundational on. -->
-
-| Author | Foundational on |
-|--------|----------------|
-| [e.g., Callaway] | [DiD with staggered adoption, $ATT(g,t)$] |
-
----
-
-## Field-Specific Referee Concerns
-
-<!-- The domain-referee and methods-referee watch for these. -->
-
-- [e.g., "Why not use the Oregon HIE?" — must address if studying insurance effects]
-- [e.g., "Selection into treatment" — always a concern in health care utilization studies]
-- [e.g., "Moral hazard vs adverse selection" — referees expect you to distinguish]
-- [e.g., "External validity" — Medicaid population ≠ general population]
+- "¿Por qué ML y no métodos estadísticos clásicos?" — must demonstrate improvement over baselines
+- "¿Cómo manejas el data leakage temporal?" — critical for credibility
+- "¿Qué tan generalizable es a otras empresas?" — external validity
+- "¿Cuál es el beneficio económico concreto?" — cost-benefit analysis expected
+- "¿Cómo implementarías esto en producción?" — feasibility discussion
+- "¿Qué pasa con productos de baja rotación?" — intermittent demand challenge
 
 ---
 
 ## Quality Tolerance Thresholds
 
-<!-- Customize for your domain's standards. Used by quality.md. -->
-
 | Quantity | Tolerance | Rationale |
 |----------|-----------|-----------|
-| Point estimates | [e.g., 1e-6] | [Numerical precision] |
-| Standard errors | [e.g., 1e-4] | [MC variability] |
-| Coverage rates | [e.g., ± 0.01] | [Simulation with B reps] |
+| MAPE | Report to 2 decimals | Standard in forecasting literature |
+| RMSE | Report to 2 decimals | Consistent precision |
+| Cost savings | Report to nearest integer (soles) | Practical interpretation |
+| p-values (stat tests) | 3 decimals or < 0.001 | Standard |

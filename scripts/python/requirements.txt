@@ -1,0 +1,22 @@
+# Core data manipulation
+pandas>=2.0
+numpy>=1.24
+
+# Machine Learning
+scikit-learn>=1.3
+xgboost>=2.0
+lightgbm>=4.0
+
+# Statistical baselines
+statsmodels>=0.14
+
+# Optimization (prescriptive module)
+scipy>=1.11
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Utilities
+joblib>=1.3
+pathlib2>=2.3; python_version<"3.4"
