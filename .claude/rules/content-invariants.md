@@ -32,6 +32,12 @@ These are non-negotiable. Every agent checks against them. Violations are deduct
 
 **INV-13.** R/Python/Julia scripts export bare `tabular` environments — no `\begin{table}`, `\caption{}`, or notes. The paper's `main.tex` wraps them.
 
+**INV-23.** Tables and figures are collected in dedicated TABLES and FIGURES blocks at the **end of `main.tex`** (after the bibliography), never inline. Section files (`sections/*.tex`) contain prose and `\cref{}` only — no `\begin{table}`/`\begin{figure}`. Per `.claude/rules/paper-organization.md`.
+
+**INV-24.** Table 1 is the pre-treatment characteristics table: two group columns (treated vs. control), grouped into thematic panels, with unit counts at the bottom. **No difference column, no SD column, no p-value column.**
+
+**INV-25.** Tables use the canonical `threeparttable` wrapper with exhaustive notes (sample, variable definitions, specification columns, SE clustering, stars); figures use the `subcaption` multi-panel wrapper with the overall `\caption{}` on top. Templates in `.claude/rules/paper-organization.md`.
+
 ## Code
 
 **INV-14.** `set.seed()` (or language equivalent) called exactly once, at the top of the main script, if any stochastic element exists.
@@ -62,8 +68,8 @@ These are non-negotiable. Every agent checks against them. Violations are deduct
 
 | Agent | Checks | Action on Violation |
 |-------|--------|-------------------|
-| **writer-critic** | INV-1 through INV-13, INV-22 | Deduct per scoring rubric |
+| **writer-critic** | INV-1 through INV-13, INV-22, INV-23, INV-24, INV-25 | Deduct per scoring rubric |
 | **coder-critic** | INV-13 through INV-19 | Deduct per scoring rubric |
 | **storyteller-critic** | INV-20, INV-21 | Deduct per scoring rubric |
-| **verifier** | INV-9, INV-10, INV-14, INV-15, INV-16, INV-19 | FAIL if present |
+| **verifier** | INV-9, INV-10, INV-14, INV-15, INV-16, INV-19, INV-23, INV-24, INV-25 | FAIL if present |
 | **lint hook** | INV-14, INV-15, INV-16, INV-19 | Advisory warning |

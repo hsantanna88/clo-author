@@ -211,7 +211,7 @@ Each section uses `\section{}` with `\label{sec:name}`. Subsections use `\subsec
 
 ## Tables and Figures
 
-- Tables and figures placed inline (modern standard)
+- Tables and figures are **collected at the end of `main.tex`** in dedicated TABLES and FIGURES blocks (after the bibliography), NOT inline — see `.claude/rules/paper-organization.md` (house style; it governs all float placement, Table 1, and the table/figure wrappers)
 - **Hand-written tables:** prefer `tblr` / `talltblr` (tabularray) with key-value interface for captions, notes, and rules
 - **R/Python/Julia-generated tables:** continue exporting bare `tabular` (booktabs rules). Wrap with `threeparttable` in `main.tex`
 - `\captionsetup` handles caption styling globally — no manual `\small` on captions
