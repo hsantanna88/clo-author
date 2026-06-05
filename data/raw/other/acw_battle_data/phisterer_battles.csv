@@ -1,0 +1,150 @@
+battle_id,battle_name,state,start_date,end_date,surrender,campaign,page
+2262,"Bull Run, Va",VA,1861-07-21,1861-07-21,0,0,213
+2263,"Wilson's Creek, Va",VA,1861-08-10,1861-08-10,0,0,213
+2264,"Lexington, Mo",MO,1861-09-12,1861-09-20,0,0,213
+2265,"Ball's Bluff, Va",VA,1861-10-21,1861-10-21,0,0,213
+2266,"Belmont, Mo",MO,1861-11-7,1861-11-7,0,0,213
+2267,"Fort Donelson, Tenn",TN,1862-2-14,1862-2-16,0,0,213
+2268,"Pea Ridge, Ark",AR,1862-3-6,1862-3-8,0,0,213
+2269,"Newbern, N.C.",NC,1862-3-14,1862-3-14,0,0,213
+2270,"Winchester, Va",VA,1862-3-23,1862-3-23,0,0,213
+2271,"Shiloh, Tenn.",TN,1862-4-6,1862-4-7,0,0,213
+2272,"Williamsburg, Va",VA,1862-5-5,1862-5-5,0,0,213
+2273,"Front Royal, Va",VA,1862-5-23,1862-5-23,0,0,213
+2274,"Winchester, Va",VA,1862-5-25,1862-5-25,0,0,213
+2275,"Seven Pines and Fair Oaks, Va",VA,1862-5-31,1862-6-1,0,0,213
+2276,"Cross Keys, Va",VA,1862-6-8,1862-6-8,0,0,213
+2277,"Fort Republic, Va",VA,1862-6-09,1862-6-09,0,0,214
+2278,"Secessionville, James Island, S.C.",SC,1862-6-16,1862-6-16,0,0,214
+2279,"Oak Grove, Va",VA,1862-6-25,1862-6-25,0,0,214
+2280,"Seven Day's retreat; includes Mechanicsville, Gaines' Mills, Chickahominy, Peach Orchard, Savage Station, Charles City Cross Roads, and Malvern Hill",VA,1862-6-26,1862-7-1,0,1,214
+2281,"Murfreesboro, Tenn.",TN,1862-7-13,1862-7-13,0,0,214
+2282,"Cedar Mountain, Va",VA,1862-8-8,1862-8-8,0,0,214
+2283,Guerilla campaign in Missouri; includes with Porter's and Poindexter's Guerrillas,MO,1862-7-20,1862-9-20,0,1,214
+2284,"Groveton and Gainesville, Va",VA,1862-8-28,1862-8-29,0,0,214
+2285,"Bull Run, Va (2d)",VA,1862-8-30,1862-8-30,0,0,214
+2286,"Richmond, Ky",KY,1862-8-30,1862-8-30,0,0,214
+2287,"Chantilly, Va",VA,1862-9-1,1862-9-1,0,0,214
+2288,"Harper's Ferry, Va",VA,1862-9-12,1862-9-15,0,0,214
+2289,"Turner's and Crampton's Gaps, South Mountain, Md",MD,1862-9-14,1862-9-14,0,0,214
+2290,"Mumfordsville, Ky",KY,1862-9-14,1862-9-16,0,0,214
+2291,"Antietam, Md",MD,1862-9-17,1862-9-17,0,0,214
+2292,"Iuka, Miss",MS,1862-9-19,1862-9-20,0,0,214
+2293,"Corith, Miss",MS,1862-10-3,1862-10-4,0,0,214
+2294,"Big Hatchie River, Miss",MS,1862-10-5,1862-10-5,0,0,214
+2295,"Perryville, Ky",KY,1862-10-8,1862-10-8,0,0,214
+2296,"Prarie Grove, Ark",AR,1862-12-7,1862-12-7,0,0,214
+2297,"Hartsville, Tenn.",TN,1862-12-7,1862-12-7,0,0,215
+2298,"Foster's expedition to Goldsboro, N.C.",NC,1862-12-12,1862-12-18,0,1,215
+2299,"Fredericksburg, Va",VA,1862-12-13,1862-12-13,0,0,215
+2300,"Holly Springs, Miss",MS,1862-12-20,1862-12-20,0,0,215
+2301,"Elizabethtown, Ky",KY,1862-12-27,1862-12-27,0,0,215
+2302,"Chickasaw Bayou, Vicksburg, Miss",MS,1862-12-28,1862-12-29,0,0,215
+2303,"Stone's River, Tenn",TN,1862-12-31,1863-1-2,0,0,215
+2304,"Galveston, Texas",TX,1863-1-1,1863-1-1,0,0,215
+2305,"Fort Hindman, Arkansas Post, Ark",AR,1863-1-11,1863-1-11,0,0,215
+2306,"Thompson's Station, Tenn",TN,1863-3-4,1863-3-5,0,0,215
+2307,"Streight's raid from Tuscumbia, Ala., to Rome, Ga.",AL,1863-4-27,1863-5-3,0,1,215
+2308,"Port Gibson, Miss",MS,1863-5-1,1863-5-1,0,0,215
+2309,"Chancellorsville, Va.",VA,1863-5-1,1863-5-4,0,0,215
+2310,"Champion Mills, Miss",MS,1863-5-16,1863-5-16,0,0,215
+2311,"Siege of Vicksburg, Miss.",MS,1863-5-18,1863-7-4,0,0,215
+2312,"Siege of Port Hudson, La.",LA,1863-5-27,1863-7-9,0,0,215
+2313,"Milliken's Bend, La.",LA,1863-6-6,1863-6-8,0,0,215
+2314,"Beverly Ford and Brandy Station, Va.",VA,1863-6-9,1863-6-9,0,0,215
+2315,"Winchester, Va.",VA,1863-6-13,1863-6-15,0,0,215
+2316,"Rosecrans' campaign from Murfreesboro to Tullahoma, Tenn.",TN,1863-6-23,1863-6-30,0,1,215
+2317,"Gettysburg, Pa.",PA,1863-7-1,1863-7-3,0,0,215
+2318,"Jackson, Miss",MS,1863-7-9,1863-7-16,0,0,215
+2319,"Second assault on Fort Wagner, S.C.",SC,1863-7-18,1863-7-18,0,0,215
+2320,"Chickamauga, Ga.",GA,1863-9-19,1863-9-20,0,0,215
+2321,"Grand Coteau, La.",LA,1863-11-3,1863-11-3,0,0,215
+2322,"Rogersville, Tenn.",TN,1863-11-6,1863-11-6,0,0,215
+2323,"Chattanooga, Tenn.; includes Orchard Knob, Lookout Mountain, and Missionary Ridge",TN,1863-11-23,1863-11-25,0,1,215
+2324,"Operations at Mine Run, Va.",VA,1863-11-26,1863-11-28,0,0,215
+2325,"Bean's Station, Tenn.",TN,1863-12-14,1863-12-14,0,0,215
+2326,"Olustee, Fla.",FL,1864-2-20,1864-2-20,0,0,215
+2327,"Sabine Cross Roads, La.",LA,1864-4-8,1864-4-8,0,0,215
+2328,"Pleasant Hills, La.",LA,1864-4-9,1864-4-9,0,0,215
+2329,"Fort Pillow, Tenn.",TN,1864-4-12,1864-4-12,0,0,216
+2330,"Plymouth, N.C.",NC,1864-4-17,1864-4-20,0,0,216
+2331,"Jenkins' Ferry, Saline River, Ark.",AR,1864-4-30,1864-4-30,0,0,216
+2332,"Wilderness, Va.",VA,1864-5-7,1864-5-7,0,0,216
+2333,"Rocky Face Ridge, Ga.; includes Tunnel Hill, Mill Creek gap, Buzzard Roost, Snake Creek Gap, and near Dalton",GA,1864-5-5,1864-5-9,0,0,216
+2334,"Spottsylvania Court House Va.; includes engagements on the Fredericksburg Road, Laurel Hill, and Nye River",VA,1864-5-8,1864-5-18,0,0,216
+2335,"Swift Creek, Va.",VA,1864-5-9,1864-5-10,0,0,216
+2336,"Cloyd's Mountain and New River Bridge, Va.",VA,1864-5-9,1864-5-10,0,0,216
+2337,"Fort Darling, Drury's Bluff, Va.",VA,1864-5-12,1864-5-16,0,0,216
+2338,"Resaca, Ga.",GA,1864-5-13,1864-5-16,0,0,216
+2339,"New Market, Va.",VA,1864-5-15,1864-5-15,0,0,216
+2340,"Bermuda Hundred, Va.",VA,1864-5-16,1864-5-30,0,0,216
+2341,"North Anna River, Va.",VA,1864-5-23,1864-5-27,0,0,216
+2342,"Dallas, Ga.",GA,1864-5-25,1864-6-4,0,0,216
+2343,"Cold Harbor, Va.",VA,1864-6-1,1864-6-12,0,0,216
+2344,"Piedmont, Va.",VA,1864-6-5,1864-6-5,0,0,216
+2345,"Kenesaw Mountain, Ga.; includes Pine Mountain, Pine Knob, Golgotha, Culp's House, general assault, June 27th; McAfee's Cross Roads, Lattemore's Mills, and Powder Springs.",GA,1864-6-9,1864-6-30,0,1,216
+2346,"Brice's Cross Roads, near Guntown, Miss.",MS,1864-6-10,1864-6-10,0,0,216
+2347,"Kellar's Bridge, Licking River, Ky.",KY,1864-6-10,1864-6-10,0,0,217
+2348,"Trevellian Station, Central Railroad, Va.",VA,1864-6-11,1864-6-12,0,0,217
+2349,"Petersburg, Va.; includes Baylor's Farm, Walthal, and Weir Bottom Church",VA,1864-6-15,1864-6-19,0,0,217
+2350,"Lynchburg, Va.",VA,1864-6-17,1864-6-19,0,0,217
+2351,"Trenches in front of Petersburg, Va.",VA,1864-6-20,1864-6-30,0,1,217
+2352,"Wilson's raid on the Weldon Railroad, Va.",VA,1864-6-22,1864-6-30,0,1,217
+2353,"Weldon Railroad, Va.",VA,1864-6-22,1864-6-23,0,0,217
+2354,"Kenesaw Mountain, general assault. See No. 2345",GA,1864-6-27,1864-6-27,0,0,217
+2355,"Front of Petersburg, Va.; losses at the Crater and Deep Bottom not included.",VA,1864-7-1,1864-7-31,0,1,217
+2356,"Chattahoochee River, Ga.",GA,1864-7-6,1864-7-10,0,0,217
+2357,"Monocacy, Md.",MD,1864-7-9,1864-7-9,0,0,217
+2358,"Tupelo, Miss.; includes Harrisburg and Old Town Creek.",MS,1864-7-13,1864-7-15,0,0,217
+2359,"Peach Tree Creek, Ga.",GA,1864-7-20,1864-7-20,0,0,217
+2360,"Atlanta, Ga.; Hood's first sortie.",GA,1864-7-22,1864-7-22,0,0,217
+2361,"Winchester, Va.",VA,1864-7-24,1864-7-24,0,0,217
+2362,"Stoneman's raid to Macon, Ga.",GA,1864-7-26,1864-7-31,0,0,217
+2363,"McCook's raid to Lovejoy Station, Ga.",GA,1864-7-26,1864-7-31,0,0,217
+2364,"Ezra Chapel, Atlanta, Ga.; second sortie",GA,1864-7-28,1864-7-28,0,0,217
+2365,"Mine explosion at Petersburg, Va.",VA,1864-7-30,1864-7-30,0,0,217
+2366,"Trenches before Petersburg, Va.",VA,1864-8-1,1864-8-31,0,1,217
+2367,"Strawberry Plains, Deep Bottom Run, Va.",VA,1864-8-14,1864-8-18,0,0,217
+2368,"Six Mile House, Weldon Railroad, Va.",VA,1864-8-18,1864-8-21,0,0,217
+2369,"Summit Point, Va.",VA,1864-8-21,1864-8-21,0,0,217
+2370,"Ream's Station, Va.",VA,1864-8-25,1864-8-25,0,0,217
+2371,"Jonesboro, Ga.",GA,1864-8-31,1864-9-1,0,0,217
+2372,"Campaign in Northern Georgia, from Chattanooga, Tenn., to Atlanta, Ga.",GA,1864-5-5,1864-9-8,0,1,217
+2373,"Trenches before Petersburg, Va.",VA,1864-9-1,1864-10-30,0,1,217
+2374,"Opequan, Winchester, Va.",VA,1864-9-19,1864-9-19,0,0,217
+2375,"Athens, Ala.",AL,1864-9-23,1864-9-23,0,0,217
+2376,Price's invasion of Missouri; includes a number of engagements.,MO,1864-9-24,1864-10-28,0,1,217
+2377,"New Market Heights, Va.",VA,1864-9-28,1864-9-30,0,0,217
+2378,"Preble's Farm, Poplar Springs Church, Va.",VA,1864-9-30,1864-10-1,0,0,217
+2379,"Allatoona, Ga.",GA,1864-10-5,1864-10-5,0,0,217
+2380,"Cedar Creek, Va.",VA,1864-10-19,1864-10-19,0,0,218
+2381,"Hatcher's Run, South Side Railroad, Va.",VA,1864-10-27,1864-10-27,0,0,218
+2382,"Fair Oaks, near Richmond, Va.",VA,1864-10-27,1864-10-28,0,0,218
+2383,"Fort Kelly, New Creek, West Va.",VA,1864-11-28,1864-11-28,0,0,218
+2384,"Franklin, Tenn.",TN,1864-11-30,1864-11-30,0,0,218
+2385,"Honey Hill, Broad River, S.C.",SC,1864-11-30,1864-11-30,0,0,218
+2386,"Deveaux's Neck, S.C.",SC,1864-12-6,1864-12-9,0,0,218
+2387,"Nashville, Tenn.",TN,1864-12-15,1864-12-16,0,0,218
+2388,"Beverly, West Va.",WV,1865-1-11,1865-1-11,0,0,218
+2389,"Fort Fisher, N.C.",NC,1865-1-13,1865-1-15,0,0,218
+2390,"Dabney's Mills, Hatcher's Run, Va.",VA,1865-2-5,1865-2-7,0,0,218
+2391,"Wilcox's Bridge, Wise's Fork, N.C.",NC,1865-3-8,1865-3-10,0,0,218
+2392,"Averysboro, N.C.",NC,1865-3-16,1865-3-16,0,0,218
+2393,"Bentonville, N.C.",NC,1865-3-19,1865-3-21,0,0,218
+2394,"Fort Steadman, in front of Petersburg, Va.",VA,1865-3-25,1865-3-25,0,0,218
+2395,"Petersburg, Va.",VA,1865-3-25,1865-3-25,0,0,218
+2396,"Spanish Fort, Ala.",AL,1865-3-26,1865-4-8,0,0,218
+2397,"Wilson's raid from Chickasaw, Ala., to Macon, Ga.; includes a number of engagements",AL,1865-3-22,1865-4-24,0,1,218
+2398,"Boydton and White Oak Roads, Va.",VA,1865-3-31,1865-3-31,0,0,218
+2399,"Five Forks, Va.",VA,1865-4-1,1865-4-1,0,0,218
+2400,"Fall of Petersburg, Va.",VA,1865-4-2,1865-4-2,0,0,218
+2401,"Sailor's Creek, Va.",VA,1865-4-6,1865-4-6,0,0,218
+2402,"High Bridge, Appomattox River, Va.",VA,1865-4-6,1865-4-6,0,0,218
+2403,"Farmville, Va.",VA,1865-4-7,1865-4-7,0,0,218
+2404,"Fort Blakely, Ala.",AL,1865-4-9,1865-4-9,0,0,218
+2405,Surrender of Lee,VA,1865-4-9,1865-4-9,1,0,218
+2406,Johnston surrendered,NC,1865-4-26,1865-4-26,1,0,218
+2407,Taylor surrendered,AL,1865-5-4,1865-5-4,1,0,218
+2408,Sam Jones surrendered,FL,1865-5-10,1865-5-10,1,0,218
+2409,Jeff Thompson surrendered,AR,1865-5-11,1865-5-11,1,0,218
+2410,Kirby Smith surrendered,LA,1865-5-26,1865-5-26,1,0,218

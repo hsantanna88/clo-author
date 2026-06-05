@@ -1,0 +1,64 @@
+battle_id,battle_name,page,start_date,end_date,attacker,result,assault_fortified,assault_outcome,union_result,confed_result,state,theater
+1,"Bull Run, July 21, 1861",77,1861-07-21,1861-07-21,Union,Confederate,,,Rout,Victory,VA,ME
+2,"Wilson's Creek, Mo., August 10, 1861",78,1861-08-10,1861-08-10,Union,Confederate,,,Defeat,Victory,MO,TM
+3,"Fort Donelson, February 12-16, 1862",78,1862-02-12,1862-02-16,Union,Union,Union,Partial Success,,,TN,MW
+4,"Pea Ridge, Ark., March 7, 1862",79,1862-03-07,1862-03-07,Confederate,Union,,,Victory,Defeat,AR,TM
+5,"Shiloh, April 6, 7, 1862",79,1862-04-06,1862-04-07,Confederate,Union,,,Victory,Defeat,TN,MW
+6,"Williamsburg, May 4, 5, 1862",80,1862-05-04,1862-05-05,Union,Union,,,,Retired,VA,ME
+7,"Fair Oaks, May 31, June 1, 1862",81,1862-05-31,1862-06-01,Confederate,Union,,,Victory,Defeat,VA,ME
+8,"Mechanicsville, June 26, 1862",82,1862-06-26,1862-06-26,Confederate,Confederate,Confederate,Failure,Retired,,VA,ME
+9,"Gaines's Mill, June 27, 1862",82,1862-06-27,1862-06-27,Confederate,Confederate,,,Rout,Victory,VA,ME
+10,"Peach Orchard, Savage Station, June 29, 1862. White Oak Swamp, Glendale,  June 30, 1862. Malvern Hill, July 1, 1862",84,1862-06-29,1862-07-01,Confederate,Confederate,,,Retired,,VA,ME
+11,"Seven Days' Battles, June 25-July 1, 1862",86,1862-06-25,1862-07-01,Confederate,Confederate,,,,,VA,ME
+12,"Cedar Mountain, August 9, 1862",87,1862-08-09,1862-08-09,Union,Confederate,,,Defeat,Victory,VA,ME
+13,"Manasas and Chantilly, August 27-September 2, 1862",88,1862-08-27,1862-09-02,Union,Confederate,,,Defeat,Victory,VA,ME
+14,"Richmond, Ky., August 29, 30, 1862",89,1862-08-29,1862-08-30,Confederate,Confederate,,,Rout,Victory,KY,MW
+15,"South Mountain, September 14, 1862",90,1862-09-14,1862-09-14,Union,Union,,,Victory,Defeat,MD,ME
+16,"Antietam, September 16, 17, 1862",92,1862-09-16,1862-09-17,Union,Union,,,Victory,Defeat,MD,ME
+17,"Corinth, October 3, 4, 1862",94,1862-10-03,1862-10-04,Confederate,Union,Confederate,Failure,Victory,,MS,MW
+18,"Perryville, October 8,1862",95,1862-10-08,1862-10-08,Union,Union,,,Victory,Defeat,KY,MW
+19,"Prairie Grove, Ark., December 7, 1862",95,1862-12-07,1862-12-07,Confederate,Union,,,Victory,Defeat,AR,TM
+20,"Fredericksburg, December 12, 1862",96,1862-12-13,1862-12-13,Union,Confederate,Union,Failure,,Victory,VA,ME
+21,"Chickasaw Bayou and Bluff, December 27, 29, 1862",96,1862-12-27,1862-12-29,Union,Confederate,Union,Failure,,Victory,MS,MW
+22,"Stone's River, December 31, 1862, January 1, 1863",97,1862-12-31,1863-01-01,Confederate,Union,,,Victory,Defeat,TN,MW
+23,"Arkansas Post, January 11, 1863",98,1863-01-11,1863-01-11,Union,Union,Union,Success,Victory,Defeat,AR,TM
+24,"Chancellorsville and Fredericksburg, May 1-4, 1863",98,1863-05-01,1863-05-04,Union,Confederate,,,Defeat,Victory,VA,ME
+25,"Champion Hill, May 16, 1863",99,1863-05-16,1863-05-16,Union,Union,,,Victory,,MS,MW
+26,"Assault on Vicksburg, May 22, 1863",100,1863-05-22,1863-05-22,Union,Confederate,Union,Failure,,,MS,MW
+27,"Assault on Port Hudson, May 27, 1863",101,1863-05-27,1863-05-27,Union,Confederate,Union,Failure,,Victory,LA,LS
+28,"Assault on Port Hudson, June 14, 1863",101,1863-06-14,1863-06-14,Union,Confederate,Union,Failure,,Victory,LA,LS
+29,"Gettysburg, July 1-3, 1863",102,1863-07-01,1863-07-03,Confederate,Union,,,Victory,Defeat,PA,ME
+30,"Assault on Fort Wagner, July 18, 1863",104,1863-07-18,1863-07-18,Union,Confederate,Union,Failure,,Victory,SC,LS
+31,"Chickamauga, September 19, 20, 1863",105,1863-09-19,1863-09-20,Confederate,Confederate,,,Defeat,Victory,GA,MW
+32,"Chattanooga, November 23-25, 1863",106,1863-11-23,1863-11-25,Union,Union,Union,Success,Victory,,TN,MW
+33,"Mine Run, November 27-December 1, 1863",108,1863-11-27,1863-12-01,Union,Confederate,,,,Victory,VA,ME
+34,"Olustee, Fla., February 20, 1864",109,1864-02-20,1864-02-20,Confederate,Confederate,,,Defeat,Victory,FL,LS
+35,"Pleasant Hill, April 9, 1864",109,1864-04-09,1864-04-09,Union,Confederate,,,Defeat,Victory,LA,TM
+36,"Wilderness, May 5-7, 1864",110,1864-05-05,1864-05-07,Union,Confederate,,,,,VA,ME
+37,"Spottsylvania, May 10, 1864",112,1864-05-10,1864-05-10,Union,Confederate,Union,Failure,,,VA,ME
+38,"Spottsylvania, May 12, 1864",112,1864-05-12,1864-05-12,Union,Confederate,Union,Partial Success,,,VA,ME
+39,"Drewry's Bluff, May 12-16, 1864",113,1864-05-12,1864-05-16,Union,Confederate,,,Defeat,Victory,VA,ME
+40,"Cold Harbor, June 1-3, 1864",114,1864-06-01,1864-06-03,Union,Confederate,Union,Failure,,,VA,ME
+41,"Petersburg, June 15-18, 1864",115,1864-06-15,1864-06-18,Union,Confederate,Union,Partial Success,,,VA,ME
+42,"The Mine, July 30, 1864",116,1864-07-30,1864-07-30,Union,Confederate,Union,Failure,,,VA,ME
+43,"Deep Bottom, August 14-19, 1864",117,1864-08-14,1864-08-19,Union,Confederate,Union,Partial Success,,,VA,ME
+44,"Weldon Railroad, August 18-21, 1864",118,1864-08-18,1864-08-21,Union,Union,,,Victory,Defeat,VA,ME
+45,"Atlanta Campaign, May, 1864",119,1864-05-05,1864-05-28,Union,Union,,,,,GA,MW
+46,"Assault on Kenesaw Mountain, June 27, 1864",120,1864-06-27,1864-06-27,Union,Confederate,Union,Failure,,Victory,GA,MW
+47,"Tupelo, Miss., July 13-15, 1864",121,1864-07-13,1864-07-15,Confederate,Union,,,,Defeat,MS,MW
+48,"Peach-Tree Creek, July 20, 1864",122,1864-07-20,1864-07-20,Confederate,Union,Confederate,Failure,Victory,,GA,MW
+49,"Atlanta, July 22, 1864 (Hood's Attack)",122,1864-07-22,1864-07-22,Confederate,Union,Confederate,Failure,Victory,,GA,MW
+50,"Atlanta, July 28, 1864",124,1864-07-28,1864-07-28,Confederate,Union,Confederate,Failure,Victory,,GA,MW
+51,"Jonesborough, Ga., August 31, 1864",125,1864-08-31,1864-08-31,Confederate,Union,Confederate,Failure,Victory,,GA,MW
+52,"Jonesborough, Ga., September 1, 1864",126,1864-09-01,1864-09-01,Union,Union,Union,Success,,,GA,MW
+53,"Winchester (Opequan), September 19, 1864",127,1864-09-19,1864-09-19,Union,Union,Union,Success,Victory,Rout,GA,MW
+54,"Chafin's Farm, and Forts Harrison and Gilmer, September 29, 30, 1864",128,1864-09-29,1864-09-30,Union,Union,Union,Partial Success,,,VA,ME
+55,"Cedar Creek, October 19, 1864",129,1864-10-19,1864-10-19,Confederate,Union,,,Victory,Rout,VA,ME
+56,"Boydton Plank Road, October 27, 28, 1864",130,1864-10-27,1864-10-28,Union,Confederate,,,,,VA,ME
+57,"Franklin, November 30, 1864",131,1864-11-30,1864-11-30,Confederate,Union,Confederate,Failure,Retired,,TN,MW
+58,"Nashville, December 15, 16, 1864",132,1864-12-15,1864-12-16,Union,Union,Union,Success,,Rout,TN,MW
+59,"Hatcher's Run, February, 5-7, 1865",133,1865-02-05,1865-02-07,Union,Confederate,,,,,VA,ME
+60,"Bentonville, March 19, 1865",134,1865-03-19,1865-03-19,Confederate,Union,Confederate,Failure,Victory,,NC,MW
+61,"Appomattox Campaign, March 29-April 9, 1865",135,1865-03-29,1865-04-09,Union,Union,,,,,VA,ME
+62,"Dinwiddie Court House and White Oak Road, March 29-31, 1865",137,1865-03-29,1865-03-31,Union,Union,,,Victory,,VA,ME
+63,"Assault at Petersburg, April 2, 1865",138,1865-04-02,1865-04-02,Union,Union,Union,Success,,Rout,VA,ME

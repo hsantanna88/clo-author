@@ -1,12 +1,11 @@
 # Annotated Bibliography: Minimum Wage Effects on Employment
 
-**Date:** 2026-05-08
-**Topic:** The employment effects of minimum wage increases in the United States
-**Papers reviewed:** 12
+**Date:** 2026-05-08 **Topic:** The employment effects of minimum wage increases in the United States **Papers reviewed:** 12
 
 ## Directly Related
 
 ### Card and Krueger (1994) — Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania
+
 - **Journal:** American Economic Review
 - **Proximity:** 5
 - **Main contribution:** Pioneered the use of natural experiments to study minimum wage effects, comparing fast-food employment in NJ (treatment) and PA (control) after NJ's 1992 minimum wage increase.
@@ -15,6 +14,7 @@
 - **Relevance:** Foundational paper for the modern minimum wage literature; our identification strategy builds directly on their cross-border comparison design.
 
 ### Dube, Lester, and Reich (2010) — Minimum Wage Effects Across State Borders
+
 - **Journal:** Review of Economics and Statistics
 - **Proximity:** 5
 - **Main contribution:** Generalized the border-discontinuity approach to all contiguous US county pairs straddling state lines, addressing spatial heterogeneity bias in national-level studies.
@@ -23,6 +23,7 @@
 - **Relevance:** Our empirical strategy follows their contiguous county-pair design; we extend it with staggered treatment timing methods.
 
 ### Cengiz, Dube, Lindner, and Zipperer (2019) — The Effect of Minimum Wages on Low-Wage Jobs
+
 - **Journal:** Quarterly Journal of Economics
 - **Proximity:** 5
 - **Main contribution:** Introduced a bunching estimator that examines the entire wage distribution around the minimum wage, avoiding reliance on a single comparison group.
@@ -31,6 +32,7 @@
 - **Relevance:** Their distributional approach complements our design; we use their bunching estimates as a benchmark for our ATT estimates.
 
 ### Harasztosi and Lindner (2019) — Who Pays for the Minimum Wage?
+
 - **Journal:** American Economic Review
 - **Proximity:** 4
 - **Main contribution:** Exploited a large (60%) minimum wage increase in Hungary to study firm-level adjustment margins, including employment, prices, profitability, and capital-labor substitution.
@@ -41,6 +43,7 @@
 ## Same Method, Different Context
 
 ### Dustmann, Lindner, Schoenberg, Umkehrer, and vom Berge (2022) — Reallocation Effects of the Minimum Wage
+
 - **Journal:** Quarterly Journal of Economics
 - **Proximity:** 4
 - **Main contribution:** Studied Germany's 2015 national minimum wage introduction using administrative employer-employee data, showing reallocation from small to large firms.
@@ -49,6 +52,7 @@
 - **Relevance:** Uses the same DiD framework in a different institutional context; their reallocation findings motivate our firm-size heterogeneity analysis.
 
 ### Jardim, Long, Plotnick, van Inwegen, Vigdor, and Wething (2022) — Minimum Wage Increases and Individual Employment Trajectories
+
 - **Journal:** Journal of Labor Economics
 - **Proximity:** 3
 - **Main contribution:** Used administrative data from Washington State to track individual workers before and after Seattle's minimum wage increase, separating incumbent from new worker effects.
@@ -59,6 +63,7 @@
 ## Same Context, Different Method
 
 ### Neumark, Salas, and Wascher (2014) — Revisiting the Minimum Wage-Employment Debate
+
 - **Journal:** Journal of Labor Economics
 - **Proximity:** 3
 - **Main contribution:** Challenged the contiguous county-pair design by arguing that spatial controls absorb real variation, and that traditional panel methods with state and time fixed effects recover negative employment effects.
@@ -67,6 +72,7 @@
 - **Relevance:** Primary counterpoint to our identification strategy; we address their critique by implementing the Callaway-Sant'Anna estimator that handles staggered timing transparently.
 
 ### Aaronson, French, Sorkin, and To (2018) — Industry Dynamics and the Minimum Wage
+
 - **Journal:** Econometrica
 - **Proximity:** 3
 - **Main contribution:** Developed and estimated a structural model of restaurant industry dynamics with putty-clay technology, where minimum wage effects depend on the vintage of capital in place.
@@ -77,6 +83,7 @@
 ## Theoretical Foundations
 
 ### Manning (2003) — Monopsony in Motion
+
 - **Journal:** Princeton University Press
 - **Proximity:** 2
 - **Main contribution:** Provided the modern theoretical framework for labor market monopsony, showing that search frictions generate employer wage-setting power even in markets with many employers.
@@ -85,6 +92,7 @@
 - **Relevance:** Core theoretical motivation for our paper; the monopsony model predicts the near-zero employment effects we find empirically.
 
 ### Burdett and Mortensen (1998) — Wage Differentials, Employer Size, and Unemployment
+
 - **Journal:** International Economic Review
 - **Proximity:** 2
 - **Main contribution:** Developed an equilibrium search model generating a non-degenerate wage distribution even among homogeneous workers, where larger firms pay higher wages to reduce turnover.
@@ -95,6 +103,7 @@
 ## Methods Papers
 
 ### Callaway and Sant'Anna (2021) — Difference-in-Differences with Multiple Time Periods
+
 - **Journal:** Journal of Econometrics
 - **Proximity:** 4
 - **Main contribution:** Developed group-time average treatment effects ATT(g,t) for staggered DiD designs that are robust to treatment effect heterogeneity, unlike TWFE estimators.
@@ -103,6 +112,7 @@
 - **Relevance:** Our primary estimation method; we implement their R package `did` for all main specifications and event study plots.
 
 ### Roth, Sant'Anna, Bilinski, and Poe (2023) — What's Trending in Difference-in-Differences?
+
 - **Journal:** Journal of Econometrics
 - **Proximity:** 3
 - **Main contribution:** Comprehensive review of recent advances in DiD methodology, covering staggered adoption, pre-testing, sensitivity analysis, and alternative identification strategies.

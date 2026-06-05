@@ -1,0 +1,38 @@
+category,abbr,description
+SCharacter,B,Marine Brigade (Union Other Volunteers)
+SCharacter,D,Drafted or Conscripts (Non Militia)
+SCharacter,E,Enrolled Militia
+SCharacter,G,Home Guard
+SCharacter,H,Heavy Artillery
+SCharacter,J,Junior Reserves
+SCharacter,L,Light Artillery
+SCharacter,M,"Militia (Non-Drafted, Non-Enrolled or Non-State)"
+SCharacter,N,National Guard
+SCharacter,P,Pioneer Brigade (Union Other Volunteers)
+SCharacter,R,Reserves (Non-Senior and Non-Junior)
+SCharacter,S,"State (State Guard, State Line, State Troops, etc) (Non Militia)"
+SCharacter,T,Mounted
+SCharacter,U,Veteran (Non Volunteer)
+SCharacter,V,Volunteers (Non Veteran)
+SCharacter,W,Veteran Volunteers
+SCharacter,X,Drafted Militia
+SCharacter,Y,State Militia
+SCharacter,Z,Senior Reserves
+Ethnic,C,Colored
+Ethnic,I,Indian
+Unitype,A,Army
+Unitype,B,Battalion
+Unitype,C,Company
+Unitype,D,Detachment
+Unitype,L,Legion
+Unitype,R,Regiment
+Unitype,S,Squadron
+Unitype,X,Corps
+Unitype,Y,Battery
+Function,A,Artillery
+Function,C,Cavalry
+Function,E,Engineers
+Function,G,Gunboat
+Function,I,Infantry
+Function,M,Musician (Bands)
+Function,S,Sharpshooters

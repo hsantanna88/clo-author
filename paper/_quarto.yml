@@ -1,0 +1,55 @@
+project:
+  title: "The Spectre of Slavery"
+  execute-dir: project
+  output-dir: ../_output
+
+title: "The Spectre of Slavery"
+subtitle: "Newspaper Politicking During the American Civil War"
+author:
+  - name: Patrick Crawford
+    email: pcrawfo6@gmu.edu
+    affiliation:
+      - gmu
+shortauthor: "Crawford"
+affiliations:
+  - id: gmu
+    name: George Mason University
+    department: Department of Economics
+    address: Fairfax, VA
+institute: George Mason University
+shortinstitute: GMU
+date: last-modified
+date-format: long
+
+tbl-cap-location: top
+
+citeproc: true
+bibliography: references.bib
+csl: https://www.zotero.org/styles/apa
+
+pandoc:
+  wrap: none
+
+format:
+  pdf:
+    documentclass: article
+    toc: false
+    papersize: letter
+    fontsize: 10pt
+    geometry: margin=1in
+    indent: true
+    link-citations: true
+    fig-height: 4
+    fig-width: 7.5
+    fig-pos: "!t"
+    keep-tex: false
+    number-sections: true
+
+  beamer:
+    navigation: horizontal
+    keep-tex: true
+    incremental: true
+    link-citations: true
+    section-titles: false
+    fonttheme: structurebold
+    aspectratio: 169

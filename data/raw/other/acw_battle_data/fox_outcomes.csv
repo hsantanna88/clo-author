@@ -1,0 +1,94 @@
+victor,victory_type,battle_name,state,cwsac_id
+Union,victory,"Rich Mountain, W. Va.",WV,WV003
+Union,victory,"Antietam, Md.",MD,MD003
+Union,victory,"Gettysburg, Pa.",PA,PA002
+Union,victory,"Williamsburg, Va.",VA,VA010
+Union,victory,"South Mountain, Md.",MD,MD002
+Union,victory,"Magnolia Hills, Miss.",MS,MS006
+Union,victory,"Crampton's Gap, Md.",MD,MD002
+Union,victory,"Kernstown, Va.",VA,VA101
+Union,victory,"Raymond, Miss.",MS,MS007
+Union,victory,"Mill Springs, Ky.",KY,KY006
+Union,victory,"Baton Rouge, La.",LA,LA003
+Union,victory,"Champion's Hill, Miss.",MS,MS009
+Union,victory,"Fort Donelson, Tenn.",TN,TN002
+Union,victory,"Iuka, Miss.",MS,MS001
+Union,victory,"Stone's River, Tenn.",TN,TN010
+Union,victory,"Shiloh, Tenn.",TN,TN003
+Union,victory,"Corinth, Miss.",MS,MS002
+Union,victory,"Missionary Ridge, Tenn.",TN,TN024
+Union,victory,"Pea Ridge, Ark.",AR,AR001
+Union,victory,"Chaplin Hills, Ky.",KY,KY009
+Union,victory,"Fort Stevens, D. C.",DC,DC001
+Union,victory,"Roanoke Island, N. C.",NC,NC002
+Union,victory,"Resaca, Ga.",GA,GA008
+Union,victory,"Opequon, Va.",VA,VA119
+Union,victory,"New Berne, N. C.",NC,NC003
+Union,victory,"Atlanta, Ga., July 21-22.",GA,GA017
+Union,victory,"Cedar Creek, Va.",VA,VA122
+Union,victory,"Carter's Farm, Va.",VA,VA115
+Union,victory,"Piedmont, Va.",VA,VA111
+Union,victory,"Five Forks, Va.",VA,VA088
+Union,victory,"Prairie Grove, Ark.",AR,AR005
+Union,victory,"Bentonville, N. C.",NC,NC020
+Union,victory,"Sailor's Creek, Va.",VA,VA093
+Union,victory,"Nashville, Tenn.",TN,TN038
+Union,victory,"Tupelo, Miss.",MS,MS015
+Union,victory,"Fort Harrison, Va.",VA,VA075
+Union,assault,"Marye's Heights, Va. (1863）",VA,VA034
+Union,assault,"Rappahannock Station, Va.",VA,VA043
+Union,assault,"Fort McAllister, Ga.",GA,GA028
+Union,assault,"Lookout Mountain, Tenn.",TN,TN024
+Union,assault,"Jonesboro, Ga.",GA,GA022
+Union,assault,"Fort Fisher, N. C.",NC,NC015
+Union,assault,"Cloyd's Mountain, W. Va.",WV,VA049
+Union,assault,"Fall of Petersburg, Va.",VA,VA089
+Union,assault,"Fort Blakely, Ala.",AL,AL006
+Confederate,victory,"First Bull Run, Va.",VA,VA005
+Confederate,victory,"Seven Days, Va.",VA,VA017
+Confederate,victory,"Wilderness, Va.",VA,VA046
+Confederate,victory,"Ball's Bluff, Va.",VA,VA006
+Confederate,victory,"Manassas, Va.",VA,VA026
+Confederate,victory,"Spotsylvania, Va.",VA,VA048
+Confederate,victory,"Belmont, Mo.",MO,MO009
+Confederate,victory,"Cedar Mountain, Va.",VA,VA022
+Confederate,victory,"Drewry's Bluff, Va.",VA,VA053
+Confederate,victory,"Front Royal, Va.",VA,VA103
+Confederate,victory,"Richmond, Ky.",KY,KY007
+Confederate,victory,"Monocacy, Md.",MD,MD007
+Confederate,victory,"Port Republic, Va.",VA,VA106
+Confederate,victory,"Fredericksburg, Va.",VA,VA028
+Confederate,victory,"Brice's Cross Roads, Miss.",MS,MS014
+Confederate,victory,"Wilson's Creek, Mo.",MO,MO004
+Confederate,victory,"Chancellorsville, Va.",VA,VA032
+Confederate,victory,"Island Ford, Va.",VA,OH001
+Confederate,victory,"Pocotaligo, S. C.",SC,
+Confederate,victory,"Winchester, Va. (1863).",VA,VA107
+Confederate,victory,"Deep Bottom, Va.",VA,VA071
+Confederate,victory,"Maryland Heights, Md.",MD,WV010
+Confederate,victory,"Chickamauga, Ga.",GA,GA004
+Confederate,victory,"Ream's Station, Va.",VA,VA073
+Confederate,victory,"Shepherdstown, Va.",VA,WV016
+Confederate,victory,"Olustee, Fla.",FL,FL005
+Confederate,victory,"Hatcher's Run, Va.",VA,VA083
+Confederate,victory,"New Market, Va.",VA,VA110
+Confederate,victory,"Sabine Cross Roads, La.",LA,LA019
+Confederate,defense,"Chickasaw Bluffs, Miss.",MS,MS003
+Confederate,defense,"Vicksburg, Miss. (May 19).",MS,
+Confederate,defense,"Cold Harbor, Va.",VA,
+Confederate,defense,"Secessionville, S. C.",SC,SC002
+Confederate,defense,"Vicksburg, Miss. (May 22).",MS,
+Confederate,defense,"Petersburg, Va. (June 17-18).",VA,
+Confederate,defense,"Fort Wagner, S. C.",SC,SC005
+Confederate,defense,"Port Hudson, La. (May 27).",LA,LA010
+Confederate,defense,"Petersburg Mine, Va.",VA,VA070
+Confederate,defense,"Kenesaw Mountain, Ga.",GA,GA015
+Confederate,defense,"Port Hudson, La. (June 14).",LA,LA010
+Union,defense,"Helena, Ark.",AR,AR008
+Union,defense,"Wauhatchie, Tenn.",TN,TN021
+Union,defense,"Peach Tree Creek, Ga.",GA,GA016
+Union,defense,"Fort Sanders, Tenn.",TN,TN025
+Union,defense,"Allatoona Pass, Ga.",GA,GA023
+Union,defense,"Ezra Chapel, Ga.",GA,GA018
+Union,defense,"Franklin, Tenn.",TN,TN036
+Union,defense,"Fort Stedman, Va.",VA,VA084

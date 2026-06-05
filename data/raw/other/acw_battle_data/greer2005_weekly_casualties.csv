@@ -1,0 +1,583 @@
+date,description,confederate,union,theater,cwsac_id
+1861-04-07,"Fort Sumter, SC -April 12 - 14",4.0,11.0,Lower Seaboard,SC001
+1861-05-12,"Sewell's Point, VA - May 18-19",5.0,5.0,Eastern,VA001
+1861-05-19,Ellsworth's death,0.0,1.0,Eastern,
+1861-05-26,"Aquia Creek, VA - May 29-June 1",5.0,5.0,Eastern,VA002
+1861-06-02,"Philippi, WVA - June 3",6.0,5.0,Eastern,WV001
+1861-06-09,Big Bethel. VA - June 10,8.0,76.0,Eastern,VA003
+1861-06-16,"Boonville, MO - June 17",12.0,12.0,Trans-Mississippi,MO001
+1861-06-30,"Hoke's Run, WVA - July 2",25.0,73.0,Eastern,WV002
+1861-06-30,"Carthage, MO July 5",74.0,44.0,Trans-Mississippi,MO002
+1861-07-07,"Rich Mountain, WVA - July 11",638.0,74.0,Eastern,WV003
+1861-07-14,"Blackburn's Ford, VA - July 18",68.0,83.0,Eastern,VA004
+1861-07-21,"1st Bull Run (Manassas), VA - July 21",1982.0,2896.0,Eastern,VA005
+1861-08-04,"Wilson's Creek, MO August 10",1222.0,1317.0,Trans-Mississippi,MO004
+1861-08-25,Kessler's Cross Lanes. WVA - August 26,40.0,132.0,Eastern,WV004
+1861-08-25,"Hatteras Inlet Forts, NC - August 28-29",670.0,3.0,Eastern,NC001
+1861-09-01,"Dry Wood Creek, MO",,14.0,Trans-Mississippi,MO005
+1861-09-08,"Camifex Ferry, WVA - September 10",32.0,158.0,Eastern,WV006
+1861-09-08,"Cheat Mountain, WVA - September 12-15",100.0,71.0,Eastern,WV005
+1861-09-15,"Lexington I, MO - September 13-20",100.0,3500.0,Trans-Mississippi,MO006
+1861-09-15,"Liberty (Blue Mills), MO - September 17",70.0,56.0,Trans-Mississippi,MO003
+1861-09-15,"Barbourville, KY September 19",5.0,15.0,Western,KY001
+1861-09-29,"Greenbrier River, WVA - October 3",52.0,43.0,Eastern,WV007
+1861-10-06,"Santa Rosa Island, FL - October 9",87.0,67.0,Lower Seaboard,FL001
+1861-10-20,Ball's Bluff. VA October 21,149.0,921.0,Eastern,VA006
+1861-10-20,"Fredericktown, MO - October 21",62.0,,Trans-Mississippi,MO007
+1861-10-20,"Camp Wildcat, KY - October 21",53.0,43.0,Western,KY002
+1861-10-20,"Springfield I, MO - October 25",133.0,85.0,Trans-Mississippi,MO008
+1861-11-03,"Belmont, MO - November 7",641.0,607.0,Western,MO009
+1861-11-03,"Ivy Mountain, KY - November 8-9",263.0,30.0,Western,KY003
+1861-11-17,"Round Mountain, OK - November 19",10.0,,Trans-Mississippi,OK001
+1861-12-08,"Chusto-Talasah, OK - December 9",52.0,412.0,Trans-Mississippi,OK002
+1861-12-08,"Camp Allegheny, WVA - December 1 3",146.0,137.0,Eastern,WV008
+1861-12-15,Rowlett's Station. KY - December 17,91.0,40.0,Western,KY004
+1861-12-15,"Dranesville, VA - December 20",230.0,71.0,Eastern,VA007
+1861-12-22,Chustenahlah OK December 26,40.0,211.0,Trans-Mississippi,OK003
+1861-12-22,Mount Zion Church. MO - December 28,210.0,72.0,Trans-Mississippi,MO010
+1862-01-05,"Hancock, MD & Morgan. WVA - Jan. 5-6",12.0,13.0,Eastern,MD001
+1862-01-05,Roan's Tan Yard. MO January 8,80.0,11.0,Trans-Mississippi,MO011
+1862-01-05,Middle Creek. KY - January 10,65.0,27.0,Western,KY005
+1862-01-19,Mill Springs. KY - January 19,529.0,262.0,Western,KY006
+1862-02-02,"Fort Henry, TN February 6",99.0,47.0,Western,TN001
+1862-02-02,"Roanoke Island, NC - February 7-8",2643.0,264.0,Eastern,NC002
+1862-02-09,"Fort Donelson, TN - February 12-16",17000.0,2832.0,Western,TN002
+1862-02-16,Valverde. NM - February 20-21,187.0,263.0,Trans-Mississippi,NM001
+1862-03-02,"Pea Ridge, AK - March 6-8",2000.0,1384.0,Trans-Mississippi,AR001
+1862-03-02,"Hampton Roads, VA - March 8-9",24.0,409.0,Eastern,VA008
+1862-03-09,"New Madrid, MS, Is. # 10,TN - Feb 28-April 8",7000.0,51.0,Western,MO012
+1862-03-09,New Bern. NC - March 14,609.0,476.0,Eastern,NC003
+1862-03-23,"First Kernstown, VA March 23",718.0,590.0,Eastern,VA101
+1862-03-23,"Glorieta Pass, NM - March 26-28",227.0,132.0,Trans-Mississippi,NM002
+1862-04-06,Shiloh. TN - April 6-7,10699.0,13047.0,Western,TN003
+1862-04-06,Fort Pulaski. GA-April 10-11,1.0,364.0,Lower Seaboard,GA001
+1862-04-13,"Fts. Jackson & St. Philip, LA-April 16-28",782.0,229.0,Lower Seaboard,LA001
+1862-04-13,"South Mills, NC - April 19",25.0,114.0,Eastern,NC005
+1862-04-13,"Siege of Yorktown, VA-April 5-May 4",300.0,182.0,Eastern,VA009
+1862-04-20,"Fort Macon, NC - April 25-26",3.0,439.0,Eastern,NC004
+1862-04-27,New Orleans. LA - April 25-May 1,0.0,0.0,Lower Seaboard,LA002
+1862-05-04,Williamsburg. VA - May 5,1560.0,2283.0,Eastern,VA010
+1862-05-04,"Eltham's Landing, VA - May 7",48.0,186.0,Eastern,VA011
+1862-05-04,"McDowell, VA - May 8",500.0,256.0,Eastern,VA102
+1862-05-11,"Drewry's Bluff, VA - May 15",15.0,24.0,Eastern,VA012
+1862-05-11,"Princeton Courthouse, WVA - May 15-17",16.0,129.0,Eastern,WV009
+1862-05-18,"Front Royal, VA - May 23",56.0,904.0,Eastern,VA103
+1862-05-18,"Siege of Corinth, TN April 29 May 30",1000.0,1000.0,Western,MS016
+1862-05-25,First Winchester. VA - May 25,400.0,2019.0,Eastern,VA104
+1862-05-25,Hanover Court House. VA - May 27,746.0,355.0,Eastern,VA013
+1862-05-25,Seven Pines. VA - May 31-June 1,6100.0,5000.0,Eastern,VA014
+1862-06-01,Tranter's Creek. NC - June 5,20.0,20.0,Eastern,NC006
+1862-06-01,"Memphis I, TN June 6",180.0,1.0,Western,TN004
+1862-06-01,"Chanttanooga I, TN - June 7-8",3.0,,Western,TN005
+1862-06-08,"Cross Keys, VA - June 8",288.0,684.0,Eastern,VA105
+1862-06-08,"Port Republic, VA - June 9",800.0,1000.0,Eastern,VA106
+1862-06-15,"Charleston, SC - June 16",204.0,683.0,Lower Seaboard,
+1862-06-15,"St Charles, AR - June 17",40.0,160.0,Trans-Mississippi,AR002
+1862-06-22,"Oak Grove, VA - June 25",411.0,626.0,Eastern,VA015
+1862-06-22,Beaver Dam Creek. VA - June 26,1484.0,361.0,Eastern,VA016
+1862-06-22,"Gaines' Mill, VA - June 27",8750.0,6837.0,Eastern,VA017
+1862-06-22,"Garnett's & Golding's Farms,VA June 27-28",438.0,189.0,Eastern,VA018
+1862-06-29,"Savage's Station, VA - June 29",444.0,919.0,Eastern,VA019
+1862-06-29,"Glendale While Oak Swamp, VA-June 30",3600.0,2700.0,Eastern,VA020
+1862-06-29,Malvern Hill. VA-Julv 1,5355.0,3000.0,Eastern,VA021
+1862-07-06,"Hill's Plantation, AK - July 7",250.0,63.0,Trans-Mississippi,AR003
+1862-07-13,"Murfreesboro I, TN - July 13",150.0,1200.0,Western,TN006
+1862-08-03,"Baton Rouge, LA - August 5",478.0,371.0,Lower Seaboard,LA003
+1862-08-03,"Kirksville, MO - August 6-9",368.0,88.0,Trans-Mississippi,MO013
+1862-08-03,"Cedar Mountain, VA - August 9",1400.0,2500.0,Eastern,VA022
+1862-08-10,"Independence I, MO - August 11",,344.0,Trans-Mississippi,MO014
+1862-08-10,"Lone Jack, MO - August 15-16",,272.0,Trans-Mississippi,MO015
+1862-08-17,"Rappahannock River, VA - Aug. 22-25",112.0,113.0,Eastern,VA023
+1862-08-17,"Fort Ridgely, MN - August 20-22",,26.0,Trans-Mississippi,MN001
+1862-08-24,"Thoroughfare Gap, VA - August 28",50.0,50.0,Eastern,VA025
+1862-08-24,"Second Manassas, VA - August 28-30",8353.0,13826.0,Eastern,VA026
+1862-08-24,"Richmond, KY - August 29-30",600.0,5623.0,Western,KY007
+1862-08-31,Chantilly. VA - September I,800.0,1300.0,Eastern,VA027
+1862-09-07,Harpers Ferry. WVA - September 12-15,286.0,12719.0,Eastern,WV010
+1862-09-14,"South Mountain, MD - September 14",2300.0,2325.0,Eastern,MD002
+1862-09-14,"Munfordville, KY - September 14-17",285.0,4148.0,Western,KY008
+1862-09-14,"Antietam, MD - September 17",10300.0,12400.0,Eastern,MD003
+1862-09-14,"luka, MS - September 19",594.0,790.0,Western,MS001
+1862-09-14,Sheperdstown. WVA - September 19-20,291.0,363.0,Eastern,WV016
+1862-09-21,"Wood Lake, MN - September 23",25.0,41.0,Trans-Mississippi,MN002
+1862-09-28,"Newtonia, MO - September 30",78.0,245.0,Trans-Mississippi,MO016
+1862-09-28,Corinth. MS - October 3-4,4800.0,2350.0,Western,MS002
+1862-10-05,"Davis Bridge, TN - October 6",400.0,500.0,Western,TN007
+1862-10-05,"Perryville, KY - October 8",3396.0,4211.0,Western,KY009
+1862-10-19,"Old Fort Wayne, OK - October 22",150.0,14.0,Trans-Mississippi,OK004
+1862-10-19,"Georgia Landing, LA - October 27",229.0,86.0,Trans-Mississippi,LA005
+1862-11-02,Clark's Mill. MO - November 7,34.0,119.0,Trans-Mississippi,MO017
+1862-11-23,Cane Hill. AR - November 28,45.0,41.0,Trans-Mississippi,AR004
+1862-12-07,Prairie Grove. AR - December 7,1317.0,1251.0,Trans-Mississippi,AR005
+1862-12-07,"Hartsville, TN – December 7",139.0,2096.0,Western,TN008
+1862-12-14,"Fredericksburg I, VA December 11 15",5300.0,12600.0,Eastern,VA028
+1862-12-14,"Kinston, NC - December 14",525.0,160.0,Eastern,NC007
+1862-12-14,White Hall. NC - December 16,75.0,75.0,Eastern,NC008
+1862-12-14,Goldsboro Bridge. NC - December 17,110.0,110.0,Eastern,NC009
+1862-12-14,"Jackson, TN - December 19",,6.0,Western,TN009
+1862-12-21,Chickasaw Bayou. MS - December 26-29,187.0,1176.0,Western,MS003
+1862-12-28,Parker's Cross Roads. TN - December 31,500.0,237.0,Western,TN011
+1862-12-28,"Galveston II, TX January 1",50.0,600.0,Trans-Mississippi,TX003
+1862-12-28,"Stones River, TN - January 2",10000.0,13000.0,Western,TN010
+1863-01-04,"Springfield II, MO - January 8",240.0,163.0,Trans-Mississippi,MO018
+1863-01-04,"Hartville, MO - January 9-11",329.0,78.0,Trans-Mississippi,MO019
+1863-01-04,"Arkansas Post, AR January 9 11",5004.0,1092.0,Western,AR006
+1863-01-25,"Bear River, ID - January 29",250.0,65.0,Pacific Coast,ID001
+1863-02-01,"Dover, TN - February 3",855.0,110.0,Western,TN012
+1863-03-01,"Fort McAllister, GA- January 27-March 3",1.0,0.0,Lower Seaboard,GA002
+1863-03-01,"Thompson's Station, TN - March 4-5",357.0,1600.0,Western,TN013
+1863-03-08,"Fort Anderson, NC - March 13-15",3.0,4.0,Eastern,NC010
+1863-03-15,Kelly's Ford. VA - March 17,80.0,99.0,Eastern,VA029
+1863-03-15,"Vaught's Hill, TN - March 20",150.0,38.0,Western,TN014
+1863-03-22,Brentwood. TN - March 25,3.0,529.0,Western,TN015
+1863-04-05,"Charleston Harbor 1, SC April 7",14.0,22.0,Lower Seaboard,SC004
+1863-04-05,"Franklin I, IN-April 10",137.0,100.0,Western,TN016
+1863-04-12,"Fort Bisland, LA-April 12-13",450.0,224.0,Lower Seaboard,LA006
+1863-04-12,"Irish Bend, LA - April 14",,353.0,Lower Seaboard,LA007
+1863-04-12,"Washington, NC - March 30-April 20",50.0,50.0,Eastern,NC011
+1863-04-19,Suffolk. VA - April 19,900.0,260.0,Eastern,VA031
+1863-04-26,"Cape Girardeau, MO - April 26",325.0,12.0,Trans-Mississippi,MO020
+1863-04-26,"Grand Gulf, MS - April 29",,80.0,Western,MS004
+1863-04-26,"Day's Gap, Al. - April 30",65.0,23.0,Western,AL001
+1863-04-26,"Port Gibson, MS - May 1",787.0,875.0,Western,MS006
+1863-04-26,Chalk Bluff AR - May 1-2,45.0,45.0,Trans-Mississippi,AR007
+1863-05-03,"Chancellorsville, VA - April 30-May 6; Fredericksburg II, VA - May ; Salem Church, VA - May 3-4",12800.0,18000.0,Eastern,VA032 VA034 VA033
+1863-05-10,"Raymond, MS - May 12",514.0,442.0,Western,MS007
+1863-05-10,"Jackson, MS - May 14",850.0,286.0,Western,MS008
+1863-05-10,"Champion Hill, MS May 16",3840.0,2441.0,Western,MS009
+1863-05-17,"Big Black River Bridge, MS - May 17",1751.0,276.0,Western,MS010
+1863-05-17,"Battle of Vicksburg, MS - May 18-22",500.0,3199.0,Western,MS011
+1863-05-17,"Plains Store, LA - May 21",100.0,150.0,Lower Seaboard,LA009
+1863-05-24,"Battle of Port Hudson I, LA - May 27",500.0,2000.0,Lower Seaboard,LA010
+1863-06-07,"Milliken's Bend, LA - June 7",185.0,652.0,Western,LA011
+1863-06-07,"Brandy Station, VA - June 9",515.0,868.0,Eastern,VA035
+1863-06-14,"Second Winchester, VA - June 13-15",266.0,4443.0,Eastern,VA107
+1863-06-14,"Aldie, Middleburg, Upperville - June 17-21",510.0,827.0,Eastern,VA036 VA037 VA038
+1863-06-14,"Lafourche Crossing, LA - June 20-21",219.0,49.0,Lower Seaboard,LA012
+1863-06-21,"Hoover's Gap, TN - June 24-26",,583.0,Western,TN017
+1863-06-28,"Donaldsville II, LA - June 28",301.0,23.0,Lower Seaboard,LA013
+1863-06-28,"Goodrich's Landing, LA - June 29-30",6.0,150.0,Western,LA014
+1863-06-28,"Hanover, PA June 30",74.0,154.0,Eastern,PA001
+1863-06-28,"Cabin Creek, OK - July 1-2",59.0,21.0,Trans-Mississippi,OK006
+1863-06-28,"Gettysburg, PA-July 1-3",28000.0,23000.0,Eastern,PA002
+1863-06-28,"Siege of Vicksburg, MS - July 4",32197.0,1636.0,Western,MS011
+1863-06-28,"Helena, AR - July 4",1636.0,239.0,Western,AR008
+1863-07-05,"Williamsport, MD - July 6",254.0,400.0,Eastern,MD004
+1863-07-05,"Siege of Port Hudson, LA-May 22-July 9",7500.0,10000.0,Lower Seaboard,LA010
+1863-07-05,"Corydon, IN - July 9",51.0,360.0,Western,IN001
+1863-07-05,"Fort Wagner I, SC - July 10-11",12.0,339.0,Lower Seaboard,SC005
+1863-07-12,"Kock's Plantation, LA - July 12-13",33.0,465.0,Lower Seaboard,LA015
+1863-07-12,"Boonesboro/Falling Waters, MD July 8-14",920.0,158.0,Eastern,MD006
+1863-07-12,"Grimball's Landing, SC - July 16",18.0,46.0,Lower Seaboard,SC006
+1863-07-12,"Honey Springs, OK - July 17",134.0,77.0,Trans-Mississippi,OK007
+1863-07-12,"Fort Wagner II, SC-July 18",222.0,1515.0,Lower Seaboard,SC007
+1863-07-19,"Buffington Island, Oil - July 19",900.0,25.0,Western,OH001
+1863-07-19,"Manassas Gap, VA July 23",220.0,220.0,Eastern,VA108
+1863-07-19,"Big Mound, ND - July 24",80.0,7.0,Trans-Mississippi,ND001
+1863-07-26,"Salineville, OH - July 26",364.0,0.0,Western,OH002
+1863-07-26,"Dead Buffalo Lake, ND - July 26",9.0,1.0,Trans-Mississippi,ND002
+1863-07-26,"Stoney Lake, ND - July 28",0.0,0.0,Trans-Mississippi,ND003
+1863-08-16,"Lawrence, KS - August 21",,150.0,Trans-Mississippi,KS001
+1863-08-30,"Devil's Backbone, AR - September 1",17.0,14.0,Trans-Mississippi,AR009
+1863-08-30,"Whitestonc Hill, ND - September 3-4",300.0,70.0,Trans-Mississippi,ND004
+1863-09-06,"Charleston Harbor II, SC - September 5-8",100.0,117.0,Lower Seaboard,SC008 SC009
+1863-09-06,"Sabine Pass II, TX - September 8",0.0,350.0,Trans-Mississippi,TX006
+1863-09-06,"Bayou Fourche, AR - September 10",64.0,72.0,Trans-Mississippi,AR010
+1863-09-13,"Chickamauga, GA- September 18-20",18454.0,16170.0,Western,GA004
+1863-09-20,"Blountville, TN September 22",165.0,27.0,Western,TN019
+1863-09-27,"Stirling's Plantation, LA - September 29",121.0,515.0,Lower Seaboard,LA016
+1863-10-04,"Baxter Springs, KS - October 6",3.0,103.0,Trans-Mississippi,KS002
+1863-10-04,"Blue Springs, TN - October 10",216.0,100.0,Western,TN020
+1863-10-11,"Auburn I & ll, VA - October 13 & 14",82.0,82.0,Eastern,VA039
+1863-10-11,"Bristoe Station, VA - October 14",1380.0,540.0,Eastern,VA040
+1863-10-11,"Fort Brooke, FL - October 16-18",,16.0,Lower Seaboard,FL004
+1863-10-18,"Buckland Mills, VA - October 19",115.0,115.0,Eastern,VA042
+1863-10-25,"Pine Bluff, AR - October 25",40.0,56.0,Trans-Mississippi,AR011
+1863-10-25,Wauhatchie. TN - October 28-29,356.0,216.0,Western,TN021
+1863-11-01,"Collierville, TN - November 3",95.0,60.0,Western,TN022
+1863-11-01,"Droop Mountain, WVA November 6",275.0,140.0,Eastern,WV012
+1863-11-01,Rappahannock Station. VA - November 7,2041.0,461.0,Eastern,VA043
+1863-11-15,Campbell's Station. TN - November 16,570.0,400.0,Western,TN023
+1863-11-22,Chattanooga III. TN - November 23-25,6667.0,5815.0,Western,TN024
+1863-11-22,Ringgold Gap. GA - November 27,221.0,507.0,Western,GA005
+1863-11-29,"Fort Sanders, TN - November 29",800.0,15.0,Western,TN025
+1863-11-29,"Mine Run, VA Nov 26 Dec. 2",795.0,1633.0,Eastern,VA044
+1863-12-13,"Bean's Station, TN - December 14",222.0,115.0,Western,TN026
+1863-12-27,"Mossy Creek, TN - December 29",,151.0,Western,TN027
+1864-01-17,"Dandridge, TN - January 17",,150.0,Western,TN028
+1864-01-24,"Athens, AL - January 26",30.0,20.0,Western,AL002
+1864-01-24,"Fair Garden, TN January 27 28",165.0,100.0,Western,TN029
+1864-01-31,"Morton's Ford, VA - February 6-7",165.0,100.0,Eastern,VA045
+1864-02-07,"Middle Boggy, OK - February 13",47.0,0.0,Trans-Mississippi,OK005
+1864-02-14,"Meridian, MS - February 14",,170.0,Western,MS012
+1864-02-14,"Olustee, FL - February 20",946.0,1861.0,Lower Seaboard,FL005
+1864-02-21,"Okolona, MS - February 22",144.0,388.0,Western,MS013
+1864-02-21,"Dalton I, GA - February 22-27",140.0,289.0,Western,GA006
+1864-02-28,"Walkerton, VA - March 2",0.0,100.0,Eastern,VA125
+1864-03-06,"Fort DeRussy, LA - March 14",269.0,48.0,Trans-Mississippi,LA017
+1864-03-20,"Paducah, KY March 25",50.0,90.0,Western,KY010
+1864-04-03,"Elkin's Ferry, AR - April 3-4",29.0,26.0,Trans-Mississippi,AR012
+1864-04-03,"Mansfield, LA - April 8",1000.0,2235.0,Trans-Mississippi,LA018
+1864-04-03,"Pleasant Hill, LA - April 9",1626.0,1369.0,Trans-Mississippi,LA019
+1864-04-10,"Prairie D'Ane, AR - April 10-13",50.0,100.0,Trans-Mississippi,AR013
+1864-04-10,"Fort Pillow, TN - April 12",100.0,549.0,Western,TN030
+1864-04-10,"Blair's Landing, LA - April 12",57.0,60.0,Trans-Mississippi,LA020
+1864-04-17,"Plymouth, NC - April 17-20",300.0,2900.0,Eastern,NC012
+1864-04-17,"Poison Spring, AR - April 18",114.0,301.0,Trans-Mississippi,AR014
+1864-04-17,"Monett's Ferry, LA - April 23",400.0,200.0,Trans-Mississippi,LA021
+1864-04-24,"Mark's Mills, AR - April 25",293.0,1500.0,Trans-Mississippi,AR015
+1864-04-24,"Jenkin's Ferry, AR - April 30",1000.0,700.0,Trans-Mississippi,AR016
+1864-05-01,"Albermarle Sound, NC - May 5",44.0,44.0,Eastern,NC013
+1864-05-01,"Battle of the Wilderness, VA - May 5-6",11125.0,18000.0,Eastern,VA046
+1864-05-01,"Port Walthall Junction, VA - May 6-7",275.0,275.0,Eastern,VA047
+1864-05-08,Swift Creek & Fort Clifton. VA May 9,495.0,495.0,Eastern,VA050
+1864-05-08,"Chester Station, VA - May 9",284.0,285.0,Eastern,VA051
+1864-05-08,"Cloyd's Mountain, VA - May 9",538.0,688.0,Eastern,VA049
+1864-05-08,"Rocky Face Ridge, GA - May 7-13",600.0,837.0,Western,GA007
+1864-05-08,"Resaca, GA - May 13-15",2800.0,2747.0,Western,GA008
+1864-05-08,"Cove Mountain, VA May 10",150.0,150.0,Eastern,VA109
+1864-05-08,"Yellow Tavern, VA - May 11",400.0,400.0,Eastern,VA052
+1864-05-15,"Proctor's Creek, VA - May 12-16",1000.0,3004.0,Eastern,VA053
+1864-05-15,"New Market, VA - May 15",520.0,841.0,Eastern,VA110
+1864-05-15,"Adairsville, GA- May 17",,200.0,Western,GA009
+1864-05-15,"Yellow Bayou, LA - May 18",500.0,360.0,Trans-Mississippi,LA023
+1864-05-15,"Spotsylvania C. H., VA - May 8-21",12451.0,18000.0,Eastern,VA048
+1864-05-15,"Warre Bottom Church Hewlet, VA-May20",750.0,750.0,Eastern,VA054
+1864-05-22,"North Anna, VA May 23-26",1550.0,2623.0,Eastern,VA055
+1864-05-22,"Wilson's Wharf, VA - May 24",140.0,26.0,Eastern,VA056
+1864-05-22,"New Hope Church, GA - May 25-26",350.0,665.0,Western,GA010
+1864-05-22,"Pickett's Mill, GA - May 27",450.0,1600.0,Western,GA012
+1864-05-22,"Dallas, GA - May 28",1250.0,380.0,Western,GA011
+1864-05-22,"Haw's Shop, VA May 28",400.0,344.0,Eastern,VA058
+1864-05-29,"Totopotomoy Ck/Bcthesda, VA - May28-30",1591.0,731.0,Eastern,VA057
+1864-05-29,"Matadequin Creek, VA - May 30",,90.0,Eastern,VA059
+1864-05-29,"Cold Harbor, VA - May 31-June 12",5294.0,13000.0,Eastern,VA062
+1864-06-05,"Piedmont, VA - June 5",1600.0,875.0,Eastern,VA111
+1864-06-05,"Ditch Bayou, AR June 6",37.0,133.0,Trans-Mississippi,AR017
+1864-06-05,"Petersburg I, VA - June 9",60.0,60.0,Eastern,VA098
+1864-06-05,"Brices Cross Roads, MS - June 10",493.0,2612.0,Western,MS014
+1864-06-05,"Trevilian Station, VA- June 11-12",1071.0,1007.0,Eastern,VA099
+1864-06-05,"Cynthiana, KY - June 11-12",1000.0,1092.0,Western,KY011
+1864-06-12,"Petersburg II, VA-June 15-18",4700.0,10600.0,Eastern,VA063
+1864-06-12,"Lynchburg, VA - June 17-18",200.0,700.0,Eastern,VA064
+1864-06-19,"Kolb's Farm, GA - June 22",1000.0,350.0,Western,GA014
+1864-06-19,"Jerusalem Plank Road, VA - June 21-23",572.0,2962.0,Eastern,VA065
+1864-06-19,Samaria Church. VA - June 24,250.0,350.0,Eastern,VA066
+1864-06-19,"Staunton River Bridge, VA - June 25",75.0,75.0,Eastern,VA113
+1864-06-26,"Reams Station, VA - June 29",722.0,723.0,Eastern,VA068
+1864-06-26,"Kennesaw Mountain, GA-June 27",1000.0,3000.0,Western,GA015
+1864-07-03,"Monocacy, MD - July 9",800.0,1294.0,Eastern,MD007
+1864-07-10,"Fort Stevens, DC - July 11-12",500.0,373.0,Eastern,DC001
+1864-07-10,"Tupelo, MS - July 14-15",1326.0,674.0,Western,MS015
+1864-07-17,"Cool Spring, VA - July 17-18",397.0,422.0,Eastern,VA114
+1864-07-17,"Rutherford's Farm, VA - July 20",500.0,242.0,Eastern,VA115
+1864-07-17,"Peachtree Creek, GA - July 20",4796.0,1710.0,Western,GA016
+1864-07-17,"Atlanta, GA - July 22",8499.0,3641.0,Western,GA017
+1864-07-24,"Second Kernstown, VA - July 24",600.0,1185.0,Eastern,VA116
+1864-07-24,"First Deep Bottom, VA July 27 29",500.0,500.0,Eastern,VA069
+1864-07-24,"Ezra Church, GA - July 28",4642.0,700.0,Western,GA018
+1864-07-24,"Killdeer Mountain, ND - July 28-29",31.0,15.0,Trans-Mississippi,ND005
+1864-07-24,"The Crater, VA - July 30",1491.0,3798.0,Eastern,VA070
+1864-07-31,"Folck's Mill, MD - August 1",30.0,30.0,Eastern,MD008
+1864-07-31,"Utoy Creek, GA - August 5-7",225.0,400.0,Western,GA019
+1864-08-07,"Morefield, WVA - August 7",500.0,31.0,Eastern,WV013
+1864-08-14,"Guard Hill, VA - August 16",480.0,71.0,Eastern,VA117
+1864-08-14,"Second Deep Bottom, VA - August 1 3-20",1300.0,2900.0,Eastern,VA071
+1864-08-14,"Globe Tavern, VA - July 18-21",1600.0,4455.0,Eastern,VA072
+1864-08-14,"Lovejoy's Station, GA - August 20",240.0,237.0,Western,GA021
+1864-08-21,"Summit Pt/Cameron's Dt, WVA - Aug, 21",400.0,600.0,Eastern,WV014
+1864-08-21,"Memphis II, TN - August 21",62.0,480.0,Western,TN031
+1864-08-21,"Mobile Bay, AI . - August 2-23",1500.0,327.0,Western,AL003
+1864-08-21,Reams Station 11. VA - August 25,814.0,2742.0,Eastern,VA073
+1864-08-28,"Smithfield Crossing, WVA - Aug. 28-29",200.0,100.0,Eastern,WV015
+1864-08-28,"Jonesboro, GA - August 31-September 1",2000.0,1149.0,Western,GA022
+1864-08-28,"Berryville, VA - September 3-4",195.0,312.0,Eastern,VA118
+1864-09-18,"Opequon (3rd Winchester), VA - Sept. 19",3610.0,5020.0,Eastern,VA119
+1864-09-18,"Fisher's Hill, VA - September 21 -22",1235.0,528.0,Eastern,VA120
+1864-09-25,"Pilot Knob, MO - September 26-28",900.0,213.0,Trans-Mississippi,MO021
+1864-09-25,"Chaffin's Farm, VA - September 29-30",1700.0,3300.0,Eastern,VA075
+1864-09-25,"New Market Heights, VA - Sept. 29-30",50.0,850.0,Eastern,VA075
+1864-10-02,"Peebles' Farm, VA - October 2",1300.0,2869.0,Eastern,VA074
+1864-10-02,"Saltville I, VA - October 2",108.0,350.0,Western,VA076
+1864-10-02,"Allatoona, GA - October 5",897.0,706.0,Western,GA023
+1864-10-02,"Darbytown & New Market, VA - Oct 7",700.0,458.0,Eastern,VA077
+1864-10-09,"Tom's Brook, VA - October 9",350.0,57.0,Eastern,VA121
+1864-10-09,"Darbytown Road, VA - October 13",50.0,437.0,Eastern,VA078
+1864-10-09,"Dalton III, GA - October 13",0.0,751.0,Western,
+1864-10-09,"Glasgow, MO October 15",50.0,400.0,Trans-Mississippi,MO022
+1864-10-16,"Cedar Creek, VA October 19",2910.0,5672.0,Eastern,VA122
+1864-10-23,"Independence II, MO - October 22",140.0,,Trans-Mississippi,MO025
+1864-10-23,"Westport, MO October 23",1500.0,1500.0,Trans-Mississippi,MO027
+1864-10-23,"Mine Creek, KS - October 25",800.0,150.0,Trans-Mississippi,KS003
+1864-10-23,"Boydton Plank Road, VA - October 27",1300.0,1758.0,Eastern,VA079
+1864-10-23,"Decatur, AL - October 26-29",200.0,155.0,Western,AL004
+1864-10-23,"Fair Oaks & D'Town Rd, VA - Oct. 27-28",100.0,1603.0,Eastern,VA080
+1864-10-23,"Newtonia II, MO - October 28",24.0,26.0,Trans-Mississippi,MO029
+1864-11-06,"Bull's Gap, TN - November 11-14",100.0,324.0,Western,TN033
+1864-11-20,"Griswoldville, GA - November 22",650.0,62.0,Western,GA025
+1864-11-27,"Buck Head Creek, GA - November 28",600.0,46.0,Western,GA026
+1864-11-27,"Spring Hill, TN - November 29",500.0,350.0,Western,TN035
+1864-11-27,"Sand Creek, CO - November 29",150.0,48.0,Trans-Mississippi,CO001
+1864-11-27,"Franklin II, TN - November 30",7300.0,2633.0,Western,TN036
+1864-11-27,"Honey Hill, SC - November 30",50.0,746.0,Western,SC010
+1864-12-04,"Waynesborough, GA December 4",250.0,190.0,Western,GA027
+1864-12-04,"Murfreesboro II, TN December 5 7",214.0,208.0,Western,TN037
+1864-12-11,"Fort McAllister II, GA - December 13",230.0,134.0,Western,GA028
+1864-12-11,"Nashville, TN - December 15-16",6500.0,3061.0,Western,TN038
+1864-12-11,"Marion, VA - December 16-18",150.0,150.0,Western,VA081
+1864-12-18,"Fort Fisher I, NC - December 7-27",160.0,160.0,Eastern,NC014
+1865-01-08,"Fort Fisher II, NC - January 13-15",2533.0,1059.0,Eastern,NC015
+1865-01-29,"Rivers Bridge, SC - February 2-3",170.0,92.0,Western,SC011
+1865-02-05,"Hatcher's Run, VA - February 5-7",1000.0,1539.0,Eastern,VA083
+1865-02-19,"Wilmington, NC - February 12-22",575.0,575.0,Eastern,NC016
+1865-02-26,"Waynesboro, VA - March 2",1600.0,30.0,Eastern,VA123
+1865-03-05,"Natural Bridge, FL March 6",25.0,148.0,Lower Seaboard,FL006
+1865-03-05,"Wyse Fork, NC - March 7-10",1500.0,1300.0,Western,NC017
+1865-03-05,"Monroe's Cross Roads, NC - March 10",86.0,183.0,Western,NC018
+1865-03-12,"Averasboro, NC - March 16",865.0,682.0,Western,NC019
+1865-03-19,"Bentonville, NC - March 19-21",2606.0,1527.0,Western,NC020
+1865-03-19,"Fort Stedman, VA March 25",2681.0,1017.0,Eastern,VA084
+1865-03-26,"Lewis's Farm, VA - March 29",371.0,381.0,Eastern,VA085
+1865-03-26,"Dinwiddie Court House, VA - March 31",760.0,354.0,Eastern,VA086
+1865-03-26,"White Oak Road, VA - March 31",1235.0,1781.0,Eastern,VA087
+1865-03-26,"Five Forks, VA - April 1",3000.0,830.0,Eastern,VA088
+1865-04-02,"Petersburg III, VA April 2",4852.0,3894.0,Eastern,VA089
+1865-04-02,"Spanish Fort, AL - March 27-April 8",741.0,657.0,Western,AL005
+1865-04-02,"Selma, AL - April 2",2700.0,359.0,Western,AL007
+1865-04-02,"Sutherland Station, VA - April 2",600.0,366.0,Eastern,VA090
+1865-04-02,"Namozine Church, VA - April 3",,81.0,Eastern,VA124
+1865-04-02,"Amelia Springs, VA - April 5",,158.0,Eastern,VA091
+1865-04-02,"Sailor's Creek, VA - April 6",7700.0,1148.0,Eastern,VA093
+1865-04-02,"Rice's Station, VA - April 6",,66.0,Eastern,VA092
+1865-04-02,High Bridge. VA-April 6-7,100.0,847.0,Eastern,VA095
+1865-04-02,"Cumberland Church, VA - April 7",,571.0,Eastern,VA094
+1865-04-02,"Appomattox Station, VA April 8",1000.0,48.0,Eastern,VA096
+1865-04-09,"Fort Blakely, AL - April 2-9",3700.0,775.0,Western,AL006
+1865-04-09,"Appomattox Court House, VA - April 9",500.0,164.0,Eastern,VA097
+1865-05-07,Jefferson Davis captured - May 10,,,,
+1865-05-07,"Palmito Ranch, TX - May 12-13",118.0,30.0,Trans-Mississippi,TX005
+1865-04-23,Johnston surrenders - April 26,,,,
+1865-04-30,Taylor surrenders - May 4,,,,
+1865-05-21,Buckner surrenders - May 26,,,,
+1865-06-18,Stand Waite surrenders - June 23,,,,
+1861-04-07,attrition,0.0,0.0,,
+1861-04-14,attrition,0.0,0.0,,
+1861-04-21,attrition,0.0,0.0,,
+1861-04-28,attrition,0.0,0.0,,
+1861-05-05,attrition,0.0,0.0,,
+1861-05-12,attrition,0.0,0.0,,
+1861-05-19,attrition,0.0,0.0,,
+1861-05-26,attrition,0.0,0.0,,
+1861-06-02,attrition,0.0,0.0,,
+1861-06-09,attrition,0.0,0.0,,
+1861-06-16,attrition,0.0,0.0,,
+1861-06-23,attrition,926.0,1395.0,,
+1861-06-30,attrition,926.0,1395.0,,
+1861-07-07,attrition,926.0,1395.0,,
+1861-07-14,attrition,926.0,1395.0,,
+1861-07-21,attrition,926.0,1395.0,,
+1861-07-28,attrition,926.0,1395.0,,
+1861-08-04,attrition,926.0,1395.0,,
+1861-08-11,attrition,926.0,1395.0,,
+1861-08-18,attrition,926.0,1395.0,,
+1861-08-25,attrition,926.0,1395.0,,
+1861-09-01,attrition,926.0,1395.0,,
+1861-09-08,attrition,926.0,1395.0,,
+1861-09-15,attrition,926.0,1395.0,,
+1861-09-22,attrition,926.0,1395.0,,
+1861-09-29,attrition,926.0,1395.0,,
+1861-10-06,attrition,926.0,1395.0,,
+1861-10-13,attrition,926.0,1395.0,,
+1861-10-20,attrition,926.0,1395.0,,
+1861-10-27,attrition,926.0,1395.0,,
+1861-11-03,attrition,926.0,1395.0,,
+1861-11-10,attrition,926.0,1395.0,,
+1861-11-17,attrition,926.0,1395.0,,
+1861-11-24,attrition,926.0,1395.0,,
+1861-12-01,attrition,926.0,1395.0,,
+1861-12-08,attrition,926.0,1395.0,,
+1861-12-15,attrition,926.0,1395.0,,
+1861-12-22,attrition,1203.0,1814.0,,
+1861-12-29,attrition,1203.0,1814.0,,
+1862-01-05,attrition,1203.0,1814.0,,
+1862-01-12,attrition,1203.0,1814.0,,
+1862-01-19,attrition,1203.0,1814.0,,
+1862-01-26,attrition,1203.0,1814.0,,
+1862-02-02,attrition,1203.0,1814.0,,
+1862-02-09,attrition,1203.0,1814.0,,
+1862-02-16,attrition,1203.0,1814.0,,
+1862-02-23,attrition,1203.0,1814.0,,
+1862-03-02,attrition,1203.0,1814.0,,
+1862-03-09,attrition,1203.0,1814.0,,
+1862-03-16,attrition,1203.0,1814.0,,
+1862-03-23,attrition,926.0,1395.0,,
+1862-03-30,attrition,926.0,1395.0,,
+1862-04-06,attrition,926.0,1395.0,,
+1862-04-13,attrition,1338.0,1562.0,,
+1862-04-20,attrition,1338.0,1562.0,,
+1862-04-27,attrition,1338.0,1562.0,,
+1862-05-04,attrition,1338.0,1562.0,,
+1862-05-11,attrition,1338.0,1562.0,,
+1862-05-18,attrition,1338.0,1562.0,,
+1862-05-25,attrition,1338.0,1562.0,,
+1862-06-01,attrition,1338.0,1562.0,,
+1862-06-08,attrition,926.0,1395.0,,
+1862-06-15,attrition,926.0,1395.0,,
+1862-06-22,attrition,686.0,1034.0,,
+1862-06-29,attrition,686.0,1034.0,,
+1862-07-06,attrition,686.0,1034.0,,
+1862-07-13,attrition,686.0,1034.0,,
+1862-07-20,attrition,686.0,1034.0,,
+1862-07-27,attrition,686.0,1034.0,,
+1862-08-03,attrition,686.0,1034.0,,
+1862-08-10,attrition,686.0,1034.0,,
+1862-08-17,attrition,686.0,1034.0,,
+1862-08-24,attrition,686.0,1034.0,,
+1862-08-31,attrition,686.0,1034.0,,
+1862-09-07,attrition,686.0,1034.0,,
+1862-09-14,attrition,686.0,1034.0,,
+1862-09-21,attrition,686.0,1034.0,,
+1862-09-28,attrition,686.0,1034.0,,
+1862-10-05,attrition,686.0,1034.0,,
+1862-10-12,attrition,686.0,1034.0,,
+1862-10-19,attrition,686.0,1034.0,,
+1862-10-26,attrition,686.0,1034.0,,
+1862-11-02,attrition,686.0,1034.0,,
+1862-11-09,attrition,686.0,1034.0,,
+1862-11-16,attrition,686.0,1034.0,,
+1862-11-23,attrition,686.0,1034.0,,
+1862-11-30,attrition,686.0,1034.0,,
+1862-12-07,attrition,686.0,1034.0,,
+1862-12-14,attrition,686.0,1034.0,,
+1862-12-21,attrition,891.0,1344.0,,
+1862-12-28,attrition,891.0,1344.0,,
+1863-01-04,attrition,891.0,1344.0,,
+1863-01-11,attrition,891.0,1344.0,,
+1863-01-18,attrition,891.0,1344.0,,
+1863-01-25,attrition,891.0,1344.0,,
+1863-02-01,attrition,891.0,1344.0,,
+1863-02-08,attrition,891.0,1344.0,,
+1863-02-15,attrition,891.0,1344.0,,
+1863-02-22,attrition,891.0,1426.0,,
+1863-03-01,attrition,891.0,1426.0,,
+1863-03-08,attrition,891.0,1426.0,,
+1863-03-15,attrition,891.0,1426.0,,
+1863-03-22,attrition,686.0,1115.0,,
+1863-03-29,attrition,686.0,1115.0,,
+1863-04-05,attrition,686.0,1115.0,,
+1863-04-12,attrition,686.0,1115.0,,
+1863-04-19,attrition,686.0,1034.0,,
+1863-04-26,attrition,686.0,1034.0,,
+1863-05-03,attrition,686.0,1034.0,,
+1863-05-10,attrition,686.0,1034.0,,
+1863-05-17,attrition,686.0,1034.0,,
+1863-05-24,attrition,686.0,1034.0,,
+1863-05-31,attrition,686.0,1034.0,,
+1863-06-07,attrition,686.0,1034.0,,
+1863-06-14,attrition,686.0,1034.0,,
+1863-06-21,attrition,686.0,1034.0,,
+1863-06-28,attrition,686.0,1034.0,,
+1863-07-05,attrition,686.0,1034.0,,
+1863-07-12,attrition,686.0,1034.0,,
+1863-07-19,attrition,686.0,1034.0,,
+1863-07-26,attrition,686.0,1034.0,,
+1863-08-02,attrition,686.0,1034.0,,
+1863-08-09,attrition,686.0,1034.0,,
+1863-08-16,attrition,686.0,1034.0,,
+1863-08-23,attrition,686.0,1034.0,,
+1863-08-30,attrition,686.0,1034.0,,
+1863-09-06,attrition,686.0,1034.0,,
+1863-09-13,attrition,686.0,1034.0,,
+1863-09-20,attrition,686.0,1034.0,,
+1863-09-27,attrition,686.0,1034.0,,
+1863-10-04,attrition,686.0,1034.0,,
+1863-10-11,attrition,686.0,1034.0,,
+1863-10-18,attrition,686.0,1034.0,,
+1863-10-25,attrition,686.0,1034.0,,
+1863-11-01,attrition,686.0,1034.0,,
+1863-11-08,attrition,686.0,1034.0,,
+1863-11-15,attrition,686.0,1034.0,,
+1863-11-22,attrition,686.0,1034.0,,
+1863-11-29,attrition,686.0,1034.0,,
+1863-12-06,attrition,686.0,1034.0,,
+1863-12-13,attrition,686.0,1034.0,,
+1863-12-20,attrition,891.0,1344.0,,
+1863-12-27,attrition,891.0,1344.0,,
+1864-01-03,attrition,891.0,1344.0,,
+1864-01-10,attrition,891.0,1344.0,,
+1864-01-17,attrition,891.0,1344.0,,
+1864-01-24,attrition,891.0,1344.0,,
+1864-01-31,attrition,891.0,1344.0,,
+1864-02-07,attrition,891.0,1344.0,,
+1864-02-14,attrition,891.0,1344.0,,
+1864-02-21,attrition,891.0,1344.0,,
+1864-02-28,attrition,891.0,1344.0,,
+1864-03-06,attrition,891.0,1344.0,,
+1864-03-13,attrition,891.0,1344.0,,
+1864-03-20,attrition,686.0,1034.0,,
+1864-03-27,attrition,686.0,1034.0,,
+1864-04-03,attrition,686.0,1034.0,,
+1864-04-10,attrition,686.0,1034.0,,
+1864-04-17,attrition,685.0,1034.0,,
+1864-04-24,attrition,685.0,1034.0,,
+1864-05-01,attrition,685.0,1034.0,,
+1864-05-08,attrition,685.0,1034.0,,
+1864-05-15,attrition,685.0,1034.0,,
+1864-05-22,attrition,685.0,1034.0,,
+1864-05-29,attrition,685.0,1034.0,,
+1864-06-05,attrition,685.0,1034.0,,
+1864-06-12,attrition,685.0,1034.0,,
+1864-06-19,attrition,685.0,1034.0,,
+1864-06-26,attrition,685.0,1034.0,,
+1864-07-03,attrition,685.0,1034.0,,
+1864-07-10,attrition,685.0,1034.0,,
+1864-07-17,attrition,685.0,1034.0,,
+1864-07-24,attrition,685.0,1033.0,,
+1864-07-31,attrition,685.0,1033.0,,
+1864-08-07,attrition,685.0,1033.0,,
+1864-08-14,attrition,685.0,1033.0,,
+1864-08-21,attrition,685.0,1033.0,,
+1864-08-28,attrition,685.0,1033.0,,
+1864-09-04,attrition,685.0,1033.0,,
+1864-09-11,attrition,685.0,1033.0,,
+1864-09-18,attrition,685.0,1033.0,,
+1864-09-25,attrition,685.0,1033.0,,
+1864-10-02,attrition,685.0,1033.0,,
+1864-10-09,attrition,685.0,1033.0,,
+1864-10-16,attrition,685.0,1033.0,,
+1864-10-23,attrition,685.0,1033.0,,
+1864-10-30,attrition,685.0,1033.0,,
+1864-11-06,attrition,685.0,1033.0,,
+1864-11-13,attrition,685.0,1033.0,,
+1864-11-20,attrition,685.0,1033.0,,
+1864-11-27,attrition,685.0,1033.0,,
+1864-12-04,attrition,685.0,1033.0,,
+1864-12-11,attrition,685.0,1033.0,,
+1864-12-18,attrition,685.0,1033.0,,
+1864-12-25,attrition,890.0,1343.0,,
+1865-01-01,attrition,890.0,1343.0,,
+1865-01-08,attrition,890.0,1343.0,,
+1865-01-15,attrition,890.0,1343.0,,
+1865-01-22,attrition,890.0,1343.0,,
+1865-01-29,attrition,890.0,1343.0,,
+1865-02-05,attrition,890.0,1343.0,,
+1865-02-12,attrition,890.0,1343.0,,
+1865-02-19,attrition,890.0,1343.0,,
+1865-02-26,attrition,890.0,1343.0,,
+1865-03-05,attrition,890.0,1343.0,,
+1865-03-12,attrition,890.0,1343.0,,
+1865-03-19,attrition,890.0,1343.0,,
+1865-03-26,attrition,685.0,1033.0,,
+1865-04-02,attrition,685.0,1033.0,,
+1865-04-09,attrition,685.0,1033.0,,
+1865-04-16,attrition,685.0,1033.0,,
+1865-04-23,attrition,685.0,1033.0,,
+1865-04-30,attrition,685.0,1033.0,,
+1865-05-07,attrition,685.0,1033.0,,
+1865-05-07,attrition,0.0,0.0,,
+1865-05-14,attrition,0.0,0.0,,
+1865-05-21,attrition,0.0,0.0,,
+1865-05-28,attrition,0.0,0.0,,
+1865-06-04,attrition,0.0,0.0,,
+1865-06-11,attrition,0.0,0.0,,
+1865-06-18,attrition,0.0,0.0,,

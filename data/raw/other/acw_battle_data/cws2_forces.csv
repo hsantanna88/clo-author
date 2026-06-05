@@ -1,0 +1,767 @@
+battle,belligerent,description,strength
+AL001,Confederate,"Cavalry Corps, Department of Alabama, Mississippi, and East Louisiana",
+AL001,US,"Elements of the 51st Indiana Infantry, 73rd Indiana Infantry, 3rd Ohio Infantry, 80th Illinois Infantry, and the 1st Middle Tennessee Cavalry (5th Tennessee Volunteer Cavalry Regiment)",
+AL002,Confederate,"Cavalry Corps, Department of Alabama, Mississippi, and East Louisiana",
+AL002,US,"110th USCT, 102th Ohio Infantry (detachment), 18th Michigan Infantry (detachment), 111th USCT, 4th Cavalry Division",
+AL003,Confederate,"Buchanan’s Flotilla (CSS Tennessee, gunboats Selma, Morgan and Gaines), Fort Morgan garrison, Fort Gaines garrison, and Fort Powell garrison",
+AL003,US,West Gulf Blockading Squadron and U.S. Army forces near Mobile,
+AL004,Confederate,Army of Tennessee,
+AL004,US,"Garrison at Decatur; US Army Gunboat Stone River, USS General Thomas; detachments of 102 Ohio Infantry, 18th Michigan Infantry, 13th Wisconsin Infantry, 14th US Colored Infantry, 73rd Indiana Infantry, 68th Indiana Infantry, and 13th Indiana Cavalry",
+AL005,Confederate,Spanish Fort garrison,
+AL005,US,Army of West Mississippi,
+AL006,Confederate,"Fort Blakely Garrison, CSS Huntsville, CSS Nashville, CSS Morgan",
+AL006,US,Army of West Mississippi,
+AL007,Confederate,"Cavalry Corps, Department of Alabama, Mississippi, and East Louisiana; General Daniel W. Adams' state reserves; citizens of Selma who volunteered to man the defenses",
+AL007,US,"Cavalry Corps, Military Division of the Mississippi",
+AR001,Confederate,Army of the West,
+AR001,US,Army of the Southwest,
+AR002,Confederate,Saint Chares batteries,
+AR002,US,"Flotilla of the Mississippi River Squadron (USS Mound City, USS Saint Louis, USS Lexington, USS Conestoga, two transports, and a tug) and the 46th Indiana Infantry",
+AR003,Confederate,"12th, 16th and 17th Texas Cavalry Regiments",
+AR003,US,"Portions of the 1st and 2nd Brigades, 1st Division, Army of the Southwest",
+AR004,Confederate,Marmaduke’s Cavalry Division,
+AR004,US,"1st Division, Army of the Frontier",
+AR005,Confederate,Army of the Trans-Mississippi,
+AR005,US,Army of the Frontier,
+AR006,Confederate,Fort Hindman garrison,
+AR006,US,Army of the Mississippi and a flotilla of the Mississippi River Squadron,
+AR007,Confederate,Marmaduke’s Cavalry Division,
+AR007,US,"Second Division, Army of the Frontier",
+AR008,Confederate,District of Arkansas,
+AR008,US,"District of Eastern Arkansas, Timberclad gunboat USS Tyler",
+AR009,Confederate,Cabell's Brigade,
+AR009,US,"2nd Kansas Cavalry, 6th Missouri Cavalry, two sections of Rabb’s 2nd Indiana Battery, and two mountain howitzers",
+AR010,Confederate,District of Arkansas,
+AR010,US,"Cavalry Division, Army of Arkansas",
+AR011,Confederate,Marmaduke’s Cavalry Division,
+AR011,US,"5th Kansas Cavalry, 1st Indiana Cavalry, one company of Missouri State Militia, and 300 freedmen volunteers",
+AR012,Confederate,Marmaduke’s Cavalry Division,
+AR012,US,"Third Division, VII Corps, Department of Arkansas",
+AR013,Confederate,District of Arkansas,
+AR013,US,"Third Division, VII Corps, Department of Arkansas",
+AR014,Confederate,Marmaduke's Cavalry Division and Maxey's Cavalry Division,
+AR014,US,"1st Kansas Volunteer Infantry (Colored) and the 18th Iowa Infantry; 6th Kansas, 2nd Kansas, and 14th Kansas Cavalry regiments; and two guns of the 2nd Indiana Battery",
+AR015,Confederate,Shelby’s Division and Cabell’s Division,
+AR015,US,"43rd Indiana, 36th Iowa, and 77th Ohio Infantry; 1st Indiana, 7th Missouri, and 1st Iowa Cavalry; two sections of the 2nd Missouri Light Artillery",
+AR016,Confederate,"Walker's Division, the Arkansas Division, the Missouri Division, and Marmaduke's Cavalry Division, Department of Arkansas",
+AR016,US,"Third Division and elements of Thayer’s Frontier Division, Army of Arkansas",
+AR017,Confederate,Greene's Brigade,
+AR017,US,"1st and 3rd Brigades, 1st Division, XVI Corps",
+AR018,Confederate,Marmaduke’s Cavalry Division and Dobbins’ Arkansas Regiment,
+AR018,US,"1st Cavalry Division, Department of the Missouri, Arkansas Expedition",
+CO001,Native American,500 Cheyenne and a few Arapaho (mostly women and children),500
+CO001,US,Chivington’s Brigade (approximately 700 men),700
+DC001,Confederate,"Morgan’s Cavalry Division, 1,800",
+DC001,US,"The District of Columbia Legion, 400",
+FL001,Confederate,Santa Rosa Island Expedition,
+FL001,US,Fort Pickens Garrison,
+FL002,Confederate,Osceola Rangers,
+FL002,US,One Federal gunboat,
+FL003,Confederate,Saint John's Bluff Garrison,
+FL003,US,"Saint John's River Expedition, Saint John's River Flotilla, South Atlantic Blockading Squadron",
+FL004,Confederate,"Company A, 2nd Florida Infantry Battalion, Florida Volunteers",
+FL004,US,USS Tahoma and the USS Adela; Navy landing party,
+FL005,Confederate,District of East Florida,
+FL005,US,District of Florida,
+FL006,Confederate,"Kilcrease’s Artillery, Dunham’s Battery, Abell's Battery, 5th Florida Cavalry, 1st Florida Militia, Barwick’s Company Reserves, Hodges’ Company Reserves, Company A Milton Light Artillery, Companies A, B, and F - Florida Reserves",
+FL006,US,"2nd and 99th United States Colored Troops, battalion of the 2nd Florida U.S. Cavalry, two U.S. Navy boat howitzers",
+GA001,Confederate,Fort Pulaski garrison,
+GA001,US,Port Royal Expeditionary Force,
+GA002,Confederate,Fort McAllister garrison,
+GA002,US,Flotilla from the South Atlantic Blockading Squadron,
+GA003,Confederate,"Hindman's Division, Army of Tennessee",
+GA003,US,"1st and 2nd Divisions, XIV Army Corps, Army of the Cumberland",
+GA004,Confederate,Army of Tennessee,
+GA004,US,Army of the Cumberland,
+GA005,Confederate,"Cleburne's Division, Hardee's Corps, Army of Tennessee",
+GA005,US,"XX Army Corps, Army of the Cumberland",
+GA006,Confederate,Army of Tennessee,
+GA006,US,Army of the Cumberland,
+GA007,Confederate,Army of Tennessee,
+GA007,US,Military Division of the Mississippi,
+GA008,Confederate,Army of Tennessee,
+GA008,US,Military Division of the Mississippi,
+GA009,Confederate,"Cheatham’s Division, Hardee’s Corps, Army of Tennessee",
+GA009,US,"2nd and 3rd Divisions, IV Corps, Army of the Cumberland",
+GA010,Confederate,Army of Tennessee,
+GA010,US,"XX Corps, Army of the Cumberland",
+GA011,Confederate,"Hardee's Corps, Army of Tennessee",
+GA011,US,,
+GA012,Confederate,"Cleburne's Division and Kelly's Cavalry Division, Army of Tennessee",
+GA012,US,"IV Corps, Military Division of the Mississippi",
+GA013,Confederate,Army of Tennessee,
+GA013,US,Military Division of the Mississippi,
+GA014,Confederate,"Hood's Corps, Army of Tennessee",
+GA014,US,"XX and XXIII Army Corps, Military Division of the Mississippi",
+GA015,Confederate,Army of Tennessee,
+GA015,US,Military Division of the Mississippi,
+GA016,Confederate,Army of Tennessee,
+GA016,US,"IV and XIV Corps, Army of the Cumberland",
+GA017,Confederate,Army of Tennessee,
+GA017,US,"Army of the Tennessee, Military Division of the Mississippi",
+GA018,Confederate,"Lee and Stewart's Corps, Army of Tennessee",
+GA018,US,Army of the Tennessee,
+GA019,Confederate,"Bate's Division, Lee's Corps, Army of Tennessee",
+GA019,US,"XXIII and XIV Corps, Military Division of the Mississippi",
+GA020,Confederate,Wheeler's Cavalry Corps,
+GA020,US,District of Etowah,
+GA021,Confederate,"Jackson's Cavalry Division and Reynold’s Arkansas Brigade, Army of Tennessee",
+GA021,US,"2nd and 3rd Cavalry Divisions, Army of the Cumberland",
+GA022,Confederate,"Hardee and Lee's Corps, Army of Tennessee",
+GA022,US,Military Division of the Mississippi,
+GA023,Confederate,"French's Division, Stewart's Corps, Army of Tennessee",
+GA023,US,"Detachments of the 3rd and 4th Divisions, XV Corps, Army of the Tennessee",
+GA025,Confederate,"Wheeler's Cavalry Corps, Department of South Carolina Georgia and Florida; and the 1st Division Georgia Militia",
+GA025,US,"2nd Brigade, 1st Division, XV Army Corps",
+GA026,Confederate,"Wheeler's Cavalry Corps, Department of South Carolina, Georgia and Florida",
+GA026,US,"3rd Cavalry Division, Military Division of Mississippi",
+GA027,Confederate,"Wheeler's Cavalry Corps, Army of Tennessee",
+GA027,US,"3rd Cavalry Division, Military Division of Mississippi",
+GA028,Confederate,Fort McAllister garrison,
+GA028,US,"2nd Division, XV Army Corps",
+ID001,Native American,Shoshone Indians,
+ID001,US,District of Utah,
+IN001,Confederate,"Morgan’s Cavalry Division, 1,800",1800
+IN001,US,"Indiana Legion, 400",400
+KS001,Confederate,Quantrill’s Raiders,
+KS001,US,"None, civilian forces only",
+KS002,Confederate,Quantrill’s Raiders,
+KS002,US,"Fort Baxter garrision: one company of the 2nd Kansas United States Colored Troops, portions of C Company and D Company,3rd Wisconsin Cavalry; Blunt's Escort: Company I, 3rd Wisconsin Cavalry, Company A, 14th Kansas Cavalry",
+KS003,Confederate,"Fagan and Marmaduke's Divisions, Army of Missouri, Shelby's Division, Army of Missouri (Little Osage River)",
+KS003,US,"The 1st and 4th Brigades, 2nd Provisional Cavalry Division, Army of the Border, 2nd Brigade, 1st Provisional Cavalry Division, Army of the Border (Mound City and Fort Lincoln)",
+KS004,Confederate,"Fagan’s and Marmaduke’s Divisions, Army of Missouri",
+KS004,US,"2nd Provisional Cavalry Division, Army of the Border",
+KY001,Confederate,approximately 800 men commanded by Col. Joel A. Battle,800
+KY001,US,Home Guard (approximately 300 men),300
+KY002,Confederate,Zollicoffer’s Brigade,
+KY002,US,Camp Wildcat Garrison and Schoepf’s Brigade,
+KY003,Confederate,"9 infantry companies, 2 cavalry companies",
+KY003,US,Detachments from 12 Ohio and Kentucky units,
+KY004,Confederate,"Terry’s Texas Rangers, 7th Texas Cavalry, 1st Arkansas Battalion",
+KY004,US,32nd Indiana Volunteer Infantry Regiment,
+KY005,Confederate,Army of Southwestern Virginia,
+KY005,US,"18th Brigade, Army of the Ohio",
+KY006,Confederate,"1st and 2nd Brigades, Crittenden’s Division",
+KY006,US,"Brig. Gen. Albin Schoepf’s Brigade, 1st Division, Army of the Ohio",
+KY007,Confederate,Army of Kentucky,
+KY007,US,"1st and 2nd Brigades, Army of Kentucky",
+KY008,Confederate,Army of the Mississippi,
+KY008,US,Union garrison,
+KY009,Confederate,Army of the Mississippi,
+KY009,US,Army of the Ohio,
+KY010,Confederate,"3rd, 7th, 8th, and 12th Regiments, Kentucky Cavalry",
+KY010,US,"Union garrison (8th Colored Heavy Artillery, 16th Kentucky Cavalry, and Companies C, H, and K, 122nd Illinois Infantry) and Gunboats: USS Peosta – Tinclad Side Wheel Steamer, USS Paw Paw (Gunboat #31) – Tinclad Center Wheel Steamer",
+KY011,Confederate,Morgan’s Division,
+KY011,US,"168th Regiment Ohio Volunteer Infantry, 171st Ohio National Guard, Kentucky Harrison County Home Guards",
+LA001,Confederate,Garrisons of Forts Jackson and St. Philip Confederate River Defense Fleet,
+LA001,US,West Gulf Blockading Squadron,
+LA002,Confederate,New Orleans garrison,
+LA002,US,West Gulf Blockading Squadron and the Department of the Gulf,
+LA003,Confederate,Breckinridge’s Division; ram CSS Arkansas,
+LA003,US,Baton Rouge Garrison; Division of Flotilla in Western Waters,
+LA004,Confederate,Partisan rangers,
+LA004,US,West Gulf Blockading Squadron,
+LA005,Confederate,"18th Louisiana Infantry Regiment, Crescent Regiment, Ralston's Battery, 33rd Louisiana Infantry Regiment, Terre Bonne Regiment Louisiana Militia, Semmes's Battery, and 2nd Louisiana Cavalry Regiment",
+LA005,US,"Department of the Gulf, Reserve Brigade",
+LA006,Confederate,Army of Western Louisiana,
+LA006,US,"XIX Army Corps, Department of the Gulf and the USS Clifton",
+LA007,Confederate,Army of Western Louisiana,
+LA007,US,"4th Division, XIX Corps, Department of the Gulf, and Naval Forces in Berwick Bay",
+LA008,Confederate,Army of Western Louisiana,
+LA008,US,"XIX Corps, Department of the Gulf",
+LA009,Confederate,Elements of the Port Hudson Garrison,
+LA009,US,"1st Division, XIX Corps, Department of the Gulf",
+LA010,Confederate,Port Hudson garrison,
+LA010,US,"XIX Corps, Department of the Gulf and the Flotilla of the West Gulf Blockading Squadron",
+LA011,Confederate,Walker's Texas Division,
+LA011,US,"The African Brigade (8th, 9th, 11th, and 13th Louisiana Infantry of African Descent, and the 1st Mississippi Infantry of African Descent), the 23rd Iowa Infantry, two companies of the 10th Illinois Cavalry, and the USS Choctaw and the USS Lexington",
+LA012,Confederate,"2nd Cavalry Brigade, District of Western Louisiana",
+LA012,US,"Detachments of the 23rd Connecticut, 176th New York, 26th & 42nd Massachusetts, and 26th Maine Infantry Regiments, detachments of Captain Blober's Cavalry, and the 21st Indiana Heavy Artillery and 25th New York Light Artillery",
+LA013,Confederate,Detachments of Green's and Moutons's Texas Brigades,
+LA013,US,"Fort Butler garrison and the USS Princess Royal, USS Winona, and USS Kineo",
+LA014,Confederate,"12th and 19th Texas Cavalry Regiments, 15th Louisiana Cavalry Battalion, Cameron’s Louisiana Battery, and Ralston’s Mississippi Battery",
+LA014,US,"Brigade of 1st Arkansas Volunteers (African Descent) and 10th Louisiana Volunteers (African Descent), and the Mississippi Marine Brigade",
+LA015,Confederate,Major's Brigade and Green's Texas Brigade,
+LA015,US,"1st Brigade, 2nd Division and the 3rd Brigade, 3rd Division, XIX Army Corps",
+LA016,Confederate,Confederate Forces on the Atchafalaya,
+LA016,US,"Detachments of the 19th Iowa, 26th Indiana, and 37th Illinois Infantry Regiments, detachments of the 6th Missouri and 2nd and 36th Illinois Cavalry Regiments, and a section of Battery E, 1st Missouri Light Artillery",
+LA017,Confederate,Fort DeRussy garrison,
+LA017,US,"Detachments of the XVI and XVII Corps, USS Eastport",
+LA018,Confederate,Department of West Louisiana,
+LA018,US,Red River Expeditionary Force,
+LA019,Confederate,Department of West Louisiana,
+LA019,US,Red River Expeditionary Force,
+LA020,Confederate,Green’s Cavalry Division,
+LA020,US,"Provisional Division, XVII Army Corps, USS Osage, USS Lexington, and Army transports Vivian, Black Hawk, Meteor, Clara Bell, Rob Roy, Hastings, and Emerald",
+LA021,Confederate,Bee's Cavalry Division,
+LA021,US,Red River Expeditionary Force,
+LA022,Confederate,Department of West Louisiana,
+LA022,US,Red River Expeditionary Force,
+LA023,Confederate,Department of West Louisiana,
+LA023,US,Red River Expeditionary Force,
+MD001,Confederate,The Valley District,
+MD001,US,Garrison of Hancock,
+MD002,Confederate,Daniel Harvey Hill’s Division and Howell Cobb’s Brigade,
+MD002,US,"1st, 9th, and 6th Corps Army of the Potomac",
+MD003,Confederate,"Army of Northern Virginia, 40,000",40000
+MD003,US,"Army of the Potomac, 60,000",60000
+MD004,Confederate,Army of Northern Virginia,
+MD004,US,Army of the Potomac,
+MD006,Confederate,Stuart’s Cavalry Division,
+MD006,US,First and Third U.S. Cavalry Divisions,
+MD007,Confederate,2nd Corps Army of Northern Virginia,
+MD007,US,"Home Guards and Rickett’s (3rd) Division, VI Army Corps",
+MD008,Confederate,McCausland’s and Johnson’s Cavalry Brigades,
+MD008,US,Cumberland Garrison,
+MN001,Native American,Santee Sioux,
+MN001,US,"Company B and Company C (detachment), Fifth Minnesota Infantry, Renville Rangers, refugee civilians",
+MN002,Native American,Santee Sioux,
+MN002,US,"6th Minnesota Volunteer Infantry, other volunteers",
+MO001,Confederate,Missouri State Guard,
+MO001,US,"Battery F, 2nd US Artillery, Company B, 2nd US Infantry, Two Recruit Companies, 4th US Artillery, 1st and 2nd Regiments Missouri Volunteers",
+MO002,Confederate,2nd Division Missouri State Guard,
+MO002,US,Second Brigade Missouri Volunteers,
+MO003,Confederate,4th Division Missouri State Guard,
+MO003,US,"500 men of the 3rd Iowa Infantry, 70 Missouri Home Guards, and a 6–pound field piece from Battery E, 2nd Illinois Light Artillery (Schwartz’s Missouri Battery)",570
+MO004,Confederate,Western Army; Missouri State Guard,
+MO004,US,Army of the West,
+MO005,Confederate,Missouri State Guard,
+MO005,US,Kansas Brigade,
+MO006,Confederate,Missouri State Guard,
+MO006,US,Lexington Garrison,
+MO007,Confederate,Missouri State Guard,
+MO007,US,"17th, 20th, 21st, and 33rd Illinois Volunteer Infantry, 11th Missouri Infantry, five companies of the 1st Indiana Cavalry, Stewart’s Independent Cavalry Company, Benton Hussars Cavalry Battalion, White’s section of Battery B, 1st Illinois Light Artillery, Battery A, 1st Missouri Light Artillery",
+MO008,Confederate,Missouri State Guard,
+MO008,US,"Three companies of cavalry of Fremont’s Body Guard, two companies of the Prairie Scout Cavalry, and the Irish Dragoon’s cavalry company",
+MO009,Confederate,"First Division, Western Department",
+MO009,US,District of Southwest Missouri; USS Lexington and USS Tyler,
+MO010,Confederate,"Dorsey’s Battalion, Missouri Cavalry",
+MO010,US,Five Companies of the 3rd Missouri Cavalry and five companies of Birge’s Western Sharpshooters,
+MO011,Confederate,5th Regiment of the Missouri State Guard,
+MO011,US,"Four companies of the 1st and three companies of the 2nd Missouri Cavalry, one company of the 4th Ohio Cavalry, and the 1st Battalion of the 1st Iowa Cavalry",
+MO012,Confederate,Garrisons of New Madrid and Island No. 10; Confederate States Navy,
+MO012,US,Army of the Mississippi and the Mississippi River Squadron,
+MO013,Confederate,1st and 2nd Northeast Missouri Cavalry; Confederate Irregulars,
+MO013,US,"Kirksville: Detachments of the 1st, 2nd, 9th, and 11th Missouri State Militia Cavalry, Rice's Independent Company, 3rd Iowa Cavalry and a section of the 3rd Indiana Light Artillery. Painter's Creek: Detachments of the 1st and 6th Missouri State Militia Cavalry, the 7th Missouri Cavalry, and the 33rd Enrolled Missouri Militia Infantry. Walnut Creek and Seesford: Detachments of the 1st, 5th, and 6th Missouri State Militia Cavalry, the 7th Missouri Cavalry, and the 33rd Enrolled Missouri Militia Infantry",
+MO014,Confederate,"Confederate Partisans and recruits under Hughes, Hays and Quantrill",
+MO014,US,Independence Garrison,
+MO015,Confederate,Confederate recruits,
+MO015,US,"Five companies of the 7th Missouri Cavalry, a section of the 3rd Indiana Independent Light Artillery, and three companies of the 6th Cavalry, two companies of the 8th Cavalry, three companies of the 2nd Battalion, and one company of the 7th Cavalry, Missouri State Militia",
+MO016,Confederate,Cooper’s Division,
+MO016,US,"Division, Army of Kansas",
+MO017,Confederate,"3rd, 4th, and 8th Missouri Cavalry, Marmaduke’s Division, Army of the West",
+MO017,US,"Company C and M, 10th Illinois Cavalry and Company H, Missouri Home Guard Militia",
+MO018,Confederate,"4th Division, First Corps, Trans-Mississippi Department",
+MO018,US,"Southwestern District of Missouri, Springfield Garrison",
+MO019,Confederate,"4th Division, First Corps, TransMississippi Department",
+MO019,US,"Elements of the 3rd Iowa Cavalry, 21st Iowa Infantry, 99th Illinois Infantry, 3rd Missouri Cavalry, and a section of Battery L, 2nd Missouri Light Artillery",
+MO020,Confederate,"4th Division, First Corps, TransMississippi Department",
+MO020,US,Cape Girardeau Garrison,
+MO021,Confederate,Army of Missouri,
+MO021,US,"Detachment from the 14th Iowa Infantry; Garrison consisting of Battery H, 2nd Missouri Light Artillery and companies from the 47th Missouri Infantry, 50th Missouri Infantry, 1st Missouri State Militia Infantry, 2nd Missouri State Militia Cavalry, and 3rd Missouri State Militia Cavalry",
+MO022,Confederate,"Marmaduke’s Brigade, Marmaduke’s Division, and Jackman’s Brigade and Collins’ Missouri Battery, Shelby’s Division, Army of Missouri",
+MO022,US,"Garrison consisting of parts of the 43rd Missouri Infantry, 4th Provisional Regiment Enrolled Missouri Militia, 9th Cavalry Missouri State Militia, 13th Missouri Cavalry, and two companies of citizen militia",
+MO023,Confederate,Army of Missouri,
+MO023,US,"1st and 2nd Brigades, Provisional Cavalry Division, Army of the Border",
+MO024,Confederate,"Marmaduke’s Division and Shelby’s Division, Army of Missouri",
+MO024,US,"11th Kansas Cavalry; 1st and 4th Brigades, 1st Division [Provisional Cavalry], Army of the Border",
+MO025,Confederate,"Cabell’s Brigade and Slemon’s Brigade, Fagan’s Division, Army of Missouri",
+MO025,US,"Provisional Cavalry Division, Department of Missouri",
+MO026,Confederate,"Shelby’s Division, Army of Missouri",
+MO026,US,"1st Cavalry Brigade, Army of the Border; 2nd Brigade, Army of the Border",
+MO027,Confederate,Army of Missouri,
+MO027,US,Army of the Border,
+MO028,Confederate,"Shelby’s Division, Army of Missouri",
+MO028,US,"2nd Brigade and 4th Brigade, Provisional Cavalry Division, Department of the Missouri",
+MO029,Confederate,"Shelby’s Division, Army of Missouri",
+MO029,US,"Portions of Provisional Cavalry Division, Army of the Border and 3rd Brigade, Provisional Cavalry Division, Department of Missouri",
+MS001,Confederate,"1st Division, Army of the West",
+MS001,US,"2nd Division and Cavalry Division, Army of the Mississippi",
+MS002,Confederate,Army of the West Tennessee,
+MS002,US,Army of the Mississippi,
+MS003,Confederate,Department of Mississippi and East Louisiana,
+MS003,US,"Right Wing, Army of the Tennessee and Mississippi River Squadron",
+MS004,Confederate,Grand Gulf Garrison,
+MS004,US,"Mississippi Squadron and Companies A, B, D, F, G, H, and K of the 58th Ohio Volunteer Infantry Regiment",
+MS005,Confederate,Hebert’s Brigade,
+MS005,US,"2nd Division, XV Corps, Army of the Tennessee and a flotilla of 8 gunboats and 10 transports, Mississippi River Squadron",
+MS006,Confederate,one detached division,
+MS006,US,"XIII Army Corps, 3rd Division, XVII Corps",
+MS007,Confederate,Gregg’s Task Force,
+MS007,US,"XVII Army Corps, Army of the Tennessee",
+MS008,Confederate,Jackson Garrison,
+MS008,US,"XV and XVII Army Corps, Army of the Tennessee",
+MS009,Confederate,Army of Vicksburg,
+MS009,US,Army of the Tennessee,
+MS010,Confederate,Bowen’s Division and Vaughn’s East Tennessee Brigade,
+MS010,US,"XIII Army Corps, Army of the Tennessee",
+MS011,Confederate,Army of Vicksburg,
+MS011,US,"Army of the Tennessee, Mississippi River Squadron",
+MS012,Confederate,"Department of Alabama, Mississippi, and East Louisiana",
+MS012,US,Department of the Tennessee,
+MS013,Confederate,Forrest’s Cavalry Corps,
+MS013,US,Meridian Mississippi Expedition Cavalry,
+MS014,Confederate,Forrest’s Cavalry Corps,
+MS014,US,Mississippi Expedition,
+MS015,Confederate,"Department of Alabama, Mississippi, and East Louisiana",
+MS015,US,"1st and 3rd Infantry Divisions and Cavalry Division, XVI Army Corps, and 1st Brigade, U.S. Colored Troops",
+MS016,Confederate,"Army of the Mississippi, Department No. 2",
+MS016,US,Department of the Mississippi,
+NC001,Confederate,Hatteras Island garrison,
+NC001,US,"9th (220 men) and 20th New York (500 men) regiments, 60 of the 2nd United States Artillery, 100 Coast Guard guardians, 55 Marines, and the Atlantic Blockading Squadron",935
+NC002,Confederate,Wise’s Legion,
+NC002,US,Department of North Carolina and the North Atlantic Blockading Squadron,
+NC003,Confederate,"1st Division, Department of North Carolina",
+NC003,US,Department North Carolina and the Naval Forces in Pamlico Sound,
+NC004,Confederate,Fort Macon garrison,
+NC004,US,"3rd Division, Department of North Carolina, and Naval forces in North Carolina",
+NC005,Confederate,"3rd Georgia Infantry Regiment, Colonel Ferebee’s North Carolina Militia, McComas’s Battery, and Captain Gillett’s Southhampton Cavalry Company",
+NC005,US,"2nd and 4th Brigades, 2nd Division, Department of North Carolina",
+NC006,Confederate,44th North Carolina Infantry,
+NC006,US,"24th Massachusetts Volunteer Infantry, Captain George F. Jocknick’s company of the 3rd New York Cavalry and two pieces of artillery",
+NC007,Confederate,Evans’s Brigade,
+NC007,US,"Department of North Carolina, 1st Division, and USN Neuse River Flotilla",
+NC008,Confederate,Robertson’s Brigade,
+NC008,US,"Five companies of the 3rd New York Cavalry, a section of artillery from the 23rd New York Independent Battery, Colonel Thomas J. C. Amory’s Brigade, and Thomas G. Stevenson’s Brigade",
+NC009,Confederate,Clingman’s Brigade,
+NC009,US,"Department of North Carolina, 1st Division",
+NC010,Confederate,Hill’s Division,
+NC010,US,"1st Division, XVIII Corps, and the Naval forces in the Sounds of North Carolina",
+NC011,Confederate,Hill’s Division,
+NC011,US,"The Washington garrison, the relief column of the XVIII Corps, and the Naval Forces in the Pamlico Sound",
+NC012,Confederate,Hoke’s Division,
+NC012,US,Plymouth garrison,
+NC013,Confederate,"the Ironclad Ram CSS Albemarle, transport steamer CSS Cotton Plant, and the Erie Canal steamer CSS Bombshell",
+NC013,US,Albemarle Sound Naval Squadron,
+NC014,Confederate,Hoke’s Division and the Fort Fisher garrison,
+NC014,US,"Expeditionary Corps, Army of the James, and the North Atlantic Blockading Squadron",
+NC015,Confederate,Hoke’s Division and the Fort Fisher garrison,
+NC015,US,"Expeditionary Corps, Army of the James, and the North Atlantic Blockading Squadron",
+NC016,Confederate,Major General Robert F. Hoke’s Division and Brigadier General Johnson Hagood’s Brigade,
+NC016,US,"Department of North Carolina, Army of the Ohio, and the North Atlantic Blockading Squadron",
+NC017,Confederate,"Major Generals Robert F. Hoke and Daniel H. Hill’s Division’s, Department of North Carolina",
+NC017,US,Major General Jacob D. Cox’s Provisional Corps,
+NC018,Confederate,Hampton’s Cavalry Command (Wheeler’s Cavalry Corps and Butler’s Division),
+NC018,US,3rd Cavalry Division,
+NC019,Confederate,"Hardee’s Corps, Wheeler’s Cavalry Corps",
+NC019,US,"XX and XIV Corps, Army of Georgia",
+NC020,Confederate,"The Army of Tennessee, Stewart's Corps, the Department of North Carolina, and the Department of South Carolina, Georgia and Florida",
+NC020,US,The Army of Georgia and the XV and XVII Corps,
+ND001,Native American,Santee Sioux (Northern Sisseton and Wahpekute) and Teton Sioux (Hunkpapa and Sihasapa [Blackfeet]),
+ND001,US,District of Minnesota,
+ND002,Native American,Santee Sioux (Wahpekute) and Teton Sioux (Hunkpapa and Sihasapa [Blackfeet]),
+ND002,US,District of Minnesota,
+ND003,Native American,Santee Sioux (Wahpekute) and Teton Sioux (Hunkpapa and Sihasapa [Blackfeet]),
+ND003,US,District of Minnesota,
+ND004,Native American,"Santee Sioux (Sisseton and Wahpekute), Teton Sioux (Hunkpapa and Sihasapa [Blackfeet]), and Yankton-Yanktonai Sioux (Pabaksa [Cuthead], and Yankton)",
+ND004,US,"Army detachments of: 6th Iowa Cavalry, 2nd Nebraska Cavalry, Dakota Cavalry, 7th Iowa Cavalry, 45th Iowa Infantry",
+ND005,Native American,"Santee Sioux (Wahpekute), Teton Sioux (Hunkpapa, Miniconjou, Sans Arc, and Sihasapa [Blackfeet]), and Yankton-Yanktonai Sioux (Pabaksa [Cuthead] and Yanktonai)",
+ND005,US,"Army detachments of 8th Minnesota Infantry, 2nd Minnesota Cavalry, 3rd Minnesota Battery, Brackett’s Minnesota Battalion of Cavalry, 6th Iowa Cavalry, 7th Iowa Cavalry, Dakota Cavalry Regiment, Nebraska Scouts, Pope’s Prairie Battery",
+NM001,Confederate,Army of New Mexico,
+NM001,US,Department of New Mexico (combination of regular and volunteer units),
+NM002,Confederate,Army of New Mexico,
+NM002,US,"Northern Division, Army of New Mexico",
+OH001,Confederate,"Brigade, 1,700",1700
+OH001,US,"Brigade, 3,000",3000
+OH002,Confederate,"Confederate Army, 800",800
+OH002,US,"9th Michigan Cavalry, 2,600",2600
+OK001,Confederate,"Six companies of the First Regiment Choctaw and Chickasaw Mounted Rifles, a detachment of the 9th Texas Cavalry, the Creek Regiment, and the Creek and Seminole Battalion",
+OK001,US,"Creek, Cherokee, and Seminole allies",
+OK002,Confederate,Indian Department,
+OK002,US,"Creek, Cherokee, and Seminole allies",
+OK003,Confederate,Indian Department,
+OK003,US,"Creek, Cherokee, and Seminole allies",
+OK004,Confederate,"First Brigade, Indian Department",
+OK004,US,"First Division, Army of the Frontier",
+OK005,Confederate,"Seminole Battalion, Company A, 1st Choctaw and Chickasaw Cavalry Regiment, and a detachment of 20th Texas Regiment",
+OK005,US,Three companies of the 14th Kansas Cavalry Regiment and a section of Howitzers,
+OK006,Confederate,"1st Cherokee Mounted Rifles, First Creek Mounted Volunteers, a detachment of the 29th Texas Cavalry, and a detachment of Martin’s Partisan Rangers",
+OK006,US,"Fort Scott Relief Column (consisting of six companies of the 2nd Colorado Infantry, one company each of the 3rd Wisconsin, 9th Kansas and 14th Kansas Cavalries, the 1st Kansas Colored Infantry, the 3rd Indian Regiment, and the 2nd Kansas Artillery)",
+OK007,Confederate,"1st Brigade, Indian Department",
+OK007,US,District of the Frontier,
+PA001,Confederate,"Stuart’s Cavalry Division, Army of Northern Virginia",
+PA001,US,"3rd Cavalry Division, Army of the Potomac, including Farnsworth’s 1st Brigade and Custer’s 2nd Brigade",
+PA002,Confederate,Army of Northern Virginia,
+PA002,US,Army of the Potomac,
+SC001,Confederate,Provisional Forces of the Confederate States in Charleston Harbor,
+SC001,US,1st United States Artillery,
+SC002,Confederate,Second Military District of South Carolina and the Tower Battery/Fort Lamar garrison,
+SC002,US,"1st and 2nd Divisions, and Williams’ 3rd Brigade, Northern District, Department of the South",
+SC003,Confederate,"Companies A and H, 16th South Carolina Infantry and a section of the Marion Artillery",
+SC003,US,"Gunboat USS Crusader and the transport Planter; Company E, 55th Pennsylvania Volunteer Infantry",
+SC004,Confederate,First Military District of South Carolina,
+SC004,US,South Atlantic Blockading Squadron,
+SC005,Confederate,Fort Wagner garrison,
+SC005,US,"Elements of the 1st Brigade (100th New York and 7th New Hampshire Infantry) and 2nd Brigade, 2nd Division, X Corps, Department of the South; the USS Catskill, USS Montauk, USS Nahant, and USS Weehawken",
+SC006,Confederate,"1st Sub-division of the 1st Military District, South Carolina",
+SC006,US,"1st Division, X Corps, Department of the South; Stono River Flotilla",
+SC007,Confederate,Fort Wagner garrison,
+SC007,US,"2nd Division, X Corps, Department of the South, and the South Atlantic Blockading Squadron",
+SC008,Confederate,"Department of South Carolina, Georgia, and Florida, and Fort Sumter garrison",
+SC008,US,"X Corps, Department of the South; South Atlantic Blockading Squadron",
+SC009,Confederate,"Department of South Carolina, Georgia, and Florida, and the Fort Wagner and Battery Gregg garrisons",
+SC009,US,"X Corps, Department of the South, and the South Atlantic Blockading Squadron",
+SC010,Confederate,"1st Division Georgia Militia; 3rd South Carolina Cavalry; 32nd and 47th Georgia Infantry; 1 Section, Stuart’s Company Artillery; 1 Section Depass’ Light Battery; 1 Gun of Kanapaux’s Company Light Artillery",
+SC010,US,"Coastal Division, Department of the South; Marine Brigade, South Atlantic Blockading Squadron",
+SC011,Confederate,"Harrison’s Brigade, McLaws’ Division, Department of South Carolina, Georgia, and Florida",
+SC011,US,"1st and 4th Divisions, XVII Corps, and XV Corps, Army of the Tennessee",
+TN001,Confederate,Fort Henry Garrison,
+TN001,US,Flotilla (seven vessels),
+TN002,Confederate,Fort Donelson Garrison,
+TN002,US,"District of Cairo, Western Flotilla",
+TN003,Confederate,Army of the Mississippi,
+TN003,US,"Army of West Tennessee, Army of the Ohio, USS Tyler and USS Lexington",
+TN004,Confederate,eight C.S. Navy Rams,
+TN004,US,Five ironclads and two U.S. Army Rams,
+TN005,Confederate,Chattanooga garrison,
+TN005,US,Negley’s division,
+TN006,Confederate,Forrest’s Cavalry Brigade,
+TN006,US,Murfreesboro Garrison,
+TN007,Confederate,Army of West Tennessee,
+TN007,US,"Division, Union Army of West Tennessee",
+TN008,Confederate,expeditionary force (two brigades),
+TN008,US,"39th Brigade, XIV Army Corps (Army of the Cumberland)",
+TN009,Confederate,Detachment of Forrest’s Cavalry Division,
+TN009,US,Two regiments from the Jackson Garrison,
+TN010,Confederate,Army of Tennessee,
+TN010,US,Army of the Cumberland,
+TN011,Confederate,Forrest’s Cavalry Brigade,
+TN011,US,Two brigades,
+TN012,Confederate,"Cavalry Division (approx. 2,500)",2500
+TN012,US,Garrison (approx. 800),800
+TN013,Confederate,"First Cavalry Corps, Army of Tennessee",
+TN013,US,"Third Brigade, First Division, Reserve Corps, Department of the Cumberland",
+TN014,Confederate,Morgan’s Cavalry Division,
+TN014,US,"2nd Brigade, 5th Division, XIV Army Corps",
+TN015,Confederate,Forrest’s Division,
+TN015,US,"Detachments of the 22nd Wisconsin Volunteer Infantry, 33rd Indiana, and 19th Michigan Volunteer Infantry regiments, 1st Division, 1st Cavalry Corps (approx. 400)",400
+TN016,Confederate,"1st Cavalry Corps, Army of Tennessee",
+TN016,US,Army of Kentucky,
+TN017,Confederate,"two brigades, Stewart’s Division, Hardee’s Corps, Army of Tennessee, and 1st (3rd) Kentucky Cavalry Regiment",
+TN017,US,"Wilder’s Brigade, XIV Army Corps, Army of the Cumberland",
+TN018,Confederate,"Hill's Corps, Army of Tennessee",
+TN018,US,"Wilder's Brigade, 4th Division, XIV Corps, Army of the Cumberland",
+TN019,Confederate,"1st Tennessee Cavalry Regiment and Artillery (approx. 1,200)",1200
+TN019,US,"2nd Brigade, 4th Division, XXIII Army Corps, Department of the Ohio",
+TN020,Confederate,"1st Tennessee Volunteer Cavalry Regiment, 4th Kentucky Cavalry Regiment, and some home guard troops and artillery",
+TN020,US,Department of the Ohio,
+TN021,Confederate,"Jenkins Division, Longstreet’s Corps",
+TN021,US,"XI Army Corps and 2nd Division, XII Army Corps",
+TN022,Confederate,"Cavalry Division (2,500)",2500
+TN022,US,3rd Cavalry Brigade (850),850
+TN023,Confederate,Longstreet’s Corps,
+TN023,US,Department of the Ohio,
+TN024,Confederate,Army of Tennessee,
+TN024,US,Military Division of the Mississippi,
+TN025,Confederate,Longstreet’s Corps,
+TN025,US,Army of the Ohio,
+TN026,Confederate,Longstreet’s 1st Corps Army of Northern Virginia,
+TN026,US,"Cavalry Corps, Department of the Ohio",
+TN027,Confederate,"Martin’s Cavalry Brigade, Department of East Tennessee",
+TN027,US,"Cavalry Corps, Army of the Ohio, and 1st Brigade, 2nd Division, XXIII Corps",
+TN028,Confederate,Department of East Tennessee,
+TN028,US,"Cavalry Corps, Army of the Ohio, and Infantry of the IV Army Corps",
+TN029,Confederate,"Cavalry Brigade, Department of East Tennessee",
+TN029,US,"Cavalry Division, Cavalry Corps, Army of the Ohio",
+TN030,Confederate,"Brig. Gen. James R. Chalmers’s 1st Division, Forrest’s Cavalry Corps",
+TN030,US,Fort Pillow Garrison (approx. 600),600
+TN031,Confederate,Forrest’s Cavalry Division,
+TN031,US,Memphis Garrison,
+TN032,Confederate,Forrest’s Cavalry Division,
+TN032,US,Johnsonville garrison and three gunboats,
+TN033,Confederate,"Department of Western Virginia and East Tennessee (approximately 2,400)",2400
+TN033,US,"Governor’s Guard Brigade, State of Tennessee",
+TN034,Confederate,Army of Tennessee,
+TN034,US,XXIII Army Corps and elements of IV Army Corps,
+TN035,Confederate,Army of Tennessee,
+TN035,US,IV and XXIII Army Corps,
+TN036,Confederate,Army of Tennessee,
+TN036,US,"IV Corps, Army of the Cumberland and XXIII Corps, Army of the Ohio",
+TN037,Confederate,"Forrest’s Cavalry Division, Bate's Infantry Division, and Sears’s and Palmer’s Infantry Brigades",
+TN037,US,Murfreesboro Garrison,
+TN038,Confederate,Army of Tennessee,
+TN038,US,"IV Corps, XXIII Corps, Detachment of Army of the Tennessee, provisional detachment, and cavalry corps",
+TX001,Confederate,Garrison at Sabine Pass,
+TX001,US,Flotilla of the Western Gulf Blockading Squadron,
+TX002,Confederate,Garrison at Galveston,
+TX002,US,Mortar Flotilla of the Western Gulf Blockading Squadron,
+TX003,Confederate,"Department of Texas, New Mexico and Arizona, and the Texas Marine Department",
+TX003,US,"Companies D, G, and I, 42nd Massachusetts Volunteer Infantry Regiment, and the Mortar Flotilla of the Western Gulf Blockading Squadron",
+TX005,Confederate,"Detachments from Gidding’s Regiment, Anderson’s Battalion of Cavalry, and other Confederate units and southern sympathizers",
+TX005,US,"Detachments from the 62nd U.S. Colored Infantry Regiment, 2nd Texas Cavalry Regiment, and 34th Indiana Volunteer Infantry",
+TX006,Confederate,Garrison of Fort Griffon (Texan Davis Guards),
+TX006,US,Flotilla of the Western Gulf Blockading Squadron and 150 Army sharpshooters,
+VA001,Confederate,"Battery Garrison, unknown",
+VA001,US,"Gunboats, 2",
+VA002,Confederate,"Battery Garrison, approximately 1,000",1000
+VA002,US,"Gunboats, 4",
+VA003,Confederate,"1,200",1200
+VA003,US,"3,500",3500
+VA004,Confederate,"7,000",7000
+VA004,US,"3,000",7000
+VA005,Confederate,"32,230",32230
+VA005,US,"28,450",28450
+VA006,Confederate,"1,600",1600
+VA006,US,"2,000",2000
+VA007,Confederate,"approximately 4,000",4000
+VA007,US,"approximately 5,000",5000
+VA008,Confederate,"Warship, 1",
+VA008,US,"Warships, 4",
+VA009,Confederate,"53,000",53000
+VA009,US,"118,000",118000
+VA010,Confederate,"Divisions, 31,823",31823
+VA010,US,"Corps, 40,768",40768
+VA011,Confederate,"approximately 11,000",11000
+VA011,US,"4 Gunboats, approximately 11,000",11000
+VA012,Confederate,"Battery Garrison, unknown",
+VA012,US,"Gunboats, 5",
+VA013,Confederate,"Brigade, 4,000",4000
+VA013,US,"Division, 12,000",12000
+VA014,Confederate,"39,000",39000
+VA014,US,"34,000",34000
+VA015,Confederate,unknown,
+VA015,US,unknown,
+VA016,Confederate,"Divisions, 16,356",16356
+VA016,US,"Corps, 15,631",15631
+VA017,Confederate,"Army, 57,018",57018
+VA017,US,"Corps, 34,214",34214
+VA018,Confederate,unknown,
+VA018,US,unknown,
+VA019,Confederate,"Division, 14,000",14000
+VA019,US,"II Corps, 26,000",26000
+VA020,Confederate,"29,000",29000
+VA020,US,"32,000",32000
+VA021,Confederate,"approximately 80,000",80000
+VA021,US,"approximately 80,000",80000
+VA022,Confederate,"16,868",16868
+VA022,US,"8,030",8030
+VA023,Confederate,unknown,
+VA023,US,unknown,
+VA024,Confederate,,
+VA024,US,,
+VA025,Confederate,unknown,
+VA025,US,unknown,
+VA026,Confederate,"approximately 55,000",55000
+VA026,US,"approximately 63,000",63000
+VA027,Confederate,"20,000",20000
+VA027,US,"6,000",6000
+VA028,Confederate,"72,497",72497
+VA028,US,"100,007",100007
+VA029,Confederate,"Brigade, 800",800
+VA029,US,"Divisions, 2,100",2100
+VA030,Confederate,"approximately 20,000",20000
+VA030,US,"Gunboat, approximately 17,000",17000
+VA031,Confederate,,
+VA031,US,,
+VA032,Confederate,"57,352",57352
+VA032,US,"97,382",97382
+VA033,Confederate,"Brigades 10,000",10000
+VA033,US,"VI Corps, 25,000",25000
+VA034,Confederate,"approximately 12,000",12000
+VA034,US,"approximately 25,000",25000
+VA035,Confederate,"9,500",9500
+VA035,US,"11,000",11000
+VA036,Confederate,"approximately 1,500",1500
+VA036,US,"approximately 2,000",2000
+VA037,Confederate,unknown,
+VA037,US,unknown,
+VA038,Confederate,unknown,
+VA038,US,unknown,
+VA039,Confederate,"approximately 3,000",3000
+VA039,US,"approximately 2,000",2000
+VA040,Confederate,"17,218",17218
+VA040,US,"8,383",8383
+VA041,Confederate,"approximately 3,000",3000
+VA041,US,unknown,
+VA042,Confederate,unknown,
+VA042,US,unknown,
+VA043,Confederate,"2,000",2000
+VA043,US,"2,000",2000
+VA044,Confederate,"44,426",44426
+VA044,US,"69,643",69643
+VA045,Confederate,,
+VA045,US,,
+VA046,Confederate,"61,025",61025
+VA046,US,"101,895",101895
+VA047,Confederate,"2,600",2600
+VA047,US,"8,000",8000
+VA048,Confederate,"52,000",52000
+VA048,US,"100,000",100000
+VA049,Confederate,"2,400",2400
+VA049,US,"6,555",6555
+VA050,Confederate,unknown,
+VA050,US,"5 gunboats, unknown",
+VA051,Confederate,unknown,
+VA051,US,unknown,
+VA052,Confederate,"5,000",5000
+VA052,US,"12,000",12000
+VA053,Confederate,"18,000",18000
+VA053,US,"30,000",30000
+VA054,Confederate,,
+VA054,US,,
+VA055,Confederate,"53,000",53000
+VA055,US,"68,000",68000
+VA056,Confederate,"2,500",2500
+VA056,US,"1 Gunboat, 1,100",1100
+VA057,Confederate,unknown,
+VA057,US,unknown,
+VA058,Confederate,unknown,
+VA058,US,unknown,
+VA059,Confederate,"2,000",2000
+VA059,US,unknown,
+VA062,Confederate,"62,000",62000
+VA062,US,"108,000",108000
+VA063,Confederate,"42,000",42000
+VA063,US,"62,000",62000
+VA064,Confederate,"approximately 14,000",14000
+VA064,US,"16,643",16643
+VA065,Confederate,"8,000",8000
+VA065,US,"27,000",27000
+VA066,Confederate,unknown,
+VA066,US,unknown,
+VA067,Confederate,"5,000",5000
+VA067,US,"4,000",4000
+VA068,Confederate,"7,000",7000
+VA068,US,"4,000",4000
+VA069,Confederate,"16,500",16500
+VA069,US,unknown,
+VA070,Confederate,"Maj. General William Mahone’s Division, approximately 6,100",6100
+VA070,US,"IX Corps, approximately 8,500",8500
+VA071,Confederate,"approximately 20,000",20000
+VA071,US,"approximately 30,000",30000
+VA072,Confederate,"14,000",14000
+VA072,US,"20,089",20089
+VA073,Confederate,"14,000",14000
+VA073,US,"9,000",9000
+VA074,Confederate,"12,000",12000
+VA074,US,"29,800",29800
+VA075,Confederate,"14,500",14500
+VA075,US,"25,000",25000
+VA076,Confederate,"Confederate Home Guard, 300",300
+VA076,US,"Brigade 5,000",5000
+VA077,Confederate,unknown,
+VA077,US,unknown,
+VA078,Confederate,unknown,
+VA078,US,unknown,
+VA079,Confederate,"11,691",11691
+VA079,US,"30,000",30000
+VA080,Confederate,unknown,
+VA080,US,unknown,
+VA081,Confederate,,
+VA081,US,,
+VA082,Confederate,"2,800",2800
+VA082,US,"4,500",4500
+VA083,Confederate,"13,835",13835
+VA083,US,"34,517",34517
+VA084,Confederate,"10,000",10000
+VA084,US,"14,898",14898
+VA085,Confederate,"8,000",8000
+VA085,US,"17,000",17000
+VA086,Confederate,"20,030",20030
+VA086,US,"45,247",45247
+VA087,Confederate,"8,000",8000
+VA087,US,"22,000",22000
+VA088,Confederate,"10,600",10600
+VA088,US,"22,000",22000
+VA089,Confederate,"58,400",58400
+VA089,US,"76,113",76113
+VA090,Confederate,"3,000",3000
+VA090,US,"1,500",1500
+VA091,Confederate,332,332
+VA091,US,unknown,
+VA092,Confederate,"6,800",6800
+VA092,US,"7,500",7500
+VA093,Confederate,"16,900",16900
+VA093,US,"36,500",36500
+VA094,Confederate,"4,000",4000
+VA094,US,"8,600",8600
+VA095,Confederate,"1,200",1200
+VA095,US,900,900
+VA096,Confederate,"Artillery Train, approximately 3,000",3000
+VA096,US,"3rd US Cavalry Division, approximately 4,000",4000
+VA097,Confederate,"9,000",9000
+VA097,US,"21,000",21000
+VA098,Confederate,"2,500",2500
+VA098,US,"4,500",4500
+VA099,Confederate,"6,400",6400
+VA099,US,"9,300",9300
+VA100,Confederate,"Battery Garrison, approximately 50",50
+VA100,US,"Gunboats, 2",
+VA101,Confederate,"3,800",3800
+VA101,US,"8,500",8500
+VA102,Confederate,"6,000",6000
+VA102,US,"6,500",6500
+VA103,Confederate,"Brigade, 3,000",3000
+VA103,US,"Garrison, 1,063",1063
+VA104,Confederate,"16,000",16000
+VA104,US,"6,500",6500
+VA105,Confederate,"Division, 5,800",5800
+VA105,US,"Army, 11,500",11500
+VA106,Confederate,"6,000",6000
+VA106,US,"3,500",3500
+VA107,Confederate,"II Corps, 12,500",12500
+VA107,US,"Garrison, 7,000",7000
+VA108,Confederate,unknown,
+VA108,US,unknown,
+VA109,Confederate,"4,000",4000
+VA109,US,"2,500",2500
+VA110,Confederate,"4,090",4090
+VA110,US,"6,275",6275
+VA111,Confederate,"5,500",5500
+VA111,US,"8,500",8500
+VA113,Confederate,"4,100",4100
+VA113,US,"5,500",5500
+VA114,Confederate,"8,000",8000
+VA114,US,"5,000",5000
+VA115,Confederate,"approximately 3,300",3300
+VA115,US,"approximately 2,350",2350
+VA116,Confederate,"Corp, 14,000",14000
+VA116,US,"Divisions 9,500",9500
+VA117,Confederate,unknown,
+VA117,US,unknown,
+VA118,Confederate,unknown,
+VA118,US,unknown,
+VA119,Confederate,"15,200",15200
+VA119,US,"39,240",39240
+VA120,Confederate,"12,000",12000
+VA120,US,"20,000",20000
+VA121,Confederate,"3,500",3500
+VA121,US,"6,300",6300
+VA122,Confederate,"21,000",21000
+VA122,US,"31,945",31945
+VA123,Confederate,"1,600",1600
+VA123,US,"2,500",2500
+VA124,Confederate,700,700
+VA124,US,"1,000",1000
+VA125,Confederate,unknown,
+VA125,US,"4,000",4000
+WV001,Confederate,Recruits (approx. 800 men),800
+WV001,US,"Indiana, Ohio, and Virginia Volunteers (approx. 3,000 men)",3000
+WV002,Confederate,1st Brigade,
+WV002,US,"1st Brigade and 6th Brigade, Patterson's Division",
+WV003,Confederate,"Camp Garnett Garrison and associated regiments (approx. 1,300 men)",1300
+WV003,US,"Department of the Ohio, force at Roaring Creek (approx. 3,000 men) and force at Hart Farm (approx. 1,900 men)",4900
+WV004,Confederate,Confederate forces in the Kanawha Valley,
+WV004,US,7th Ohio Regiment,
+WV005,Confederate,Army of the Northwest,
+WV005,US,"1st Brigade, Army of Occupation, Western Virginia",
+WV006,Confederate,Army of the Kanawha,
+WV006,US,Army of Occupation in Western Virginia,
+WV007,Confederate,Camp Bartow Garrison,
+WV007,US,"1st Brigade, Army of Occupation, Western Virginia",
+WV008,Confederate,Camp Allegheny Garrison,
+WV008,US,Army of the Northwest,
+WV009,Confederate,"Army of East Kentucky and Wharton’s Brigade, Department of Southwest Virginia",
+WV009,US,District of Kanawha,
+WV010,Confederate,"2nd Wing, Army of Northern Virginia",
+WV010,US,"Harpers Ferry Garrison (approx. 12,000 men)",12000
+WV012,Confederate,"1st Brigade, Army of Southwestern Virginia",
+WV012,US,1st Separate Brigade,
+WV013,Confederate,Johnson's Cavalry Brigade,
+WV013,US,Cavalry Division,
+WV014,Confederate,Valley District,
+WV014,US,Army of the Shenandoah,
+WV015,Confederate,Valley District,
+WV015,US,"First Cavalry Division, Army of the Shenandoah",
+WV016,Confederate,"A.P. Hill’s Division, Army of Northern Virginia",
+WV016,US,"V Corps, Army of the Potomac",

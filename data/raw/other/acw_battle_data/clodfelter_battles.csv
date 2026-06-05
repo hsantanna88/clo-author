@@ -1,0 +1,146 @@
+battle_id,theater,theater_years,start_date,end_date,result,page
+Rich Mountain/Laurel Mountain,Eastern,Eastern Theater: 1861,1861-7-11,1861-7-11,Union,293
+First Bull Run (Manassas),Eastern,Eastern Theater: 1861,1861-7-21,1861-7-21,Confederate,293
+Ball's Bluff,Eastern,Eastern Theater: 1861,1861-10-21,1861-10-21,Confederate,293
+Wilson's Creek,Western,Western Theater: 1861,1861-8-10,1861-8-10,Confederate,294
+Belmont,Western,Western Theater: 1861,1861-11-7,1861-11-7,Union,294
+Roanoake Island,Blockade War,The Blockade War: 1861-62,1862-2-7,1862-2-8,Union,294
+New Bern,Blockade War,The Blockade War: 1861-62,1862-3-13,1862-3-13,Union,294
+Hampton Roads (first day),Blockade War,The Blockade War: 1861-62,1862-3-8,1862-3-8,Union,294
+Hampton Roads (second day),Blockade War,The Blockade War: 1861-62,1862-3-9,1862-3-9,Union,294
+Secessionville,Blockade War,The Blockade War: 1861-62,1862-6-16,1862-6-16,Confederate,294
+Kernstown (first),Eastern,East: 1862,1862-3-23,1862-3-23,Union,296
+McDowell,Eastern,East: 1862,1862-5-8,1862-5-8,Confederate,296
+Front Royal,Eastern,East: 1862,1862-5-23,1862-5-23,Confederate,296
+Winchester (first),Eastern,East: 1862,1862-5-25,1862-5-25,Confederate,296
+Cross Keys,Eastern,East: 1862,1862-6-8,1862-6-8,Confederate,296
+Port Republic,Eastern,East: 1862,1862-6-9,1862-6-9,Confederate,296
+Williamsburg (Fort Magruder),Eastern,East: 1862,1862-5-5,1862-5-5,Indecisive,296
+Hanover Court House,Eastern,East: 1862,1862-5-27,1862-5-27,Union,297
+Fair Oaks (Seven Pines),Eastern,East: 1862,1862-5-31,1862-6-1,Indecisive,297
+Seven Days Battles,Eastern,East: 1862,1862-6-25,1862-7-1,Confederate,297
+The Orchard (Seven Days),Eastern,East: 1862,1862-6-25,1862-6-25,Indecisive,297
+Mechanicsville (Seven Days),Eastern,East: 1862,1862-6-26,1862-6-26,Union,297
+Gaines's Mill (Seven Days),Eastern,East: 1862,1862-6-27,1862-6-27,Confederate,297
+Savage's Station (Seven Days),Eastern,East: 1862,1862-6-29,1862-6-29,Indecisive,297
+White Oak Swamp (Seven Days),Eastern,East: 1862,1862-6-30,1862-6-30,Indecisive,297
+Malvern Hill (Seven Days),Eastern,East: 1862,1862-7-1,1862-7-1,Union,297
+Cedar Mountain,Eastern,East: 1862,1862-8-9,1862-8-9,Confederate,297
+Groveton,Eastern,East: 1862,1862-8-28,1862-8-28,Confederate,297
+Second Bull Run/Chantilly (Second Manassas),Eastern,East: 1862,1862-8-29,1862-9-1,Confederate,297
+South Mountain,Eastern,East: 1862,1862-9-14,1862-9-14,Indecisive,297
+Antietam (Sharpsburg),Eastern,East: 1862,1862-9-17,1862-9-17,Indecisive,297
+Fredericksburg,Eastern,East: 1862,1862-12-13,1862-12-13,Confederate,297
+Valverde,Western,West: 1862,1862-2-21,1862-2-21,Confederate,299
+Apache Canyon/Glorieta Pass,Western,West: 1862,1862-3-26,1862-3-28,Union,299
+Pea Ridge,Western,West: 1862,1862-3-7,1862-3-8,Union,299
+Prairie Grove,Western,West: 1862,1862-12-7,1862-12-7,Union,299
+Mill Springs (Logan's Crossroads),Western,West: 1862,1862-1-19,1862-1-20,Union,299
+Fort Donelson,Western,West: 1862,1862-2-12,1862-2-16,Union,299
+Shiloh (Pittsburg Landing),Western,West: 1862,1862-4-6,1862-4-7,Union,299
+New Orleans,Western,West: 1862,1862-4-24,1862-4-24,Union,299
+Baton Rouge,Western,West: 1862,1862-8-5,1862-8-5,Union,299
+Iuka,Western,West: 1862,1862-9-19,1862-9-19,Union,299
+Corinth,Western,West: 1862,1862-10-3,1862-10-4,Union,299
+Chickasaw Bluffs,Western,West: 1862,1862-12-29,1862-12-29,Confederate,300
+Richmond (Kentucky),Western,West: 1862,1862-8-30,1862-8-30,Confederate,300
+Perryville,Western,West: 1862,1862-10-8,1862-10-8,Union,300
+Hartsville,Western,West: 1862,1862-12-7,1862-12-7,Confederate,300
+Stones River (Murfreesboro),Western,West: 1862,1862-12-31,1863-1-2,Union,300
+Chancellorsville,Eastern,East: 1863,1863-5-1,1863-5-6,Confederate,302
+Brandy Station,Eastern,East: 1863,1863-6-9,1863-6-9,Indecisive,302
+Winchester (second),Eastern,East: 1863,1863-6-14,1863-6-15,Confederate,302
+Gettsyburg,Eastern,East: 1863,1863-7-1,1863-7-3,Union,302
+Bristoe Station,Eastern,East: 1863,1863-10-14,1863-10-14,Union,302
+Buckland,Eastern,East: 1863,1863-10-19,1863-10-19,Confederate,302
+Rappahannock Station,Eastern,East: 1863,1863-11-7,1863-11-7,Union,302
+Mine Run,Eastern,East: 1863,1863-11-27,1863-12-1,Indecisive,302
+Galveston,Western,West: 1863,1863-1-1,1863-1-1,Confederate,305
+Honey Springs,Western,West: 1863,1863-7-17,1863-7-17,Union,305
+Fort Hindman (Arkansas Post),Western,West: 1863,1863-1-11,1863-1-11,Union,305
+Port Hudson (siege),Western,West: 1863,1863-5-26,1863-7-9,Union,305
+Port Hudson (first assault),Western,West: 1863,1863-5-27,1863-5-27,Union,305
+Port Hudson (second assault),Western,West: 1863,1863-6-14,1863-6-14,Union,305
+Donaldsville (first),Western,West: 1863,1863-6-28,1863-6-28,Indecisive,305
+Donaldsville (second),Western,West: 1863,1863-7-13,1863-7-13,Confederate,305
+Port Gibson,Western,West: 1863,1863-5-1,1863-5-1,Union,305
+Raymond,Western,West: 1863,1863-5-12,1863-5-12,Union,305
+Jackson,Western,West: 1863,1863-5-14,1863-5-14,Union,305
+Champion's Hill,Western,West: 1863,1863-5-16,1863-5-16,Union,305
+Big Black River,Western,West: 1863,1863-5-17,1863-5-17,Union,305
+Vicksburg (siege),Western,West: 1863,1863-5-18,1863-7-4,Union,305
+Vicksburg (first assault),Western,West: 1863,1863-5-19,1863-5-19,Union,305
+Vicksburg (second assault),Western,West: 1863,1863-5-22,1863-5-22,Union,305
+Helena,Western,West: 1863,1863-7-4,1863-7-4,Union,305
+Jackson (siege),Western,West: 1863,1863-7-10,1863-7-16,Union,305
+Chickamagua,Western,West: 1863,1863-9-19,1863-9-20,Confederate,305
+Chattanooga,Western,West: 1863,1863-11-23,1863-11-25,Union,305
+Chattanooga (Orchard Knob/Indian Hill),Western,West: 1863,1863-11-23,1863-11-23,Union,306
+Chattanooga (Lookout Mountain),Western,West: 1863,1863-11-24,1863-11-24,Union,306
+Chattanooga (Tunnel Hill),Western,West: 1863,1863-11-25,1863-11-25,Union,306
+Chattanooga (Missionary Ridge),Western,West: 1863,1863-11-25,1863-11-25,Union,306
+Ringgold Gap,Western,West: 1863,1863-11-27,1863-11-27,Confederate,306
+Knoxville (siege),Western,West: 1863,1863-11-17,1863-12-3,Union,306
+Knoxville (attack on Fort Sanders),Western,West: 1863,1863-11-29,1863-11-29,Union,306
+Pocataligo,Blockade War,The Blockade War: 1863,1863-10-22,1863-10-22,Confederate,306
+Batteries Wagner and Gregg,Blockade War,The Blockade War: 1863,1863-7-10,1863-7-11,Confederate,306
+Battery Wagner,Blockade War,The Blockade War: 1863,1863-07-18,1863-07-18,Confederate,306
+Olustee,Eastern,East: 1864,1864-2-10,1864-2-10,Confederate,310
+Wilderness,Eastern,East: 1864,1864-5-5,1864-5-6,Indecisive,310
+Spotsylvania Court House,Eastern,East: 1864,1864-5-8,1864-5-18,Indecisive,310
+Yellow Tavern,Eastern,East: 1864,1864-5-11,1864-5-11,Union,310
+North Anna River,Eastern,East: 1864,1864-5-23,1864-5-26,Indecisive,310
+Totopotomy Creek,Eastern,East: 1864,1864-5-27,1864-5-31,Indecisive,310
+Cold Harbor (assault),Eastern,East: 1864,1864-6-3,1864-6-3,Indecisive,310
+Cold Harbor,Eastern,East: 1864,1864-5-31,1864-6-12,Confederate,310
+Trevilian Station,Eastern,East: 1864,1864-6-11,1864-6-12,Confederate,310
+Cloyd's Mountain,Eastern,East: 1864,1864-5-9,1864-5-9,Union,310
+New Market,Eastern,East: 1864,1864-5-15,1864-5-15,Confederate,310
+Piedmont,Eastern,East: 1864,1864-6-5,1864-6-5,Union,310
+Drewry's Bluff,Eastern,East: 1864,1864-5-12,1864-5-16,Confederate,310
+Petersburg (first assault),Eastern,East: 1864,1864-6-15,1864-6-18,Confederate,310
+Monocacy River,Eastern,East: 1864,1864-7-9,1864-7-9,Confederate,310
+Kernstown (second),Eastern,East: 1864,1864-7-24,1864-7-24,Confederate,310
+Opequon (Third Winchester),Eastern,East: 1864,1864-9-19,1864-9-19,Union,310
+Fisher's Hill,Eastern,East: 1864,1864-9-22,1864-9-22,Union,310
+Cedar Creek,Eastern,East: 1864,1864-10-19,1864-10-19,Union,310
+Petersburg (Battle of the Crater),Eastern,East: 1864,1864-7-30,1864-7-30,Confederate,310
+Deep Bottom Run,Eastern,East: 1864,1864-8-13,1864-8-20,Confederate,310
+Globe Tavern,Eastern,East: 1864,1864-8-18,1864-8-21,Union,310
+Reams Station,Eastern,East: 1864,1864-8-23,1864-8-23,Confederate,310
+Fort Harrison (Chaffin's Bluff),Eastern,East: 1864,1864-9-29,1864-9-30,Union,310
+Peebles Farm,Eastern,East: 1864,1864-9-30,1864-10-1,Union,310
+Hatcher's Run (first),Eastern,East: 1864,1864-10-27,1864-10-28,Confederate,311
+Fair Oaks,Eastern,East: 1864,1864-10-27,1864-10-28,Confederate,311
+Sabine Crossroads,Western,West: 1864,1864-4-8,1864-4-8,Confederate,314
+Pleasant Hill,Western,West: 1864,1864-4-9,1864-4-9,Union,314
+Yellow Bayou,Western,West: 1864,1864-5-18,1864-5-18,Union,314
+Jenkins Ferry,Western,West: 1864,1864-4-30,1864-4-30,Union,314
+Fort Davidson (Pilot Knob),Western,West: 1864,1864-12-27,1864-12-27,Union,314
+Westport,Western,West: 1864,1864-10-23,1864-10-23,Union,314
+Mine Creek,Western,West: 1864,1864-10-25,1864-10-25,Union,314
+Fort Pillow,Western,West: 1864,1864-4-12,1864-4-12,Confederate,314
+Brice's Crossroads,Western,West: 1864,1864-6-10,1864-6-10,Confederate,314
+Tupelo,Western,West: 1864,1864-7-14,1864-7-15,Union,314
+Selma,Western,West: 1864,1865-4-2,1865-4-3,Union,314
+New Hope Church,Western,West: 1864,1864-5-25,1864-5-25,Confederate,314
+Kennesaw Mountain,Western,West: 1864,1864-6-27,1864-6-27,Confederate,314
+Peachtree Creek,Western,West: 1864,1864-7-20,1864-7-20,Union,314
+Atlanta,Western,West: 1864,1864-7-22,1864-7-22,Union,314
+Ezra Church,Western,West: 1864,1864-7-28,1864-7-28,Union,314
+Jonesboro,Western,West: 1864,1864-8-31,1864-9-1,Union,314
+Allatoona,Western,West: 1864,1864-10-6,1864-10-6,Union,314
+Franklin,Western,West: 1864,1864-11-30,1864-11-30,Union,314
+Nashville,Western,West: 1864,1864-12-15,1864-12-16,Union,314
+Griswoldville,Western,West: 1864,1864-11-22,1864-11-22,Union,314
+Mobile Bay,Blockade War,The Blockade War: 1864-65,1864-8-5,1864-8-5,Union,315
+Fort Fisher,Blockade War,The Blockade War: 1864-65,1865-1-13,1865-1-15,Union,316
+Hatcher's Run (second),Eastern,East: 1865,1865-2-5,1865-2-7,Union,317
+Fort Stedman,Eastern,East: 1865,1865-3-25,1865-3-25,Union,317
+Five Forks,Eastern,East: 1865,1865-4-1,1865-4-1,Union,317
+Petersburg (second assault),Eastern,East: 1865,1865-4-2,1865-4-2,Union,317
+Fort Gregg,Eastern,East: 1865,1865-4-2,1865-4-2,Union,317
+Sayler's Creek,Eastern,East: 1865,1865-4-6,1865-4-6,Union,317
+Kinston,Western,West: 1865,1865-3-8,1865-3-10,Union,317
+Averasboro,Western,West: 1865,1865-3-16,1865-3-16,Indecisive,317
+Bentonville,Western,West: 1865,1865-3-19,1865-3-21,Union,317

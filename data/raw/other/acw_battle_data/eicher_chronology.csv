@@ -1,0 +1,2104 @@
+date,event,superevent,subevent
+1860-12-20,South Carolina seceded,,
+1861-01-09,Mississippi seceded,,
+1861-01-10,Florida seceded,,
+1861-01-11,Alabama seceded,,
+1861-01-19,Georgia seceded,,
+1861-01-26,Louisiana seceded,,
+1861-01-29,Kansas admitted to the Union,,
+1861-02-01,Texas seceded,,
+1861-02-18,"David E. Twiggs surrendered the Dept, of Texas to the State of Texas",,
+1861-02-18,"Inauguration of Jefferson Davis as Provisional President of the C.S.A. at Montgomery, Ala.",,
+1861-02-28,Colorado Territory organized,,
+1861-03-02,Nevada Territory and Dakota Territory organized,,
+1861-03-04,"Inauguration of Abraham Lincoln as President of the United States at Washington, D.C.",,
+1861-04-12,"Fort Sumter, S.C.","Fort Sumter, S.C.",
+1861-04-13,"Fort Sumter, S.C.","Fort Sumter, S.C.",
+1861-04-17,Virginia seceded,,
+1861-04-18,"Harpers Ferry I, Va.",,
+1861-04-19,Naval blockade of southern ports,,
+1861-04-19,"Riot in Baltimore, Md.",,
+1861-04-20,"Gosport Navy Yard, Va. (Norfolk I)",,
+1861-04-23,"San Antonio, Tex.",,
+1861-04-25,"Fort Smith I, Ark.",,
+1861-04-25,"Port Lavaca and Saluria, Tex.",,
+1861-05-06,Arkansas and Tennessee seceded,,
+1861-05-09,"San Lucas Springs, Tex.",,
+1861-05-10,"Camp Jackson, Mo.",,
+1861-05-20,North Carolina seceded,,
+1861-06-01,"Fairfax Court House I, Va.",,
+1861-06-03,"Philippi, Va.",,
+1861-06-10,"Big Bethel, Va. (Great Bethel, Bethel Church)",,
+1861-06-13,"Romney, Va.",,
+1861-06-17,"Boonville I, Mo.",,
+1861-06-17,"Vienna, Va.",,
+1861-07-02,"Falling Waters, Va. (Hainesville, Hoke's Run)",,
+1861-07-05,"Carthage I, Mo. (Dry Forks)",,
+1861-07-10,"Laurel Hill I, Va.","Laurel Hill I, Va.",
+1861-07-11,"Laurel Hill I, Va.","Laurel Hill I, Va.",
+1861-07-11,"Rich Mountain, Va.",,
+1861-07-12,"Beverly I, Va.","Beverly I, Va.",
+1861-07-12,"Laurel Hill I, Va.","Laurel Hill I, Va.",
+1861-07-13,"Beverly I, Va.","Beverly I, Va.",
+1861-07-13,"Corrick's Ford, Va. (Cheat River)",,
+1861-07-13,"Laurel Hill I, Va.","Laurel Hill I, Va.",
+1861-07-17,"Scarey Creek, Va.",,
+1861-07-18,"Blackburn's Ford, Va.",,
+1861-07-21,"Bull Run I, Va. (Manassas I)",,
+1861-07-27,"St. Augustine Springs, N.Mex. Terr. (Fort Fillmore)",,
+1861-08-02,"Dug Springs, Mo. (Dry Creek)",,
+1861-08-07,"Hampton, Va.",,
+1861-08-10,"Wilson's Creek, Mo. (Oak Hills, Springfield)",,
+1861-08-27,"Cape Hatteras Expedition commenced (Pamlico Sound, N.C.; Forts Clark and Hatteras, N.C.; USS Minnesota and seven other ships)",Cape Hatteras Expedittion,"(Pamlico Sound, N.C.; Forts Clark and Hatteras, N.C.; USS Minnesota and seven other ships)"
+1861-08-28,Cape Hatteras Expedition,Cape Hatteras Expedittion,
+1861-08-29,Cape Hatteras Expedition ended,Cape Hatteras Expedittion,ended
+1861-09-10,"Camifix Ferry, Va.",,
+1861-09-11,"Cheat Mountain Campaign, Va. commenced","Cheat Mountain Campaign, Va.",commenced
+1861-09-12,"Cheat Mountain Campaign, Va. (Elkwater, Greenbrier River)","Cheat Mountain Campaign, Va.","(Elkwater, Greenbrier River)"
+1861-09-12,"Siege of Lexington, Mo. commenced","Siege of Lexington, Mo.",Commenced
+1861-09-13,"Cheat Mountain Campaign, Va.","Cheat Mountain Campaign, Va.",
+1861-09-13,"Siege of Lexington, Mo.","Siege of Lexington, Mo.",
+1861-09-14,"Cheat Mountain Campaign, Va.","Cheat Mountain Campaign, Va.",
+1861-09-14,"Siege of Lexington, Mo.","Siege of Lexington, Mo.",
+1861-09-15,"Cheat Mountain Campaign, Va.","Cheat Mountain Campaign, Va.",
+1861-09-15,"Siege of Lexington, Mo.","Siege of Lexington, Mo.",
+1861-09-16,"Cheat Mountain Campaign, Va. (Princeton)","Cheat Mountain Campaign, Va.",(Princeton)
+1861-09-16,"Siege of Lexington, Mo.","Siege of Lexington, Mo.",
+1861-09-17,"Cheat Mountain Campaign, Va.","Cheat Mountain Campaign, Va.",ended
+1861-09-17,"Siege of Lexington, Mo.","Siege of Lexington, Mo.",
+1861-09-18,"Siege of Lexington, Mo.","Siege of Lexington, Mo.",
+1861-09-19,"Siege of Lexington, Mo.","Siege of Lexington, Mo.",
+1861-09-20,"Siege of Lexington, Mo. ended","Siege of Lexington, Mo.",Ended
+1861-10-03,"Greenbrier River, Va.",,
+1861-10-21,"Ball's Bluff, Va. (Leesburg I, Harrison's Island, Conrad's Ferry, Edward's Ferry, Va.)",,
+1861-10-29,"Port Royal, S.C. expedition commenced (Fort Walker, Hilton Head, Fort Beauregard and Baypoint; USS Wabash and 76 other ships)","Port Royal, S.C. expedition","commenced (Fort Walker, Hilton Head, Fort Beauregard and Baypoint; USS Wabash and 76 other ships)"
+1861-10-30,"Port Royal, S.C. expedition","Port Royal, S.C. expedition",
+1861-10-31,Missouri seceded in part and was counted by both the U.S.A. and the C.S.A.,,
+1861-10-31,"Port Royal, S.C. expedition","Port Royal, S.C. expedition",
+1861-11-01,"Port Royal, S.C. expedition","Port Royal, S.C. expedition",
+1861-11-02,"Port Royal, S.C. expedition","Port Royal, S.C. expedition",
+1861-11-03,"Port Royal, S.C. expedition","Port Royal, S.C. expedition",
+1861-11-04,"Port Royal, S.C. expedition","Port Royal, S.C. expedition",
+1861-11-05,"Port Royal, S.C. expedition","Port Royal, S.C. expedition",
+1861-11-06,"Port Royal, S.C. expedition","Port Royal, S.C. expedition",
+1861-11-07,"Belmont, Mo. (USS Lexington and Tyler)",,
+1861-11-07,"Port Royal, S.C. expedition ended","Port Royal, S.C. expedition",ended
+1861-11-08,USS San Jacinto vs. RMS Trent in the Old Bahama Channel (James M. Mason and John Slidell affair),,
+1861-11-20,Kentucky seceded in part and was thus counted by both the U.S.A. and the C.S.A.,,
+1861-11-22,"Fort Pickens, Fla. (Forts McRae and Barrancas)",,
+1861-12-12,"Great fire at Charleston, S.C.",,
+1861-12-13,"Alleghany Summit, Va. (Alleghany Mountain, Camp Alleghany)",,
+1861-12-20,"Dranesville, Va.",,
+1862-01-01,"Port Royal Ferry, S.C. (Coosawhatchie River)",,
+1862-01-10,"Big Sandy River, Ky. (Middle Creek)",,
+1862-01-19,"Mill Springs, Ky. (Logan's Cross Roads, Somerset I, Beech Grove, Fishing Creek)",,
+1862-02-06,"Fort Henry, Tenn. vs. USS Essex, Carondelet, Cincinnati, Conestoga, Tyler, St. Louis, and Lexington.",,
+1862-02-07,"Roanoke Island, N.C. (Albemarle Sound Expedition, Burnside's Expedition)","Roanoke Island, N.C.","(Albemarle Sound Expedition, Burnside's Expedition)"
+1862-02-08,"Roanoke Island, N.C.","Roanoke Island, N.C.",
+1862-02-13,"Fort Donelson, Tenn. (USS St. Louis, Carondelet, Louisville, Pittsburgh, Tyler, and Conestoga)","Fort Donelson, Tenn.","(USS St. Louis, Carondelet, Louisville, Pittsburgh, Tyler, and Conestoga)"
+1862-02-14,"Fort Donelson, Tenn. (Dover)","Fort Donelson, Tenn.",(Dover)
+1862-02-15,"Fort Donelson, Tenn.","Fort Donelson, Tenn.",
+1862-02-16,"Fort Donelson, Tenn.","Fort Donelson, Tenn.",
+1862-02-21,"Valverde, N.Mex. Terr. (Fort Craig)",,
+1862-02-22,"Inauguration of Jefferson Davis as President of the Confederate States at Richmond, Va.",,
+1862-02-25,"Nashville I, Tenn.",,
+1862-03-04,"Femandina, Fla. (USS Pawnee)",,
+1862-03-06,"Pea Ridge, Ark. (Elkhom Tavern, Bentonville, Leetown)","Pea Ridge, Ark.","(Elkhom Tavern, Bentonville, Leetown)"
+1862-03-07,"Pea Ridge, Ark.","Pea Ridge, Ark.",
+1862-03-08,"Pea Ridge, Ark.","Pea Ridge, Ark.",
+1862-03-08,"USS Congress, Cumberland, and Minnesota vs. CSS Virginia, Hampton Roads, Va.",,
+1862-03-09,"New Bern I, N.C. Campaign commenced","New Bern I, N.C. Campaign",commenced
+1862-03-09,"USS Monitor vs. CSS Virginia [ex-USS Merrimack], Hampton Roads, Va.",,
+1862-03-10,"New Bern I, N.C. Campaign","New Bern I, N.C. Campaign",
+1862-03-11,"New Bern I, N.C. Campaign","New Bern I, N.C. Campaign",
+1862-03-12,"New Bern I, N.C. Campaign","New Bern I, N.C. Campaign",
+1862-03-13,"New Bern I, N.C. Campaign","New Bern I, N.C. Campaign",
+1862-03-14,"New Bern I, N.C. Campaign ended New Madrid, Mo.","New Bern I, N.C. Campaign","ended New Madrid, Mo."
+1862-03-16,"Island No. 10, Tenn., Campaign commenced","Island No. 10, Tenn.",Campaign commenced
+1862-03-16,"Pound Gap I, Ky. Va.",,
+1862-03-17,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-18,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-19,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-20,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-21,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-22,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-22,"Winchester I, Va. (Kernstown I)","Winchester I, Va.",(Kernstown I)
+1862-03-23,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-23,"Winchester I, Va. (Kernstown I)","Winchester I, Va.",(Kernstown I)
+1862-03-24,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-25,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-26,"Glorieta, N.Mex. Terr. (Apache Canyon, Glorieta Pass, Glorieta Canyon, Pigeon's Ranch, Johnson's Ranch)","Glorieta, N.Mex. Terr.","(Apache Canyon, Glorieta Pass, Glorieta Canyon, Pigeon's Ranch, Johnson's Ranch)"
+1862-03-26,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-27,"Glorieta, N.Mex. Terr. (Apache Canyon, Glorieta Pass, Glorieta Canyon, Pigeon's Ranch, Johnson's Ranch)","Glorieta, N.Mex. Terr.","(Apache Canyon, Glorieta Pass, Glorieta Canyon, Pigeon's Ranch, Johnson's Ranch)"
+1862-03-27,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-28,"Bealeton Station, Va. (Rappahannock Station)",,
+1862-03-28,"Glorieta, N.Mex. Terr. (Apache Canyon, Glorieta Pass, Glorieta Canyon, Pigeon's Ranch, Johnson's Ranch)","Glorieta, N.Mex. Terr.","(Apache Canyon, Glorieta Pass, Glorieta Canyon, Pigeon's Ranch, Johnson's Ranch)"
+1862-03-28,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-29,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-30,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-03-31,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-04-01,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-04-02,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-04-03,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-04-04,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-04-05,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-04-05,"Siege of Yorktown, Va. Commenced","Siege of Yorktown, Va.",Commenced
+1862-04-06,"Island No. 10, Tenn.","Island No. 10, Tenn.",
+1862-04-06,"Shiloh, Tenn. (Pittsburg Landing)","Shiloh, Tenn.",(Pittsburg Landing)
+1862-04-06,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-07,"Island No. 10, Tenn. (New Madrid Bend, Tiptonville)","Island No. 10, Tenn.","(New Madrid Bend, Tiptonville)"
+1862-04-07,"Shiloh, Tenn. (Pittsburg Landing)","Shiloh, Tenn.",(Pittsburg Landing)
+1862-04-07,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-08,"Island No. 10, Tenn. campaign ended","Island No. 10, Tenn.",campaign ended
+1862-04-08,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-09,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-10,"Fort Pulaski, Ga.",,
+1862-04-10,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-11,"Siege of Yorktown, Va. Fort Pulaski, Tenn.","Siege of Yorktown, Va.","Fort Pulaski, Tenn."
+1862-04-12,"Andrews' Raid (The General, Western and Atlantic railroad engine, followed by Texas, from Big Shanty to Ringgold, Ga.)",,
+1862-04-12,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-13,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-14,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-15,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-16,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-17,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-18,"Forts Jackson and St. Philip, La. Campaign commenced (USS Hartford and 35 other ships vs. 14 C.S.N. ships)","Forts Jackson and St. Philip, La.",Campaign commenced (USS Hartford and 35 other ships vs. 14 C.S.N. ships)
+1862-04-18,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-19,"Forts Jackson and St. Philip, La.","Forts Jackson and St. Philip, La.",
+1862-04-19,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-19,"South Mills, N.C. (Camden)",,
+1862-04-20,"Forts Jackson and St. Philip, La.","Forts Jackson and St. Philip, La.",
+1862-04-20,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-21,"Forts Jackson and St. Philip, La.","Forts Jackson and St. Philip, La.",
+1862-04-21,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-22,"Forts Jackson and St. Philip, La.","Forts Jackson and St. Philip, La.",
+1862-04-22,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-23,"Forts Jackson and St. Philip, La.","Forts Jackson and St. Philip, La.",
+1862-04-23,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-24,"Forts Jackson and St. Philip, La.","Forts Jackson and St. Philip, La.",
+1862-04-24,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-25,"Fort Macon, N.C. (Beaufort; USS Daylight, State of Georgia, and Chippewa)",,
+1862-04-25,"Forts Jackson and St. Philip, La.","Forts Jackson and St. Philip, La.",
+1862-04-25,"New Orleans, La.",,
+1862-04-25,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-26,"Forts Jackson and St. Philip, La.","Forts Jackson and St. Philip, La.",
+1862-04-26,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-27,"Forts Jackson and St. Philip, La.","Forts Jackson and St. Philip, La.",
+1862-04-27,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-28,"Forts Jackson and St. Philip, La. campaign ended","Forts Jackson and St. Philip, La.",campaign ended
+1862-04-28,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-29,"Corinth Campaign, Miss, commenced","Corinth Campaign, Miss.",commenced
+1862-04-29,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-04-30,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-04-30,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-05-01,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-01,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-05-02,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-02,"Siege of Yorktown, Va.","Siege of Yorktown, Va.",
+1862-05-03,"Corinth Campaign, Miss. (Farmington, Miss.)","Corinth Campaign, Miss.","(Farmington, Miss.)"
+1862-05-03,"Siege of Yorktown, Va. Ended","Siege of Yorktown, Va.",Ended
+1862-05-04,"Corinth Campaign, Miss. (Farmington, Miss.)","Corinth Campaign, Miss.","(Farmington, Miss.)"
+1862-05-05,"Corinth Campaign, Miss. (Farmington, Miss.)","Corinth Campaign, Miss.","(Farmington, Miss.)"
+1862-05-05,"Williamsburg, Va.",,
+1862-05-06,"Corinth Campaign, Miss. (Farmington, Miss.)","Corinth Campaign, Miss.","(Farmington, Miss.)"
+1862-05-07,"Corinth Campaign, Miss. (Farmington, Miss.)","Corinth Campaign, Miss.","(Farmington, Miss.)"
+1862-05-07,"West Point, Va. (Eltham's Landing, Barhamsville)",,
+1862-05-08,"Corinth Campaign, Miss. (Farmington, Miss.)","Corinth Campaign, Miss.","(Farmington, Miss.)"
+1862-05-08,"McDowell, Va. (Bull Pasture, Bull Pasture Mountain)",,
+1862-05-09,"Corinth Campaign, Miss. (Farmington, Miss.)","Corinth Campaign, Miss.","(Farmington, Miss.)"
+1862-05-10,"Corinth Campaign, Miss. (Farmington, Miss.)","Corinth Campaign, Miss.","(Farmington, Miss.)"
+1862-05-10,"Norfolk II, Va.","Norfolk II, Va.",
+1862-05-10,"Pensacola, Fla.",,
+1862-05-10,"Plum Run Bend, Tenn. (Plum Point)",,
+1862-05-11,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-11,"Norfolk II, Va.","Norfolk II, Va.",
+1862-05-12,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-13,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-14,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-14,"Drewry's Bluff I, Va. (Fort Darling I; USS Galena, Port Royal, Aroostook, Naugatuck, and Monitor)","Drewry's Bluff I, Va.","(Fort Darling I; USS Galena, Port Royal, Aroostook, Naugatuck, and Monitor)"
+1862-05-15,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-15,"Drewry's Bluff I, Va. (Fort Darling I)","Drewry's Bluff I, Va.",(Fort Darling I)
+1862-05-16,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-16,"Princeton, Va.",,
+1862-05-17,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-17,"Miss. Princeton, Va.",,
+1862-05-17,"Miss. Russell's House, Miss.",,
+1862-05-18,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-19,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-19,"Searcy Landing, Ark.",,
+1862-05-20,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-21,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-22,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-23,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-23,"Front Royal I, Va.",,
+1862-05-23,"Lewisburg, Va.",,
+1862-05-24,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-24,"Newtown, Va.",,
+1862-05-25,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-25,"Winchester II, Va.",,
+1862-05-26,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-27,"Corinth Campaign, Miss.","Corinth Campaign, Miss.",
+1862-05-27,"Hanover Court House I, Va. (Slash Church, Peake's Station, Kinney's Farm I)",,
+1862-05-30,"Booneville I, Miss.",,
+1862-05-30,"Corinth I, Miss. (Campaign ended)","Corinth I, Miss.",(Campaign ended)
+1862-05-30,"Front Royal II, Va",,
+1862-05-31,"Fair Oaks I, Va. (Seven Pines)","Fair Oaks I, Va. (Seven Pines)",
+1862-06-01,"Fair Oaks I, Va. (Seven Pines)","Fair Oaks I, Va. (Seven Pines)",
+1862-06-04,"Fort Pillow I, Tenn. (USS Benton and five other ships)","Fort Pillow I, Tenn.",(USS Benton and five other ships)
+1862-06-05,"Fort Pillow I, Tenn.","Fort Pillow I, Tenn.",
+1862-06-05,"Memphis I, Tenn.","Memphis I, Tenn.",
+1862-06-06,"Fort Pillow I, Tenn.","Fort Pillow I, Tenn.",
+1862-06-06,"Memphis I, Tenn. (USS Queen of the West and three other ships vs. CSS Van Dorn and seven other ships)","Memphis I, Tenn.",(USS Queen of the West and three other ships vs. CSS Van Dorn and seven other ships)
+1862-06-08,"Cross Keys, Va. (Union Church)",,
+1862-06-09,"Grand Gulf I, Miss.",,
+1862-06-09,"Port Republic I, Va.",,
+1862-06-13,"New Market I, Va.",,
+1862-06-16,"Secessionville, S.C. (James Island, Fort Johnson)",,
+1862-06-18,"Cumberland Gap I, Tenn.",,
+1862-06-25,"The Seven Days (Oak Grove, Henrico, French's Field, King's Schoolhouse, The Orchard, Meadow Bridge, Va.)",The Seven Days,"(Oak Grove, Henrico, French's Field, King's Schoolhouse, The Orchard, Meadow Bridge, Va.)"
+1862-06-26,"The Seven Days (Mechanicsville I, Ellerson's Mill, Beaver Dam Creek, Meadow Bridge, Va.)",The Seven Days,"(Mechanicsville I, Ellerson's Mill, Beaver Dam Creek, Meadow Bridge, Va.)"
+1862-06-27,"The Seven Days (Gaines's Mill I, Cold Harbor I, Kinney's Farm II, Hanover Court House II, Chickahominy, Va.)",The Seven Days,"(Gaines's Mill I, Cold Harbor I, Kinney's Farm II, Hanover Court House II, Chickahominy, Va.)"
+1862-06-28,"The Seven Days (Garnett's Farm, Golding's Farm, Dispatch Station, Boatswain's Swamp, White House Landing, Va.)",The Seven Days,"(Garnett's Farm, Golding's Farm, Dispatch Station, Boatswain's Swamp, White House Landing, Va.)"
+1862-06-29,"The Seven Days (Savage's Station, Peach Orchard, Allen's Farm, Fair Oaks Station, James River Road, Va.)",The Seven Days,"(Savage's Station, Peach Orchard, Allen's Farm, Fair Oaks Station, James River Road, Va.)"
+1862-06-30,"The Seven Days (Glendale, Frayser's Farm, White Oak Swamp, Charles City Crossroads, New Market Road I, Willis Church, Turkey Bridge, Nelson's Crossroads, Nelson's Farm, Malvern Cliff, Va.)",The Seven Days,"(Glendale, Frayser's Farm, White Oak Swamp, Charles City Crossroads, New Market Road I, Willis Church, Turkey Bridge, Nelson's Crossroads, Nelson's Farm, Malvern Cliff, Va.)"
+1862-07-01,"Booneville II, Miss.",,
+1862-07-01,"The Seven Days (Malvern Hill I, Crew's Farm, Turkey Run, Poindexter's Farm, Va.)",The Seven Days,"(Malvern Hill I, Crew's Farm, Turkey Run, Poindexter's Farm, Va.)"
+1862-07-04,"USS Maratanza vs. CSS Teaser, James River I, Va.  Morgan's Raid I commenced (Knoxville I, Sparta I, Tenn.)",,
+1862-07-05,Morgan's Raid I,Morgan's Raid I,
+1862-07-06,"Devall's Bluff, Ark.",,
+1862-07-06,"Forrest's Raid I commenced (McMinnville I, Tenn.)",Forrest's Raid I,"commenced (McMinnville I, Tenn.)"
+1862-07-06,Morgan's Raid I,Morgan's Raid I,
+1862-07-07,Forrest's Raid I,Forrest's Raid I,
+1862-07-07,Morgan's Raid I,Morgan's Raid I,Forrest's Raid I
+1862-07-08,Forrest's Raid I,Forrest's Raid I,
+1862-07-08,"Morgan's Raid I (Celina, Tenn.)",Morgan's Raid I,"(Celina, Tenn.)"
+1862-07-09,Forrest's Raid I,Forrest's Raid I,
+1862-07-09,"Morgan's Raid I (Tompkinsville I, Ky.)",Morgan's Raid I,"(Tompkinsville I, Ky.)"
+1862-07-10,Forrest's Raid I,Forrest's Raid I,
+1862-07-10,"Morgan's Raid I (Lebanon, Glasgow I, Horse Cave, Ky.)",Morgan's Raid I,"(Lebanon, Glasgow I, Horse Cave, Ky.)"
+1862-07-11,Forrest's Raid I,Forrest's Raid I,
+1862-07-11,"Morgan's Raid I (Glasgow, Mackville, Lebanon I, Ky.)",Morgan's Raid I,"(Glasgow, Mackville, Lebanon I, Ky.)"
+1862-07-12,Forrest's Raid I,Forrest's Raid I,
+1862-07-12,"Morgan's Raid I (Lebanon, Harrodsburg, Ky.)",Morgan's Raid I,"(Lebanon, Harrodsburg, Ky.)"
+1862-07-13,"Forrest's Raid I (Murfreesboro I, Tenn.)",Forrest's Raid I,"(Murfreesboro I, Tenn.)"
+1862-07-13,"Morgan's Raid I (Springfield I, Midway, Harrodsburg, Ky.)",Morgan's Raid I,"(Springfield I, Midway, Harrodsburg, Ky.)"
+1862-07-14,Forrest's Raid I,Forrest's Raid I,
+1862-07-14,"Morgan's Raid I (Lawrenceburg I, Harrodsburg, Versailles I, Georgetown I, Ky.)",Morgan's Raid I,"(Lawrenceburg I, Harrodsburg, Versailles I, Georgetown I, Ky.)"
+1862-07-15,Forrest's Raid I,Forrest's Raid I,
+1862-07-15,"Morgan's Raid I (Georgetown I, Ky.)",Morgan's Raid I,"(Georgetown I, Ky.)"
+1862-07-15,"Yazoo River, Miss. (USS Queen of the West, Tyler, and Carondelet vs. CSS Arkansas)","Yazoo River, Miss.","(USS Queen of the West, Tyler, and Carondelet vs. CSS Arkansas)"
+1862-07-16,"Morgan's Raid I (Georgetown I, Ky.) Forrest's Raid I",Morgan's Raid I,"(Georgetown I, Ky.) Forrest's Raid I"
+1862-07-17,Forrest's Raid I,Forrest's Raid I,
+1862-07-17,"Morgan's Raid I (Cynthiana I, Georgetown I, Ky.)",Morgan's Raid I,"(Cynthiana I, Georgetown I, Ky.)"
+1862-07-18,Forrest's Raid I,Forrest's Raid I,
+1862-07-18,"Morgan's Raid I (Georgetown I, Paris, Ky.)",Morgan's Raid I,"(Georgetown I, Paris, Ky.)"
+1862-07-18,"Newburg, Ind.",,
+1862-07-19,Forrest's Raid I,Forrest's Raid I,
+1862-07-19,"Morgan's Raid I (Paris, Winchester, Ky.)",Morgan's Raid I,"(Paris, Winchester, Ky.)"
+1862-07-20,Forrest's Raid I,Forrest's Raid I,
+1862-07-20,"Morgan's Raid I (Winchester, Richmond, Crab Orchard I, Ky.)",Morgan's Raid I,"(Winchester, Richmond, Crab Orchard I, Ky.)"
+1862-07-21,"Forrest's Raid I ended (McMinnville, Tenn.)",Forrest's Raid I,"ended (McMinnville, Tenn.)"
+1862-07-21,"Morgan's Raid I (Crab Orchard, Somerset D,Ky.)",Morgan's Raid I,"(Crab Orchard, Somerset D,Ky.)"
+1862-07-22,"Morgan's Raid I (Somerset II, Monticello, Ky., Sparta II, Tenn.)",Morgan's Raid I,"(Somerset II, Monticello, Ky., Sparta II, Tenn.)"
+1862-07-23,Morgan's Raid I,Morgan's Raid I,
+1862-07-24,Morgan's Raid I,Morgan's Raid I,
+1862-07-25,Morgan's Raid I,Morgan's Raid I,
+1862-07-26,Morgan's Raid I,Morgan's Raid I,
+1862-07-27,Morgan's Raid I,Morgan's Raid I,
+1862-07-28,"Morgan's Raid I (Livingston, Tenn.)",Morgan's Raid I,"(Livingston, Tenn.)"
+1862-07-29,"Morgan's Raid I ended (Knoxville II, Tenn.)",Morgan's Raid I,"ended (Knoxville II, Tenn.)"
+1862-08-05,"Baton Rouge, La.",,
+1862-08-06,"USS Essex, Sumter, Cayuga, Kineo, and Katahdin vs. CSS Arkansas, Miss. River near Baton Rouge, La.",,
+1862-08-09,"Cedar Mountain, Va. (Slaughter's Mountain, Southwest Mountain, Mitchell's Station, Cedar Run)",,
+1862-08-10,"Nueces River, Tex.",,
+1862-08-12,"Gallatin I, Tenn.",,
+1862-08-18,"Clarksville I, Tenn.",,
+1862-08-20,"Brandy Station I, Va.",,
+1862-08-21,"Hartsfield, Tenn.",,
+1862-08-22,"Stuart's Raid (Catlett's Station I, Rappahannock Station I, Va.)",Stuart's Raid,"(Catlett's Station I, Rappahannock Station I, Va.)"
+1862-08-23,"Big Hill, Ky.",,
+1862-08-23,"Stuart's Raid (Catlett's Station I, Rappahannock Station I, Va.)",Stuart's Raid,"(Catlett's Station I, Rappahannock Station I, Va.)"
+1862-08-26,"Bull Run II, Va. commenced (Bristoe Station I, Manassas Junction I)",Bull Run II,"commenced (Bristoe Station I, Manassas Junction I)"
+1862-08-27,"Bull Run II, Va. (Kettle Run, Cub Run,  Bull Run Bridge, Broad Run, Buckland Run)",Bull Run II,"(Kettle Run, Cub Run,  Bull Run Bridge, Broad Run, Buckland Run)"
+1862-08-28,"Bull Run II, Va. (Groveton, Brawner's Farm, Gainesville, Thoroughfare Gap)",Bull Run II,"(Groveton, Brawner's Farm, Gainesville, Thoroughfare Gap)"
+1862-08-29,"Bull Run II, Va. (Groveton, Manassas Plains, Manassas Junction II, Gainesville, Kettle Run)",Bull Run II,"(Groveton, Manassas Plains, Manassas Junction II, Gainesville, Kettle Run)"
+1862-08-30,"Bull Run II, Va. (Manassas II, Groveton Heights)",Bull Run II,"(Manassas II, Groveton Heights)"
+1862-08-30,"Richmond, Ky. (White's Farm)",,
+1862-08-31,"Bull Run II, Va. (Manassas II)",Bull Run II,(Manassas II)
+1862-09-01,"Bull Run II, Va. ended (Chantilly, Ox Hill)",Bull Run II,"ended (Chantilly, Ox Hill)"
+1862-09-03,"Natchez, Miss.",,
+1862-09-06,"Clarksville II, Tenn. (Rickett's Hill)",,
+1862-09-12,"Harpers Ferry II, Va.","Harpers Ferry II, Va.",
+1862-09-13,"Harpers Ferry II, Va.","Harpers Ferry II, Va.",
+1862-09-14,"Harpers Ferry II, Va.  ","Harpers Ferry II, Va.","South Mountain, Md. (Turner's Gap, Fox's Gap, Crampton's Gap, Boonesboro)"
+1862-09-14,"South Mountain, Md. (Turner's Gap, Fox's Gap, Crampton's Gap, Boonesboro)",,
+1862-09-15,"Harpers Ferry II, Va.","Harpers Ferry II, Va.",
+1862-09-16,"Munfordville I, Ky.",,
+1862-09-17,"Antietam, Md. (Sharpsburg)",,
+1862-09-17,"Munfordville, Ky.",,
+1862-09-19,"Iuka, Miss.",,
+1862-09-19,"Shepherdstown, Va. (Blackford's Ford, Boteler's Ford)",,
+1862-09-25,"Davis' Bridge, Tenn. (Pocahontas)",,
+1862-09-30,"Newtonia I, Mo.",,
+1862-10-03,"Corinth II, Miss.","Corinth II, Miss.",
+1862-10-04,"Corinth II, Miss.","Corinth II, Miss.",
+1862-10-05,"Hatchie River, Miss. (Big Hatchie River, Hatchie Bridge, Davis' Bridge, Metamora)",,
+1862-10-08,"Perryville, Ky. (Chaplin Hills)",,
+1862-10-17,"Morgan's Raid II commenced (Clay's Ferry, Ky.)",Morgan's Raid II,"(Clay's Ferry, Ky.)"
+1862-10-18,"Morgan's Raid II, (Crab Orchard II, Lexington I, Versailles II, Ky.)",Morgan's Raid II,"(Crab Orchard II, Lexington I, Versailles II, Ky.)"
+1862-10-19,"Morgan's Raid II (Lawrenceburg II, Bardstown I, Elizabethtown, Ky.)",Morgan's Raid II,"(Lawrenceburg II, Bardstown I, Elizabethtown, Ky.)"
+1862-10-20,Morgan's Raid II,Morgan's Raid II,
+1862-10-21,Morgan's Raid II,Morgan's Raid II,
+1862-10-22,"Cumberland Gap II, Tenn.",,
+1862-10-22,Morgan's Raid II,Morgan's Raid II,
+1862-10-22,"Pocotaligo, S.C. (Yemassee)",,
+1862-10-23,Morgan's Raid II,Morgan's Raid II,
+1862-10-24,"Morgan's Raid II (Morgantown, Ky.)",Morgan's Raid II,"(Morgantown, Ky.)"
+1862-10-25,"Morgan's Raid II (Hopkinsville, Ky.)",Morgan's Raid II,"(Hopkinsville, Ky.)"
+1862-10-26,Morgan's Raid II,Morgan's Raid II,
+1862-10-27,Morgan's Raid II,Morgan's Raid II,
+1862-10-28,Morgan's Raid II,Morgan's Raid II,
+1862-10-29,Morgan's Raid II,Morgan's Raid II,
+1862-10-30,Morgan's Raid II,Morgan's Raid II,
+1862-10-31,Morgan's Raid II,Morgan's Raid II,
+1862-11-01,Morgan's Raid II,Morgan's Raid II,
+1862-11-02,Morgan's Raid II,Morgan's Raid II,
+1862-11-03,"Bayou Teche I, La. (USS Calhoun, Diana, Estrella, Kinsman, and St Mary)",,
+1862-11-03,Morgan's Raid II,Morgan's Raid II,
+1862-11-04,Morgan's Raid II,Morgan's Raid II,
+1862-11-05,"Chester Gap, Va. (Barbee's Crossroads)",,
+1862-11-05,"Morgan's Raid II ended (Gallatin II, Tenn.)",Morgan's Raid II,"(Gallatin II, Tenn.)"
+1862-11-28,"Cane Hill, Ark. (Boston Mountains, Boonsboro I)",,
+1862-12-05,"Coffeeville, Miss.",,
+1862-12-07,"Prairie Grove, Ark.",,
+1862-12-11,"Forrest's Raid II commenced (Columbia I, Tenn.)",Forrest's Raid II,"commenced (Columbia I, Tenn.)"
+1862-12-11,"Fredericksburg I, Va. (Marye's Heights I)","Fredericksburg I, Va.",(Marye's Heights I)
+1862-12-12,Forrest's Raid II,Forrest's Raid II,
+1862-12-12,"Fredericksburg I, Va. (Marye's Heights I)","Fredericksburg I, Va.",(Marye's Heights I)
+1862-12-12,"Kinston I, N.C.","Kinston I, N.C.",
+1862-12-12,"USS Cairo, Yazoo River, Miss.",,
+1862-12-13,Forrest's Raid II,Forrest's Raid II,
+1862-12-13,"Fredericksburg I, Va. (Marye's Heights I)","Fredericksburg I, Va.",(Marye's Heights I)
+1862-12-14,Forrest's Raid II,Forrest's Raid II,
+1862-12-15,Forrest's Raid II,Forrest's Raid II,
+1862-12-16,Forrest's Raid II,Forrest's Raid II,
+1862-12-17,Forrest's Raid II,Forrest's Raid II,
+1862-12-18,"Forrest's Raid II (Lexington, Tenn.)",Forrest's Raid II,"(Lexington, Tenn.)"
+1862-12-19,"Forrest's Raid II (Salem Church, Salem Cemetery, Jackson, Tenn.)",Forrest's Raid II,"(Salem Church, Salem Cemetery, Jackson, Tenn.)"
+1862-12-20,"Forrest's Raid II (Trenton, Tenn.)",Forrest's Raid II,"(Trenton, Tenn.)"
+1862-12-20,"Holly Springs, Miss.",,
+1862-12-21,Forrest's Raid II,Forrest's Raid II,
+1862-12-21,"Morgan's Raid III, Ky. commenced (Alexandria, Tenn.)","Morgan's Raid III, Ky.","commenced (Alexandria, Tenn.)"
+1862-12-22,Forrest's Raid II,Forrest's Raid II,
+1862-12-22,"Kelly's Ford I, Va.",,
+1862-12-22,"Morgan's Raid III, Ky. (Tompkinsville II)","Morgan's Raid III, Ky.",(Tompkinsville II)
+1862-12-23,Forrest's Raid II,Forrest's Raid II,
+1862-12-23,"Morgan's Raid III, Ky.","Morgan's Raid III, Ky.",
+1862-12-24,Forrest's Raid II,Forrest's Raid II,
+1862-12-24,"Morgan's Raid III, Ky. (Glasgow II)","Morgan's Raid III, Ky.",(Glasgow II)
+1862-12-25,Forrest's Raid II,Forrest's Raid II,
+1862-12-25,"Morgan's Raid III, Ky. (Cave City)","Morgan's Raid III, Ky.",(Cave City)
+1862-12-26,Forrest's Raid II,Forrest's Raid II,
+1862-12-26,"Morgan's Raid III, Ky. (Nolan, Upton, Munfordville, Bacon Creek)","Morgan's Raid III, Ky.","(Nolan, Upton, Munfordville, Bacon Creek)"
+1862-12-27,Forrest's Raid II,Forrest's Raid II,
+1862-12-27,"Morgan's Raid III, Ky. (Elizabethtown)","Morgan's Raid III, Ky.",(Elizabethtown)
+1862-12-28,"Chickasaw Bayou, Miss. (Chickasaw Bluff, Walnut Hills)","Chickasaw Bayou, Miss.","(Chickasaw Bluff, Walnut Hills)"
+1862-12-28,Forrest's Raid II,Forrest's Raid II,
+1862-12-28,"Morgan's Raid III, Ky. (Lebanon Junction, Muldraugh's Hill)","Morgan's Raid III, Ky.","(Lebanon Junction, Muldraugh's Hill)"
+1862-12-29,"Chickasaw Bayou, Miss.","Chickasaw Bayou, Miss.",
+1862-12-29,Forrest's Raid II,Forrest's Raid II,
+1862-12-29,"Morgan's Raid III, Ky. (Boston, New Haven, Bardstown II)","Morgan's Raid III, Ky.","(Boston, New Haven, Bardstown II)"
+1862-12-30,"Carter's Station, Tenn. (Wautauga Bridge)",,
+1862-12-30,"Chickasaw Bayou, Miss.","Chickasaw Bayou, Miss.",
+1862-12-30,Forrest's Raid II,Forrest's Raid II,
+1862-12-30,"Morgan's Raid III, Ky. (Springfield II)","Morgan's Raid III, Ky.",(Springfield II)
+1862-12-31,"Forrest's Raid II (Parker's Crossroads, Tenn.)",Forrest's Raid II,"(Parker's Crossroads, Tenn.)"
+1862-12-31,"Morgan's Raid III, Ky. (Lebanon II, Camp-bellsville II)","Morgan's Raid III, Ky.","(Lebanon II, Camp-bellsville II)"
+1862-12-31,"Stones River, Tenn. (Murfreesboro I)","Stones River, Tenn.",(Murfreesboro I)
+1863-01-01,"Galveston I, Tex. (USS Harriet Lane, Owasco, Corypheus, Sachem, Westfield, and Clifton vs. CSS Bayou City and Neptune)",,
+1863-01-01,"Helena, Ark.",,
+1863-01-01,"Morgan's Raid III, Ky. (Columbia I)","Morgan's Raid III, Ky.",(Columbia I)
+1863-01-01,"Stones River, Tenn. (Murfreesboro I)","Stones River, Tenn.",(Murfreesboro I)
+1863-01-02,"Morgan's Raid III, Ky. ended (Burkesville, Ky., Smithville, Tenn.)","Morgan's Raid III, Ky.","ended (Burkesville, Ky., Smithville, Tenn.)"
+1863-01-02,"Stones River, Tenn. (Murfreesboro I)","Stones River, Tenn.",(Murfreesboro I)
+1863-01-10,"Arkansas Post, Ark. (Fort Hindman)","Arkansas Post, Ark.",(Fort Hindman)
+1863-01-11,"Arkansas Post, Ark. (USS Black Hawk)","Arkansas Post, Ark.",(USS Black Hawk)
+1863-01-11,"USS Hatteras vs. CSS Alabama off Galveston II, Tex.",,
+1863-01-14,"Bayou Teche II, La. (USS Calhoun, Diana, Estrella, and Kinsman vs. CSS Cotton)",,
+1863-01-20,"The ""Mud March"" in Va.","""Mud March""",
+1863-01-21,"""Mud March""","""Mud March""",
+1863-01-21,"Sabine Pass I, Tex.",,
+1863-01-22,"""Mud March""","""Mud March""",
+1863-01-23,"""Mud March""","""Mud March""",
+1863-02-01,"Fort McAllister I, Ga.",,
+1863-02-24,"Arizona Terr, organized",,
+1863-02-24,Capture of USS Indianola,,
+1863-02-28,"USS Montauk vs. CSS Rattlesnake in Ossabaw Sound, Ga.",,
+1863-03-03,"Idaho Terr, organized",,
+1863-03-04,"Thompson's Station I, Tenn. (Spring Hill I, Unionville)","Thompson's Station I, Tenn.","(Spring Hill I, Unionville)"
+1863-03-05,"Thompson's Station I, Tenn.","Thompson's Station I, Tenn.",
+1863-03-11,"Fort Pemberton, Miss. (USS Chillicothe and Baron de Kalb)",,
+1863-03-14,"Port Hudson, La. (USS Mississippi, Hartford, Richmond, Monongahela, Albatross, Genesee, and Kineo)",,
+1863-03-16,"Steele's Bayou, Miss.","Steele's Bayou, Miss.",
+1863-03-17,"Kelly's Ford II, Va. (Kellysville)",,
+1863-03-17,"Steele's Bayou, Miss.","Steele's Bayou, Miss.",
+1863-03-18,"Steele's Bayou, Miss.","Steele's Bayou, Miss.",
+1863-03-19,"Steele's Bayou, Miss.","Steele's Bayou, Miss.",
+1863-03-20,"Steele's Bayou, Miss.","Steele's Bayou, Miss.",
+1863-03-21,"Fort Pemberton II, Miss. (USS Chillicothe and Baron de Kalb)",,
+1863-03-21,"Steele's Bayou, Miss.","Steele's Bayou, Miss.",
+1863-03-22,"Steele's Bayou, Miss.","Steele's Bayou, Miss.",
+1863-03-23,"Jacksonville I, Fla. (USS Paul Jones)",,
+1863-03-25,"Brentwood I, Tenn.",,
+1863-04-07,"Fort Sumter II, S.C. (USS Weehawken, Passaic, Montauk, Nantucket, Patapsco, Keokuk, Catskill, Nahant, and New Ironsides)",,
+1863-04-11,"Siege of Suffolk, Va. commenced","Siege of Suffolk, Va",Commenced
+1863-04-12,"Irish Bend, La. (Centreville, Fort Bisland, Bethel Place, Bayou Teche, Indian Ridge, Indian Bend)","Irish Bend, La.","(Centreville, Fort Bisland, Bethel Place, Bayou Teche, Indian Ridge, Indian Bend)"
+1863-04-12,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-13,"Irish Bend, La. (Centreville, Fort Bisland, Bethel Place, Bayou Teche, Indian Ridge, Indian Bend)","Irish Bend, La.","(Centreville, Fort Bisland, Bethel Place, Bayou Teche, Indian Ridge, Indian Bend)"
+1863-04-13,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-14,"Irish Bend, La. (Centreville, Fort Bisland, Bethel Place, Bayou Teche, Indian Ridge, Indian Bend)","Irish Bend, La.","(Centreville, Fort Bisland, Bethel Place, Bayou Teche, Indian Ridge, Indian Bend)"
+1863-04-14,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-15,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-16,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-17,"Grierson's Raid commenced (Lagrange, Tenn.)",Grierson's Raid,"commenced (Lagrange, Tenn.)"
+1863-04-17,Marmaduke's Raid commenced,Marmaduke's Raid,commenced
+1863-04-17,"Siege of Suffolk, Va","Siege of Suffolk, Va",
+1863-04-18,"Fayetteville I, Ark.",,
+1863-04-18,"Grierson's Raid (Ripley, Miss.)",Grierson's Raid,"(Ripley, Miss.)"
+1863-04-18,"Marmaduke's Raid Siege of Suffolk, Va.",Marmaduke's Raid,"Siege of Suffolk, Va."
+1863-04-19,"Fort Huger, N.C.",,
+1863-04-19,"Grierson's Raid (Pontotoc I, Miss.)",Grierson's Raid,"(Pontotoc I, Miss.)"
+1863-04-19,Marmaduke's Raid,Marmaduke's Raid,
+1863-04-19,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-20,Grierson's Raid,Grierson's Raid,
+1863-04-20,"Marmaduke's Raid (Patterson I, Mo.)",Marmaduke's Raid,"(Patterson I, Mo.)"
+1863-04-20,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-21,"Grierson's Raid (Palo Alto, Miss.)",Grierson's Raid,"(Palo Alto, Miss.)"
+1863-04-21,"Imboden's Va. Raid commenced (Beverly, Va.)",Imboden's Raid,"commenced (Beverly, Va.)"
+1863-04-21,Marmaduke's Raid,Marmaduke's Raid,
+1863-04-21,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-21,"Streight's Raid commenced (Eastport, Miss.)",Streight's Raid,"(Eastport, Miss.)"
+1863-04-21,W. E. Jones' Va. Raid commenced,W. E. Jones' Raid,commenced
+1863-04-22,"Grierson's Raid (Starkville, Miss.)",Grierson's Raid,"(Starkville, Miss.)"
+1863-04-22,Imboden's Raid,Imboden's Raid,
+1863-04-22,"Marmaduke's Raid (Fredericktown I, Mo.)",Marmaduke's Raid,"(Fredericktown I, Mo.)"
+1863-04-22,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-22,Streight's Raid,Streight's Raid,
+1863-04-22,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-04-23,Grierson's Raid,Grierson's Raid,
+1863-04-23,Imboden's Raid,Imboden's Raid,
+1863-04-23,Marmaduke's Raid,Marmaduke's Raid,
+1863-04-23,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-23,Streight's Raid,Streight's Raid,
+1863-04-23,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-04-24,"Grierson's Raid (Garlandville, Morton, and Birmingham, Miss.)",Grierson's Raid,"(Garlandville, Morton, and Birmingham, Miss.)"
+1863-04-24,"Imboden's Raid (Beverly II, Va.)",Imboden's Raid,"(Beverly II, Va.)"
+1863-04-24,Marmaduke's Raid,Marmaduke's Raid,
+1863-04-24,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-24,Streight's Raid,Streight's Raid,
+1863-04-24,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-04-25,Grierson's Raid,Grierson's Raid,
+1863-04-25,Imboden's Raid,Imboden's Raid,
+1863-04-25,Marmaduke's Raid,Marmaduke's Raid,
+1863-04-25,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-25,Streight's Raid,Streight's Raid,
+1863-04-25,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-04-26,Grierson's Raid,Grierson's Raid,
+1863-04-26,Imboden's Raid,Imboden's Raid,
+1863-04-26,"Marmaduke's Raid (Cape Girardeau, Jack-son, Mo.)",Marmaduke's Raid,"(Cape Girardeau, Jack-son, Mo.)"
+1863-04-26,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-26,"Streight's Raid (Tuscumbia I, Ala.)",Streight's Raid,"(Tuscumbia I, Ala.)"
+1863-04-26,"W. E. Jones' Raid (Altamont, Oakland, Cranberry Summit, Md.)",W. E. Jones' Raid,"(Altamont, Oakland, Cranberry Summit, Md.)"
+1863-04-27,Grierson's Raid,Grierson's Raid,
+1863-04-27,Imboden's Raid,Imboden's Raid,
+1863-04-27,"Marmaduke's Raid (Jackson I, Whitewater Bridge, Mo.)",Marmaduke's Raid,"(Jackson I, Whitewater Bridge, Mo.)"
+1863-04-27,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-27,Streight's Raid,Streight's Raid,
+1863-04-27,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-04-28,"Grierson's Raid (Union Church, Miss.)",Grierson's Raid,"(Union Church, Miss.)"
+1863-04-28,Imboden's Raid,Imboden's Raid,
+1863-04-28,Marmaduke's Raid,Marmaduke's Raid,
+1863-04-28,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-28,"Streight's Raid (Mouton, Ala)",Streight's Raid,"(Mouton, Ala)"
+1863-04-28,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-04-29,"Grand Gulf II, Miss. (USS Louisville, Carondelet, Mound City, Pittsburgh, Benton, Tuscumbia, and Lafayette)",,
+1863-04-29,"Grierson's Raid (Brookhaven, Miss.)",Grierson's Raid,"(Brookhaven, Miss.)"
+1863-04-29,Imboden's Raid,Imboden's Raid,
+1863-04-29,"Marmaduke's Raid (Castor River, Mo.)",Marmaduke's Raid,"(Castor River, Mo.)"
+1863-04-29,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-29,"Stoneman's Raid I, Va. commenced",Stoneman's Raid I,Va. commenced
+1863-04-29,Streight's Raid,Streight's Raid,
+1863-04-29,"W. E. Jones' Raid (Fairmont, Va.)",W. E. Jones' Raid,"(Fairmont, Va.)"
+1863-04-30,Grierson's Raid,Grierson's Raid,
+1863-04-30,"Haines's Bluff, Miss. (Snyder's Mill)",,
+1863-04-30,Imboden's Raid,Imboden's Raid,
+1863-04-30,"Marmaduke's Raid (Bloomfield, Mo.)",Marmaduke's Raid,"(Bloomfield, Mo.)"
+1863-04-30,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-04-30,"Stoneman's Raid I (Raccoon Ford, Va.)",Stoneman's Raid I,"(Raccoon Ford, Va.)"
+1863-04-30,"Streight's Raid (Day's Gap, Sand Mountain, Ala.)",Streight's Raid,"(Day's Gap, Sand Mountain, Ala.)"
+1863-04-30,"W. E. Jones' Raid (Bridgeport, Va.)",W. E. Jones' Raid,"(Bridgeport, Va.)"
+1863-05-01,"Chancellorsville, Va. commenced","Chancellorsville, Va.",commenced
+1863-05-01,"Grant's Vicksburg Campaign commenced (Port Gibson, Grand Gulf III, Thompson's Mill, Magnolia Hills, Miss.)",Grant's Vicksburg Campaign,"commenced (Port Gibson, Grand Gulf III, Thompson's Mill, Magnolia Hills, Miss.)"
+1863-05-01,"Grierson's Raid (Amite River, Williams Bridge)",Grierson's Raid,"(Amite River, Williams Bridge)"
+1863-05-01,"Haines' Bluff, Miss.",,
+1863-05-01,Marmaduke's Raid,Marmaduke's Raid,
+1863-05-01,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-05-01,"Streight's Raid (Blountsville, Ala.)",Streight's Raid,"(Blountsville, Ala.)"
+1863-05-01,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-02,"Chancellorsville, Va.","Chancellorsville, Va.",
+1863-05-02,Grant's Vicksburg Campaign,Grant's Vicksburg Campaign,
+1863-05-02,"Grierson's Raid ended (Baton Rouge, La.)",Grierson's Raid,"ended (Baton Rouge, La.)"
+1863-05-02,Imboden's Raid,Imboden's Raid,
+1863-05-02,Marmaduke's Raid ended,Marmaduke's Raid,ended
+1863-05-02,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-05-02,"Streight's Raid (Black Creek, Gadsden Center, Blount's Plantation, Ala.)",Streight's Raid,"(Black Creek, Gadsden Center, Blount's Plantation, Ala.)"
+1863-05-02,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-03,"Chancellorsville, Va.","Chancellorsville, Va.",
+1863-05-03,"Fredericksburg, Va. II (Marye's Heights II, Salem Heights, Salem Church I)","Fredericksburg, Va. II","(Marye's Heights II, Salem Heights, Salem Church I)"
+1863-05-03,"Grant's Vicksburg Campaign (Grand Gulf IV, Miss.)",Grant's Vicksburg Campaign,"(Grand Gulf IV, Miss.)"
+1863-05-03,Imboden's Raid,Imboden's Raid,
+1863-05-03,"Siege of Suffolk, Va.","Siege of Suffolk, Va",
+1863-05-03,Stoneman's Raid I,Stoneman's Raid I,
+1863-05-03,"Streight's Raid ended (Cedar Bluff, Ala.)",Streight's Raid,"(Cedar Bluff, Ala.)"
+1863-05-03,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-04,"Chancellorsville, Va. ended","Chancellorsville, Va.",ended
+1863-05-04,"Fredericksburg, Va. II (Marye's Heights II, Salem Heights, Salem Church)","Fredericksburg, Va. II","(Marye's Heights II, Salem Heights, Salem Church)"
+1863-05-04,Grant's Vicksburg Campaign,Grant's Vicksburg Campaign,
+1863-05-04,Imboden's Raid,Imboden's Raid,
+1863-05-04,"Siege of Suffolk, Va. ended","Siege of Suffolk, Va",Ended
+1863-05-04,Stoneman's Raid I,Stoneman's Raid I,
+1863-05-04,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-05,Grant's Vicksburg Campaign,Grant's Vicksburg Campaign,
+1863-05-05,"Tupelo I, Miss.",,
+1863-05-05,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-06,Grant's Vicksburg Campaign,Grant's Vicksburg Campaign,
+1863-05-06,Stoneman's Raid I,Stoneman's Raid I,
+1863-05-06,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-07,"Alexandria I, La.",,
+1863-05-07,Grant's Vicksburg Campaign,Grant's Vicksburg Campaign,
+1863-05-07,Stoneman's Raid I ended,Stoneman's Raid I,ended
+1863-05-07,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-08,Grant's Vicksburg Campaign,Grant's Vicksburg Campaign,
+1863-05-08,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-09,"Grant's Vicksburg Campaign (Utica, Miss.)",Grant's Vicksburg Campaign,"(Utica, Miss.)"
+1863-05-09,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-10,Grant's Vicksburg Campaign,Grant's Vicksburg Campaign,
+1863-05-10,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-11,Grant's Vicksburg Campaign,Grant's Vicksburg Campaign,
+1863-05-11,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-12,"Grant's Vicksburg Campaign (Raymond, Miss.)",Grant's Vicksburg Campaign,"(Raymond, Miss.)"
+1863-05-12,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-13,Grant's Vicksburg Campaign,Grant's Vicksburg Campaign,
+1863-05-13,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-14,"Grant's Vicksburg Campaign (Jackson I, Miss.)",Grant's Vicksburg Campaign,"(Jackson I, Miss.)"
+1863-05-14,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-15,"Grant's Vicksburg Campaign (Edward's Station, Miss.)",Grant's Vicksburg Campaign,"(Edward's Station, Miss.)"
+1863-05-15,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-16,"Grant's Vicksburg Campaign (Champion Hill, Baker's Creek, Edward's Station, Miss.)",Grant's Vicksburg Campaign,"(Champion Hill, Baker's Creek, Edward's Station, Miss.)"
+1863-05-16,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-17,"Grant's Vicksburg Campaign (Big Black River I, Miss.)",Grant's Vicksburg Campaign,"(Big Black River I, Miss.)"
+1863-05-17,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-18,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-18,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-19,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-19,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-20,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-20,W. E. Jones' Raid,W. E. Jones' Raid,
+1863-05-21,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-21,"Siege of Port Hudson, La. commenced","Siege of Port Hudson, La.",Commenced
+1863-05-21,W. E. Jones' Raid ended,W. E. Jones' Raid,ended
+1863-05-22,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-22,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-05-23,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-23,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-05-24,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-24,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-05-25,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-25,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-05-25,"Yazoo City I, Miss.",,
+1863-05-26,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-26,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-05-26,"USS Cincinnati off Vicksburg, Miss.",,
+1863-05-27,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-27,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-05-28,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-28,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-05-29,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-29,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-05-30,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-30,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-05-31,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-05-31,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-01,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-01,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-02,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-02,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-03,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-03,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-04,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-05,"Franklin I, Tenn.",,
+1863-06-05,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-05,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-06,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-06,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-07,"Grant's Vicksburg Campaign (Siege of Vicksburg, Miss., and Miliken's Bend)",Grant's Vicksburg Campaign,"(Siege of Vicksburg, Miss., and Miliken's Bend)"
+1863-06-07,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-08,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-08,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-09,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-09,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-10,"Brandy Station III, Va. (Fleetwood, Beverly Ford, Stevensburg)",,
+1863-06-10,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-10,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-11,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-11,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-12,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-12,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-13,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-13,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-14,"Berryville I, Va.",,
+1863-06-14,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-14,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-15,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-15,"Martinsburg I, Va.",,
+1863-06-15,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-15,"Winchester, Va. III (Stephenson's Depot I)","Winchester, Va. III",(Stephenson's Depot I)
+1863-06-16,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-16,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-16,"Winchester, Va. IIl (Stephenson's Depot I)","Winchester, Va. III",(Stephenson's Depot I)
+1863-06-17,"Gettysburg, Pa. Campaign commenced","Gettysburg, Pa. Campaign",commenced
+1863-06-17,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-17,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-18,"Gettysburg, Pa. Campaign (Aldie, Middle-burg, Va.)","Gettysburg, Pa. Campaign","(Aldie, Middle-burg, Va.)"
+1863-06-18,Grant's Vicksburg Campaign (Siege of,Grant's Vicksburg Campaign,(Siege of
+1863-06-18,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-18,"Warsaw Sound, Ga. (USS Weehawken vs.  CSS Atlanta)",,
+1863-06-19,"Gettysburg, Pa. Campaign (Middleburg, Va.)","Gettysburg, Pa. Campaign","(Middleburg, Va.)"
+1863-06-19,"Gettysburg, Pa. Campaign (Middleburg, Va.)","Gettysburg, Pa. Campaign","(Middieburg, Va.)"
+1863-06-19,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-19,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-20,"Gettysburg, Pa. Campaign","Gettysburg, Pa. Campaign",
+1863-06-20,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-20,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-20,West Virginia admitted to the Union,,
+1863-06-21,"Gettysburg, Pa. Campaign","Gettysburg, Pa. Campaign",
+1863-06-21,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-21,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-22,"Gettysburg, Pa. Campaign (Upperville, Va.)","Gettysburg, Pa. Campaign","(Upperville, Va.)"
+1863-06-22,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-22,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-23,"Brashear City, La.",,
+1863-06-23,"Gettysburg, Pa. Campaign","Gettysburg, Pa. Campaign",
+1863-06-23,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-23,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-23,"Tullahoma, Tenn. Campaign commenced","Tullahoma, Tenn. Campaign",commenced
+1863-06-24,"Gettysburg, Pa. Campaign","Gettysburg, Pa. Campaign",
+1863-06-24,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-24,"Siege of Port Hudson, La. (Bayou Boeuf)","Siege of Port Hudson, La.",(Bayou Boeuf)
+1863-06-24,"Tullahoma, Tenn. Campaign (Hoover's Gap)","Tullahoma, Tenn. Campaign",(Hoover's Gap)
+1863-06-25,"Gettysburg, Pa. Campaign","Gettysburg, Pa. Campaign",
+1863-06-25,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-25,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-25,"Tullahoma, Tenn. Campaign (Liberty Gap)","Tullahoma, Tenn. Campaign",(Liberty Gap)
+1863-06-26,"Gettysburg, Pa. Campaign","Gettysburg, Pa. Campaign",
+1863-06-26,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-26,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-26,"Tullahoma, Tenn. Campaign","Tullahoma, Tenn. Campaign",
+1863-06-27,"Fairfax Court House II, Va.",,
+1863-06-27,"Gettysburg, Pa. Campaign","Gettysburg, Pa. Campaign",
+1863-06-27,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-27,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-27,"Tullahoma, Tenn. Campaign","Tullahoma, Tenn. Campaign",
+1863-06-28,"Gettysburg, Pa. Campaign","Gettysburg, Pa. Campaign",
+1863-06-28,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-28,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-28,"Tullahoma, Tenn. Campaign","Tullahoma, Tenn. Campaign",
+1863-06-29,"Gettysburg, Pa. Campaign","Gettysburg, Pa. Campaign",
+1863-06-29,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-29,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-29,"Tullahoma, Tenn. Campaign","Tullahoma, Tenn. Campaign",
+1863-06-30,"Gettysburg, Pa. Campaign (Hanover)","Gettysburg, Pa. Campaign",(Hanover)
+1863-06-30,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-06-30,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-06-30,"Tullahoma, Tenn. Campaign ended","Tullahoma, Tenn. Campaign",ended
+1863-07-01,"Carlisle, Pa.",,
+1863-07-01,"Gettysburg, Pa.","Gettysburg, Pa.",
+1863-07-01,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-07-01,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-07-02,"Gettysburg, Pa.","Gettysburg, Pa.",
+1863-07-02,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-07-02,"Morgan's Raid IV commenced (Burkesville, Marrowbone, Ky.)",Morgan's Raid IV,"commenced (Burkesville, Marrowbone, Ky.)"
+1863-07-02,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-07-03,"Donaldsonville I, La.",,
+1863-07-03,"Gettysburg, Pa.","Gettysburg, Pa.",
+1863-07-03,Grant's Vicksburg Campaign (Siege of Vicksburg),Grant's Vicksburg Campaign,(Siege of Vicksburg)
+1863-07-03,"Morgan's Raid IV (Columbia II, Ky.)",Morgan's Raid IV,"(Columbia II, Ky.)"
+1863-07-03,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-07-04,"Gettysburg, Pa.","Gettysburg, Pa.",
+1863-07-04,Grant's Vicksburg Campaign ended,Grant's Vicksburg Campaign,ended
+1863-07-04,"Helena, Ark.",,
+1863-07-04,"Morgan's Raid IV (Tebb's Bend, Ky.)",Morgan's Raid IV,"(Tebb's Bend, Ky.)"
+1863-07-04,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-07-05,"Birdsong Ferry, Miss. (Bolton Ferry)",,
+1863-07-05,"Morgan's Raid IV (Lebanon II, Ky.)",Morgan's Raid IV,"(Lebanon II, Ky.)"
+1863-07-05,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-07-06,"Hagerstown I, Md.",,
+1863-07-06,"Morgan's Raid IV (Bardstown III, Ky.)",Morgan's Raid IV,"(Bardstown III, Ky.)"
+1863-07-06,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-07-06,"Williamsport, Md.",,
+1863-07-07,"Jackson II, Miss. commenced (Bolton, Miss.)","Jackson II, Miss.","commenced (Bolton, Miss.)"
+1863-07-07,"Morgan's Raid IV (Gamettsville, Ky.)",Morgan's Raid IV,"(Gamettsville, Ky.)"
+1863-07-07,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-07-08,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-08,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-08,"Siege of Port Hudson, La.","Siege of Port Hudson, La.",
+1863-07-09,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-09,"Morgan's Raid IV (Brandenburg, Ky., Corydon, Ind.)",Morgan's Raid IV,"(Brandenburg, Ky., Corydon, Ind.)"
+1863-07-09,"Siege of Port Hudson, La. Ended","Siege of Port Hudson, La.",Ended
+1863-07-10,"Battery Wagner I, S.C. commenced (Fort Wagner I)","Battery Wagner I, S.C.",commenced (Fort Wagner I)
+1863-07-10,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-10,"Morgan's Raid IV (Salem, Ind.)",Morgan's Raid IV,"(Salem, Ind.)"
+1863-07-11,"Battery Wagner I, S.C.","Battery Wagner I, S.C.",
+1863-07-11,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-11,"Morgan's Raid IV (Pekin, Ind.)",Morgan's Raid IV,"(Pekin, Ind.)"
+1863-07-12,"Battery Wagner I, S.C.","Battery Wagner I, S.C.",
+1863-07-12,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-12,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-13,"Battery Wagner I, S.C.","Battery Wagner I, S.C.",
+1863-07-13,"Bayou La Fourche I, La. (Donaldsonville II, Cox's Plantation)",,
+1863-07-13,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-13,"Morgan's Raid IV (Harrison, Ohio)",Morgan's Raid IV,"(Harrison, Ohio)"
+1863-07-13,New York Draft Riots,,
+1863-07-13,"Yazoo City II, Miss. (USS Baron de Kalb, Kenwood, New National and Signal)","Yazoo City II, Miss.","(USS Baron de Kalb, Kenwood, New National and Signal)"
+1863-07-14,"Battery Wagner I, S.C.","Battery Wagner I, S.C.",
+1863-07-14,"Falling Waters, Md.",,
+1863-07-14,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-14,"Morgan's Raid IV (Camp Dennison, Williamsburg, Ohio)",Morgan's Raid IV,"(Camp Dennison, Williamsburg, Ohio)"
+1863-07-15,"Battery Wagner I, S.C.","Battery Wagner I, S.C.",
+1863-07-15,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-15,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-16,"Battery Wagner I, S.C.","Battery Wagner I, S.C.",
+1863-07-16,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-16,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-17,"Battery Wagner I, S.C.","Battery Wagner I, S.C.",
+1863-07-17,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-17,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-18,"Battery Wagner I, S.C.","Battery Wagner I, S.C.",
+1863-07-18,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-18,"Morgan's Raid IV (Pomeroy, Ohio)",Morgan's Raid IV,"(Pomeroy, Ohio)"
+1863-07-19,"Battery Wagner I, S.C. ended","Battery Wagner I, S.C.",ended
+1863-07-19,"Jackson II, Miss. (Brandon, Miss.)","Jackson II, Miss.","(Brandon, Miss.)"
+1863-07-19,"Morgan's Raid IV (Buffington Island, Ohio)",Morgan's Raid IV,"(Buffington Island, Ohio)"
+1863-07-20,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-20,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-21,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-21,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-22,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-22,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-23,"Jackson II, Miss.","Jackson II, Miss.",
+1863-07-23,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-23,"Wapping Heights, Va, (Manassas Gap)",,
+1863-07-24,"Battle Mountain, Va.",,
+1863-07-24,"Jackson II, Miss, ended","Jackson II, Miss.",ended
+1863-07-24,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-25,Morgan's Raid IV,Morgan's Raid IV,
+1863-07-26,"Morgan's Raid IV ended (New Lisbon, Salineville, Ohio)",Morgan's Raid IV,"ended (New Lisbon, Salineville, Ohio)"
+1863-08-01,"Brandy Station IV, Va. (Culpeper, Rappahannock Station II)","Brandy Station IV, Va.","(Culpeper, Rappahannock Station II)"
+1863-08-02,"Brandy Station IV, Va. (Culpeper, Rappahannock Station II)","Brandy Station IV, Va.","(Culpeper, Rappahannock Station II)"
+1863-08-03,"Brandy Station IV, Va. (Culpeper, Rappahannock Station II)","Brandy Station IV, Va.","(Culpeper, Rappahannock Station II)"
+1863-08-04,"Brandy Station IV, Va. (Culpeper, Rappahannock Station II)","Brandy Station IV, Va.","(Culpeper, Rappahannock Station II)"
+1863-08-17,"Fort Sumter III, S.C. commenced","Fort Sumter III, S.C.",commenced
+1863-08-17,"Grenada, Miss.",,
+1863-08-17,"Sparta III, Tenn.",,
+1863-08-18,"Fort Sumter III, S.C.","Fort Sumter III, S.C.",
+1863-08-19,"Fort Sumter III, S.C.","Fort Sumter III, S.C.",
+1863-08-20,"Fort Sumter III, S.C.","Fort Sumter III, S.C.",
+1863-08-21,"Fort Sumter III, S.C.","Fort Sumter III, S.C.",
+1863-08-21,"Quantrill's Raid I (Lawrence, Kans.)",,
+1863-08-22,"Fort Sumter III, S.C. ended","Fort Sumter III, S.C.",ended
+1863-08-26,"Averell's Raid I (Rocky Gap, White Sulphur Springs, W.Va.)",,
+1863-08-31,"Fort Smith E, Ark.",,
+1863-09-06,"Battery Wagner II, S.C.","Battery Wagner II, S.C.",
+1863-09-08,"Fort Moultrie I, S.C. (USS Weehawken and New Ironsides)",,
+1863-09-08,"Sabine Pass E, Tex. (USS Arizona, Clifton, Granite City, and Sachem)",,
+1863-09-08,"Telford Depot, Tenn.",,
+1863-09-09,"Chattanooga I, Tenn.",,
+1863-09-09,"Cumberland Gap III, Tenn.",,
+1863-09-10,"Little Rock, Ark. (Bayou La Fourche II)",,
+1863-09-19,"Chickamauga, Ga.","Chickamauga, Ga.",
+1863-09-20,"Chickamauga, Ga.","Chickamauga, Ga.",
+1863-09-22,"Blountsville, Tenn.",,
+1863-09-22,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-09-23,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-09-24,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-09-25,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-09-26,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-09-27,"Shelby Campaign, Ark. and Mo. (Moffat's Station, Ark.)","Shelby Campaign, Ark. and Mo.","(Moffat's Station, Ark.)"
+1863-09-28,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-09-29,"Morganzia, La.",,
+1863-09-29,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-09-30,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-01,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-01,"Wheeler's Raid I, Tenn. commenced (Decatur)","Wheeler's Raid I, Tenn.",commenced (Decatur)
+1863-10-02,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-02,"Wheeler's Raid I, Tenn. (Anderson's Crossroads)","Wheeler's Raid I, Tenn.",(Anderson's Crossroads)
+1863-10-03,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-03,"Wheeler's Raid I, Tenn. (McMinnville E)","Wheeler's Raid I, Tenn.",(McMinnville E)
+1863-10-04,"Shelby Campaign, Ark. and Mo. (Neosho, Mo.)","Shelby Campaign, Ark. and Mo.","(Neosho, Mo.)"
+1863-10-04,"Wheeler's Raid I, Tenn.","Wheeler's Raid I, Tenn.",
+1863-10-05,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-05,"USS New Ironsides vs. CSS David (Charleston I, S.C.)",,
+1863-10-05,"Wheeler's Raid I, Tenn.","Wheeler's Raid I, Tenn.",
+1863-10-06,"Quantrill's Raid II (Baxter Springs, Kans.)",,
+1863-10-06,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-06,"Wheeler's Raid I, Tenn.","Wheeler's Raid I, Tenn.",
+1863-10-07,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-07,"Wheeler's Raid I, Tenn. (Farmington, Shelbyville I)","Wheeler's Raid I, Tenn.","(Farmington, Shelbyville I)"
+1863-10-08,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-08,"Wheeler's Raid I, Tenn.","Wheeler's Raid I, Tenn.",
+1863-10-09,"Bristoe, Va. Campaign commenced (Brandy Station III)","Bristoe, Va. Campaign",commenced (Brandy Station III)
+1863-10-09,"Shelby Campaign, Ark. and Mo. (Cole Camp, Mo.)","Shelby Campaign, Ark. and Mo.","(Cole Camp, Mo.)"
+1863-10-09,"Wheeler's Raid I, Tenn. ended (Rogersville I)","Wheeler's Raid I, Tenn.",ended (Rogersville I)
+1863-10-10,"Blue Springs, Tenn.",,
+1863-10-10,"Bristoe, Va. Campaign (Rapidan River)","Bristoe, Va. Campaign",(Rapidan River)
+1863-10-10,"Cumberland Gap IV, Tenn.",,
+1863-10-10,"Shelby Campaign, Ark. and Mo. (Tipton, Syracuse, Mine Bridge, Mo.)","Shelby Campaign, Ark. and Mo.","(Tipton, Syracuse, Mine Bridge, Mo.)"
+1863-10-11,"Bristoe, Va. Campaign","Bristoe, Va. Campaign",
+1863-10-11,"Shelby Campaign, Ark. and Mo. (Boonville E, Mo.)","Shelby Campaign, Ark. and Mo.","(Boonville E, Mo.)"
+1863-10-12,"Bristoe, Va. Campaign","Bristoe, Va. Campaign",
+1863-10-12,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-13,"Bristoe, Va. Campaign","Bristoe, Va. Campaign",
+1863-10-13,"Shelby Campaign, Ark. and Mo. (Arrow Rock, Mo.)","Shelby Campaign, Ark. and Mo.","(Arrow Rock, Mo.)"
+1863-10-14,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-15,"Bristoe, Va. Campaign (Bristoe Station II, Auburn, Catlett's Station II)","Bristoe, Va. Campaign","(Bristoe Station II, Auburn, Catlett's Station II)"
+1863-10-15,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-16,"Bristoe, Va. Campaign","Bristoe, Va. Campaign",
+1863-10-16,"Canton, Miss.",,
+1863-10-16,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-17,"Bristoe, Va. Campaign","Bristoe, Va. Campaign",
+1863-10-17,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-18,"Bristoe, Va. Campaign","Bristoe, Va. Campaign",
+1863-10-18,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-19,"Bristoe, Va. Campaign","Bristoe, Va. Campaign",
+1863-10-19,"Charles Town, W.Va.",,
+1863-10-19,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-20,"Bristoe, Va. Campaign (Buckland Mills, Va.)","Bristoe, Va. Campaign","(Buckland Mills, Va.)"
+1863-10-20,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-21,"Bristoe, Va. Campaign ended","Bristoe, Va. Campaign",ended
+1863-10-21,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-22,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-23,"Rappahannock Bridge I, Va.",,
+1863-10-23,"Shelby Campaign, Ark. and Mo.","Shelby Campaign, Ark. and Mo.",
+1863-10-24,"Shelby Campaign, Ark. and Mo. ended","Shelby Campaign, Ark. and Mo.",ended
+1863-10-25,"Pine Bluff, Ark.",,
+1863-10-26,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-10-27,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-10-28,"Brown's Ferry, Tenn.",,
+1863-10-28,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-10-29,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-10-29,"Wauhatchie, Tenn.","Wauhatchie, Tenn.",
+1863-10-30,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-10-30,"Wauhatchie, Tenn.","Wauhatchie, Tenn.",
+1863-10-31,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-01,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-02,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-03,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-04,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-04,"Grand Coteau, La. (Bayou Bourgeaux, Carrion Crow Bayou)",,
+1863-11-05,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-06,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-07,"Averell's Raid II (Droop Mountain, W.Va.)",,
+1863-11-07,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-07,"Rogersville II, Tenn.",,
+1863-11-08,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-08,"Rappahannock Station III, Va. (Kelly's Ford III, Rappahannock Bridge II)","Rappahannock Station III, Va.","(Kelly's Ford III, Rappahannock Bridge II)"
+1863-11-09,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-09,"Rappahannock Station III, Va. (Kelly's Ford II, Rappahannock Bridge II)","Rappahannock Station III, Va.","(Kelly's Ford II, Rappahannock Bridge II)"
+1863-11-10,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-11,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-12,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-13,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-14,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-15,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-15,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-15,"Missionary Ridge, Tenn.",,
+1863-11-16,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-16,"Knoxville, Tenn. Campaign commenced (Campbell's Station, Tenn.)","Knoxville, Tenn. Campaign","commenced (Campbell's Station, Tenn.)"
+1863-11-17,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-17,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-17,"Mine Run, Va. Campaign","Mine Run, Va. Campaign",
+1863-11-17,"Pass Cavallo, Tex. (Fort Esperanza)","Pass Cavallo, Tex.",(Fort Esperanza)
+1863-11-17,"Payne's Farm, Va.",,
+1863-11-17,"Ringgold Gap, Ga. (Ringgold Heights)","Ringgold Gap, Ga.",(Ringgold Heights)
+1863-11-18,"Campaign Ringgold Gap, Ga. (Ringgold Heights)",,
+1863-11-18,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-18,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-18,"Mine Run, Va. Campaign","Mine Run, Va. Campaign",
+1863-11-18,"Pass Cavallo, Tex. (Fort Esperanza)","Pass Cavallo, Tex.",(Fort Esperanza)
+1863-11-19,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-19,"Knoxville, Tenn. Campaign (Fort Sanders, Fort Loudon)","Knoxville, Tenn. Campaign","(Fort Sanders, Fort Loudon)"
+1863-11-19,"Mine Run, Va. Campaign","Mine Run, Va. Campaign",
+1863-11-19,"Pass Cavallo, Tex. (Fort Esperanza)","Pass Cavallo, Tex.",(Fort Esperanza)
+1863-11-19,"Ringgold Gap, Ga. (Ringgold Heights)","Ringgold Gap, Ga.",(Ringgold Heights)
+1863-11-20,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-20,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-21,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-21,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-22,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-22,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-23,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-23,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-23,"Orchard Knob, Tenn. (Chattanooga II, Indian Hill)",,
+1863-11-24,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-24,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-24,"Lookout Mountain, Tenn. (The ""battle above the clouds'*)",,
+1863-11-26,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-26,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-26,"Mine Run, Va. Campaign commenced","Mine Run, Va. Campaign",commenced
+1863-11-30,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-11-30,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-11-30,"Mine Run, Va. Campaign","Mine Run, Va. Campaign",
+1863-11-30,"Pass Cavallo, Tex. (Fort Esperanza)","Pass Cavallo, Tex.",(Fort Esperanza)
+1863-11-30,"Ringgold Gap, Ga. (Ringgold Heights)","Ringgold Gap, Ga.",(Ringgold Heights)
+1863-12-01,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-02,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-02,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-12-01,"Mine Run, Va. Campaign ended","Mine Run, Va. Campaign",ended
+1863-12-03,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-03,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-12-04,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-04,"Knoxville, Tenn. Campaign","Knoxville, Tenn. Campaign",
+1863-12-05,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-05,"Knoxville, Tenn. Campaign ended","Knoxville, Tenn. Campaign",ended
+1863-12-06,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-07,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-08,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-09,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-10,"Charleston Harbor, S.C.","Charleston Harbor, S.C.",
+1863-12-11,"Charleston Harbor, S.C. ended","Charleston Harbor, S.C.",ended
+1863-12-14,"Bean's Station I, Tenn.","Bean's Station I, Tenn.",
+1863-12-15,"Bean's Station I, Tenn.","Bean's Station I, Tenn.",
+1864-01-03,"Jonesville, Va.",,
+1864-01-14,"Cosby Creek, Tenn. (Terrisville)",,
+1864-01-16,"Dandridge, Tenn.",,
+1864-01-27,"Kelly's Ford, Tenn. (Fair Garden, Seviersville)",,
+1864-01-28,"New Bern II, N.C.","New Bern II, N.C.",
+1864-01-29,"New Bern II, N.C.","New Bern II, N.C.",
+1864-01-29,"Rosser's Raid I (Moorfield, Va.)",,
+1864-01-30,"New Bern II, N.C.","New Bern II, N.C.",
+1864-01-31,"New Bern II, N.C.","New Bern II, N.C.",
+1864-02-01,"New Bern II, N.C.","New Bern II, N.C.",
+1864-02-02,"New Bern II, N.C.","New Bern II, N.C.",
+1864-02-03,"Meridian, Miss. Expedition commenced (Vicksburg)","Meridian, Miss. Expedition",commenced (Vicksburg)
+1864-02-04,"Meridian, Miss. Expedition (Big Black River II, Champion Hill II)","Meridian, Miss. Expedition","(Big Black River II, Champion Hill II)"
+1864-02-05,"Meridian, Miss. Expedition (Jackson III, Clinton)","Meridian, Miss. Expedition","(Jackson III, Clinton)"
+1864-02-06,"Meridian, Miss. Expedition","Meridian, Miss. Expedition",
+1864-02-06,"Morton's Ford, Va. (Barnett's Ford, Robertson's Ford)",,
+1864-02-07,"Jacksonville II, Fla.",,
+1864-02-07,"Meridian, Miss. Expedition","Meridian, Miss. Expedition",
+1864-02-08,"Meridian, Miss. Expedition","Meridian, Miss. Expedition",
+1864-02-09,"Great escape from Libby Prison, Richmond, Va.",,
+1864-02-09,"Meridian, Miss. Expedition","Meridian, Miss. Expedition",
+1864-02-10,"Meridian, Miss. Expedition","Meridian, Miss. Expedition",
+1864-02-11,"Meridian, Miss. Expedition","Meridian, Miss. Expedition",
+1864-02-12,"Meridian, Miss. Expedition (Wall Hill, Decatur, and Chunky Station, Miss.)","Meridian, Miss. Expedition","(Wall Hill, Decatur, and Chunky Station, Miss.)"
+1864-02-13,"Meridian, Miss. Expedition (Tunnel Hill, Miss.)","Meridian, Miss. Expedition","(Tunnel Hill, Miss.)"
+1864-02-14,"Meridian, Miss. Expedition (Meridian)","Meridian, Miss. Expedition",(Meridian)
+1864-02-15,"Meridian, Miss. Expedition","Meridian, Miss. Expedition",
+1864-02-16,"Meridian, Miss. Expedition (Lauderdale Springs, Miss.)","Meridian, Miss. Expedition","(Lauderdale Springs, Miss.)"
+1864-02-17,"Meridian, Miss. Expedition (Pontotoc II, Marion)","Meridian, Miss. Expedition","(Pontotoc II, Marion)"
+1864-02-17,"USS Housatonic vs. CSS Hunley off Charleston II, S.C.",,
+1864-02-18,"Meridian, Miss. Expedition","Meridian, Miss. Expedition",
+1864-02-19,"Meridian, Miss. Expedition ended","Meridian, Miss. Expedition",ended
+1864-02-20,"Olustee, Fla. (Ocean Pond, Seymour's Expedition)",,
+1864-02-21,"West Point, Miss.",,
+1864-02-22,"Okolona, Miss. (Ivey's Farm, Ivey Hills)",,
+1864-02-23,"Tunnel Hill, Ga.","Tunnel Hill, Ga.",
+1864-02-24,"Tunnel Hill, Ga. (Rocky Face Ridge I, Crow's Valley, Buzzard Roost I)","Tunnel Hill, Ga.","(Rocky Face Ridge I, Crow's Valley, Buzzard Roost I)"
+1864-02-25,"Tunnel Hill, Ga. (Buzzard Roost I)","Tunnel Hill, Ga.",(Buzzard Roost I)
+1864-02-26,"Tunnel Hill, Ga. (Dalton I)","Tunnel Hill, Ga.",(Dalton I)
+1864-02-27,"Dalton I, Ga.",,
+1864-02-28,"Kilpatrick's Raid, Va.","Kilpatrick's Raid, Va.",
+1864-02-29,Kilpatrick's Raid,Kilpatrick's Raid,
+1864-03-01,Kilpatrick's Raid,Kilpatrick's Raid,
+1864-03-02,Kilpatrick's Raid,Kilpatrick's Raid,
+1864-03-03,Kilpatrick's Raid,Kilpatrick's Raid,
+1864-03-04,Kilpatrick's Raid,Kilpatrick's Raid,
+1864-03-05,"Yazoo City II, Miss.","Yazoo City II, Miss.",
+1864-03-12,Red River Expedition in La. and Ark. commenced,Red River Expedition,commenced
+1864-03-13,Red River Expedition,Red River Expedition,
+1864-03-14,"Red River Expedition (Fort De Russy, Ark.)",Red River Expedition,"(Fort De Russy, Ark.)"
+1864-03-15,Red River Expedition,Red River Expedition,
+1864-03-16,Forrest's Raid III commenced,Forrest's Raid III,commenced
+1864-03-16,Red River Expedition,Red River Expedition,
+1864-03-17,Forrest's Raid III,Forrest's Raid III,
+1864-03-17,Red River Expedition,Red River Expedition,
+1864-03-18,Forrest's Raid III,Forrest's Raid III,
+1864-03-18,Red River Expedition,Red River Expedition,
+1864-03-19,Forrest's Raid III,Forrest's Raid III,
+1864-03-19,"Red River Expedition (Alexandria II, La.)",Red River Expedition,"(Alexandria II, La.)"
+1864-03-20,Forrest's Raid III,Forrest's Raid III,
+1864-03-20,"Red River Expedition (Arkadelphia II, La.)",Red River Expedition,"(Arkadelphia II, La.)"
+1864-03-21,Forrest's Raid III,Forrest's Raid III,
+1864-03-21,"Red River Expedition (Henderson's Hill, Bayou Rapides, La.)",Red River Expedition,"(Henderson's Hill, Bayou Rapides, La.)"
+1864-03-22,Forrest's Raid III,Forrest's Raid III,
+1864-03-22,Red River Expedition,Red River Expedition,
+1864-03-23,Forrest's Raid III,Forrest's Raid III,
+1864-03-23,Red River Expedition,Red River Expedition,
+1864-03-24,Forrest's Raid III,Forrest's Raid III,
+1864-03-24,Red River Expedition,Red River Expedition,
+1864-03-25,Forrest's Raid III,Forrest's Raid III,
+1864-03-25,Red River Expedition,Red River Expedition,
+1864-03-26,"Forrest's Raid III (Paducah, Ky.)",Forrest's Raid III,"(Paducah, Ky.)"
+1864-03-26,Red River Expedition,Red River Expedition,
+1864-03-27,Forrest's Raid III,Forrest's Raid III,
+1864-03-27,Red River Expedition,Red River Expedition,
+1864-03-28,Forrest's Raid III,Forrest's Raid III,
+1864-03-28,Red River Expedition,Red River Expedition,
+1864-03-29,Forrest's Raid III,Forrest's Raid III,
+1864-03-29,"Red River Expedition (Monett's Ferry I, La., Cloutierville I, La.)",Red River Expedition,"(Monett's Ferry I, La., Cloutierville I, La.)"
+1864-03-30,Forrest's Raid III,Forrest's Raid III,
+1864-03-30,Red River Expedition,Red River Expedition,
+1864-03-31,Forrest's Raid III,Forrest's Raid III,
+1864-03-31,"Red River Expedition (Natchitoches, La.)",Red River Expedition,"(Natchitoches, La.)"
+1864-04-01,Forrest's Raid III,Forrest's Raid III,
+1864-04-01,Red River Expedition,Red River Expedition,
+1864-04-02,Forrest's Raid III,Forrest's Raid III,
+1864-04-02,"Red River Expedition (Crump's Hill, La.)",Red River Expedition,"(Crump's Hill, La.)"
+1864-04-03,"Camden Expedition, Ark. commenced (Elkin's Ferry)","Camden Expedition, Ark.",commenced (Elkin's Ferry)
+1864-04-03,Forrest's Raid III,Forrest's Raid III,
+1864-04-03,"Red River Expedition (Grand Encore, La.)",Red River Expedition,"(Grand Encore, La.)"
+1864-04-04,"Camden Expedition, Ark. (Elkin's Ferry)","Camden Expedition, Ark.",(Elkin's Ferry)
+1864-04-04,Forrest's Raid III,Forrest's Raid III,
+1864-04-04,Red River Expedition,Red River Expedition,
+1864-04-05,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-05,Forrest's Raid III,Forrest's Raid III,
+1864-04-05,Red River Expedition,Red River Expedition,
+1864-04-06,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-06,Forrest's Raid III,Forrest's Raid III,
+1864-04-06,Red River Expedition,Red River Expedition,
+1864-04-07,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-07,Forrest's Raid III,Forrest's Raid III,
+1864-04-07,"Red River Expedition (Wilson's Plantation, La.)",Red River Expedition,"(Wilson's Plantation, La.)"
+1864-04-08,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-08,Forrest's Raid III,Forrest's Raid III,
+1864-04-08,"Red River Expedition (Sabine Cross Roads, La., Mansfield, Pleasant Grove)",Red River Expedition,"(Sabine Cross Roads, La., Mansfield, Pleasant Grove)"
+1864-04-09,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-09,Forrest's Raid III,Forrest's Raid III,
+1864-04-09,"Red River Expedition (Pleasant Hill, La.)",Red River Expedition,"(Pleasant Hill, La.)"
+1864-04-10,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-10,Forrest's Raid III,Forrest's Raid III,
+1864-04-10,"Red River Expedition (Pleasant Hill, La.)",Red River Expedition,"(Pleasant Hill, La.)"
+1864-04-11,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-11,Forrest's Raid III,Forrest's Raid III,
+1864-04-11,Red River Expedition,Red River Expedition,
+1864-04-12,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-12,"Forrest's Raid III (Fort Pillow II, Tenn.)",Forrest's Raid III,"(Fort Pillow II, Tenn.)"
+1864-04-12,"Red River Expedition (Blair's Landing, Pleasant Hill Landing, La.; USS Lexington and Osage)",Red River Expedition,"(Blair's Landing, Pleasant Hill Landing, La.; USS Lexington and Osage)"
+1864-04-13,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-13,Forrest's Raid III,Forrest's Raid III,
+1864-04-13,"Red River Expedition (Blair's Landing, La.)",Red River Expedition,"(Blair's Landing, La.)"
+1864-04-14,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-14,"Forrest's Raid III ended (Jackson, Tenn.)",Forrest's Raid III,"ended (Jackson, Tenn.)"
+1864-04-14,Red River Expedition,Red River Expedition,
+1864-04-15,"Camden Expedition, Ark. (Camden I, Ark.)","Camden Expedition, Ark.","(Camden I, Ark.)"
+1864-04-15,Red River Expedition,Red River Expedition,
+1864-04-16,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-16,Red River Expedition,Red River Expedition,
+1864-04-17,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-17,"Plymouth I, N.C. (USS Southfield vs. CSS Albemarle)","Plymouth I, N.C.","Plymouth I, N.C. (USS Southfield vs. CSS Albemarle)"
+1864-04-17,Red River Expedition,Red River Expedition,
+1864-04-18,"Camden Expedition, Ark. (Poison Springs, Ark.)","Camden Expedition, Ark.","(Poison Springs, Ark.)"
+1864-04-18,"Plymouth I, N.C.","Plymouth I, N.C.",
+1864-04-18,Red River Expedition,Red River Expedition,
+1864-04-19,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-19,"Plymouth I, N.C.","Plymouth I, N.C.",
+1864-04-19,Red River Expedition,Red River Expedition,
+1864-04-20,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-20,"Plymouth I, N.C.","Plymouth I, N.C.",
+1864-04-20,Red River Expedition,Red River Expedition,
+1864-04-21,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-21,Red River Expedition,Red River Expedition,
+1864-04-22,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-22,Red River Expedition,Red River Expedition,
+1864-04-23,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-23,"Red River Expedition (Cane River Crossing, Monett's Ferry II, Monett's Bluff, Cloutiersville II, La.)",Red River Expedition,"(Cane River Crossing, Monett's Ferry II, Monett's Bluff, Cloutiersville II, La.)"
+1864-04-24,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-24,Red River Expedition,Red River Expedition,
+1864-04-25,"Camden Expedition, Ark. (Mark's Mill, Ark.)","Camden Expedition, Ark.","(Mark's Mill, Ark.)"
+1864-04-25,Red River Expedition,Red River Expedition,
+1864-04-26,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-26,"Red River Expedition (USS Cricket, Eastport, Fort Hindman, Juliet, Champion 3, and Champion 5)",Red River Expedition,"(USS Cricket, Eastport, Fort Hindman, Juliet, Champion 3, and Champion 5)"
+1864-04-27,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-27,Red River Expedition,Red River Expedition,
+1864-04-28,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-28,Red River Expedition,Red River Expedition,
+1864-04-29,"Camden Expedition, Ark.","Camden Expedition, Ark.",
+1864-04-29,Red River Expedition,Red River Expedition,
+1864-04-30,"Camden Expedition, Ark. ended (Jenkins' Ferry, Saline River)","Camden Expedition, Ark.","ended (Jenkins' Ferry, Saline River)"
+1864-04-30,Red River Expedition,Red River Expedition,
+1864-05-01,"Red River Expedition (USS Emma,  Moore's Plantation, Alexandria III, La.)",Red River Expedition,"(USS Emma,  Moore's Plantation, Alexandria III, La.)"
+1864-05-02,"Red River Expedition (Alexandria III, La.)",Red River Expedition,"(Alexandria III, La.)"
+1864-05-03,"Red River Expedition (Alexandria III, La., USS City Belle)",Red River Expedition,"(Alexandria III, La., USS City Belle)"
+1864-05-04,"Red River Expedition (Alexandria III, La.)",Red River Expedition,"(Alexandria III, La.)"
+1864-05-04,"Wilderness, Va. Campaign commenced (Germanna Ford, Wilderness Tavern, Overland Campaign)","Wilderness, Va. Campaign","commenced (Germanna Ford, Wilderness Tavern, Overland Campaign)"
+1864-05-05,"Atlanta Campaign, Ga. commenced (Rocky Face Ridge II, Varnell's Station, Mill Creek Gap)","Atlanta Campaign, Ga.","commenced (Rocky Face Ridge II, Varnell's Station, Mill Creek Gap)"
+1864-05-05,"Red River Expedition (Alexandria III, La., USS Signal and Covington)",Red River Expedition,"(Alexandria III, La., USS Signal and Covington)"
+1864-05-05,"Wilderness, Va. Campaign (Todd's Tavern, Parker's Store)","Wilderness, Va. Campaign","(Todd's Tavern, Parker's Store)"
+1864-05-06,"Atlanta Campaign, Ga. (Rocky Face Ridge II, Mill Creek Gap, Vamell's Station)","Atlanta Campaign, Ga.","(Rocky Face Ridge II, Mill Creek Gap, Vamell's Station)"
+1864-05-06,"James River II, Va. (USS Commodore Jones)",,
+1864-05-06,"Port Walthall Junction, Va.","Port Walthall Junction, Va.",
+1864-05-06,"Red River Expedition (Alexandria III, La.)",Red River Expedition,"(Alexandria III, La.)"
+1864-05-06,"Wilderness, Va. Campaign (Todd's Tavern)","Wilderness, Va. Campaign",(Todd's Tavern)
+1864-05-07,"Atlanta Campaign, Ga. (Buzzard Roost II, Rocky Face Ridge II, Vamell's Station, Mill Creek Gap)","Atlanta Campaign, Ga.","(Buzzard Roost II, Rocky Face Ridge II, Vamell's Station, Mill Creek Gap)"
+1864-05-07,"Port Walthall Junction, Va.","Port Walthall Junction, Va.",
+1864-05-07,"Red River Expedition (Alexandria III, La.)",Red River Expedition,"(Alexandria III, La.)"
+1864-05-07,"Wilderness, Va. Campaign ended (Todd's Tavern)","Wilderness, Va. Campaign",ended (Todd's Tavern)
+1864-05-08,"Atlanta Campaign, Ga. (Dug Gap, Buzzard Roost II, Rocky Face Ridge II, Mill Creek Gap, Varnell's Station, Snake Creek Gap)","Atlanta Campaign, Ga.","(Dug Gap, Buzzard Roost II, Rocky Face Ridge II, Mill Creek Gap, Varnell's Station, Snake Creek Gap)"
+1864-05-08,"Red River Expedition (Alexandria III, La.)",Red River Expedition,"(Alexandria III, La.)"
+1864-05-08,"Spotsylvania, Va. Campaign commenced (Laurel Hill II, Corbins Bridge, Alsop's Farm, Va.)","Spotsylvania, Va. Campaign","commenced (Laurel Hill II, Corbins Bridge, Alsop's Farm, Va.)"
+1864-05-09,"Atlanta Campaign, Ga. (Snake Creek Gap, Rocky Face Ridge II, Mill Creek Gap, Vamell's Station, Buzzard Roost II)","Atlanta Campaign, Ga.","(Snake Creek Gap, Rocky Face Ridge II, Mill Creek Gap, Vamell's Station, Buzzard Roost II)"
+1864-05-09,"Cloyd's Mountain, Va. (New River Bridge)",,
+1864-05-09,"James River, Va. Campaign commenced (Swift Creek)","James River, Va. Campaign",commenced (Swift Creek)
+1864-05-09,Red River Expedition,Red River Expedition,
+1864-05-09,"Sheridan's Raid, Va. commenced (Beaver Dam Station)","Sheridan's Raid, Va.",commenced (Beaver Dam Station)
+1864-05-09,"Spotsylvania, Va. Campaign (Spotsylvania Court House)","Spotsylvania, Va. Campaign",(Spotsylvania Court House)
+1864-05-10,"Atlanta Campaign, Ga. (Rocky Face Ridge II)","Atlanta Campaign, Ga.",(Rocky Face Ridge II)
+1864-05-10,"James River, Va. Campaign (Ware Bottom Church, Procter's Creek I)","James River, Va. Campaign","(Ware Bottom Church, Procter's Creek I)"
+1864-05-10,Red River Expedition,Red River Expedition,
+1864-05-10,"Sheridan's Raid, Va. (Beaver Dam Station)","Sheridan's Raid, Va.",(Beaver Dam Station)
+1864-05-10,"Spotsylvania, Va. Campaign (Po River,  Ny River)","Spotsylvania, Va. Campaign","(Po River,  Ny River)"
+1864-05-11,"Atlanta Campaign, Ga. (Rocky Face Ridge II)","Atlanta Campaign, Ga.",(Rocky Face Ridge II)
+1864-05-11,"James River, Va. Campaign (Ware Bottom Church)","James River, Va. Campaign",(Ware Bottom Church)
+1864-05-11,Red River Expedition,Red River Expedition,
+1864-05-11,"Sheridan's Raid, Va. (Yellow Tavern, Ashland Station, Ground Squirrel Bridge)","Sheridan's Raid, Va.","(Yellow Tavern, Ashland Station, Ground Squirrel Bridge)"
+1864-05-11,"Spotsylvania, Va. Campaign (Po River,  Ny River)","Spotsylvania, Va. Campaign","(Po River,  Ny River)"
+1864-05-12,"Atlanta Campaign, Ga. (Dalton II)","Atlanta Campaign, Ga.",(Dalton II)
+1864-05-12,"James River, Va. Campaign (Drewry's Bluff II, Fort Darling II, Ware Bottom Church)","James River, Va. Campaign","(Drewry's Bluff II, Fort Darling II, Ware Bottom Church)"
+1864-05-12,Red River Expedition,Red River Expedition,
+1864-05-12,"Sheridan's Raid, Va. (Mechanicsville II)","Sheridan's Raid, Va.",(Mechanicsville II)
+1864-05-12,"Spotsylvania, Va. Campaign (Po River, Ny River)","Spotsylvania, Va. Campaign","(Po River, Ny River)"
+1864-05-13,"Atlanta Campaign, Ga. (Resaca)","Atlanta Campaign, Ga.",(Resaca)
+1864-05-13,"James River, Va. Campaign (Drewry's Bluff II, Fort Darling II, Ware Bottom Church)","James River, Va. Campaign","(Drewry's Bluff II, Fort Darling II, Ware Bottom Church)"
+1864-05-13,Red River Expedition,Red River Expedition,
+1864-05-13,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-13,"Spotsylvania, Va. Campaign (Beaver Dam, Po River, Ny River)","Spotsylvania, Va. Campaign","(Beaver Dam, Po River, Ny River)"
+1864-05-14,"Atlanta Campaign, Ga. (Resaca, Sugar Valley, Oostenaula)","Atlanta Campaign, Ga.","(Resaca, Sugar Valley, Oostenaula)"
+1864-05-14,"James River, Va. Campaign (Drewry's Bluff II, Fort Darling II, Ware Bottom Church)","James River, Va. Campaign","(Drewry's Bluff II, Fort Darling II, Ware Bottom Church)"
+1864-05-14,"Red River Expedition (Mansura, La.)",Red River Expedition,"(Mansura, La.)"
+1864-05-14,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-14,"Spotsylvania, Va. Campaign (Po River,  Ny River)","Spotsylvania, Va. Campaign","(Po River,  Ny River)"
+1864-05-15,"Atlanta Campaign, Ga. (Resaca)","Atlanta Campaign, Ga.",(Resaca)
+1864-05-15,"James River, Va. Campaign (Drewry's Bluff II, Fort Darling II, Ware Bottom Church)","James River, Va. Campaign","(Drewry's Bluff II, Fort Darling II, Ware Bottom Church)"
+1864-05-15,"New Market II, Va.",,
+1864-05-15,"Red River Expedition (Marksville Prairie, Avoyelles Prairie, Mansura, La.)",Red River Expedition,"(Marksville Prairie, Avoyelles Prairie, Mansura, La.)"
+1864-05-15,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-15,"Spotsylvania, Va. Campaign (Po River, Ny River)","Spotsylvania, Va. Campaign","(Po River, Ny River)"
+1864-05-16,"Atlanta Campaign, Ga. (Lay's Ferry)","Atlanta Campaign, Ga.",(Lay's Ferry)
+1864-05-16,"James River, Va. Campaign (Drewry's Bluff II, Fort Darling II, Ware Bottom Church, Procter's Creek II)","James River, Va. Campaign","(Drewry's Bluff II, Fort Darling II, Ware Bottom Church, Procter's Creek II)"
+1864-05-16,"Red River Expedition (Mansura, Belle Prairie, Smith's Plantation, La.)",Red River Expedition,"(Mansura, Belle Prairie, Smith's Plantation, La.)"
+1864-05-16,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-16,"Spotsylvania, Va. Campaign (Po River,  Ny River)","Spotsylvania, Va. Campaign","(Po River,  Ny River)"
+1864-05-17,"Atlanta Campaign, Ga. (Adairsville)","Atlanta Campaign, Ga.",(Adairsville)
+1864-05-17,"James River, Va. Campaign (Ware Bottom Church)","James River, Va. Campaign",(Ware Bottom Church)
+1864-05-17,Red River Expedition,Red River Expedition,
+1864-05-17,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-17,"Spotsylvania, Va. Campaign","Spotsylvania, Va. Campaign",
+1864-05-18,"Atlanta Campaign, Ga. (Cassville)","Atlanta Campaign, Ga.",(Cassville)
+1864-05-18,"James River, Va. Campaign (Ware Bottom Church, Bermuda Hundred)","James River, Va. Campaign","(Ware Bottom Church, Bermuda Hundred)"
+1864-05-18,"Red River Expedition ended (Yellow Bayou, Bayou de Glaise, Norwood's Plantation, Old Oaks, Calhoun Station, Simmsport, La.)",Red River Expedition,"ended (Yellow Bayou, Bayou de Glaise, Norwood's Plantation, Old Oaks, Calhoun Station, Simmsport, La.)"
+1864-05-18,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-18,"Spotsylvania, Va. Campaign","Spotsylvania, Va. Campaign",
+1864-05-19,"Atlanta Campaign, Ga. (Cartersville, Cassville)","Atlanta Campaign, Ga.","(Cartersville, Cassville)"
+1864-05-19,"James River, Va. Campaign (Harris's Farm, Ware Bottom Church)","James River, Va. Campaign","(Harris's Farm, Ware Bottom Church)"
+1864-05-19,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-19,"Spotsylvania, Va. Campaign","Spotsylvania, Va. Campaign",
+1864-05-20,"Atlanta Campaign, Ga. (Allatoona Pass I)","Atlanta Campaign, Ga.",(Allatoona Pass I)
+1864-05-20,"James River, Va. Campaign ended (Ware Bottom Church, Bermuda Hundred)","James River, Va. Campaign","ended (Ware Bottom Church, Bermuda Hundred)"
+1864-05-20,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-20,"Spotsylvania, Va. Campaign ended","Spotsylvania, Va. Campaign",ended
+1864-05-21,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-05-21,"North Anna River, Va. Campaign commenced (Guinea's Station)","North Anna River, Va. Campaign",commenced (Guinea's Station)
+1864-05-21,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-22,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-05-22,"North Anna River, Va. Campaign (Hanover Junction I)","North Anna River, Va. Campaign",(Hanover Junction I)
+1864-05-22,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-23,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-05-23,"North Anna River, Va. Campaign (Old Chesterfield, Chesterfield Road, Hanover Court House III, Oxford, Eaton Church, Matadequin Creek)","North Anna River, Va. Campaign","(Old Chesterfield, Chesterfield Road, Hanover Court House III, Oxford, Eaton Church, Matadequin Creek)"
+1864-05-23,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-24,"Atlanta Campaign, Ga. (Cass Station, Burnt Hickory)","Atlanta Campaign, Ga.","(Cass Station, Burnt Hickory)"
+1864-05-24,"North Anna River, Va. Campaign","North Anna River, Va. Campaign",
+1864-05-24,"Sheridan's Raid, Va.","Sheridan's Raid, Va.",
+1864-05-25,"Atlanta Campaign, Ga. (Dallas, New Hope Church, Pumpkinvine Creek, Burnt Hickory, Allatoona Hill)","Atlanta Campaign, Ga.","(Dallas, New Hope Church, Pumpkinvine Creek, Burnt Hickory, Allatoona Hill)"
+1864-05-25,"North Anna River, Va. Campaign","North Anna River, Va. Campaign",
+1864-05-25,"Sheridan's Raid, Va. Ended","Sheridan's Raid, Va.",Ended
+1864-05-26,"Atlanta Campaign, Ga. (Dallas, New Hope Church)","Atlanta Campaign, Ga.","(Dallas, New Hope Church)"
+1864-05-26,"Montana Terr, organized",,
+1864-05-26,"North Anna River, Va. Campaign (Jericho Bridge)","North Anna River, Va. Campaign",(Jericho Bridge)
+1864-05-27,"Atlanta Campaign, Ga. (Mount Zion Church, Dallas, Pickett's Mill)","Atlanta Campaign, Ga.","(Mount Zion Church, Dallas, Pickett's Mill)"
+1864-05-27,"North Anna River, Va. Campaign (Totopotomy Creek, Hanovertown, Pamunkey River, Hanover Junction II, Jericho Mills, Jericho Bridge, Salem Church II)","North Anna River, Va. Campaign","(Totopotomy Creek, Hanovertown, Pamunkey River, Hanover Junction II, Jericho Mills, Jericho Bridge, Salem Church II)"
+1864-05-28,"Atlanta Campaign, Ga. (Dallas)","Atlanta Campaign, Ga.",(Dallas)
+1864-05-28,"North Anna River, Va. Campaign (Haw's Shop, Enon Church, Totopotomy Creek)","North Anna River, Va. Campaign","(Haw's Shop, Enon Church, Totopotomy Creek)"
+1864-05-29,"Atlanta Campaign, Ga. (Dallas)","Atlanta Campaign, Ga.",(Dallas)
+1864-05-29,"North Anna River, Va. Campaign ended (Jones's Farm, Old Church, Salem Church, Atlee's Station, Ashland, Totopotomy Creek)","North Anna River, Va. Campaign","ended (Jones's Farm, Old Church, Salem Church, Atlee's Station, Ashland, Totopotomy Creek)"
+1864-05-30,"Atlanta Campaign, Ga. (Allatoona, Burned Church, Dallas)","Atlanta Campaign, Ga.","(Allatoona, Burned Church, Dallas)"
+1864-05-30,"Cold Harbor II, Va. Campaign commenced (Totopotamy River, Bethesda Church I, Gaines's Mill II, Hanover)","Cold Harbor II, Va. Campaign","commenced (Totopotamy River, Bethesda Church I, Gaines's Mill II, Hanover)"
+1864-05-31,"Atlanta Campaign, Ga. (Dallas)","Atlanta Campaign, Ga.",(Dallas)
+1864-05-31,"Cold Harbor II, Va. Campaign (Bethesda Church)","Cold Harbor II, Va. Campaign",(Bethesda Church)
+1864-05-31,"Morgan's Raid V commenced (Abingdon I, Va.)",Morgan's Raid V,"commenced (Abingdon I, Va.)"
+1864-06-01,"Atlanta Campaign, Ga. (Allatoona Pass, Dallas)","Atlanta Campaign, Ga.","(Allatoona Pass, Dallas)"
+1864-06-01,"Cold Harbor II, Va. Campaign (Hanover Court House IV, Bethesda Church II)","Cold Harbor II, Va. Campaign","(Hanover Court House IV, Bethesda Church II)"
+1864-06-01,"Morgan's Raid V (Pound Gap II, Ky. Va.)",Morgan's Raid V,"(Pound Gap II, Ky. Va.)"
+1864-06-02,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-02,"Cold Harbor II, Va. Campaign (Bethesda Church)","Cold Harbor II, Va. Campaign",(Bethesda Church)
+1864-06-02,"Covington, Va.",,
+1864-06-02,Morgan's Raid V,Morgan's Raid V,
+1864-06-03,"Atlanta Campaign, Ga. (Acworth)","Atlanta Campaign, Ga.",(Acworth)
+1864-06-03,"Cold Harbor II, Va. Campaign (Bethesda Church)","Cold Harbor II, Va. Campaign",(Bethesda Church)
+1864-06-03,Morgan's Raid V,Morgan's Raid V,
+1864-06-04,"Atlanta Campaign, Ga. (Big Shanty I)","Atlanta Campaign, Ga.",(Big Shanty I)
+1864-06-04,"Cold Harbor II, Va. Campaign","Cold Harbor II, Va. Campaign",
+1864-06-04,"Harrisonburg, Port Republic II, Va.",,
+1864-06-04,Morgan's Raid V,Morgan's Raid V,
+1864-06-05,"Atlanta Campaign, Ga. (Pine Mountain I, Big Shanty I)","Atlanta Campaign, Ga.","(Pine Mountain I, Big Shanty I)"
+1864-06-05,"Cold Harbor II, Va. Campaign","Cold Harbor II, Va. Campaign",
+1864-06-05,Morgan's Raid V,Morgan's Raid V,
+1864-06-05,"Piedmont, Staunton I, Va.",,
+1864-06-06,"Atlanta Campaign, Ga. (Big Shanty I, Raccoon Creek)","Atlanta Campaign, Ga.","(Big Shanty I, Raccoon Creek)"
+1864-06-06,"Cold Harbor II, Va. Campaign","Cold Harbor II, Va. Campaign",
+1864-06-06,"Lake Chicot, Ark. (Ditch Bayou, Old River Lake)",,
+1864-06-06,Morgan's Raid V,Morgan's Raid V,
+1864-06-07,"Atlanta Campaign, Ga. (Big Shanty I)","Atlanta Campaign, Ga.",(Big Shanty I)
+1864-06-07,"Cold Harbor II, Va. Campaign","Cold Harbor II, Va. Campaign",
+1864-06-07,Morgan's Raid V,Morgan's Raid V,
+1864-06-08,"Atlanta Campaign, Ga. (Big Shanty I)","Atlanta Campaign, Ga.",(Big Shanty I)
+1864-06-08,"Cold Harbor II, Va. Campaign","Cold Harbor II, Va. Campaign",
+1864-06-08,"Morgan's Raid V (Mt. Sterling, Ky.)",Morgan's Raid V,"(Mt. Sterling, Ky.)"
+1864-06-09,"Atlanta Campaign, Ga. (Big Shanty I)","Atlanta Campaign, Ga.",(Big Shanty I)
+1864-06-09,"Cold Harbor II, Va. Campaign","Cold Harbor II, Va. Campaign",
+1864-06-09,"Morgan's Raid V (Mt. Sterling, Ky.)",Morgan's Raid V,"(Mt. Sterling, Ky.)"
+1864-06-09,"Petersburg, Va. Campaign commenced","Petersburg, Va. Campaign",commenced
+1864-06-10,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-10,"Brice's Crossroads, Miss. (Guntown, Tishomingo Creek)",,
+1864-06-10,"Cold Harbor II, Va. Campaign ended","Cold Harbor II, Va. Campaign",ended
+1864-06-10,"Morgan's Raid V (Lexington II, Kellar's Bridge, Georgetown II, Ky.)",Morgan's Raid V,"(Lexington II, Kellar's Bridge, Georgetown II, Ky.)"
+1864-06-10,"Petersburg, Va. Campaign Waynesboro I, Va.)","Petersburg, Va. Campaign","Waynesboro I, Va.)"
+1864-06-11,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-11,"Morgan's Raid V (Cynthiana II, Ky.)",Morgan's Raid V,"(Cynthiana II, Ky.)"
+1864-06-11,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-06-11,"Trevilian Station, Va.","Trevilian Station, Va.",
+1864-06-12,"Atlanta Campaign, Ga. (McAfee's Crossroads)","Atlanta Campaign, Ga.",(McAfee's Crossroads)
+1864-06-12,Morgan's Raid V,Morgan's Raid V,
+1864-06-12,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-06-12,"Trevilian Station, Va.","Trevilian Station, Va.",
+1864-06-13,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-13,Morgan's Raid V,Morgan's Raid V,
+1864-06-13,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-06-13,"Riddell's Shop, Va.",,
+1864-06-14,"Atlanta Campaign, Ga. (Pine Mountain II, Pine Knob I)","Atlanta Campaign, Ga.","(Pine Mountain II, Pine Knob I)"
+1864-06-14,Morgan's Raid V,Morgan's Raid V,
+1864-06-14,"Petersburg, Va. Campaign (James River)","Petersburg, Va. Campaign",(James River)
+1864-06-15,"Atlanta Campaign, Ga. (Gilgal Church)","Atlanta Campaign, Ga.",(Gilgal Church)
+1864-06-15,Morgan's Raid V,Morgan's Raid V,
+1864-06-15,"Petersburg, Va. Campaign (James River, Fort Powhatan, Baylor's Farm)","Petersburg, Va. Campaign","(James River, Fort Powhatan, Baylor's Farm)"
+1864-06-16,"Atlanta Campaign, Ga. (Golgatha, Mud Creek)","Atlanta Campaign, Ga.","(Golgatha, Mud Creek)"
+1864-06-16,Morgan's Raid V,Morgan's Raid V,
+1864-06-16,"Petersburg, Va. Campaign (James River)","Petersburg, Va. Campaign",(James River)
+1864-06-17,"Atlanta Campaign, Ga. (Lost Mountain, Brush Mountain, Mud Creek, Noyes' Creek)","Atlanta Campaign, Ga.","(Lost Mountain, Brush Mountain, Mud Creek, Noyes' Creek)"
+1864-06-17,"Lynchburg, Va.","Lynchburg, Va.",
+1864-06-17,Morgan's Raid V,Morgan's Raid V,
+1864-06-17,"Petersburg, Va. Campaign (James River)","Petersburg, Va. Campaign",(James River)
+1864-06-18,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-18,"Lynchburg, Va.","Lynchburg, Va.",
+1864-06-18,Morgan's Raid V,Morgan's Raid V,
+1864-06-18,"Petersburg, Va. Campaign (James River)","Petersburg, Va. Campaign",(James River)
+1864-06-19,"Atlanta Campaign, Ga. (Pine Knob II)","Atlanta Campaign, Ga.",(Pine Knob II)
+1864-06-19,Morgan's Raid V,Morgan's Raid V,
+1864-06-19,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-06-19,"USS Kearsarge vs. CSS Alabama off Cherbourg, France",,
+1864-06-20,"Atlanta Campaign, Ga. (Kennesaw Mountain I, Lattermore's Mills, Powder Springs, Noonday Creek)","Atlanta Campaign, Ga.","(Kennesaw Mountain I, Lattermore's Mills, Powder Springs, Noonday Creek)"
+1864-06-20,"Kinston II, N.C.","Kinston II, N.C.",
+1864-06-20,"Morgan's Raid V ended (Abingdon II, Va.)",Morgan's Raid V,"ended (Abingdon II, Va.)"
+1864-06-20,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-06-21,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-21,"Kinston I, N.C.","Kinston I, N.C.",
+1864-06-21,"Petersburg, Va. Campaign (Weldon Railroad I)","Petersburg, Va. Campaign",(Weldon Railroad I)
+1864-06-22,"Atlanta Campaign, Ga. (Culp's House, Kolb's Farm)","Atlanta Campaign, Ga.","(Culp's House, Kolb's Farm)"
+1864-06-22,"Kinston I, N.C.","Kinston I, N.C.",
+1864-06-22,"Petersburg, Va. Campaign (Ream's Station I, Jerusalem Plank Road, Williams's Farm, Weldon Railroad I, Wilson & Kautz Raid)","Petersburg, Va. Campaign","(Ream's Station I, Jerusalem Plank Road, Williams's Farm, Weldon Railroad I, Wilson & Kautz Raid)"
+1864-06-23,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-23,"Early's Washington Raid commenced (Buchanan, Va.)",Early's Washington Raid,"commenced (Buchanan, Va.)"
+1864-06-23,"Kinston I, N.C.","Kinston I, N.C.",
+1864-06-23,"Petersburg, Va. Campaign (Jerusalem Plank Road, Nottoway Court House, William's Farm, Davis's Farm, Weldon Railroad I, Wilson and Kautz Raid)","Petersburg, Va. Campaign","(Jerusalem Plank Road, Nottoway Court House, William's Farm, Davis's Farm, Weldon Railroad I, Wilson and Kautz Raid)"
+1864-06-24,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-24,Early's Washington Raid,Early's Washington Raid,
+1864-06-24,"Petersburg, Va. Campaign (St. Mary's Church, Jones's Bridge, Samaria, Danville Railroad, Wilson and Kautz Raid)","Petersburg, Va. Campaign","(St. Mary's Church, Jones's Bridge, Samaria, Danville Railroad, Wilson and Kautz Raid)"
+1864-06-25,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-25,Early's Washington Raid,Early's Washington Raid,
+1864-06-25,"Petersburg, Va. Campaign (Wilson and Kautz Raid; Petersburg mine adit commenced; mine exploded on 30 July)","Petersburg, Va. Campaign",(Wilson and Kautz Raid; Petersburg mine adit commenced; mine exploded on 30 July)
+1864-06-26,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-26,"Early's Washington Raid (Staunton II, Va.)",Early's Washington Raid,"(Staunton II, Va.)"
+1864-06-26,"Petersburg, Va. Campaign (Wilson and Kautz Raid)","Petersburg, Va. Campaign",(Wilson and Kautz Raid)
+1864-06-27,"Atlanta Campaign, Ga. (Kennesaw Mountain II)","Atlanta Campaign, Ga.",(Kennesaw Mountain II)
+1864-06-27,Early's Washington Raid,Early's Washington Raid,
+1864-06-27,"Petersburg, Va. Campaign (Wilson and Kautz Raid, Stony Creek I)","Petersburg, Va. Campaign","(Wilson and Kautz Raid, Stony Creek I)"
+1864-06-28,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-28,Early's Washington Raid,Early's Washington Raid,
+1864-06-28,"Petersburg, Va. Campaign (Wilson and Kautz Raid, Ream's Station II)","Petersburg, Va. Campaign","(Wilson and Kautz Raid, Ream's Station II)"
+1864-06-29,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-29,Early's Washington Raid,Early's Washington Raid,
+1864-06-29,"Petersburg, Va. Campaign (Wilson and Kautz Raid, Ream's Station II)","Petersburg, Va. Campaign","(Wilson and Kautz Raid, Ream's Station II)"
+1864-06-30,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-06-30,Early's Washington Raid,Early's Washington Raid,
+1864-06-30,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-01,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-01,Early's Washington Raid,Early's Washington Raid,
+1864-07-01,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-02,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-02,"Early's Washington Raid (Winchester IV, Va.)",Early's Washington Raid,"(Winchester IV, Va.)"
+1864-07-02,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-03,"Atlanta Campaign, Ga. (Nickajack Creek, Vining Station I)","Atlanta Campaign, Ga.","(Nickajack Creek, Vining Station I)"
+1864-07-03,"Early's Washington Raid (Martinsburg II, W.Va.)",Early's Washington Raid,"(Martinsburg II, W.Va.)"
+1864-07-03,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-04,"Atlanta Campaign, Ga. (Chattahoochie River)","Atlanta Campaign, Ga.",(Chattahoochie River)
+1864-07-04,"Early's Washington Raid (Harpers Ferry III, W.Va.)",Early's Washington Raid,"(Harpers Ferry III, W.Va.)"
+1864-07-04,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-05,"Atlanta Campaign, Ga. (Paces Ferry, Smyrna, Chattahoochie River)","Atlanta Campaign, Ga.","(Paces Ferry, Smyrna, Chattahoochie River)"
+1864-07-05,Early's Washington Raid,Early's Washington Raid,
+1864-07-05,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-06,"Atlanta Campaign, Ga. (Chattahoochie River)","Atlanta Campaign, Ga.",(Chattahoochie River)
+1864-07-06,"Early's Washington Raid (Hagerstown II, Md.)",Early's Washington Raid,"(Hagerstown II, Md.)"
+1864-07-06,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-07,"Atlanta Campaign, Ga. (Chattahoochie River)","Atlanta Campaign, Ga.",(Chattahoochie River)
+1864-07-07,Early's Washington Raid,Early's Washington Raid,
+1864-07-07,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-08,"Atlanta Campaign, Ga. (Chattahoochie River)","Atlanta Campaign, Ga.",(Chattahoochie River)
+1864-07-08,"Early's Washington Raid (Frederick, Md.)",Early's Washington Raid,"(Frederick, Md.)"
+1864-07-08,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-09,"Atlanta Campaign, Ga. (Chattahoochie River, Vining Station II)","Atlanta Campaign, Ga.","(Chattahoochie River, Vining Station II)"
+1864-07-09,"Early's Washington Raid (Monocacy, Md.)",Early's Washington Raid,"(Monocacy, Md.)"
+1864-07-09,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-09,"Rousseau's Raid, Ala. commenced (Decatur I)","Rousseau's Raid, Ala.",commenced (Decatur I)
+1864-07-10,"Atlanta Campaign, Ga. (Chattahoochie River)","Atlanta Campaign, Ga.",(Chattahoochie River)
+1864-07-10,Early's Washington Raid,Early's Washington Raid,
+1864-07-10,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-10,"Rousseau's Raid, Ala.","Rousseau's Raid, Ala.",
+1864-07-11,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-11,"Early's Washington Raid (Fort Stevens, D.C.)",Early's Washington Raid,"(Fort Stevens, D.C.)"
+1864-07-11,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-11,"Rousseau's Raid, Ala.","Rousseau's Raid, Ala.",
+1864-07-12,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-12,"Early's Washington Raid (Fort Stevens, D.C.)",Early's Washington Raid,"(Fort Stevens, D.C.)"
+1864-07-12,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-12,"Rousseau's Raid, Ala.","Rousseau's Raid, Ala.",
+1864-07-13,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-13,"Early's Washington Raid (Tenallytown, Md.)",Early's Washington Raid,"(Tenallytown, Md.)"
+1864-07-13,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-13,"Rousseau's Raid, Ala. (Coosa River)","Rousseau's Raid, Ala.",(Coosa River)
+1864-07-14,"Andrew J. Smith's Expedition, Miss. (Tupelo II, Harrisburg)",,
+1864-07-14,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-14,"Early's Washington Raid (Leesburg D, Va.)",Early's Washington Raid,"(Leesburg D, Va.)"
+1864-07-14,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-14,"Rousseau's Raid, Ala.","Rousseau's Raid, Ala.",
+1864-07-15,"A. J. Smith's Expedition, Miss. (Tupelo II, Old Town Creek)",,
+1864-07-15,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-15,Early's Washington Raid,Early's Washington Raid,
+1864-07-15,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-15,"Rousseau's Raid, Ala.","Rousseau's Raid, Ala.",
+1864-07-16,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-16,Early's Washington Raid,Early's Washington Raid,
+1864-07-16,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-16,"Rousseau's Raid, Ala.","Rousseau's Raid, Ala.",
+1864-07-17,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-17,Early's Washington Raid,Early's Washington Raid,
+1864-07-17,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-17,"Rousseau's Raid, Ala. ended","Rousseau's Raid, Ala.",ended
+1864-07-18,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-18,"Early's Washington Raid (Snicker's Gap, Parker's Ford, Snicker's Ferry, Va.)",Early's Washington Raid,"(Snicker's Gap, Parker's Ford, Snicker's Ferry, Va.)"
+1864-07-18,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-19,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-19,"Early's Washington Raid (Berry's Ford, Va.)",Early's Washington Raid,"(Berry's Ford, Va.)"
+1864-07-19,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-20,"Atlanta Campaign, Ga. (Peach Tree Creek, Howard House, Hood's First Sortie)","Atlanta Campaign, Ga.","(Peach Tree Creek, Howard House, Hood's First Sortie)"
+1864-07-20,"Early's Washington Raid (Winchester V, Stephenson's Depot II, Va.)",Early's Washington Raid,"(Winchester V, Stephenson's Depot II, Va.)"
+1864-07-20,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-21,"Atlanta Campaign, Ga. (Decatur I, Leggett's Hill, Bald Hill)","Atlanta Campaign, Ga.","(Decatur I, Leggett's Hill, Bald Hill)"
+1864-07-21,Early's Washington Raid,Early's Washington Raid,
+1864-07-21,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-22,"Atlanta Campaign, Ga. (Atlanta, Decatur, Sugar Creek, Hood's Second Sortie) Early's Washington Raid (Strasburg I, Va.)","Atlanta Campaign, Ga.","(Atlanta, Decatur, Sugar Creek, Hood's Second Sortie) Early's Washington Raid (Strasburg I, Va.)"
+1864-07-22,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-23,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-23,"Early's Washington Raid (Winchester VI, Kernstown II, Va.)",Early's Washington Raid,"(Winchester VI, Kernstown II, Va.)"
+1864-07-23,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-24,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-24,"Early's Washington Raid (Winchester VI, Kernstown II, Va.)",Early's Washington Raid,"(Winchester VI, Kernstown II, Va.)"
+1864-07-24,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-25,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-25,"Early's Washington Raid (Bunker Hill, Va.)",Early's Washington Raid,"(Bunker Hill, Va.)"
+1864-07-25,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-26,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-26,Early's Washington Raid,Early's Washington Raid,
+1864-07-26,"McCook's Raid, Ga. commenced (Lovejoy Station I)","McCook's Raid, Ga.",commenced (Lovejoy Station I)
+1864-07-26,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-26,"Stoneman's Raid, Ga. commenced","Stoneman's Raid, Ga.",commenced
+1864-07-27,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-27,Early's Washington Raid,Early's Washington Raid,
+1864-07-27,"McCook's Raid, Ga.","McCook's Raid, Ga.",
+1864-07-27,"Petersburg, Va. Campaign (New Market Road II, Deep Bottom, Strawberry Plains I, Malvern Hill II, Darbytown)","Petersburg, Va. Campaign","(New Market Road II, Deep Bottom, Strawberry Plains I, Malvern Hill II, Darbytown)"
+1864-07-27,"Stoneman's Raid, Ga.","Stoneman's Raid, Ga.",
+1864-07-28,"Atlanta Campaign, Ga. (Ezra Church, Ezra Chapel, Hood's Third Sortie)","Atlanta Campaign, Ga.","(Ezra Church, Ezra Chapel, Hood's Third Sortie)"
+1864-07-28,Early's Washington Raid,Early's Washington Raid,
+1864-07-28,"McCook's Raid, Ga. (Campbellton)","McCook's Raid, Ga.",(Campbellton)
+1864-07-28,"Petersburg, Va. Campaign (New Market Road II, Deep Bottom, Strawberry Plains I, Malvern Hill II, Darbytown)","Petersburg, Va. Campaign","(New Market Road II, Deep Bottom, Strawberry Plains I, Malvern Hill II, Darbytown)"
+1864-07-28,"Stoneman's Raid, Ga. (Flat Shoals, Flatrock)","Stoneman's Raid, Ga.","(Flat Shoals, Flatrock)"
+1864-07-29,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-29,Early's Washington Raid,Early's Washington Raid,
+1864-07-29,"McCook's Raid, Ga. (Lovejoy Station II)","McCook's Raid, Ga.",(Lovejoy Station II)
+1864-07-29,"Petersburg, Va. Campaign (New Market Road II, Deep Bottom, Strawberry Plains I, Malvern Hill II, Darbytown)","Petersburg, Va. Campaign","(New Market Road II, Deep Bottom, Strawberry Plains I, Malvern Hill II, Darbytown)"
+1864-07-29,"Stoneman's Raid, Ga. (Macon)","Stoneman's Raid, Ga.",(Macon)
+1864-07-30,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-30,"Chambersburg, Pa.",,
+1864-07-30,Early's Washington Raid,Early's Washington Raid,
+1864-07-30,"McCook's Raid, Ga. (Newnan)","McCook's Raid, Ga.",(Newnan)
+1864-07-30,"Petersburg, Va. Campaign (Battle of the Crater, Petersburg Mine explosion)","Petersburg, Va. Campaign","(Battle of the Crater, Petersburg Mine explosion)"
+1864-07-30,"Stoneman's Raid, Ga. (Hillsboro, Clinton I, Macon, Sunshine Creek)","Stoneman's Raid, Ga.","(Hillsboro, Clinton I, Macon, Sunshine Creek)"
+1864-07-31,"Atlanta Campaign, Ga.","Atlanta Campaign, Ga.",
+1864-07-31,"Early's Washington Raid (Cumberland, Md.)",Early's Washington Raid,"(Cumberland, Md.)"
+1864-07-31,"McCook's Raid, Ga.","McCook's Raid, Ga.",
+1864-07-31,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-07-31,"Stoneman's Raid, Ga. (Hillsboro)","Stoneman's Raid, Ga.",(Hillsboro)
+1864-08-01,"Atlanta Campaign, Ga. Ended","Atlanta Campaign, Ga.",Ended
+1864-08-01,"Early's Washington Raid (Cumberland, Md.)",Early's Washington Raid,"(Cumberland, Md.)"
+1864-08-01,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-01,"Stoneman's Raid, Ga.","Stoneman's Raid, Ga.",
+1864-08-02,Early's Washington Raid,Early's Washington Raid,
+1864-08-02,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-02,"Stoneman's Raid, Ga.","Stoneman's Raid, Ga.",
+1864-08-03,Early's Washington Raid,Early's Washington Raid,
+1864-08-03,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-03,"Stoneman's Raid, Ga. (Jug Tavern)","Stoneman's Raid, Ga.",(Jug Tavern)
+1864-08-04,Early's Washington Raid,Early's Washington Raid,
+1864-08-04,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-05,Early's Washington Raid,Early's Washington Raid,
+1864-08-05,"Mobile Bay, Ala. (Fort Gaines I, Fort Morgan I, USS Hartford, Brooklyn, Tecumseh, Phillipi, Chickasaw, Lackawanna, Monongahela, Manhattan, Winnebago, Octorora, Metacomet, Port Royal, Seminole, Kennebec, Ossipee, Itasca, Oneida, and Galena vs. CSS Tennessee, Selma, Gaines, and Morgan)",,
+1864-08-05,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-05,"Utoy Creek, Ga.","Utoy Creek, Ga.",
+1864-08-06,Early's Washington Raid,Early's Washington Raid,
+1864-08-06,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-06,"Utoy Creek, Ga.","Utoy Creek, Ga.",
+1864-08-07,"Early's Washington Raid ended (Moorefield I, W.Va.)",Early's Washington Raid,"ended (Moorefield I, W.Va.)"
+1864-08-07,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-08,"Fort Gaines II, Ala.",,
+1864-08-08,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-09,"Petersburg, Va. Campaign (City Point I: munitions explosion by sabotage)","Petersburg, Va. Campaign",(City Point I: munitions explosion by sabotage)
+1864-08-10,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-10,"Wheeler's Raid II commenced (Covington, Ga.)",Wheeler's Raid II,"commenced (Covington, Ga.)"
+1864-08-11,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-11,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-12,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-12,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-13,"Petersburg, Va. Campaign (Deep Bottom II, Strawberry Plains II, Fussell's Mill I, Charles City Road I, White's Tavern I, Gravel Hill)","Petersburg, Va. Campaign","(Deep Bottom II, Strawberry Plains II, Fussell's Mill I, Charles City Road I, White's Tavern I, Gravel Hill)"
+1864-08-13,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-14,"Petersburg, Va. Campaign (Deep Bottom II, Strawberry Plains II, New Market Road BI)","Petersburg, Va. Campaign","(Deep Bottom II, Strawberry Plains II, New Market Road BI)"
+1864-08-14,"Wheeler's Raid II (Dalton III, Ga.)",Wheeler's Raid II,"(Dalton III, Ga.)"
+1864-08-15,"Petersburg, Va. Campaign (Deep Bottom II. Strawberry Plains II)","Petersburg, Va. Campaign",(Deep Bottom II. Strawberry Plains II)
+1864-08-15,"Wheeler's Raid II (Dalton III, Ga.)",Wheeler's Raid II,"(Dalton III, Ga.)"
+1864-08-16,"Front Royal III, Va. (Guard Hill, Cedarville)",,
+1864-08-16,"Petersburg, Va. Campaign (Deep Bottom II, Strawberry Plains II, Charles City Road II, White's Tavern II, Bailey's Creek)","Petersburg, Va. Campaign","(Deep Bottom II, Strawberry Plains II, Charles City Road II, White's Tavern II, Bailey's Creek)"
+1864-08-16,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-17,"Petersburg, Va. Campaign (Deep Bottom II, Strawberry Plains)","Petersburg, Va. Campaign","(Deep Bottom II, Strawberry Plains)"
+1864-08-17,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-18,"Kilpatrick's Raid, Ga. commenced (Sandtown)","Kilpatrick's Raid, Ga.",commenced (Sandtown)
+1864-08-18,"Petersburg, Va. Campaign (Deep Bottom II, Strawberry Plains, Weldon Railroad II, Globe Tavern, Yellow House, Blick's Station, Six Mile House)","Petersburg, Va. Campaign","(Deep Bottom II, Strawberry Plains, Weldon Railroad II, Globe Tavern, Yellow House, Blick's Station, Six Mile House)"
+1864-08-18,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-19,"Kilpatrick's Raid, Ga. (Jonesboro I)","Kilpatrick's Raid, Ga.",(Jonesboro I)
+1864-08-19,"Petersburg, Va. Campaign (Deep Bottom II, Strawberry Plains, Weldon Railroad II, Globe Tavern, Six Mile House)","Petersburg, Va. Campaign","(Deep Bottom II, Strawberry Plains, Weldon Railroad II, Globe Tavern, Six Mile House)"
+1864-08-19,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-20,"Petersburg, Va. Campaign (Deep Bottom II. Strawberry Plains, Weldon Railroad II, Globe Tavern, Six Mile House, Fussell's Mill H)  Wheeler's Raid II  Kilpatrick's Raid, Ga. (Lovejoy Station m, McDonough)","Petersburg, Va. Campaign","(Deep Bottom II. Strawberry Plains, Weldon Railroad II, Globe Tavern, Six Mile House, Fussell's Mill H)  Wheeler's Raid II  Kilpatrick's Raid, Ga. (Lovejoy Station m, McDonough)"
+1864-08-21,"Kilpatrick's Raid, Ga. (Latimer, Decatur II)","Kilpatrick's Raid, Ga.","(Latimer, Decatur II)"
+1864-08-21,"Memphis II, Tenn.",,
+1864-08-21,"Petersburg, Va. Campaign (Deep Bottom II, Strawberry Plains, Weldon Railroad II, Globe Tavern, Summit Point)","Petersburg, Va. Campaign","(Deep Bottom II, Strawberry Plains, Weldon Railroad II, Globe Tavern, Summit Point)"
+1864-08-21,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-22,"Kilpatrick's Raid, Ga. ended (Decatur, Buckhead)","Kilpatrick's Raid, Ga.","ended (Decatur, Buckhead)"
+1864-08-22,"Petersburg, Va. Campaign (Weldon Railroad II, Globe Tavern)","Petersburg, Va. Campaign","(Weldon Railroad II, Globe Tavern)"
+1864-08-22,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-23,"Fort Morgan II, Ala.",,
+1864-08-23,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-23,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-24,"Petersburg, Va. Campaign (Ream's Station III)","Petersburg, Va. Campaign",(Ream's Station III)
+1864-08-24,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-25,"Petersburg, Va. Campaign (Ream's Station III)","Petersburg, Va. Campaign",(Ream's Station III)
+1864-08-25,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-26,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-26,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-27,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-27,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-28,"Petersburg, Va. Campaign (Fort Gilmer, Fort Harrison I, Laurel Hill III, New Market Heights I, Chaffin's Farm I)","Petersburg, Va. Campaign","(Fort Gilmer, Fort Harrison I, Laurel Hill III, New Market Heights I, Chaffin's Farm I)"
+1864-08-28,"Price's Mo. Expedition commenced (Camden II, Ark.)",Price's Mo. Expedition,"commenced (Camden II, Ark.)"
+1864-08-28,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-29,"Petersburg, Va. Campaign (Poplar Springs Church I, Jones's House, Chappell's House I, Vaughan Road I, Watt's Farm, Pegram's Farm I, Peeble's Farm I)","Petersburg, Va. Campaign","(Poplar Springs Church I, Jones's House, Chappell's House I, Vaughan Road I, Watt's Farm, Pegram's Farm I, Peeble's Farm I)"
+1864-08-29,"Price's Mo. Expedition (Princeton, Ark.)",Price's Mo. Expedition,"(Princeton, Ark.)"
+1864-08-29,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-30,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-08-30,"Price's Mo. Expedition (Tulip, Ark.)",Price's Mo. Expedition,"(Tulip, Ark.)"
+1864-08-30,Wheeler's Raid II,Wheeler's Raid II,
+1864-08-31,"Jonesboro II, Ga. (Rough and Ready)","Jonesboro II, Ga.",(Rough and Ready)
+1864-08-31,"Martinsburg III, W.Va.",,
+1864-08-31,"Petersburg, Va. Campaign Price's Mo. Expedition","Petersburg, Va. Campaign",Price's Mo. Expedition
+1864-08-31,Wheeler's Raid II,Wheeler's Raid II,
+1864-09-01,"Jonesboro II, Ga.","Jonesboro II, Ga.",
+1864-09-01,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-01,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-01,Wheeler's Raid II,Wheeler's Raid II,
+1864-09-02,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-02,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-02,"Wheeler's Raid II (Lovejoy Station IV, Ga.)",Wheeler's Raid II,"(Lovejoy Station IV, Ga.)"
+1864-09-03,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-03,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-03,Sheridan's Va. Valley Campaign commenced (Berryville II),Sheridan's Va. Valley Campaign,commenced (Berryville II)
+1864-09-03,"Wheeler's Raid II (Lovejoy Station IV, Ga.)",Wheeler's Raid II,"(Lovejoy Station IV, Ga.)"
+1864-09-04,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-04,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-04,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-04,"Wheeler's Raid II (Lovejoy IV, Ga.)",Wheeler's Raid II,"(Lovejoy IV, Ga.)"
+1864-09-05,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-05,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-05,Sheridan's Va. Valley Campaign (Berryville III),Sheridan's Va. Valley Campaign,(Berryville III)
+1864-09-05,"Wheeler's Raid II (Lovejoy Station IV, Ga.)",Wheeler's Raid II,"(Lovejoy Station IV, Ga.)"
+1864-09-06,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-06,"Price's Mo. Expedition (Dardanelle, Ark.)",Price's Mo. Expedition,"(Dardanelle, Ark.)"
+1864-09-06,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-06,"Wheeler's Raid II (Lovejoy Station IV, Ga.)",Wheeler's Raid II,"(Lovejoy Station IV, Ga.)"
+1864-09-07,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-07,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-07,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-07,Wheeler's Raid II,Wheeler's Raid II,
+1864-09-08,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-08,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-08,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-08,Wheeler's Raid II,Wheeler's Raid II,
+1864-09-09,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-09,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-09,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-09,Wheeler's Raid II,Wheeler's Raid II,
+1864-09-10,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-10,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-10,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-10,"Wheeler's Raid II ended (Tuscumbia II, Ala.)",Wheeler's Raid II,"ended (Tuscumbia II, Ala.)"
+1864-09-11,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-11,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-11,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-12,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-12,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-12,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-13,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-13,"Price's Mo. Expedition (Batesville, Ark.)",Price's Mo. Expedition,"(Batesville, Ark.)"
+1864-09-13,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-14,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-14,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-14,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-15,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-15,"Price's Mo. Expedition (Powhatan, Ark.)",Price's Mo. Expedition,"(Powhatan, Ark.)"
+1864-09-15,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-16,"Petersburg, Va. Campaign (Coggin's Point, Hampton's ""Beefsteak Raid"")","Petersburg, Va. Campaign","(Coggin's Point, Hampton's ""Beefsteak Raid"")"
+1864-09-16,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-16,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-17,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-17,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-17,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-18,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-18,"Price's Mo. Expedition (Doniphan, Ark.)",Price's Mo. Expedition,"(Doniphan, Ark.)"
+1864-09-18,"Sheridan's Va. Valley Campaign (Martinsburg II, W.Va.)",Sheridan's Va. Valley Campaign,"(Martinsburg II, W.Va.)"
+1864-09-19,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-19,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-19,"Sheridan's Va. Valley Campaign (Winchester VII, Opequon Creek)",Sheridan's Va. Valley Campaign,"(Winchester VII, Opequon Creek)"
+1864-09-20,"Cabin Creek, Indian Terr.",,
+1864-09-20,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-20,"Price's Mo. Expedition (Ponder's Mill, Keytesville)",Price's Mo. Expedition,"(Ponder's Mill, Keytesville)"
+1864-09-20,"Sheridan's Va. Valley Campaign (Middletown I, Strasburg II)",Sheridan's Va. Valley Campaign,"(Middletown I, Strasburg II)"
+1864-09-21,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-21,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-09-21,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-22,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-22,"Price's Mo. Expedition (Patterson, Mo.)",Price's Mo. Expedition,"(Patterson, Mo.)"
+1864-09-22,Sheridan's Va. Valley Campaign (Fisher's Hill),Sheridan's Va. Valley Campaign,(Fisher's Hill)
+1864-09-23,"Athens, Ala.",,
+1864-09-23,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-23,"Price's Mo. Expedition (Rocheport, Mo.)",Price's Mo. Expedition,"(Rocheport, Mo.)"
+1864-09-23,Sheridan's Va. Valley Campaign (Woodstock),Sheridan's Va. Valley Campaign,(Woodstock)
+1864-09-24,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-24,"Price's Mo. Expedition (Fayette, Jackson II, Farmington)",Price's Mo. Expedition,"(Fayette, Jackson II, Farmington)"
+1864-09-24,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-25,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-25,"Price's Mo. Expedition (Fredericktown II, Huntsville, Mo.)",Price's Mo. Expedition,"(Fredericktown II, Huntsville, Mo.)"
+1864-09-25,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-26,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-26,"Price's Mo. Expedition (Arcadia, Ironton, Pilot Knob, Mo.)",Price's Mo. Expedition,"(Arcadia, Ironton, Pilot Knob, Mo.)"
+1864-09-26,Sheridan's Va. Valley Campaign (Port Republic III),Sheridan's Va. Valley Campaign,(Port Republic III)
+1864-09-27,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-09-27,"Price's Mo. Expedition (Pilot Knob, Fort Davidson, Mo.)",Price's Mo. Expedition,"(Pilot Knob, Fort Davidson, Mo.)"
+1864-09-27,Sheridan's Va. Valley Campaign (Port Republic II),Sheridan's Va. Valley Campaign,(Port Republic II)
+1864-09-28,"Petersburg, Va. Campaign (New Market Heights II)","Petersburg, Va. Campaign",(New Market Heights II)
+1864-09-28,"Price's Mo. Expedition (Caledonia, Centralia. Mo.)",Price's Mo. Expedition,"(Caledonia, Centralia. Mo.)"
+1864-09-28,Sheridan's Va. Valley Campaign,Sheridan's Va. Valley Campaign,
+1864-09-29,Sheridan's Va. Valley Campaign ended (Waynesboro II),Sheridan's Va. Valley Campaign,ended (Waynesboro II)
+1864-09-29,"Petersburg, Va. Campaign (Fort Harrison II, Chaffin's Farm II, Peeble's Farm II, Laurel Hill IV, Fort Gilmer, New Market Heights II, Fort Gregg, Pegram's Farm II, Wyatt's Farm)","Petersburg, Va. Campaign","(Fort Harrison II, Chaffin's Farm II, Peeble's Farm II, Laurel Hill IV, Fort Gilmer, New Market Heights II, Fort Gregg, Pegram's Farm II, Wyatt's Farm)"
+1864-09-29,"Price's Mo. Expedition (Cuba, Potosi, Mo.)",Price's Mo. Expedition,"(Cuba, Potosi, Mo.)"
+1864-09-30,"Petersburg, Va. Campaign (Poplar Springs Church II, Pegram's Farm II, Peeble's Farm II, Fort Harrison II)","Petersburg, Va. Campaign","(Poplar Springs Church II, Pegram's Farm II, Peeble's Farm II, Fort Harrison II)"
+1864-09-30,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-10-01,"Petersburg, Va. Campaign (Poplar Springs Church II, Pegram's Farm II, Peeble's Farm II, Chappell's House II, Vaughan Road)","Petersburg, Va. Campaign","(Poplar Springs Church II, Pegram's Farm II, Peeble's Farm II, Chappell's House II, Vaughan Road)"
+1864-10-01,"Price's Mo. Expedition (Harrison, Mo.)",Price's Mo. Expedition,"(Harrison, Mo.)"
+1864-10-02,"Petersburg, Va. Campaign (Darbytown Road I, New Market Road IV, Pegram's Farm II, Johnson's Farm I)","Petersburg, Va. Campaign","(Darbytown Road I, New Market Road IV, Pegram's Farm II, Johnson's Farm I)"
+1864-10-02,"Price's Mo. Expedition (Washington, Mo.)",Price's Mo. Expedition,"(Washington, Mo.)"
+1864-10-02,"Saltville I, Va.",,
+1864-10-03,"Petersburg, Va. Campaign (Darbytown Road I, New Market Road IV, Johnson's Farm I)","Petersburg, Va. Campaign","(Darbytown Road I, New Market Road IV, Johnson's Farm I)"
+1864-10-03,"Price's Mo. Expedition (Hermann, Mo.)",Price's Mo. Expedition,"(Hermann, Mo.)"
+1864-10-04,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-04,"Price's Mo. Expedition (Richwoods, Mo.)",Price's Mo. Expedition,"(Richwoods, Mo.)"
+1864-10-05,"Allatoona Pass III, Ga.",,
+1864-10-05,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-05,"Price's Mo. Expedition (Osage River, Linn, Mo.)",Price's Mo. Expedition,"(Osage River, Linn, Mo.)"
+1864-10-06,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-06,Price's Mo. Expedition (Osage River),Price's Mo. Expedition,(Osage River)
+1864-10-07,"Petersburg, Va. Campaign (Darbytown Road II, New Market Road V, Johnson's Farm II, Four Mile Creek)","Petersburg, Va. Campaign","(Darbytown Road II, New Market Road V, Johnson's Farm II, Four Mile Creek)"
+1864-10-07,Price's Mo. Expedition (Jefferson City),Price's Mo. Expedition,(Jefferson City)
+1864-10-07,"USS Wachusett vs. CSS Florida off Bahia, Brazil",,
+1864-10-08,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-08,"Price's Mo. Expedition (Jefferson City, Mo.)",Price's Mo. Expedition,"(Jefferson City, Mo.)"
+1864-10-08,"Tom's Brook, Va.","Tom's Brook, Va.",
+1864-10-09,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-09,"Price's Mo. Expedition (Boonville III, Mo.)",Price's Mo. Expedition,"(Boonville III, Mo.)"
+1864-10-09,"Toms Brook, Va. (Round Top Mountain)","Tom's Brook, Va.",(Round Top Mountain)
+1864-10-10,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-10,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-10-11,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-11,"Price's Mo. Expedition (Brunswick, Mo.)",Price's Mo. Expedition,"(Brunswick, Mo.)"
+1864-10-12,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-12,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-10-13,"Mosby's Raid (Harpers Ferry IV, W.Va.)",,
+1864-10-13,"Petersburg, Va. Campaign (Darbytown Road III)","Petersburg, Va. Campaign",(Darbytown Road III)
+1864-10-13,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-10-13,"Strasburg III, Va. (Hupp's Hill)","Strasburg III, Va.",(Hupp's Hill)
+1864-10-14,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-14,"Price's Mo. Expedition (Glasgow, Mo.)",Price's Mo. Expedition,"(Glasgow, Mo.)"
+1864-10-14,"Strasburg III, Va. (Hupps Hill)","Strasburg III, Va.",(Hupp's Hill)
+1864-10-15,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-15,"Price's Mo. Expedition (Glasgow, Sedalia, Paris, Mo.)",Price's Mo. Expedition,"(Glasgow, Sedalia, Paris, Mo.)"
+1864-10-16,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-16,"Price's Mo. Expedition (Ridgely, Sedalia, Mo.)",Price's Mo. Expedition,"(Ridgely, Sedalia, Mo.)"
+1864-10-17,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-17,"Price's Mo. Expedition (Carrollton, Smithville, Lexington, Sedalia, Mo.)",Price's Mo. Expedition,"(Carrollton, Smithville, Lexington, Sedalia, Mo.)"
+1864-10-18,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-18,"Price's Mo. Expedition (Lexington, Waverly, Mo.)",Price's Mo. Expedition,"(Lexington, Waverly, Mo.)"
+1864-10-19,"Cedar Creek, Va. (Belle Grove, Middletown II)",,
+1864-10-19,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-19,"Price's Mo. Expedition (Lexington, Mo.)",Price's Mo. Expedition,"(Lexington, Mo.)"
+1864-10-19,"Raid on St. Albans, Vt.",,
+1864-10-20,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-20,"Price's Mo. Expedition (Dover, Mo.)",Price's Mo. Expedition,"(Dover, Mo.)"
+1864-10-21,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-21,"Price's Mo. Expedition (Little Blue River, Mo.)",Price's Mo. Expedition,"(Little Blue River, Mo.)"
+1864-10-22,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-22,"Price's Mo. Expedition (Independence, Big Blue River, Byram's Ford, Mo.)",Price's Mo. Expedition,"(Independence, Big Blue River, Byram's Ford, Mo.)"
+1864-10-23,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-23,"Price's Mo. Expedition (Westport, Brush Creek, Big Blue River, Mo.)",Price's Mo. Expedition,"(Westport, Brush Creek, Big Blue River, Mo.)"
+1864-10-24,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-24,Price's Mo. Expedition (Westport),Price's Mo. Expedition,(Westport)
+1864-10-25,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-25,"Price's Mo. Expedition (Mine Creek, Marias des Cygnes River, Little Osage Creek, Chariot, Kans.)",Price's Mo. Expedition,"(Mine Creek, Marias des Cygnes River, Little Osage Creek, Chariot, Kans.)"
+1864-10-26,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-26,"Price's Mo. Expedition (Albany, Carthage II, Mo.)",Price's Mo. Expedition,"(Albany, Carthage II, Mo.)"
+1864-10-27,"Petersburg, Va. (Burgess Mill, Boydton Plank Road I, Hatcher's Run I, Darbytown Road IV, Stony Creek II, Southside Railroad I, Vaughan Road II, Burgess Farm)","Petersburg, Va. Campaign","(Burgess Mill, Boydton Plank Road I, Hatcher's Run I, Darbytown Road IV, Stony Creek II, Southside Railroad I, Vaughan Road II, Burgess Farm)"
+1864-10-27,"Plymouth II, N.C. (CSS Albemarle, Cushing's Raid)",,
+1864-10-27,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-10-27,"Williamsburg Road (Fair Oaks II, Va.)",,
+1864-10-28,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-28,"Price's Mo. Expedition (Newtonia II, Mo.)",Price's Mo. Expedition,"(Newtonia II, Mo.)"
+1864-10-29,"Petersburg, Va. Campaign (Johnson's Farm III)","Petersburg, Va. Campaign",(Johnson's Farm III)
+1864-10-29,"Price's Mo. Expedition (Pineville, Mo.)",Price's Mo. Expedition,"(Pineville, Mo.)"
+1864-10-30,"Decatur II, Ala.",,
+1864-10-30,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-30,"Price's Mo. Expedition (Maysville, Ark.)",Price's Mo. Expedition,"(Maysville, Ark.)"
+1864-10-31,Nevada admitted to the Union,,
+1864-10-31,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-10-31,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-11-01,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-01,"Price's Mo. Expedition (Boonsboro, Ark.)",Price's Mo. Expedition,"(Boonsboro, Ark.)"
+1864-11-02,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-02,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-11-03,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-03,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-11-04,"Johnsonville, Tenn.  Price's Mo. Expedition (Fayetteville II, Ark.)",,
+1864-11-04,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-05,"Petersburg, Va. Campaign (Fort Sedgwick, Fort Hell)","Petersburg, Va. Campaign","(Fort Sedgwick, Fort Hell)"
+1864-11-05,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-11-06,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-06,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-11-07,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-07,Price's Mo. Expedition,Price's Mo. Expedition,
+1864-11-08,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-08,Price's Mo. Expedition ended (Arkansas River),Price's Mo. Expedition,ended (Arkansas River)
+1864-11-09,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-10,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-11,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-12,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-13,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-14,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-15,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-15,Sherman's March to the Sea in Ga.  Commenced,Sherman's March to the Sea,Commenced
+1864-11-16,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-16,"Sherman's March to the Sea (Lovejoy Station V, Bear Creek Station, Cotton River Bridge, Ga.)",Sherman's March to the Sea,"(Lovejoy Station V, Bear Creek Station, Cotton River Bridge, Ga.)"
+1864-11-17,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-17,"Sherman's March to the Sea (Towaliga Bridge, Ga.)",Sherman's March to the Sea,"(Towaliga Bridge, Ga.)"
+1864-11-18,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-18,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-11-19,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-19,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-11-20,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-20,"Sherman's March to the Sea (Clinton II, Walnut Creek, East Macon, Griswoldville, Ocmulgee River, Ga.)",Sherman's March to the Sea,"(Clinton II, Walnut Creek, East Macon, Griswoldville, Ocmulgee River, Ga.)"
+1864-11-21,Hood's Tenn. Campaign commenced,Hood's Tenn. Campaign,commenced
+1864-11-21,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-21,"Sherman's March to the Sea (Macon II, Eatonton, Clinton, Griswoldville, Ga.)",Sherman's March to the Sea,"(Macon II, Eatonton, Clinton, Griswoldville, Ga.)"
+1864-11-22,Hood's Tenn. Campaign (Lawrenceburg),Hood's Tenn. Campaign,(Lawrenceburg)
+1864-11-22,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-22,"Sherman's March to the Sea (Milledgeville, Gordon, Griswoldville, Ga.)",Sherman's March to the Sea,"(Milledgeville, Gordon, Griswoldville, Ga.)"
+1864-11-23,"Hood's Tenn. Campaign (Pulaski, Henryville, Fouche Springs, Mount Pleasant)",Hood's Tenn. Campaign,"(Pulaski, Henryville, Fouche Springs, Mount Pleasant)"
+1864-11-23,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-23,"Sherman's March to the Sea (Ball's Ferry, Milledgeville, Oconee River, Ga.)",Sherman's March to the Sea,"(Ball's Ferry, Milledgeville, Oconee River, Ga.)"
+1864-11-24,"Hood's Tenn. Campaign (Columbia II, Lynnville)",Hood's Tenn. Campaign,"(Columbia II, Lynnville)"
+1864-11-24,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-24,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-11-25,"Adobe Wells, Tex.",,
+1864-11-25,"Arsonists attempt to burn New York, N.Y.",,
+1864-11-25,Hood's Tenn. Campaign (Columbia II),Hood's Tenn. Campaign,(Columbia II)
+1864-11-25,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-25,"Sherman's March to the Sea (Sandersville, Buffalo Creek, Ga.)",Sherman's March to the Sea,"(Sandersville, Buffalo Creek, Ga.)"
+1864-11-26,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-11-26,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-26,Sherman's March to the Sea (Reynold's Plantation I),Sherman's March to the Sea,(Reynold's Plantation I)
+1864-11-27,Hood's Tenn. Campaign (Duck River),Hood's Tenn. Campaign,(Duck River)
+1864-11-27,"Petersburg, Va. Campaign (Hatcher's Run II)","Petersburg, Va. Campaign",(Hatcher's Run II)
+1864-11-27,"Sherman's March to the Sea (Waynesboro I, Sylvan Grove I, Buckhead Creek, Brier Creek, Ga.)",Sherman's March to the Sea,"(Waynesboro I, Sylvan Grove I, Buckhead Creek, Brier Creek, Ga.)"
+1864-11-28,"Fair Oaks III, Va.",,
+1864-11-28,"Hood's Tenn. Campaign (Columbia m, Shelbyville II)",Hood's Tenn. Campaign,"(Columbia m, Shelbyville II)"
+1864-11-28,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-28,"Rosser's Raid II (New Creek, W.Va..)",,
+1864-11-28,"Sherman's March to the Sea (Buckhead Creek, Ga.)",Sherman's March to the Sea,"(Buckhead Creek, Ga.)"
+1864-11-29,"Honey Hill, S.C. (Grahamville)","Honey Hill, S.C.",(Grahamville)
+1864-11-29,"Hood's Tenn. Campaign (Spring Hill II, Thompson's Station II)",Hood's Tenn. Campaign,"(Spring Hill II, Thompson's Station II)"
+1864-11-29,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-29,"Sherman's March to the Sea (Louisville, Ga.)",Sherman's March to the Sea,"(Louisville, Ga.)"
+1864-11-30,"Honey Hill, S.C. (Grahamville, Broad River)","Honey Hill, S.C.","(Grahamville, Broad River)"
+1864-11-30,Hood's Tenn. Campaign (Franklin II),Hood's Tenn. Campaign,(Franklin II)
+1864-11-30,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-11-30,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-01,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-01,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-01,"Sherman's March to the Sea (Millen, Ga.)",Sherman's March to the Sea,"(Millen, Ga.)"
+1864-12-01,"Stoneman's Raid III commenced (Bean's Station II, Tenn.)",Stoneman's Raid III,"commenced (Bean's Station II, Tenn.)"
+1864-12-02,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-02,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-02,"Sherman's March to the Sea (Thomas Station, Ga.)",Sherman's March to the Sea,"(Thomas Station, Ga.)"
+1864-12-02,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-03,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-03,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-03,"Sherman's March to the Sea (Millen, Ogeechee River, Lumkin's Station, Ga.)",Sherman's March to the Sea,"(Millen, Ogeechee River, Lumkin's Station, Ga.)"
+1864-12-03,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-04,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-04,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-04,"Sherman's March to the Sea (Thomas' Station, Waynesboro II, Statesboro, Little Ogeechee River, Sylvan Grove D, Reynold's Plantation II, Ga.)",Sherman's March to the Sea,"(Thomas' Station, Waynesboro II, Statesboro, Little Ogeechee River, Sylvan Grove D, Reynold's Plantation II, Ga.)"
+1864-12-04,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-05,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-05,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-05,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-05,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-06,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-06,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-06,"Sherman's March to the Sea (Deveaux's Neck, S.C.)",Sherman's March to the Sea,"(Deveaux's Neck, S.C.)"
+1864-12-06,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-07,Hood's Tenn. Campaign (Murfreesboro ID),Hood's Tenn. Campaign,(Murfreesboro ID)
+1864-12-07,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-07,"Sherman's March to the Sea (Ebenezer Creek, Ga.)",Sherman's March to the Sea,"(Ebenezer Creek, Ga.)"
+1864-12-07,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-08,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-08,"Petersburg, Va. Campaign (Hatcher's Run III)","Petersburg, Va. Campaign",(Hatcher's Run III)
+1864-12-08,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-08,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-09,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-09,"Petersburg, Va. Campaign (Hatcher's Run III)","Petersburg, Va. Campaign",(Hatcher's Run III)
+1864-12-09,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-09,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-10,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-10,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-10,"Sherman's March to the Sea (Savannah I, Ga.)",Sherman's March to the Sea,"(Savannah I, Ga.)"
+1864-12-10,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-11,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-11,"Petersburg, Va. Campaign (Weldon Railroad III)","Petersburg, Va. Campaign",(Weldon Railroad III)
+1864-12-11,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-11,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-12,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-12,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-12,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-12,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-13,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-13,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-13,"Sherman's March to the Sea (Fort McAllister II, Ga.)",Sherman's March to the Sea,"(Fort McAllister II, Ga.)"
+1864-12-13,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-14,Hood's Tenn. Campaign,Hood's Tenn. Campaign,
+1864-12-14,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-14,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-14,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-15,"Hood's Tenn. Campaign (Nashville II, Brentwood II)",Hood's Tenn. Campaign,"(Nashville II, Brentwood II)"
+1864-12-15,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-15,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-15,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-16,Hood's Tenn. Campaign (Nashville II),Hood's Tenn. Campaign,(Nashville II)
+1864-12-16,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-16,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-16,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-17,Hood's Tenn. Campaign (Franklin III),Hood's Tenn. Campaign,(Franklin III)
+1864-12-17,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-17,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-17,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-18,"Lacey's Springs, Va.",,
+1864-12-18,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-18,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-18,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-19,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-19,Sherman's March to the Sea,Sherman's March to the Sea,
+1864-12-19,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-20,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-20,"Sherman's March to the Sea ended (Savannah II, Ga.)",Sherman's March to the Sea,"ended (Savannah II, Ga.)"
+1864-12-20,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-21,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-21,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-22,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-22,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-23,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-23,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-24,"Fort Fisher I, N.C. (Butler's Expedition)","Fort Fisher I, N.C.",(Butler's Expedition)
+1864-12-24,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-24,"Stoneman's Raid III  Gordonsville, Va.",Stoneman's Raid III,"Gordonsville, Va."
+1864-12-25,"Fort Fisher I, N.C.","Fort Fisher I, N.C.",
+1864-12-25,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-25,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-26,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-26,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-27,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-27,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-28,"Egypt, Miss. (Egypt Station)",,
+1864-12-28,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-28,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-29,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-29,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-30,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-30,Stoneman's Raid III,Stoneman's Raid III,
+1864-12-31,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1864-12-31,Stoneman's Raid III,Stoneman's Raid III,
+1865-01-01,"Hardeeville, S.C.",,
+1865-01-01,"Petersburg, Va. Campaign (Dutch Gap Canal Project)","Petersburg, Va. Campaign",(Dutch Gap Canal Project)
+1865-01-01,"Stoneman's Raid III ended (Saltville II, Va.)",Stoneman's Raid III,"ended (Saltville II, Va.)"
+1865-01-02,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-03,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-04,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-05,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-06,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-07,"Petersburg, Va. Campaign (Dabney's Mill I, Hatcher's Run IV)","Petersburg, Va. Campaign","(Dabney's Mill I, Hatcher's Run IV)"
+1865-01-08,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-09,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-10,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-11,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-11,"Rosser's Raid III (Beverly II, W.Va.)",,
+1865-01-12,"Fort Fisher II, N.C. (Terry's Expedition)","Fort Fisher II, N.C.",(Terry's Expedition)
+1865-01-12,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-13,"Fort Fisher II, N.C.","Fort Fisher II, N.C.",
+1865-01-13,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-14,"Fort Fisher II, N.C.","Fort Fisher II, N.C.",
+1865-01-14,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-15,"Fort Fisher II, N.C.","Fort Fisher II, N.C.",
+1865-01-15,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-16,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-17,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-18,"Fort Moultrie II, S.C.",,
+1865-01-18,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-19,"Fort Anderson I, N.C.",,
+1865-01-19,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-20,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-21,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-22,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-23,"City Point II, Va. (James River III)",,
+1865-01-23,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-24,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-25,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-26,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-27,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-28,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-29,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-29,"Rosser's Raid IV (Moorefield II, W.Va.)",,
+1865-01-30,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-01-31,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-02-01,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-02-01,"Sister's Ferry, S.C.",,
+1865-02-02,"Lawtonville, S.C.",,
+1865-02-02,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-02-02,"Salkehatchie River, S.C.",,
+1865-02-03,"Hampton Roads, Va. Peace Conference aboard USS River Queen",,
+1865-02-03,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-02-04,"Petersburg, Va. Campaign","Petersburg, Va. Campaign",
+1865-02-05,"Combahee River, S.C.",,
+1865-02-05,"Duncanville, S.C.",,
+1865-02-05,"Richmond and Petersburg Campaign commenced (Hatchers Run V, Dabney's Mill II, Armstrong's Mill, Rowanty Creek, Vaughan Road m, Boydton Plank Road II, Va.)",Richmond and Petersburg Campaign,"commenced (Hatchers Run V, Dabney's Mill II, Armstrong's Mill, Rowanty Creek, Vaughan Road m, Boydton Plank Road II, Va.)"
+1865-02-06,"Barnwell, S.C.",,
+1865-02-06,"Lane's Bridge, S.C.",,
+1865-02-06,"Richmond and Petersburg Campaign (Boydton Plank Road II, Hatcher's Run V, Va.)",Richmond and Petersburg Campaign,"(Boydton Plank Road II, Hatcher's Run V, Va.)"
+1865-02-07,"Blackwell, S.C.",,
+1865-02-07,"Edisto River Bridge, S.C.",,
+1865-02-07,"Richmond and Petersburg Campaign (Boydton Plank Road II, Hatcher's Run IV, Va.)",Richmond and Petersburg Campaign,"(Boydton Plank Road II, Hatcher's Run IV, Va.)"
+1865-02-08,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-09,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-10,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-11,"Orangeburg, S.C.",,
+1865-02-11,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-12,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-13,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-14,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-15,"Congaree River, S.C.",,
+1865-02-15,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-16,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-17,"Columbia, S.C.",,
+1865-02-17,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-18,"Charleston III, S.C. (Fort Moultrie III)",,
+1865-02-18,"Fort Anderson II, N.C.","Fort Anderson II, N.C.",
+1865-02-18,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-19,"Fort Anderson II, N.C.","Fort Anderson II, N.C.",
+1865-02-19,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-19,"Town Creek, N.C.",,
+1865-02-20,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-21,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-22,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-22,"Rocky Mount, S.C.",,
+1865-02-22,"Wilmington, N.C.",,
+1865-02-23,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-24,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-25,"Camden, S.C.",,
+1865-02-25,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-26,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-27,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-02-28,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-01,Nebraska admitted to the Union,,
+1865-03-01,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-02,"Chesterfield, S.C.",,
+1865-03-02,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-02,"Thompson's Creek, S.C.",,
+1865-03-02,"Waynesboro III, Va.",,
+1865-03-03,"Cheraw, S.C.",,
+1865-03-03,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-04,"Abraham Lincoln and Andrew Johnson inaugurated in Washington, D.C.",,
+1865-03-04,"Florence, S.C.",,
+1865-03-04,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-05,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-06,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-07,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-08,"Kinston III, N.C. (Wilcox's Bridge, Wise's Forks)","Kinston III, N.C.","(Wilcox's Bridge, Wise's Forks)"
+1865-03-08,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-09,"Kinston III, N.C. (Wilcox's Bridge, Wise's Forks)","Kinston III, N.C.","(Wilcox's Bridge, Wise's Forks)"
+1865-03-09,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-10,"Kinston III, N.C. (Wilcox's Bridge, Wise's Forks, Monroe's Crossroads)","Kinston III, N.C.","(Wilcox's Bridge, Wise's Forks, Monroe's Crossroads)"
+1865-03-10,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-11,"Fayetteville, N.C.",,
+1865-03-11,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-12,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-13,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-14,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-15,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-16,"Averasboro, N.C. (Taylor's Hole Creek, N.C.)",,
+1865-03-16,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-17,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-18,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-19,"Bentonville, N.C.","Bentonville, N.C.",
+1865-03-19,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-20,"Bentonville, N.C.","Bentonville, N.C.",
+1865-03-20,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-20,"Stoneman's Raid IV (Jonesboro, Tenn.)",,
+1865-03-21,"Bentonville, N.C.","Bentonville, N.C.",
+1865-03-21,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-21,Wilson's Selma Raid commenced,Wilson's Selma Raid,commenced
+1865-03-22,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-22,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-03-23,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-23,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-03-24,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-24,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-03-25,"Mobile I, Ala. (Bluff Springs, Fla.)",,
+1865-03-25,"Richmond and Petersburg Campaign (Fort Stedman, Watkin's House, Va.)",Richmond and Petersburg Campaign,"(Fort Stedman, Watkin's House, Va.)"
+1865-03-25,"Wilson's Selma Raid (Houston, Ala.)",Wilson's Selma Raid,"(Houston, Ala.)"
+1865-03-26,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-26,"Wilson's Selma Raid (Blackwarrior River, Miss.)",Wilson's Selma Raid,"(Blackwarrior River, Miss.)"
+1865-03-27,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-27,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-03-28,Richmond and Petersburg Campaign,Richmond and Petersburg Campaign,
+1865-03-28,"Wilson's Selma Raid (Elyton [Birmingham], Ala.)",Wilson's Selma Raid,"(Elyton [Birmingham], Ala.)"
+1865-03-29,"Richmond and Petersburg Campaign (Quaker Road, Lewis' Farm, Boydton Plank Road III, Gravelly Run, Va.)",Richmond and Petersburg Campaign,"(Quaker Road, Lewis' Farm, Boydton Plank Road III, Gravelly Run, Va.)"
+1865-03-29,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-03-30,"Richmond and Petersburg Campaign (Hatcher's Run VI, Boydton Plank Road m. Gravelly Run, Va.)",Richmond and Petersburg Campaign,"(Hatcher's Run VI, Boydton Plank Road m. Gravelly Run, Va.)"
+1865-03-30,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-03-31,"Richmond and Petersburg Campaign (White Oak Road, Boydton Plank Road m, Dinwiddie Court House, Gravelly Run, Va.)",Richmond and Petersburg Campaign,"(White Oak Road, Boydton Plank Road m, Dinwiddie Court House, Gravelly Run, Va.)"
+1865-03-31,"Wilson's Selma Raid (Montevallo, Ala.)",Wilson's Selma Raid,"(Montevallo, Ala.)"
+1865-04-01,"Richmond and Petersburg Campaign (Five Forks, White Oak Road, Va.)",Richmond and Petersburg Campaign,"(Five Forks, White Oak Road, Va.)"
+1865-04-01,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-04-02,"Richmond and Petersburg Campaign (Sutherland's Station, Fort Gregg, Fort Mahone, Fort Damnation, Southside Railroad II, Va.)",Richmond and Petersburg Campaign,"(Sutherland's Station, Fort Gregg, Fort Mahone, Fort Damnation, Southside Railroad II, Va.)"
+1865-04-02,"Wilson's Selma Raid (Selma, Ala.)",Wilson's Selma Raid,"(Selma, Ala.)"
+1865-04-03,"Richmond and Petersburg Campaign ended (Namozine Church, Willicomack, Va.)",Richmond and Petersburg Campaign,"ended (Namozine Church, Willicomack, Va.)"
+1865-04-03,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-04-04,Appomattox Campaign,Appomattox Campaign,
+1865-04-04,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-04-05,"Appomattox Campaign (Amelia Springs, Jetersville, Va.)",Appomattox Campaign,"(Amelia Springs, Jetersville, Va.)"
+1865-04-05,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-04-06,"Appomattox Campaign (High Bridge, Harper's Farm, Rice's Station, Deatonsville, Sayler's Creek, Va.)",Appomattox Campaign,"(High Bridge, Harper's Farm, Rice's Station, Deatonsville, Sayler's Creek, Va.)"
+1865-04-06,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-04-07,"Appomattox Campaign (Farmville, High Bridge, Cumberland Church, Va.)",Appomattox Campaign,"(Farmville, High Bridge, Cumberland Church, Va.)"
+1865-04-07,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-04-08,"Appomattox Campaign (Appomattox Station, Va.)",Appomattox Campaign,"(Appomattox Station, Va.)"
+1865-04-08,"Spanish Fort, Ala.",,
+1865-04-08,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-04-09,"Appomattox Court House, Va. (Robert E.  Lee surrendered)",,
+1865-04-09,"Fort Blakely, Ala.",,
+1865-04-09,Wilson's Selma Raid,Wilson's Selma Raid,
+1865-04-12,"Mobile II, Ala.",,
+1865-04-12,"Wilson's Selma Raid ended (Montgomery, Ala.)",Wilson's Selma Raid,"ended (Montgomery, Ala.)"
+1865-04-13,"Raleigh, N.C.",,
+1865-04-14,"Assassination of Abraham Lincoln, Ford's Theatre, Washington, D.C.",,
+1865-04-14,"Fort Sumter IV, S.C.",,
+1865-04-15,Death of Abraham Lincoln,,
+1865-04-16,"Columbus, Ga.",,
+1865-04-16,"West Point, Ga. (Fort Tyler)",,
+1865-04-17,"Durham Station I, N.C. (Greensboro, Joseph E. Johnston armistice)",,
+1865-04-20,"Macon III, Ga.",,
+1865-04-26,"Durham Station II, N.C. (Joseph E. Johnston surrendered)",,
+1865-04-27,"Memphis, Tenn. (USS Sultana explosion)",,
+1865-05-04,"Citronville, Ala. (Richard Taylor surrendered)",,
+1865-05-04,"Mobile III, Ala.",,
+1865-05-10,"Irwinville, Ga. (Jefferson F. Davis surrendered)",,
+1865-05-10,"Tallahassee, Fla. (Samuel Jones surrendered)",,
+1865-05-11,"Chalk Bluff, Ark. (M. Jeff Thompson surrendered)",,
+1865-05-12,"Palmito Ranch, Tex. (Brownsville)",,
+1865-05-23,"Grand Review of the Army of the Potomac (Meade), Washington, D.C.",,
+1865-05-24,"Grand Review of the Military Division of the Mississippi (Sherman), Washington, D.C.",,
+1865-05-29,First Amnesty Proclamation to all C.S.A. soldiers except the high command,,
+1865-06-02,"Galveston, Tex. (Edmund K. Smith surrendered)",,
+1865-07-25,"Wyoming Terr, organized",,
+1865-11-06,"CSS Shenandoah struck its colors at Liverpool, England",,
+1866-07-24,Tennessee readmitted to the Union,,
+1867-03-30,"Alaska Terr, acquired",,
+1867-09-07,"Second Amnesty Proclamation, to all C.S.A. brigadier generals",,
+1868-06-10,Florida readmitted to the Union,,
+1868-06-26,Arkansas readmitted to the Union,,
+1868-07-04,North Carolina readmitted to the Union,,
+1868-07-09,Louisiana readmitted to the Union,,
+1868-07-15,South Carolina readmitted to the Union,,
+1868-07-20,Alabama readmitted to the Union,,
+1868-12-25,"Third Amnesty Proclamation, to all remaining C.S.A. high commanders",,
+1870-01-26,Virginia readmitted to the Union,,
+1870-02-23,Mississippi readmitted to the Union,,
+1870-03-30,Texas readmitted to the Union,,
+1870-07-15,Georgia readmitted to the Union,,

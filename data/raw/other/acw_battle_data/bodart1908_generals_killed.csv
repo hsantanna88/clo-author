@@ -1,0 +1,88 @@
+battle_id,belligerent,full_name,last_name,first_name,middle_name,suffix,rank,date,dbpedia
+1,Confederate,Bee,Bee,,,,Brig. Gen.,,https://dbpedia.org/resource/Barnard_E._Bee_Jr.
+2,US,Lyon,Lyon,,,,Brig. Gen.,,https://dbpedia.org/resource/Nathaniel_Lyon
+5,Confederate,McCulloch,McCulloch,,,,Brig. Gen.,,https://dbpedia.org/resource/Ben_McCulloch
+5,Confederate,McIntosh,McIntosh,,,,Brig. Gen.,,https://dbpedia.org/resource/James_M._McIntosh
+5,Confederate,Slack,Slack,,,,Brig. Gen.,,https://dbpedia.org/resource/William_Y._Slack
+6,Confederate,A. S. Johnston,Johnston,A.,S.,,Gen.,,https://dbpedia.org/resource/Albert_Sidney_Johnston
+6,Confederate,A. H. Gladden,Gladden,A.,H.,,Brig. Gen.,,https://dbpedia.org/resource/Adley_H._Gladden
+6,US,W. H. L. Wallace,Wallace,W.,H. L.,,Brig. Gen.,,https://dbpedia.org/resource/William_Harvey_Lamb_Wallace
+8,Confederate,R. Hatton,Hatton,R.,,,Brig. Gen.,,https://dbpedia.org/resource/Robert_Hopkins_Hatton
+10,Confederate,C. S. Winder,Winder,C.,S.,,Brig. Gen.,,https://dbpedia.org/resource/Charles_S._Winder
+11,US,P. Kearny,Kearny,P.,,,Maj. Gen.,,https://dbpedia.org/resource/Philip_Kearny
+11,US,J. Stevens,Stevens,J.,,,Maj. Gen.,,https://dbpedia.org/resource/Isaac_Stevens
+11,US,H. Bohlen,Bohlen,H.,,,Brig. Gen.,,https://dbpedia.org/resource/Henry_Bohlen
+11,US,W. Taylor,Taylor,W.,,,Brig. Gen.,,https://dbpedia.org/resource/George_W._Taylor_(general)
+13,Confederate,S. Garland,Garland,S.,,,Brig. Gen.,,"https://dbpedia.org/resource/Samuel_Garland,_Jr."
+13,US,J. L. Reno,Reno,J.,L.,,Maj. Gen.,,https://dbpedia.org/resource/Jesse_L._Reno
+14,US,D. Miles,Miles,D.,,,Col.,,https://dbpedia.org/resource/Dixon_S._Miles
+15,Confederate,G. B. Anderson,Anderson,G.,B.,,Brig. Gen.,,https://dbpedia.org/resource/George_B._Anderson
+15,Confederate,L. O. Branch,Branch,L.,O.,,Brig. Gen.,,https://dbpedia.org/resource/Lawrence_O'Bryan_Branch
+15,Confederate,W. E. Starke,Starke,W.,E.,,Brig. Gen.,,https://dbpedia.org/resource/William_E._Starke
+15,US,J. K. F. Mansfield,Mansfield,J.,K. F.,,Maj. Gen.,,https://dbpedia.org/resource/Joseph_K._Mansfield
+15,US,J. B. Richardson,Richardson,J.,B.,,Maj. Gen.,,https://dbpedia.org/resource/Israel_B._Richardson
+15,US,J. P. Rodman,Rodman,J.,P.,,Brig. Gen.,,https://dbpedia.org/resource/Isaac_P._Rodman
+16,US,P. A. Hackleman,Hackleman,P.,A.,,Brig. Gen.,,https://dbpedia.org/resource/Pleasant_A._Hackleman
+17,US,J. S. Jackson,Jackson,J.,S.,,Brig. Gen.,,https://dbpedia.org/resource/James_S._Jackson
+17,US,W. R. Terrill,Terrill,W.,R.,,Brig. Gen.,,https://dbpedia.org/resource/William_R._Terrill
+19,Confederate,T. R. Cobb,Cobb,T.,R.,,Brig. Gen.,,https://dbpedia.org/resource/Thomas_Reade_Rootes_Cobb
+19,Confederate,M. Gregg,Gregg,M.,,,Brig. Gen.,,https://dbpedia.org/resource/Maxcy_Gregg
+19,US,G. D. Bayard,Bayard,G.,D.,,Brig. Gen.,,https://dbpedia.org/resource/George_Dashiell_Bayard
+19,US,C. F. Jackson,Jackson,C.,F.,,Brig. Gen.,,https://dbpedia.org/resource/Conrad_Feger_Jackson
+20,Confederate,R. W. Hanson,Hanson,R.,W.,,Brig. Gen.,,https://dbpedia.org/resource/Roger_Hanson
+20,Confederate,J. E. Rains,Rains,J.,E.,,Brig. Gen.,,https://dbpedia.org/resource/James_Edward_Rains
+20,US,E. N. Kirk,Kirk,E.,N.,,Brig. Gen.,,https://dbpedia.org/resource/Edward_N._Kirk
+20,US,J. W. Sill,Sill,J.,W.,,Brig. Gen.,,https://dbpedia.org/resource/Joshua_W._Sill
+23,Confederate,T. J. Jackson,Jackson,T.,J.,,Lt. Gen,,https://dbpedia.org/resource/Stonewall_Jackson
+23,Confederate,E. F. Paxton,Paxton,E.,F.,,Brig. Gen.,,https://dbpedia.org/resource/Elisha_F._Paxton
+23,US,H. G. Berry,Berry,H.,G.,,Maj. Gen.,,https://dbpedia.org/resource/Hiram_George_Berry
+23,US,"A. W. Whipple,",A. W. Whipple,,,,Maj. Gen.,,https://dbpedia.org/resource/Amiel_Weeks_Whipple
+23,US,E. Kirby,Kirby,E.,,,Brig. Gen.,,
+24,Confederate,L. Tilghman,Tilghman,L.,,,Brig. Gen.,,https://dbpedia.org/resource/Lloyd_Tilghman
+26,Confederate,W. Pender,Pender,W.,,,Maj. Gen.,,https://dbpedia.org/resource/William_Dorsey_Pender
+26,Confederate,A. Armistead,Armistead,A.,,,Brig. Gen.,,https://dbpedia.org/resource/Lewis_Addison_Armistead
+26,Confederate,W. Barksdale,Barksdale,W.,,,Brig. Gen.,,https://dbpedia.org/resource/William_Barksdale
+26,Confederate,R. B. Garnett,Garnett,R.,B.,,Brig. Gen.,,https://dbpedia.org/resource/Richard_B._Garnett
+26,Confederate,P. J. Semmes,Semmes,P.,J.,,Brig. Gen.,,https://dbpedia.org/resource/Paul_Jones_Semmes
+26,US,J. F. Reynolds,Reynolds,J.,F.,,Maj. Gen.,,https://dbpedia.org/resource/John_Fulton_Reynolds
+26,US,S. K. Zook,Zook,S.,K.,,Maj. Gen.,,https://dbpedia.org/resource/Samuel_K._Zook
+26,US,E. J. Farnsworth,Farnsworth,E.,J.,,Brig. Gen.,,https://dbpedia.org/resource/Elon_J._Farnsworth
+26,US,S. Vincent,Vincent,S.,,,Brig. Gen.,,https://dbpedia.org/resource/Strong_Vincent
+26,US,S. Weed,Weed,S.,,,Brig. Gen.,,https://dbpedia.org/resource/Stephen_H._Weed
+27,Confederate,M. E. Green,Green,M.,E.,,Brig. Gen.,,https://dbpedia.org/resource/Martin_E._Green
+27,Confederate,E. D. Tracy,Tracy,E.,D.,,Brig. Gen.,,https://dbpedia.org/resource/Edward_D._Tracy
+28,Confederate,P. Smith,Smith,P.,,,Maj. Gen.,,https://dbpedia.org/resource/Preston_Smith_(general)
+28,Confederate,J. Deschler,Deschler,J.,,,Brig. Gen.,,https://dbpedia.org/resource/James_Deshler
+28,Confederate,B. H. Helm,Helm,B.,H.,,Brig. Gen.,,https://dbpedia.org/resource/Benjamin_Hardin_Helm
+28,US,W. H. Lytle,Lytle,W.,H.,,Brig. Gen.,,https://dbpedia.org/resource/William_Haines_Lytle
+30,Confederate,A. G. Jenkins,Jenkins,A.,G.,,Brig. Gen.,,https://dbpedia.org/resource/Albert_Gallatin_Jenkins
+30,Confederate,J. M. Jones,Jones,J.,M.,,Brig. Gen.,,https://dbpedia.org/resource/John_M._Jones
+30,US,A. Hays,Hays,A.,,,Maj. Gen.,,https://dbpedia.org/resource/Alexander_Hays
+30,US,J. S. Wadsworth,Wadsworth,J.,S.,,Maj. Gen.,,https://dbpedia.org/resource/James_S._Wadsworth
+31,Confederate,J. E. B. Stuart,Stuart,J.,E. B.,,Lt. Gen.,,https://dbpedia.org/resource/J.E.B._Stuart
+31,Confederate,J. Daniel,Daniel,J.,,,Brig. Gen.,,https://dbpedia.org/resource/Junius_Daniel
+31,Confederate,A. Perrin,Perrin,A.,,,Brig. Gen.,,https://dbpedia.org/resource/Abner_Monroe_Perrin
+31,Confederate,L. A. Stafford,Stafford,L.,A.,,Brig. Gen.,,https://dbpedia.org/resource/Leroy_A._Stafford
+31,US,J. Sedgwick,Sedgwick,J.,,,Maj. Gen.,,https://dbpedia.org/resource/John_Sedgwick
+31,US,J. C. Rice,Rice,J.,C.,,Brig. Gen.,,https://dbpedia.org/resource/James_Clay_Rice
+31,US,T. G. Stevenson,Stevenson,T.,G.,,Brig. Gen.,,https://dbpedia.org/resource/Thomas_G._Stevenson
+39,Confederate,W. H. T. Walker,Walker,W.,H. T.,,Maj. Gen.,,https://dbpedia.org/resource/William_H.T._Walker
+39,US,J. B. McPherson,McPherson,J.,B.,,Maj. Gen.,,https://dbpedia.org/resource/James_B._McPherson
+39,US,D. McCook,McCook,D.,,,Brig. Gen.,,"https://dbpedia.org/resource/Daniel_McCook,_Jr."
+41,Confederate,R. E. Rodes,Rodes,R.,E.,,Maj. Gen.,,https://dbpedia.org/resource/Robert_E._Rodes
+41,Confederate,A. C. Godwin,Godwin,A.,C.,,Brig. Gen.,,https://dbpedia.org/resource/Archibald_C._Godwin
+41,US,D. A. Russell,Russell,D.,A.,,Maj. Gen.,,https://dbpedia.org/resource/David_Allen_Russell
+42,Confederate,S. D. Ramseur,Ramseur,S.,D.,,Maj. Gen.,,https://dbpedia.org/resource/Stephen_Dodson_Ramseur
+42,US,D. D. Bidwell,Bidwell,D.,D.,,Brig. Gen.,,https://dbpedia.org/resource/Daniel_Davidson_Bidwell
+42,US,C. R. Lowell,Lowell,C.,R.,,Brig. Gen.,,https://dbpedia.org/resource/Charles_Russell_Lowell
+43,Confederate,P. R. Cleburne,Cleburne,P.,R.,,Maj. Gen.,,https://dbpedia.org/resource/Patrick_Cleburne
+43,Confederate,J. Adams,Adams,J.,,,Brig. Gen.,,https://dbpedia.org/resource/None
+43,Confederate,S. R. Gist,Gist,S.,R.,,Brig. Gen.,,https://dbpedia.org/resource/States_Rights_Gist
+43,Confederate,H. B. Gransbury,Gransbury,H.,B.,,Brig. Gen.,,https://dbpedia.org/resource/Hiram_B._Granbury
+43,Confederate,O. F. Strahl,Strahl,O.,F.,,Brig. Gen.,,https://dbpedia.org/resource/Otho_F._Strahl
+44,US,S. G. Hill,Hill,S.,G.,,Brig. Gen.,,https://dbpedia.org/resource/nullo
+47,Confederate,A. P. Hill,Hill,A.,P.,,Lt. Gen.,1865-04-02,https://dbpedia.org/resource/Ambrose_Powell_Hill
+47,Confederate,J. Pegram,Pegram,J.,,,Maj. Gen.,1865-02-06,https://dbpedia.org/resource/John_Pegram_(general)
+47,US,H. Burnham,Burnham,H.,,,Brig. Gen.,1864-06-28,https://dbpedia.org/resource/Hiram_Burnham
+47,US,D. Bates,Bates,D.,,,Brig. Gen.,1864-06-29,
+47,US,G. A. Stedman,Stedman,G.,A.,,Brig. Gen.,1864-08-05,

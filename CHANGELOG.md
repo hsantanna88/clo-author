@@ -4,9 +4,9 @@ All notable changes to the Clo-Author are documented here.
 
 **Versioning:** CalVer (YY.MM) — one version per month maximum. Git commits provide granularity within a release. Releases before 26.05 used semver tags.
 
----
+------------------------------------------------------------------------
 
-## [26.05] — May 2026
+## [26.05](https://github.com/hugosantanna/clo-author/compare/v4.2.0...v4.3.0) — May 2026
 
 ### HTML Report Pipeline
 
@@ -57,9 +57,9 @@ Skills are now rich directories — not thin dispatchers. Each skill folder cont
 - Rewind strategy added to workflow.md
 - `pre-compact.py` exit code fix (was blocking compaction)
 
----
+------------------------------------------------------------------------
 
-## [26.04.3] — 2026-04-17 — Theorist Pair, Personal Style Guide, Checkpoint
+## [26.04.3](https://github.com/hugosantanna/clo-author/compare/v4.1.1...v4.2.0) — 2026-04-17 — Theorist Pair, Personal Style Guide, Checkpoint
 
 Three feature additions inspired by parallel work in the Claude-Code-for-economists space (Goldsmith-Pinkham's Markus Academy series) and by a theorist pair developed in the bad-controls project. Generalized and wired into the scaffold.
 
@@ -98,6 +98,7 @@ Codifies compaction hygiene and adds a project-level session-handoff skill.
 - Meta-governance compliance: `.claude/state/*` gitignored, `*.example` whitelisted — fork users get the template, user-specific paths stay local
 
 ### Files touched
+
 - Agents: `theorist.md`, `theorist-critic.md` (new); `writer.md` (style-guide loading + Style Extraction Mode)
 - Rules: `agents.md`, `quality.md`, `workflow.md`
 - References: `domain-profile.md` (Theoretical Foundational References + Paper Author Team), `personal-style-guide.md` (new)
@@ -105,13 +106,14 @@ Codifies compaction hygiene and adds a project-level session-handoff skill.
 - State: `obsidian-config.md.example` (new template)
 - `.gitignore`, `CLAUDE.md`
 
----
+------------------------------------------------------------------------
 
-## [26.04.2] — 2026-04-11 — Modern LaTeX Stack
+## [26.04.2](https://github.com/hugosantanna/clo-author/compare/v4.1.0...v4.1.1) — 2026-04-11 — Modern LaTeX Stack
 
 Modernizes the LaTeX infrastructure: automated builds, modern table engine, smart cross-references, and CI compilation. All changes are Overleaf-compatible.
 
 ### latexmk Build System
+
 - **`paper/latexmkrc`** configures XeLaTeX, TEXINPUTS, BIBINPUTS — replaces manual 4-command build
 - **`paper/talks/latexmkrc`** for talk compilation
 - One command: `cd paper && latexmk main.tex` (handles multi-pass + biber automatically)
@@ -119,6 +121,7 @@ Modernizes the LaTeX infrastructure: automated builds, modern table engine, smar
 - Updated: CLAUDE.md, verifier, `/tools compile`, `/talk compile`
 
 ### tabularray
+
 - Added `tabularray` with `booktabs` and `siunitx` libraries to reference preamble
 - **Hand-written tables** use `tblr`/`talltblr` (modern key-value interface for captions, notes, rules)
 - **R/Python/Julia output** continues exporting bare `tabular` wrapped with `threeparttable`
@@ -126,27 +129,31 @@ Modernizes the LaTeX infrastructure: automated builds, modern table engine, smar
 - INV-1 updated to accept both `threeparttable` and `talltblr`
 
 ### cleveref
+
 - Added `\usepackage[nameinlink]{cleveref}` after `hyperref` in reference preamble
 - `\cref{fig:x}` auto-generates "Figure 1" — eliminates `Figure~\ref{}` boilerplate
 - INV-10 updated: `hyperref` second-to-last, `cleveref` last
 - Writer-critic deducts for missing `cleveref` (-2) and manual `\ref{}` patterns (-1 each)
 
 ### microtype Promotion
+
 - Promoted from Recommended to Required in working-paper-format.md
 - Writer-critic now deducts -2 for missing `microtype`
 
 ### GitHub Actions CI
+
 - New `.github/workflows/compile-paper.yml` — compiles paper on push/PR to `paper/**`
 - Uses `xu-cheng/latex-action@v3` with XeLaTeX
 - Uploads compiled PDF as artifact
 
----
+------------------------------------------------------------------------
 
-## [26.04.1] — 2026-04-09 — Enforcement Layer
+## [26.04.1](https://github.com/hugosantanna/clo-author/compare/v4.0.0...v4.1.0) — 2026-04-09 — Enforcement Layer
 
 Adds hard mechanical enforcement underneath the existing creative orchestration. Agents still do judgment work; the new layer catches grep-able violations before judgment is even needed. Inspired by contract-driven, grep-verified patterns from defensive engineering.
 
 ### Content Invariants
+
 - **21 numbered non-negotiable rules** in `.claude/rules/content-invariants.md`
 - Consolidates scattered rules from `content-standards.md`, `working-paper-format.md`, and coding standards into one canonical reference
 - Paper (INV-1–13): threeparttable with notes, booktabs only, no ggplot titles, biblatex+biber, abstract ≤150 words, numbers match tables exactly, notation consistency, causal claims require identification
@@ -155,12 +162,14 @@ Adds hard mechanical enforcement underneath the existing creative orchestration.
 - writer-critic, coder-critic, storyteller-critic, verifier all updated to cite invariant numbers (e.g., "violates INV-3")
 
 ### Pre-Flight Reports
+
 - **Strategist** must output a Pre-Strategy Report proving it read literature review, data assessment, research spec, and domain profile before designing any strategy
 - **Coder** must output a Pre-Code Report proving it read strategy memo and established paper-to-code naming map before writing any code
 - Both agents and both skills (`/strategize`, `/analyze`) updated with mandatory structured first output
 - If an input is missing, the agent says so explicitly instead of silently assuming
 
 ### Grep-Based Linter (`/tools lint`)
+
 - New `/tools lint [file|dir]` subcommand — mechanical pre-check for R/Python/Julia scripts
 - 20 checks across R (12), Python (6), Julia (3) + shared absolute-path detection
 - Patterns: `setwd()`, `rm(list=ls())`, `T`/`F`, `sapply()`, `<<-`, `attach()`, missing `set.seed()`, late `library()`, `os.chdir()`, wildcard imports, bare `except:`, prohibited packages, and more
@@ -169,6 +178,7 @@ Adds hard mechanical enforcement underneath the existing creative orchestration.
 - New files: `.claude/hooks/lint-scripts.sh` (linter), `.claude/hooks/post-edit-lint.sh` (hook wrapper)
 
 ### Decision Records
+
 - ADR-style records at the two stages where real choices happen:
   - **Discovery** (`/discover interview`): why this research question over alternatives
   - **Strategy** (`/strategize`): why this identification method over alternatives
@@ -177,18 +187,20 @@ Adds hard mechanical enforcement underneath the existing creative orchestration.
 - Saves to `quality_reports/decisions/`
 
 ### PostToolUse Lint Hook
+
 - Auto-lints R/Python/Julia files on every Edit/Write operation
 - Advisory (exit 0) — shows warnings immediately without blocking
 - Skips `.claude/` internals
 - Wired into `.claude/settings.json` as PostToolUse hook
 
----
+------------------------------------------------------------------------
 
-## [26.04] — 2026-04-08 — Paper-Type Architecture
+## [26.04](https://github.com/hugosantanna/clo-author/compare/v3.1.1...v4.0.0) — 2026-04-08 — Paper-Type Architecture
 
 Every agent now knows whether it's working on a reduced-form, structural, theory+empirics, or descriptive paper — and adapts accordingly.
 
 ### Paper-Type Awareness (7 agents rewritten)
+
 - **Writer** rebuilt around paragraph-level argument moves (motivation, result, mechanism, qualification). Section templates for all 4 paper types with design-specific guidance (DiD/IV/RDD/event study for reduced-form; model+estimation+counterfactuals for structural; predictions+tests for theory+empirics; construction+validation for descriptive)
 - **Writer-critic** upgraded to 8 check categories including paper-type coherence, results narration quality, and design-specific completeness tables
 - **Strategist** expanded from reduced-form-only to full coverage: structural estimation strategy (model specification, parameter identification, estimation method, counterfactual design), theory+empirics (testable predictions, mapping to data), descriptive/measurement (construct validity, validation plan)
@@ -198,40 +210,47 @@ Every agent now knows whether it's working on a reduced-form, structural, theory
 - **Methods-referee** expanded with paper-type-specific evaluation dimensions and scoring rubrics for each type
 
 ### Numerical Discipline (new in Coder + Coder-critic)
+
 - Float comparison guards (no `==` on floats)
-- CDF clamping to [0, 1], inverse link protection
+- CDF clamping to \[0, 1\], inverse link protection
 - Integer literals (`1L`, `seq_len(n)`)
 - Pre-allocation (no growing lists in loops)
 - Bootstrap/parallel patterns with proper seed handling
 
 ### Scope: Back to Economics
+
 - Reverted scope from "empirical social science" to economics — the pipeline's agents, rules, and section templates are built for economics and that's what they should claim
 - Other fields (finance, accounting, marketing, management) can adapt by customizing the domain profile and journal profiles
 - Non-economics journal profiles retained — they're useful reference data for adjacent fields that use similar methods
 
 ### Profile-Aware Table Standards
+
 - Significance stars are now journal-dependent, not hardcoded
 - AEA journals (AER, AEJ:Applied, AEJ:Policy, AER:Insights): no significance stars per current AEA style guide
 - All other journals: stars acceptable (default for working papers)
 - Journal profiles now include `Table format` field for overrides
 
 ### Working Paper Format: Required vs. Recommended
+
 - Split "Key Design Decisions" table into Required (blocking) and Recommended (advisory)
 - Required: document class, margins, double-spacing, biblatex+biber, booktabs, hyperref last
 - Recommended: lmodern, microtype, citation color, captionsetup, hidelinks
 - Writer-critic deductions adjusted: recommended items are advisory, not blocking
 
 ### Compilation Alignment
+
 - Fixed bibtex→biber mismatch: CLAUDE.md and tools/SKILL.md now match working-paper-format.md
 - Fixed remaining uppercase paths in tools/SKILL.md (Paper→paper, Talks→paper/talks, Preambles→preambles)
 
 ### Dead Code Removal
+
 - Deleted `scripts/quality_score.py` (761 lines targeting nonexistent Quarto/Slides/ directories)
 - Deleted `scripts/sync_to_docs.sh` (92 lines targeting nonexistent deployment structure)
 - Removed stale `sync_to_docs.sh` permissions from settings.json
 - Added `biber` permission to settings.json
 
 ### README Honesty
+
 - "turns your terminal into a research assistant" → "scaffold for empirical economics research"
 - "works autonomously" → removed; describes the plan-approve-review loop
 - "Realistic Peer Review Simulation" → "Simulated Peer Review"
@@ -239,85 +258,62 @@ Every agent now knows whether it's working on a reduced-form, structural, theory
 - Dropped unverifiable "71% fewer tokens" claim
 - Added Limitations section
 
----
+------------------------------------------------------------------------
 
-## [26.03.6] — 2026-03-24
+## [26.03.6](https://github.com/hugosantanna/clo-author/compare/v3.1.0...v3.1.1) — 2026-03-24
 
 ### Output Organization
+
 - Added `Output Organization` setting to CLAUDE.md (by-script or by-purpose)
 - Default is **by-script**: outputs go to subfolders named after the generating script (e.g., `paper/figures/main_regression/figure1.pdf`)
 - Coder agent reads this setting and follows accordingly
 
 ### Bug Fixes
+
 - Fixed Paper/ → paper/ rename on case-insensitive macOS filesystem (git index mismatch)
 - Fixed all stale uppercase paths across 10 files (agents, skills, rules, CLAUDE.md)
 - Fixed broken domain-profile path in /new-project
 - Added plan mode (Step 0) to /new-project
 - Removed stale upstream remote to Pedro's repo
 
----
+------------------------------------------------------------------------
 
-## [26.03.5] — 2026-03-23
+## [26.03.5](https://github.com/hugosantanna/clo-author/compare/v3.0.0...v3.1.0) — 2026-03-23
 
 ### Skill Detail Restoration — 26.02.1 Depth Returns to 26.03.4
 
 The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6 skills. This release restores all 22 lost items while keeping the 26.03.4 structure.
 
-**`/discover`:**
-- Restored proximity scoring (1-5 scale) for literature papers
-- Restored citation chains as explicit search vector (forward + backward)
-- Restored feasibility grades (A/B/C/D) for datasets
-- Restored data rejection table format
-- Restored 5-point explorer-critic data critique (measurement validity, sample selection, external validity, identification compatibility, known issues)
-- Restored `% UNVERIFIED` citation marking convention
+**`/discover`:** - Restored proximity scoring (1-5 scale) for literature papers - Restored citation chains as explicit search vector (forward + backward) - Restored feasibility grades (A/B/C/D) for datasets - Restored data rejection table format - Restored 5-point explorer-critic data critique (measurement validity, sample selection, external validity, identification compatibility, known issues) - Restored `% UNVERIFIED` citation marking convention
 
-**`/strategize`:**
-- Restored interactive PAP interview (6-question guided flow)
-- Restored platform-specific PAP templates (AEA RCT Registry, OSF, EGAP)
-- Restored observational study PAP adaptation protocol
-- Restored optional strategist-critic review after PAP creation
-- Restored `[ASSUMED]` placeholder safety flags with pre-registration checklist
+**`/strategize`:** - Restored interactive PAP interview (6-question guided flow) - Restored platform-specific PAP templates (AEA RCT Registry, OSF, EGAP) - Restored observational study PAP adaptation protocol - Restored optional strategist-critic review after PAP creation - Restored `[ASSUMED]` placeholder safety flags with pre-registration checklist
 
-**`/analyze`:**
-- Restored R script skeleton template (6-section structure)
-- Restored `results_summary.md` as mandatory artifact (handoff to writer)
-- Restored full 12-category code review checklist (explicit categories 1-12)
-- Restored saveRDS serialization guidance
-- Restored Scott Cunningham replication tolerance thresholds for `--dual` mode
+**`/analyze`:** - Restored R script skeleton template (6-section structure) - Restored `results_summary.md` as mandatory artifact (handoff to writer) - Restored full 12-category code review checklist (explicit categories 1-12) - Restored saveRDS serialization guidance - Restored Scott Cunningham replication tolerance thresholds for `--dual` mode
 
-**`/review`:**
-- Restored 4-phase econometrics protocol (claim → validity → inference → polish)
-- Restored early stopping rule (CRITICAL Phase 2 issues → focus there)
-- Restored severity calibration examples (9 examples with Major/Minor ratings)
-- Restored Verifier pass/fail definition (paper, code, replication package)
-- Restored "design-opinionated, package-flexible" principle
+**`/review`:** - Restored 4-phase econometrics protocol (claim → validity → inference → polish) - Restored early stopping rule (CRITICAL Phase 2 issues → focus there) - Restored severity calibration examples (9 examples with Major/Minor ratings) - Restored Verifier pass/fail definition (paper, code, replication package) - Restored "design-opinionated, package-flexible" principle
 
-**`/write`:**
-- Restored 7-item context gathering checklist
-- Restored quality self-check before presenting (7 items)
-- Restored TBD/VERIFY/PLACEHOLDER flagging system
-- Restored LaTeX conventions (`\citet` vs `\citep`, booktabs, notation protocol)
+**`/write`:** - Restored 7-item context gathering checklist - Restored quality self-check before presenting (7 items) - Restored TBD/VERIFY/PLACEHOLDER flagging system - Restored LaTeX conventions (`\citet` vs `\citep`, booktabs, notation protocol)
 
-**`/talk`:**
-- Restored "figures over tables; tables in backup" design principle
-- Restored 5-category review detail with full descriptions
-- Restored audience calibration principle
+**`/talk`:** - Restored "figures over tables; tables in backup" design principle - Restored 5-category review detail with full descriptions - Restored audience calibration principle
 
 ### Referee Pet Peeves Expansion
+
 - **27 critical pet peeves** (was 12) — added Oster bounds, leave-one-out, power obsession, balance tables, ML variable selection, first-stage F, Bonferroni, and more
 - **24 constructive pet peeves** (was 12) — added event study appreciation, null result honesty, institutional detail, code availability, brevity rewards, contradictory findings engagement, and more
 - More variety = less predictable referees = more realistic simulation
 
----
+------------------------------------------------------------------------
 
-## [26.03.4] — 2026-03-20
+## [26.03.4](https://github.com/hugosantanna/clo-author/compare/v2.0.3...v3.0.0) — 2026-03-20
 
 ### Scope Clarification
+
 - clo-author is built for empirical economics; adaptable to adjacent fields (finance, accounting, marketing, management) via domain profile
 - Updated meta-governance to reflect this scope
 - Institution updated from Emory to UAB
 
 ### Peer Review Simulation — Complete Redesign
+
 - **New `editor` agent** — desk reviews papers before sending to referees, verifies novelty claims via WebSearch, selects referee dispositions based on journal culture, makes independent editorial decisions (not score averaging)
 - **Referee dispositions** — 6 intellectual priors (Structuralist, Credibility, Measurement, Policy, Theory, Skeptic) assigned by the editor based on journal culture
 - **Referee pet peeves** — each referee gets 1 critical and 1 constructive pet peeve, creating realistic variation across reviews
@@ -331,7 +327,8 @@ The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6
 - **Literature verification** — editor uses WebSearch during desk review to verify novelty claims against published work
 
 ### Journal Profiles Expansion
-- Added 15 new A* journal profiles across 4 fields:
+
+- Added 15 new A\* journal profiles across 4 fields:
   - **Finance:** JF, JFE, RFS, JFQA
   - **Accounting:** JAR, JAE, TAR, CAR
   - **Marketing:** JMR, Marketing Science, JCR
@@ -340,35 +337,39 @@ The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6
 - Journal profiles moved from rules to `.claude/references/` — loaded on demand, zero per-session overhead
 
 ### Context Reduction: 66% Less Per-Session Overhead
-- **Before:** ~3,518 lines of rules loaded every session
-- **After:** ~1,198 lines loaded per session
-- Deleted `archive/` directory (22 duplicate rule files, ~1,769 lines)
+
+- **Before:** \~3,518 lines of rules loaded every session
+- **After:** \~1,198 lines loaded per session
+- Deleted `archive/` directory (22 duplicate rule files, \~1,769 lines)
 - Trimmed `meta-governance.md` from 252 to 20 lines
 - Moved `journal-profiles.md` to on-demand reference (299 lines saved per session)
 - Merged `tables.md` and `figures.md` into path-scoped `content-standards.md`
 
 ### Content Standards Improvements
+
 - Added figure standards: PDF vector output, colorblind-friendly palettes, grayscale independence (shape + linetype redundancy), figure width guidance
 - Restored `threeparttable` requirement for tables (lost in prior merge)
 - Consolidated all content rules in one path-scoped file
 - Added 5 table type templates: descriptive statistics, regression results, multi-outcome panels, balance tables, robustness
 
 ### Folder Structure Reorganization
+
 - Figures, tables, talks, and Quarto presentations now live inside `Paper/` (self-contained paper directory)
 - Added `Data/raw/` and `Data/cleaned/` directories
 - Deleted `Slides/` (legacy from lecture workflow)
 - Quarto RevealJS presentation support added (`/talk create [format] --quarto`)
 
 ### Other Changes
+
 - Replaced `[LEARN]` tags with Claude Code's built-in auto-memory system
 - Added `[YOUR FIELD]` placeholder to CLAUDE.md and starter prompt
 - Agent prompts made field-neutral — read field from `.claude/references/domain-profile.md` (defaults to economics)
 - Deleted archived agents (16 files) and archived skills (20+ files)
 - Guide and documentation fully updated for 26.03.4
 
----
+------------------------------------------------------------------------
 
-## [26.03.3] — 2026-03-07
+## [26.03.3](https://github.com/hugosantanna/clo-author/compare/v2.0.2...v2.0.3) — 2026-03-07
 
 ### Working Paper Format Rule
 
@@ -376,9 +377,9 @@ The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6
 - Writer-critic deduction rubric included (e.g., -5 for wrong document class, -3 for `\textbf{}` on title, -5 for missing JEL codes)
 - Ensures title page fits on one page: title + authors + abstract + JEL + keywords
 
----
+------------------------------------------------------------------------
 
-## [26.03.2] — 2026-03-07
+## [26.03.2](https://github.com/hugosantanna/clo-author/compare/v2.0.1...v2.0.2) — 2026-03-07
 
 ### Figures & Tables Rules
 
@@ -386,9 +387,9 @@ The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6
 - **`tables.md`** — new always-on rule: no embedded titles in generated `.tex` files, `threeparttable` + `booktabs`, notes in paper not R output
 - These complement `content-standards.md` (path-scoped, comprehensive) with concise always-on reminders
 
----
+------------------------------------------------------------------------
 
-## [26.03.1] — 2026-03-05
+## [26.03.1](https://github.com/hugosantanna/clo-author/compare/v2.0.0...v2.0.1) — 2026-03-05
 
 ### Cross-Language Replication
 
@@ -398,9 +399,9 @@ The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6
 - Coder agent updated with cross-language replication mode and common divergence sources
 - Inspired by Scott Cunningham's approach to cross-language validation
 
----
+------------------------------------------------------------------------
 
-## [26.03] — 2026-03-05
+## [26.03](https://github.com/hugosantanna/clo-author/compare/v1.0.1...v2.0.0) — 2026-03-05
 
 **The Great Restructure.** 16-agent worker-critic system, journal-calibrated referees, consolidated rules, 6-page guide with command reference dictionary.
 
@@ -457,9 +458,9 @@ The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6
 - Archived old skills, agents, hooks, and rules (preserved in `archive/` directories)
 - Updated README.md with 16-agent table and 10-command reference
 
----
+------------------------------------------------------------------------
 
-## [26.02.2] — 2026-02-25–26
+## [26.02.2](https://github.com/hugosantanna/clo-author/compare/v1.0.0...v1.0.1) — 2026-02-25–26
 
 ### Adversarial Architecture
 
@@ -471,9 +472,9 @@ The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6
 - 3-page Quarto website: Quick Start, User Guide, Architecture
 - Reoriented from lecture production to applied econometrics research
 
----
+------------------------------------------------------------------------
 
-## [26.02.1] — 2026-02-08–15
+## [26.02.1](https://github.com/hugosantanna/clo-author/compare/v0.1.0...v1.0.0) — 2026-02-08–15
 
 ### Research Workflow
 
@@ -492,9 +493,9 @@ The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6
 - Figure and table generator rules (AER/QJE/Econometrica standards)
 - Claude Pilot features integration
 
----
+------------------------------------------------------------------------
 
-## [26.02] — 2026-02-06–07
+## [26.02](https://github.com/hugosantanna/clo-author/commits/v0.1.0) — 2026-02-06–07
 
 ### Initial Release
 
@@ -505,23 +506,9 @@ The 26.03 to 26.03.4 consolidation accidentally stripped practical detail from 6
 - Parallel agents pattern, `/commit` skill
 - Fork-first onboarding flow
 
----
+------------------------------------------------------------------------
 
+```{=html}
 <!-- Note: Releases before 26.05 used semver git tags. Comparison links below
      reference those original tags, which remain in the repository. -->
-
-[26.05]: https://github.com/hugosantanna/clo-author/compare/v4.2.0...v4.3.0
-[26.04.3]: https://github.com/hugosantanna/clo-author/compare/v4.1.1...v4.2.0
-[26.04.2]: https://github.com/hugosantanna/clo-author/compare/v4.1.0...v4.1.1
-[26.04.1]: https://github.com/hugosantanna/clo-author/compare/v4.0.0...v4.1.0
-[26.04]: https://github.com/hugosantanna/clo-author/compare/v3.1.1...v4.0.0
-[26.03.6]: https://github.com/hugosantanna/clo-author/compare/v3.1.0...v3.1.1
-[26.03.5]: https://github.com/hugosantanna/clo-author/compare/v3.0.0...v3.1.0
-[26.03.4]: https://github.com/hugosantanna/clo-author/compare/v2.0.3...v3.0.0
-[26.03.3]: https://github.com/hugosantanna/clo-author/compare/v2.0.2...v2.0.3
-[26.03.2]: https://github.com/hugosantanna/clo-author/compare/v2.0.1...v2.0.2
-[26.03.1]: https://github.com/hugosantanna/clo-author/compare/v2.0.0...v2.0.1
-[26.03]: https://github.com/hugosantanna/clo-author/compare/v1.0.1...v2.0.0
-[26.02.2]: https://github.com/hugosantanna/clo-author/compare/v1.0.0...v1.0.1
-[26.02.1]: https://github.com/hugosantanna/clo-author/compare/v0.1.0...v1.0.0
-[26.02]: https://github.com/hugosantanna/clo-author/commits/v0.1.0
+```

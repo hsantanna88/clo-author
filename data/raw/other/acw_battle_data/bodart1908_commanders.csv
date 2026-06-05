@@ -1,0 +1,104 @@
+battle_id,belligerent,full_name,last_name,first_name,middle_name,suffix,rank,dbpedia
+1,Confederate,Beauregard,Beauregard,,,,Gen.,https://dbpedia.org/resource/P._G._T._Beauregard
+1,US,McDowell,McDowell,,,,Maj. Gen.,https://dbpedia.org/resource/Irvin_McDowell
+2,Confederate,Price,Price,,,,Maj. Gen.,https://dbpedia.org/resource/Sterling_Price
+2,US,Lyon,Lyon,,,,Maj. Gen.,https://dbpedia.org/resource/Nathaniel_Lyon
+3,Confederate,Price,Price,,,,Maj. Gen.,https://dbpedia.org/resource/Sterling_Price
+3,US,Mulligan,Mulligan,,,,Col.,https://dbpedia.org/resource/James_A._Mulligan
+4,Confederate,Buckner,Buckner,,,,Brig. Gen.,"https://dbpedia.org/resource/Simon_Bolivar_Buckner,_Sr."
+4,US,Grant,Grant,,,,Brig. Gen.,https://dbpedia.org/resource/Ulysses_S._Grant
+5,Confederate,Earl van Dorn,van Dorn,Earl,,,Lt. Gen,https://dbpedia.org/resource/Earl_Van_Dorn
+5,US,Curtis,Curtis,,,,Maj. Gen.,https://dbpedia.org/resource/Samuel_Ryan_Curtis
+6,Confederate,A. S. Johnston,Johnston,A.,S.,,Gen.,https://dbpedia.org/resource/Albert_Sidney_Johnston
+6,US,U. S. Grant,Grant,U.,S.,,Maj. Gen.,https://dbpedia.org/resource/Ulysses_S._Grant
+7,Confederate,J. Johnston,Johnston,J.,,,Lt. Gen,https://dbpedia.org/resource/Joseph_E._Johnston
+7,US,McClellan,McClellan,,,,Maj. Gen.,https://dbpedia.org/resource/George_B._McClellan
+8,Confederate,J. Johnston,Johnston,J.,,,Gen.,https://dbpedia.org/resource/Joseph_E._Johnston
+8,US,McClellan,McClellan,,,,Maj. Gen.,https://dbpedia.org/resource/George_B._McClellan
+9,Confederate,R. Lee.,Lee.,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+9,US,McClellan,McClellan,,,,Lt. Gen,https://dbpedia.org/resource/George_B._McClellan
+10,Confederate,T. J. Jackson,Jackson,T.,J.,,Lt. Gen,https://dbpedia.org/resource/Stonewall_Jackson
+10,US,Banks,Banks,,,,Maj. Gen.,https://dbpedia.org/resource/Nathaniel_Prentice_Banks
+11,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+11,US,J. Pope,Pope,J.,,,Gen.,https://dbpedia.org/resource/John_Pope_(military_officer)
+12,Confederate,Kirby Smith,Smith,Kirby,,,Maj. Gen.,https://dbpedia.org/resource/Edmund_Kirby_Smith
+12,US,Nelson,Nelson,,,,Brig. Gen.,"https://dbpedia.org/resource/William_""Bull""_Nelson"
+13,Confederate,Longstreet,Longstreet,,,,Lt. Gen,https://dbpedia.org/resource/James_Longstreet
+13,US,McClellan,McClellan,,,,Gen.,https://dbpedia.org/resource/George_B._McClellan
+14,Confederate,T. J. Jackson,Jackson,T.,J.,,Lt. Gen,https://dbpedia.org/resource/Stonewall_Jackson
+14,US,D. Miles,Miles,D.,,,Col.,https://dbpedia.org/resource/Dixon_S._Miles
+15,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+15,US,S. B. McClellan,McClellan,S.,B.,,Gen.,https://dbpedia.org/resource/George_B._McClellan
+16,Confederate,Earl van Dorn,van Dorn,Earl,,,Lt. Gen,https://dbpedia.org/resource/Earl_Van_Dorn
+16,US,Rosecrans,Rosecrans,,,,Maj. Gen.,https://dbpedia.org/resource/William_S._Rosecrans
+17,Confederate,Bragg,Bragg,,,,Gen.,https://dbpedia.org/resource/Braxton_Bragg
+17,US,Buell,Buell,,,,Maj. Gen.,https://dbpedia.org/resource/Don_Carlos_Buell
+18,Confederate,Hindman,Hindman,,,,Maj. Gen.,https://dbpedia.org/resource/Thomas_C._Hindman
+18,US,Blunt,Blunt,,,,Brig. Gen.,https://dbpedia.org/resource/James_G._Blunt
+19,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+19,US,A. Burnside,Burnside,A.,,,Brig. Gen.,https://dbpedia.org/resource/Ambrose_Everett_Burnside
+20,Confederate,B. Bragg,Bragg,B.,,,Gen.,https://dbpedia.org/resource/Braxton_Bragg
+20,US,Rosecrans,Rosecrans,,,,Maj. Gen.,https://dbpedia.org/resource/William_S._Rosecrans
+21,Confederate,Pemberton,Pemberton,,,,Lt. Gen,https://dbpedia.org/resource/John_C._Pemberton
+21,US,Sherman,Sherman,,,,Maj. Gen.,https://dbpedia.org/resource/William_Tecumseh_Sherman
+22,Confederate,Churchill,Churchill,,,,Brig. Gen.,https://dbpedia.org/resource/Thomas_J._Churchill
+22,US,McClernand,McClernand,,,,Maj. Gen.,https://dbpedia.org/resource/John_A._McClernand
+23,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+23,US,Hooker,Hooker,,,,Maj. Gen.,https://dbpedia.org/resource/Joseph_Hooker
+24,Confederate,Pemberton,Pemberton,,,,Lt. Gen,https://dbpedia.org/resource/John_C._Pemberton
+24,US,U. S. Grant,Grant,U.,S.,,Maj. Gen.,https://dbpedia.org/resource/Ulysses_S._Grant
+25,Confederate,Ewell,Ewell,,,,Lt. Gen,https://dbpedia.org/resource/Richard_Ewell
+25,US,Milroy,Milroy,,,,Maj. Gen.,https://dbpedia.org/resource/Robert_H._Milroy
+26,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+26,US,G. G. Meade,Meade,G.,G.,,Maj. Gen.,https://dbpedia.org/resource/George_Gordon_Meade
+27,Confederate,Pemberton,Pemberton,,,,Lt. Gen,https://dbpedia.org/resource/John_C._Pemberton
+27,US,U. S. Grant,Grant,U.,S.,,Maj. Gen.,https://dbpedia.org/resource/Ulysses_S._Grant
+28,Confederate,B. Bragg,Bragg,B.,,,Gen.,https://dbpedia.org/resource/Braxton_Bragg
+28,US,Rosecrans,Rosecrans,,,,Maj. Gen.,https://dbpedia.org/resource/William_S._Rosecrans
+29,Confederate,R. Bragg,Bragg,R.,,,Gen.,https://dbpedia.org/resource/Braxton_Bragg
+29,US,U. S. Grant,Grant,U.,S.,,Maj. Gen.,https://dbpedia.org/resource/Ulysses_S._Grant
+30,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+30,US,U. S. Grant,Grant,U.,S.,,Lt. Gen,https://dbpedia.org/resource/Ulysses_S._Grant
+31,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+31,US,U. S. Grant,Grant,U.,S.,,Lt. Gen,https://dbpedia.org/resource/Ulysses_S._Grant
+32,Confederate,J. Johnston,Johnston,J.,,,Gen.,https://dbpedia.org/resource/Joseph_E._Johnston
+32,US,W. T. Sherman,Sherman,W.,T.,,Maj. Gen.,https://dbpedia.org/resource/William_Tecumseh_Sherman
+33,Confederate,Beauregard,Beauregard,,,,Lt. Gen,https://dbpedia.org/resource/P.G.T._Beauregard
+33,US,Butler,Butler,,,,Maj. Gen.,https://dbpedia.org/resource/Benjamin_Franklin_Butler_(politician)
+34,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+34,US,U. S. Grant,Grant,U.,S.,,Lt. Gen,https://dbpedia.org/resource/Ulysses_S._Grant
+35,Confederate,J. Johnston,Johnston,J.,,,Gen.,https://dbpedia.org/resource/Joseph_E._Johnston
+35,US,W. T. Sherman,Sherman,W.,T.,,Lt. Gen,https://dbpedia.org/resource/William_Tecumseh_Sherman
+36,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+36,US,U. S. Grant,Grant,U.,S.,,Lt. Gen.,https://dbpedia.org/resource/Ulysses_S._Grant
+37,Confederate,J. Johnston,Johnston,J.,,,Gen.,https://dbpedia.org/resource/Joseph_E._Johnston
+37,US,W. T. Sherman,Sherman,W.,T.,,Maj. Gen.,https://dbpedia.org/resource/William_Tecumseh_Sherman
+38,Confederate,J. B. Hood,Hood,J.,B.,,Gen.,
+38,US,W. T. Sherman,Sherman,W.,T.,,Maj. Gen.,
+39,Confederate,J. B. Hood,Hood,J.,B.,,Gen.,https://dbpedia.org/resource/John_Bell_Hood
+39,US,W. T. Sherman,Sherman,W.,T.,,Maj. Gen.,https://dbpedia.org/resource/William_Tecumseh_Sherman
+40,Confederate,J. B. Hood,Hood,J.,B.,,Gen.,https://dbpedia.org/resource/John_Bell_Hood
+40,US,W. T. Sherman,Sherman,W.,T.,,Maj. Gen.,https://dbpedia.org/resource/William_Tecumseh_Sherman
+41,Confederate,J. A. Early,Early,J.,A.,,Lt. Gen,https://dbpedia.org/resource/Jubal_Anderson_Early
+41,US,P. H. Sheridan,Sheridan,P.,H.,,Maj. Gen.,https://dbpedia.org/resource/Philip_Sheridan
+42,Confederate,J. A. Early,Early,J.,A.,,Lt. Gen,https://dbpedia.org/resource/Jubal_Anderson_Early
+42,US,P. H. Sheridan,Sheridan,P.,H.,,Maj. Gen.,https://dbpedia.org/resource/Philip_Sheridan
+43,Confederate,J. B. Hood,Hood,J.,B.,,Gen.,https://dbpedia.org/resource/John_Bell_Hood
+43,US,Schofield,Schofield,,,,Maj. Gen.,https://dbpedia.org/resource/John_Schofield
+44,Confederate,J. B. Hood,Hood,J.,B.,,Gen.,https://dbpedia.org/resource/John_Bell_Hood
+44,US,G. H. Thomas,Thomas,G.,H.,,Maj. Gen.,https://dbpedia.org/resource/George_Henry_Thomas
+45,Confederate,Beauregard,Beauregard,,,,Gen.,https://dbpedia.org/resource/P._G._T._Beauregard
+45,US,Hunter,Hunter,,,,Gen.,https://dbpedia.org/resource/David_Hunter
+45,US,Gillmore,Gillmore,,,,Gen.,https://dbpedia.org/resource/Quincy_Adams_Gillmore
+45,US,Dupont,Dupont,,,,Adm.,https://dbpedia.org/resource/Samuel_Francis_Du_Pont
+45,US,Dahlgreen,Dahlgreen,,,,Adm.,https://dbpedia.org/resource/John_A._Dahlgren
+46,Confederate,J. Johnston,Johnston,J.,,,Gen.,https://dbpedia.org/resource/Joseph_E._Johnston
+46,US,W. T. Sherman,Sherman,W.,T.,,Maj. Gen.,https://dbpedia.org/resource/William_Tecumseh_Sherman
+47,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+47,US,U. S. Grant,Grant,U.,S.,,Lt. Gen,https://dbpedia.org/resource/Ulysses_S._Grant
+48,US,Cranby,Cranby,,,,Maj. Gen.,https://dbpedia.org/resource/Edward_Richard_Sprigg_Canby
+48,US,Farragut,Farragut,,,,Adm.,https://dbpedia.org/resource/David_Farragut
+49,Confederate,R. Lee,Lee,R.,,,Gen.,https://dbpedia.org/resource/Robert_E._Lee
+49,US,U. S. Grant,Grant,U.,S.,,Lt. Gen,https://dbpedia.org/resource/Ulysses_S._Grant
+50,Confederate,J. Johnston,Johnston,J.,,,Gen.,https://dbpedia.org/resource/Joseph_E._Johnston
+50,US,W. T. Sherman,Sherman,W.,T.,,Maj. Gen.,https://dbpedia.org/resource/William_Tecumseh_Sherman

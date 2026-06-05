@@ -1,0 +1,62 @@
+---
+filters:
+  - abstract-section
+
+execute:
+  echo: false
+  warning: false
+  freeze: false
+---
+
+# Abstract
+
+[Placeholder: 150 words or fewer. JEL codes and keywords follow.]
+
+**JEL Codes:** N41, D72, L82
+
+**Keywords:** Civil War, newspapers, slavery, elections, political economy
+
+# Introduction
+
+# Institutional Background
+
+# Data
+
+## Chronicling America Corpus
+
+## BERTopic Topic Similarity
+
+## Sentiment (VADER)
+
+## Election Returns and County Demographics
+
+# Empirical Strategy
+
+## Event Study (H1)
+
+## Cross-Sectional Design (H2–H4)
+
+# Results
+
+## H1: Pre-Election Discourse Spike
+
+## H2–H3: Vote Share Effects
+
+## H4: Sentiment Moderation
+
+# Mechanisms
+
+## H5: Partisan Press
+
+## H6: Geographic Diffusion
+
+## H7: Presidential Elections
+
+## H8: Battle Proximity
+
+# Conclusion
+
+# References {.unnumbered}
+
+::: {#refs}
+:::

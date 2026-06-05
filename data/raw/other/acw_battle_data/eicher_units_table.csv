@@ -1,0 +1,15 @@
+belligerent,infantry,unit_type,low,high,avg,mode,page
+Confederate,1,corps per army,1,4,2.74,2,73
+Confederate,1,divisions per corps,2,7,3.1,3,73
+Confederate,1,brigades per division,2,7,3.62,4,73
+Confederate,1,regiments per brigade,2,20,4.71,5,73
+Confederate,0,divisions per corps,2,3,2.43,2,73
+Confederate,0,brigades per division,2,7,2.81,2,73
+Confederate,0,regiments per brigade,2,8,4.21,4,73
+Union,1,corps per army,1,8,3.71,3,66
+Union,1,divisions per corps,2,6,2.91,3,66
+Union,1,brigades per division,2,5,2.8,3,66
+Union,1,regiments per brigade,2,12,4.73,4,66
+Union,0,divisions per corps,2,6,2.92,3,66
+Union,0,brigades per division,2,6,2.55,2,66
+Union,0,regiments per brigade,2,8,3.9,4,66

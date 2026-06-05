@@ -1,0 +1,355 @@
+battle_id,belligerent,commander_number,PersonID,last_name,first_name,middle_name,middle_initial,rank,navy
+Rich Mountain/Laurel Mountain,Confederate,1,488ca773-3d4d-4cdb-b636-1bc4c39b119c,Pegram,John,,,Lieutenant Colonel,False
+Rich Mountain/Laurel Mountain,Confederate,2,386fe044-f4a0-4128-9e79-be5dcaa66241,Garnett,Robert,Selden,S.,Brigadier General,False
+Rich Mountain/Laurel Mountain,US,1,113829b2-e1ff-4458-8dce-9a4da30810dd,McClellan,George,Brinton,B.,Major General,False
+Rich Mountain/Laurel Mountain,US,2,7d67c576-bbd4-4b23-ac53-300f9522f311,Rosecrans,William,Starke,S.,Brigadier General,False
+First Bull Run (Manassas),Confederate,1,b0f7a304-f6c5-4a8d-b816-066426e5dc1c,Johnston,Joseph,,E.,Brigadier General,False
+First Bull Run (Manassas),Confederate,2,183d0a7d-f06a-4c7b-a575-7616e491618b,Beauregard,Pierre,Gustave Toutant,G. T.,Brigadier General,False
+First Bull Run (Manassas),US,1,0f05f7ed-f187-4469-8fbe-25942e7eb85b,McDowell,Irvin,,,Brigadier General,False
+Ball's Bluff,Confederate,1,6bce5d35-7ced-46f5-8786-31eb932c1354,Evans,Nathan,George,G.,Brigadier General,False
+Ball's Bluff,US,1,f06a78fa-f99c-4b7e-bea7-89aa4829c315,Stone,Charles,Pomeroy,P.,Brigadier General,False
+Ball's Bluff,US,2,4b479de3-ec5f-4531-af8e-903c593a7b78,Baker,Edward,Dickinson,D.,Colonel,False
+Wilson's Creek,Confederate,1,8f232cc9-43e7-4627-ab45-d8fe6873c472,Price,Sterling,,,Major General,False
+Wilson's Creek,Confederate,2,536cbc9d-7b3e-4225-a660-25374cc1026e,McCulloch,Benjamin,,,Brigadier General,False
+Wilson's Creek,US,1,a590cf3d-2e52-49bb-83fc-dd1911ba651d,Lyon,Nathaniel,,,Brigadier General,False
+Wilson's Creek,US,2,4a50678b-9211-4c6a-828e-d9607876849a,Sturgis,Samuel,Davis,D.,Major General,False
+Belmont,Confederate,1,c97e392a-d319-4c82-9201-0a35f418a0a9,Pillow,Gideon,Johnson,J.,Brigadier General,False
+Belmont,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Brigadier General,False
+Roanoake Island,Confederate,1,2f7d8b0b-710b-4f79-b13e-2cf4b9844059,Wise,Henry,Alexander,A.,Brigadier General,False
+Roanoake Island,US,1,c5f9dd77-1122-48f0-8840-614720ba50d8,Burnside,Ambrose,Everett,E.,Brigadier General,False
+New Bern,Confederate,1,31a0d649-84f2-4b86-a4aa-155dd8a544fe,Branch,Lawrence,O'Bryan,O.,Brigadier General,False
+New Bern,US,1,c5f9dd77-1122-48f0-8840-614720ba50d8,Burnside,Ambrose,Everett,E.,Brigadier General,False
+Hampton Roads (first day),Confederate,1,12c2d009-5e2f-47cb-b9e7-31e07bc73edd,Buchanan,Frankiln,,,Captain,True
+Hampton Roads (first day),Confederate,2,135f4732-a9b3-4a23-a530-8a6e922812c6,Jones,Catesby,Roger,R.,Lieutenant,False
+Hampton Roads (first day),US,1,ec3537d2-26fb-441d-bf2c-a1eed0e78171,Worden,John,,,Lieutenant,False
+Hampton Roads (second day),Confederate,1,12c2d009-5e2f-47cb-b9e7-31e07bc73edd,Buchanan,Frankiln,,,Captain,True
+Hampton Roads (second day),Confederate,2,135f4732-a9b3-4a23-a530-8a6e922812c6,Jones,Catesby,Roger,R.,Lieutenant,False
+Hampton Roads (second day),US,1,ec3537d2-26fb-441d-bf2c-a1eed0e78171,Worden,John,,,Lieutenant,False
+Secessionville,Confederate,1,6bce5d35-7ced-46f5-8786-31eb932c1354,Evans,Nathan,George,G.,Brigadier General,False
+Secessionville,US,1,d2efdb4f-e327-44a6-bd45-a345dd06d37d,Benham,Henry,Washington,W.,Brigadier General,False
+Kernstown (first),Confederate,1,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+Kernstown (first),US,1,cc0f3d5e-05e5-431e-82dc-f7ef2a53cdb5,Kimball,Nathan,,,Colonel,False
+McDowell,Confederate,1,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+McDowell,US,1,8c251b93-5768-4630-ae9a-dd45b4e785c6,Milroy,Robert,Huston,H.,Brigadier General,False
+McDowell,US,2,009983b0-ccd0-4ed6-814e-c729a69e69e3,Schenck,Robert,Cumming,C.,Brigadier General,False
+Front Royal,Confederate,1,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+Front Royal,US,1,89baa468-4d55-4b97-a5a6-bc79bd433235,Kenly,John,,R.,Colonel,False
+Winchester (first),Confederate,1,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+Winchester (first),US,1,f2f4eda1-b51f-4f8e-ad2d-379a1eb685f3,Banks,Nathaniel,,P.,Major General,False
+Cross Keys,Confederate,1,aa9a80fb-49e3-41d4-8ce5-3f5cbd961625,Ewell,Richard,Stoddert,S.,Major General,False
+Cross Keys,US,1,b6775ad7-2f56-4d49-9aee-b4e4898e8b5e,Frémont,John,Charles,C.,Major General,False
+Port Republic,Confederate,1,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+Port Republic,US,1,1c028c2f-3439-4a15-ac1a-d9f9f9ab7210,Tyler,Erastus,Barnard,B.,Brigadier General,False
+Williamsburg (Fort Magruder),Confederate,1,0418b77d-5826-4c1d-9621-9d92c48d77b5,Longstreet,James,,,Major General,False
+Williamsburg (Fort Magruder),US,1,113829b2-e1ff-4458-8dce-9a4da30810dd,McClellan,George,Brinton,B.,Major General,False
+Hanover Court House,Confederate,1,31a0d649-84f2-4b86-a4aa-155dd8a544fe,Branch,Lawrence,O'Bryan,O.,Brigadier General,False
+Hanover Court House,US,1,3e3bcb35-5488-46d2-8cf2-b0243ca67d45,Porter,Fitz,John,J.,Brigadier General,False
+Fair Oaks (Seven Pines),Confederate,1,b0f7a304-f6c5-4a8d-b816-066426e5dc1c,Johnston,Joseph,,E.,General,False
+Fair Oaks (Seven Pines),Confederate,2,7ecf1477-925a-4b2b-b174-a549a4038ecc,Smith,Gustavus,Woodson,W.,Major General,False
+Fair Oaks (Seven Pines),US,1,113829b2-e1ff-4458-8dce-9a4da30810dd,McClellan,George,Brinton,B.,Major General,False
+Seven Days Battles,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Seven Days Battles,US,1,113829b2-e1ff-4458-8dce-9a4da30810dd,McClellan,George,Brinton,B.,Major General,False
+The Orchard (Seven Days),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+The Orchard (Seven Days),US,1,113829b2-e1ff-4458-8dce-9a4da30810dd,McClellan,George,Brinton,B.,Major General,False
+Mechanicsville (Seven Days),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Mechanicsville (Seven Days),US,1,3e3bcb35-5488-46d2-8cf2-b0243ca67d45,Porter,Fitz,John,J.,Brigadier General,False
+Gaines's Mill (Seven Days),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Gaines's Mill (Seven Days),US,1,3e3bcb35-5488-46d2-8cf2-b0243ca67d45,Porter,Fitz,John,J.,Brigadier General,False
+Savage's Station (Seven Days),Confederate,1,256b790f-0cad-46d6-80aa-7e176890da83,Magruder,John,Bankhead,B.,Major General,False
+Savage's Station (Seven Days),US,1,f2b24743-4d9d-4422-b830-26ecf22d9bd1,Sumner,Edwin,Vose,V.,Major General,False
+White Oak Swamp (Seven Days),Confederate,1,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+White Oak Swamp (Seven Days),Confederate,2,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+White Oak Swamp (Seven Days),US,1,a6b7f4dd-efc1-43ae-ba35-a53ed768fd63,Franklin,William,Buel,B.,Major General,False
+White Oak Swamp (Seven Days),US,2,113829b2-e1ff-4458-8dce-9a4da30810dd,McClellan,George,Brinton,B.,Major General,False
+Malvern Hill (Seven Days),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Malvern Hill (Seven Days),US,1,113829b2-e1ff-4458-8dce-9a4da30810dd,McClellan,George,Brinton,B.,Major General,False
+Cedar Mountain,Confederate,1,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+Cedar Mountain,US,1,f2f4eda1-b51f-4f8e-ad2d-379a1eb685f3,Banks,Nathaniel,,P.,Major General,False
+Groveton,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Groveton,Confederate,2,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+Groveton,US,1,60853683-b235-4e03-abcb-68edc8339fa5,Pope,John,,,Major General,False
+Second Bull Run/Chantilly (Second Manassas),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Second Bull Run/Chantilly (Second Manassas),Confederate,2,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+Second Bull Run/Chantilly (Second Manassas),US,1,60853683-b235-4e03-abcb-68edc8339fa5,Pope,John,,,Major General,False
+South Mountain,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+South Mountain,US,1,113829b2-e1ff-4458-8dce-9a4da30810dd,McClellan,George,Brinton,B.,Major General,False
+Antietam (Sharpsburg),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Antietam (Sharpsburg),US,1,113829b2-e1ff-4458-8dce-9a4da30810dd,McClellan,George,Brinton,B.,Major General,False
+Fredericksburg,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Fredericksburg,US,1,c5f9dd77-1122-48f0-8840-614720ba50d8,Burnside,Ambrose,Everett,E.,Major General,False
+Valverde,Confederate,1,9839110b-154f-4796-aa4f-dd402e2382ca,Sibley,Henry,Hastings,H.,Brigadier General,False
+Valverde,Confederate,2,1f2d408e-a3d6-431d-aefe-9d6df9e7902b,Green,Thomas,,,Colonel,False
+Valverde,US,1,30a29258-21ca-4370-8924-ee4559fe526b,Canby,Edward,Richard Sprigg,R. S.,Colonel,False
+Apache Canyon/Glorieta Pass,Confederate,1,2828095d-0ca4-4577-86db-715eeb9ec93c,Pyron,Charles,,L.,Major,False
+Apache Canyon/Glorieta Pass,Confederate,2,a0843832-94ac-4663-b4bc-288b8d1b817f,Scurry,William,Read,R.,Lieutenant Colonel,False
+Apache Canyon/Glorieta Pass,US,1,a858e995-675f-4386-9c26-6579fa7533dc,Chivington,John,Milton,M.,Major,False
+Apache Canyon/Glorieta Pass,US,2,a05df089-6f23-4706-9b71-b25bcdba94c4,Slough,John,Potts,P.,Colonel,False
+Pea Ridge,Confederate,1,a68145ec-a562-494d-8e95-c9bd2e0ff473,Van Dorn,Earl,,,Major General,False
+Pea Ridge,US,1,e08b618c-acc7-4502-9ef8-b8546572e22d,Curtis,Samuel,,R.,Brigadier General,False
+Prairie Grove,Confederate,1,839a5a85-49a8-41a6-b4a9-f76657c5d4fc,Hindman,Thomas,Carmichael,C.,Major General,False
+Prairie Grove,US,1,42af3182-e310-412a-917c-4718d4f4dda6,Herron,Francis,Jay,J.,Brigadier General,False
+Prairie Grove,US,2,a3f15046-9028-421d-bbe0-fb6c341a991f,Blunt,James,,G.,Brigadier General,False
+Mill Springs (Logan's Crossroads),Confederate,1,adcab55a-f4fc-44be-a271-cf0364c28a3b,Crittenden,George,Bibb,B.,Major General,False
+Mill Springs (Logan's Crossroads),US,1,6951057d-db32-4db5-8b3e-dea0c1101a5f,Thomas,George,,H.,Brigadier General,False
+Fort Donelson,Confederate,1,a35f09f2-1d82-485d-96c1-00e23cc44a16,Floyd,John,Buchanan,B.A,Brigadier General,False
+Fort Donelson,Confederate,2,c97e392a-d319-4c82-9201-0a35f418a0a9,Pillow,Gideon,Johnson,J.,Brigadier General,False
+Fort Donelson,Confederate,3,b2dc590c-f108-4e13-a3e3-0d47a00668c3,Buckner,Simon,Bolivar,B.,Brigadier General,False
+Fort Donelson,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Brigadier General,False
+Fort Donelson,US,2,571ac77d-3839-4b5f-9d47-d7e83bacfe60,Foote,Andrew,Hull,H.,Flag Officer,True
+Shiloh (Pittsburg Landing),Confederate,1,155b07ca-cc70-402b-968f-dee3650ff3e3,Johnston,Albert,Sidney,S.,General,False
+Shiloh (Pittsburg Landing),Confederate,2,183d0a7d-f06a-4c7b-a575-7616e491618b,Beauregard,Pierre,Gustave Toutant,G. T.,General,False
+Shiloh (Pittsburg Landing),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Shiloh (Pittsburg Landing),US,2,ae900570-5c73-4de2-b99b-e0f6fbe50ca3,Buell,Don,Carlos,C.,Major General,False
+New Orleans,Confederate,1,76873401-00d0-4430-a320-c35d2a6828be,Duncan,Johnson,Kelly,K.,Brigadier General,False
+New Orleans,Confederate,2,117bf5ff-1db0-4b84-9a31-7f77ad69e8be,Mitchell,John,,K.,Commander,True
+New Orleans,US,1,7a5f39ff-efc9-4ccd-a5ed-56ad106e2f26,Farragut,David,Glasgow,G.,Flag Officer,True
+Baton Rouge,Confederate,1,f6caa729-7cfc-4aec-a064-e40c1cfdf01b,Breckinridge,John,Cabell,C.,Major General,False
+Baton Rouge,US,1,112c0903-05c0-43af-b85c-599f4eb2a25a,Williams,Thomas,,,Brigadier General,False
+Iuka,Confederate,1,8f232cc9-43e7-4627-ab45-d8fe6873c472,Price,Sterling,,,Major General,False
+Iuka,US,1,7d67c576-bbd4-4b23-ac53-300f9522f311,Rosecrans,William,Starke,S.,Major General,False
+Corinth,Confederate,1,a68145ec-a562-494d-8e95-c9bd2e0ff473,Van Dorn,Earl,,,Major General,False
+Corinth,US,1,7d67c576-bbd4-4b23-ac53-300f9522f311,Rosecrans,William,Starke,S.,Major General,False
+Chickasaw Bluffs,Confederate,1,03c2a063-2c1f-4006-9be2-08bcb50ee9ea,Pemberton,John,Clifford,C.,Lieutenant General,False
+Chickasaw Bluffs,US,1,72fc916d-f36e-4ffa-ab9c-bec7bde07002,Sherman,William,Tecumsheh,,Major General,False
+Richmond (Kentucky),Confederate,1,39787b04-6723-4729-957c-bddcae228832,Smith,Edmund,Kirby,K.,Major General,False
+Richmond (Kentucky),US,1,9a9f97a2-dc6b-413e-9bd4-eedd766bb2a2,Nelson,William,,,Major General,False
+Perryville,Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Perryville,US,1,ae900570-5c73-4de2-b99b-e0f6fbe50ca3,Buell,Don,Carlos,C.,Major General,False
+Hartsville,Confederate,1,813a4704-9ba5-4fda-b14d-f0c9136f575a,Morgan,John,Hunt,H.,Brigadier General,False
+Hartsville,US,1,e836ca76-6e2c-40ae-8c75-42bc9848504c,Moore,Absalom,,B.,Colonel,False
+Stones River (Murfreesboro),Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Stones River (Murfreesboro),US,1,7d67c576-bbd4-4b23-ac53-300f9522f311,Rosecrans,William,Starke,S.,Major General,False
+Chancellorsville,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Chancellorsville,Confederate,2,21d06a25-9c4f-4dea-a766-f60d20632999,Jackson,Thomas,Jonathan,J.,Major General,False
+Chancellorsville,US,1,cfa9a700-f979-46ff-bfb1-4615441ccd55,Hooker,Joseph,,,Major General,False
+Brandy Station,Confederate,1,6df9b482-4757-474f-80a9-bd1d82228a63,Stuart,James,Ewell Brown,E. B.,Major General,False
+Brandy Station,US,1,90849b39-6f3a-4d88-af29-ddded5d1733a,Pleasonton,Alfred,,,Major General,False
+Winchester (second),Confederate,1,aa9a80fb-49e3-41d4-8ce5-3f5cbd961625,Ewell,Richard,Stoddert,S.,Lieutenant General,False
+Winchester (second),US,1,8c251b93-5768-4630-ae9a-dd45b4e785c6,Milroy,Robert,Huston,H.,Brigadier General,False
+Gettsyburg,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Gettsyburg,US,1,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Bristoe Station,Confederate,1,2153a0b4-6aab-42d2-b31e-56b074ec402e,Hill,Ambrose,Powell,P.,Lieutenant General,False
+Bristoe Station,US,1,8ca13860-937b-4df4-8f84-df7a2bf51224,Warren,Gouverneur,Kemble,K.,Major General,False
+Buckland,Confederate,1,6df9b482-4757-474f-80a9-bd1d82228a63,Stuart,James,Ewell Brown,E. B.,Major General,False
+Buckland,US,1,7830dd73-a91e-4fe5-b112-4492303f8c2d,Kilpatrick,Hugh,Judson,J.,Major General,False
+Rappahannock Station,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Rappahannock Station,US,1,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Mine Run,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Mine Run,US,1,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Galveston,Confederate,1,256b790f-0cad-46d6-80aa-7e176890da83,Magruder,John,Bankhead,B.,Major General,False
+Galveston,US,1,fc3770be-57d2-408b-b564-a47752d56116,Burrell,Isaac,,S.,Colonel,False
+Galveston,US,2,65815655-0c83-4511-9e7b-2ce4d0ca632c,Renshaw,William,Bainbridge,B.,Commander,True
+Honey Springs,Confederate,1,0585679d-c4d3-46b9-a774-1c06c6d7f9e9,Cooper,Douglas,Hancock,H.,Brigadier General,False
+Honey Springs,US,1,a3f15046-9028-421d-bbe0-fb6c341a991f,Blunt,James,,G.,Major General,False
+Fort Hindman (Arkansas Post),Confederate,1,1a2052a6-2f63-45e6-a406-1f6eae7c8341,Churchill,Thomas,James,J.,Brigadier General,False
+Fort Hindman (Arkansas Post),US,1,8da88a4c-d429-4247-a6e8-cba41f280a10,Porter,David,Dixon,D.,Acting Rear Admiral,True
+Fort Hindman (Arkansas Post),US,2,ff3bef0a-370b-48a3-9e53-a77c9f9a5b35,McClernand,John,Alexander,A.,Major General,False
+Port Hudson (siege),Confederate,1,6420b474-c728-4537-84ce-09ae419a5398,Gardner,Franklin,,,Major General,False
+Port Hudson (siege),US,1,f2f4eda1-b51f-4f8e-ad2d-379a1eb685f3,Banks,Nathaniel,,P.,Major General,False
+Port Hudson (first assault),Confederate,1,6420b474-c728-4537-84ce-09ae419a5398,Gardner,Franklin,,,Major General,False
+Port Hudson (first assault),US,1,f2f4eda1-b51f-4f8e-ad2d-379a1eb685f3,Banks,Nathaniel,,P.,Major General,False
+Port Hudson (second assault),Confederate,1,6420b474-c728-4537-84ce-09ae419a5398,Gardner,Franklin,,,Major General,False
+Port Hudson (second assault),US,1,f2f4eda1-b51f-4f8e-ad2d-379a1eb685f3,Banks,Nathaniel,,P.,Major General,False
+Donaldsville (first),Confederate,1,1f2d408e-a3d6-431d-aefe-9d6df9e7902b,Green,Thomas,,,Brigadier General,False
+Donaldsville (first),US,1,75f89742-e9e6-44e6-895c-c1b4d481fcab,Bullen,Joseph,,D.,Major,False
+Donaldsville (second),Confederate,1,1f2d408e-a3d6-431d-aefe-9d6df9e7902b,Green,Thomas,,,Brigadier General,False
+Donaldsville (second),US,1,6039ac35-5424-47ea-972c-11111315b2fc,Weitzel,Godfrey,,,Brigadier General,False
+Donaldsville (second),US,2,d28cf4ce-7176-40e5-81a3-d822f31ae359,Grover,Cuvier,,,Brigadier General,False
+Port Gibson,Confederate,1,121a2f46-8937-472b-aca1-7a6afd0d8f57,Bowen,John,Stevens,S.,Brigadier General,False
+Port Gibson,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Raymond,Confederate,1,55cf9433-a8d5-4665-96cc-3f8dd99995ef,Gregg,John,,,Brigadier General,False
+Raymond,US,1,fb4ade2a-549d-4707-9784-5c2d3a928df6,McPherson,James,Birdseye,B.,Major General,False
+Jackson,Confederate,1,b0f7a304-f6c5-4a8d-b816-066426e5dc1c,Johnston,Joseph,,E.,General,False
+Jackson,Confederate,2,55cf9433-a8d5-4665-96cc-3f8dd99995ef,Gregg,John,,,Brigadier General,False
+Jackson,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Champion's Hill,Confederate,1,03c2a063-2c1f-4006-9be2-08bcb50ee9ea,Pemberton,John,Clifford,C.,Lieutenant General,False
+Champion's Hill,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Big Black River,Confederate,1,121a2f46-8937-472b-aca1-7a6afd0d8f57,Bowen,John,Stevens,S.,Brigadier General,False
+Big Black River,US,1,ff3bef0a-370b-48a3-9e53-a77c9f9a5b35,McClernand,John,Alexander,A.,Major General,False
+Vicksburg (siege),Confederate,1,03c2a063-2c1f-4006-9be2-08bcb50ee9ea,Pemberton,John,Clifford,C.,Lieutenant General,False
+Vicksburg (siege),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Vicksburg (first assault),Confederate,1,03c2a063-2c1f-4006-9be2-08bcb50ee9ea,Pemberton,John,Clifford,C.,Lieutenant General,False
+Vicksburg (first assault),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Vicksburg (second assault),Confederate,1,03c2a063-2c1f-4006-9be2-08bcb50ee9ea,Pemberton,John,Clifford,C.,Lieutenant General,False
+Vicksburg (second assault),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Helena,Confederate,1,65f2acff-a023-45b9-8957-6b89af4343b7,Holmes,Theophilus,Hunter,H.,Lieutenant General,False
+Helena,US,1,84cac7af-39b5-4fda-af6a-303608eec2c3,Prentiss,Benjamin,Mayberry,M.,Major General,False
+Jackson (siege),Confederate,1,b0f7a304-f6c5-4a8d-b816-066426e5dc1c,Johnston,Joseph,,E.,General,False
+Jackson (siege),US,1,033ec012-d845-474f-bf9c-28366e02d1a4,Sherman,William,,T.,Major General,False
+Chickamagua,Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Chickamagua,Confederate,2,0418b77d-5826-4c1d-9621-9d92c48d77b5,Longstreet,James,,,Lieutenant General,False
+Chickamagua,US,1,7d67c576-bbd4-4b23-ac53-300f9522f311,Rosecrans,William,Starke,S.,Major General,False
+Chickamagua,US,2,6951057d-db32-4db5-8b3e-dea0c1101a5f,Thomas,George,,H.,Major General,False
+Chattanooga,Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Chattanooga,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Chattanooga (Orchard Knob/Indian Hill),Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Chattanooga (Orchard Knob/Indian Hill),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Chattanooga (Lookout Mountain),Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Chattanooga (Lookout Mountain),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Chattanooga (Tunnel Hill),Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Chattanooga (Tunnel Hill),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Chattanooga (Missionary Ridge),Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Chattanooga (Missionary Ridge),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Ringgold Gap,Confederate,1,6aa89d0e-8209-4236-869e-6de6b4865ca0,Cleburne,Patrick,Ronayne,R.,Major General,False
+Ringgold Gap,US,1,cfa9a700-f979-46ff-bfb1-4615441ccd55,Hooker,Joseph,,,Major General,False
+Knoxville (siege),Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Knoxville (siege),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Major General,False
+Knoxville (attack on Fort Sanders),Confederate,1,0418b77d-5826-4c1d-9621-9d92c48d77b5,Longstreet,James,,,Lieutenant General,False
+Knoxville (attack on Fort Sanders),US,1,c5f9dd77-1122-48f0-8840-614720ba50d8,Burnside,Ambrose,Everett,E.,Major General,False
+Pocataligo,Confederate,1,,Walker,William,,S. ,Colonel,False
+Pocataligo,US,1,0bbf8c45-2f41-4b08-98ce-222e943adac8,Brannan,John,,M.,Brigadier General,False
+Batteries Wagner and Gregg,Confederate,1,183d0a7d-f06a-4c7b-a575-7616e491618b,Beauregard,Pierre,Gustave Toutant,G. T.,General,False
+Batteries Wagner and Gregg,US,1,29c87347-958e-438f-b06a-5b3e586564cd,Gillmore,Quincy,Adams,A.,Brigadier General,False
+Battery Wagner,Confederate,1,183d0a7d-f06a-4c7b-a575-7616e491618b,Beauregard,Pierre,Gustave Toutant,G. T.,General,False
+Battery Wagner,US,1,29c87347-958e-438f-b06a-5b3e586564cd,Gillmore,Quincy,Adams,A.,Major General,False
+Olustee,Confederate,1,488f8bc8-8cb9-4ad0-ab8f-82fd06799387,Finegan,Joseph,,,Brigadier General,False
+Olustee,US,1,ae4b233a-c76c-41c5-a0bd-ad6340f39cb9,Seymour,Truman,,,Brigadier General,False
+Wilderness,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Wilderness,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Lieutenant General,False
+Wilderness,US,2,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Spotsylvania Court House,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Spotsylvania Court House,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Lieutenant General,False
+Spotsylvania Court House,US,2,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Yellow Tavern,Confederate,1,6df9b482-4757-474f-80a9-bd1d82228a63,Stuart,James,Ewell Brown,E. B.,Major General,False
+Yellow Tavern,US,1,407e5664-e1ff-49aa-984d-79f7508a5e7f,Sheridan,Philip,Henry,H.,Major General,False
+North Anna River,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+North Anna River,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Lieutenant General,False
+North Anna River,US,2,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Totopotomy Creek,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Totopotomy Creek,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Lieutenant General,False
+Totopotomy Creek,US,2,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Cold Harbor (assault),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Cold Harbor (assault),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Lieutenant General,False
+Cold Harbor (assault),US,2,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Cold Harbor,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Cold Harbor,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Lieutenant General,False
+Cold Harbor,US,2,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Trevilian Station,Confederate,1,0db13c2e-98a9-4187-be39-484c4d272d30,Hampton,Wade,,,Major General,False
+Trevilian Station,US,1,407e5664-e1ff-49aa-984d-79f7508a5e7f,Sheridan,Philip,Henry,H.,Major General,False
+Cloyd's Mountain,Confederate,1,862c24e1-e6e0-4349-b796-8568994296f3,Jenkins,Albert,,G.,Brigadier General,False
+Cloyd's Mountain,US,1,e82a23ec-2fd8-4772-910a-a24756c57052,Crook,George,,,Brigadier General,False
+New Market,Confederate,1,f6caa729-7cfc-4aec-a064-e40c1cfdf01b,Breckinridge,John,Cabell,C.,Major General,False
+New Market,US,1,2f47ce28-50f4-4728-8a6f-01d50726a032,Sigel,Franz,,,Major General,False
+Piedmont,Confederate,1,0769dc65-a460-4629-b6bc-68a36ab8786e,Jones,William,Edmondson,E.,Brigadier General,False
+Piedmont,US,1,5eec596f-c299-41da-96b6-984213b14c9e,Hunter,David,,,Major General,False
+Drewry's Bluff,Confederate,1,630fb1e5-bd14-423e-8d72-02d7358f2f13,Farrand,Ebenezer,,,Commander,True
+Drewry's Bluff,Confederate,2,9e1353da-e14e-4a33-9169-19b95b173cd1,Mahone,William,,,Brigadier General,False
+Drewry's Bluff,Confederate,3,4791baa5-ea93-4b1e-ad9b-2d36c87d2242,Lee,Sidney,Smith,S.,Captain,True
+Drewry's Bluff,US,1,6b88e299-58f8-4232-adf9-ae82f62ea3cf,Rodgers,John,,,Commander,True
+Petersburg (first assault),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Petersburg (first assault),Confederate,2,183d0a7d-f06a-4c7b-a575-7616e491618b,Beauregard,Pierre,Gustave Toutant,G. T.,General,False
+Petersburg (first assault),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Lieutenant General,False
+Petersburg (first assault),US,2,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Monocacy River,Confederate,1,77a0625d-2996-4af0-b46f-db7388f851d5,Early,Jubal,Anderson,A.,Lieutenant General,False
+Monocacy River,US,1,2a86c08b-654e-47fd-a1a4-3c79cedcbceb,Wallace,Lewis,"""Lew""",,Major General,False
+Kernstown (second),Confederate,1,77a0625d-2996-4af0-b46f-db7388f851d5,Early,Jubal,Anderson,A.,Lieutenant General,False
+Kernstown (second),US,1,e82a23ec-2fd8-4772-910a-a24756c57052,Crook,George,,,Brigadier General,False
+Opequon (Third Winchester),Confederate,1,77a0625d-2996-4af0-b46f-db7388f851d5,Early,Jubal,Anderson,A.,Lieutenant General,False
+Opequon (Third Winchester),US,1,407e5664-e1ff-49aa-984d-79f7508a5e7f,Sheridan,Philip,Henry,H.,Major General,False
+Fisher's Hill,Confederate,1,77a0625d-2996-4af0-b46f-db7388f851d5,Early,Jubal,Anderson,A.,Lieutenant General,False
+Fisher's Hill,US,1,407e5664-e1ff-49aa-984d-79f7508a5e7f,Sheridan,Philip,Henry,H.,Major General,False
+Cedar Creek,Confederate,1,77a0625d-2996-4af0-b46f-db7388f851d5,Early,Jubal,Anderson,A.,Lieutenant General,False
+Cedar Creek,US,1,0feb9176-d689-4e1d-ac4a-6bb149fc6f5b,Wright,Horatio,Gouverneur,G.,Major General,False
+Cedar Creek,US,2,407e5664-e1ff-49aa-984d-79f7508a5e7f,Sheridan,Philip,Henry,H.,Major General,False
+Petersburg (Battle of the Crater),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Petersburg (Battle of the Crater),US,1,c5f9dd77-1122-48f0-8840-614720ba50d8,Burnside,Ambrose,Everett,E.,Major General,False
+Deep Bottom Run,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Deep Bottom Run,Confederate,2,b8c29b14-3dbe-4c53-a8ca-6af5217d6469,Field,Charles,William,W.,Major General,False
+Deep Bottom Run,US,1,8d7bd2d7-7411-4cea-ace2-491a97e577ca,Hancock,Winfield,Scott,S.,Major General,False
+Globe Tavern,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Globe Tavern,Confederate,2,2153a0b4-6aab-42d2-b31e-56b074ec402e,Hill,Ambrose,Powell,P.,Lieutenant General,False
+Globe Tavern,Confederate,3,d87fee08-2ce1-47f6-b313-9a1dfb7a8ea7,Heth,Henry,,,Major General,False
+Globe Tavern,Confederate,4,9e1353da-e14e-4a33-9169-19b95b173cd1,Mahone,William,,,Major General,False
+Globe Tavern,US,1,8ca13860-937b-4df4-8f84-df7a2bf51224,Warren,Gouverneur,Kemble,K.,Major General,False
+Reams Station,Confederate,1,d87fee08-2ce1-47f6-b313-9a1dfb7a8ea7,Heth,Henry,,,Major General,False
+Reams Station,US,1,8d7bd2d7-7411-4cea-ace2-491a97e577ca,Hancock,Winfield,Scott,S.,Major General,False
+Fort Harrison (Chaffin's Bluff),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Fort Harrison (Chaffin's Bluff),Confederate,2,aa9a80fb-49e3-41d4-8ce5-3f5cbd961625,Ewell,Richard,Stoddert,S.,Lieutenant General,False
+Fort Harrison (Chaffin's Bluff),US,1,c94b93a1-0565-4e9f-95af-12f5fe7e93f8,Butler,Benjamin,Frankiln,F.,Major General,False
+Peebles Farm,Confederate,1,2153a0b4-6aab-42d2-b31e-56b074ec402e,Hill,Ambrose,Powell,P.,Lieutenant General,False
+Peebles Farm,Confederate,2,0db13c2e-98a9-4187-be39-484c4d272d30,Hampton,Wade,,,Major General,False
+Peebles Farm,US,1,15a8b826-e060-430a-bb4c-61936b75252e,Meade,George,Gordon,G.,Major General,False
+Peebles Farm,US,2,87cff8b4-f792-44ed-a7cc-9bc684d88994,Parke,John,Grubb,G.,Major General,False
+Peebles Farm,US,3,8ca13860-937b-4df4-8f84-df7a2bf51224,Warren,Gouverneur,Kemble,K.,Major General,False
+Hatcher's Run (first),Confederate,1,d87fee08-2ce1-47f6-b313-9a1dfb7a8ea7,Heth,Henry,,,Major General,False
+Hatcher's Run (first),US,1,8d7bd2d7-7411-4cea-ace2-491a97e577ca,Hancock,Winfield,Scott,S.,Major General,False
+Fair Oaks,Confederate,1,0418b77d-5826-4c1d-9621-9d92c48d77b5,Longstreet,James,,,Lieutenant General,False
+Fair Oaks,US,1,c94b93a1-0565-4e9f-95af-12f5fe7e93f8,Butler,Benjamin,Frankiln,F.,Major General,False
+Sabine Crossroads,Confederate,1,dd70b0b4-401c-47ce-b3fb-a2b68da3194c,Taylor,Richard,,,Major General,False
+Sabine Crossroads,US,1,f2f4eda1-b51f-4f8e-ad2d-379a1eb685f3,Banks,Nathaniel,,P.,Major General,False
+Pleasant Hill,Confederate,1,dd70b0b4-401c-47ce-b3fb-a2b68da3194c,Taylor,Richard,,,Major General,False
+Pleasant Hill,US,1,f2f4eda1-b51f-4f8e-ad2d-379a1eb685f3,Banks,Nathaniel,,P.,Major General,False
+Yellow Bayou,Confederate,1,dd70b0b4-401c-47ce-b3fb-a2b68da3194c,Taylor,Richard,,,Major General,False
+Yellow Bayou,US,1,20e1eb2c-b6ef-40fd-9762-ebbac239e67b,Mower,Joseph,Anthony,A.,Brigadier General,False
+Jenkins Ferry,Confederate,1,39787b04-6723-4729-957c-bddcae228832,Smith,Edmund,Kirby,K.,General,False
+Jenkins Ferry,US,1,d84237f6-ba30-44d3-9aa9-7e2aafed4d9a,Steele,Frederick,,,Major General,False
+Fort Davidson (Pilot Knob),Confederate,1,8f232cc9-43e7-4627-ab45-d8fe6873c472,Price,Sterling,,,Major General,False
+Fort Davidson (Pilot Knob),US,1,aa1614b8-da23-4624-a541-822e2a02f462,Ewing,Thomas,,,Brigadier General,False
+Westport,Confederate,1,8f232cc9-43e7-4627-ab45-d8fe6873c472,Price,Sterling,,,Major General,False
+Westport,US,1,e08b618c-acc7-4502-9ef8-b8546572e22d,Curtis,Samuel,,R.,Major General,False
+Mine Creek,Confederate,1,7b7bfdd4-920e-4d28-a2eb-44e33941d4b0,Marmaduke,John,,S.,Brigadier General,False
+Mine Creek,Confederate,2,66599684-582c-4caa-aff0-7220f9c67c1f,Fagan,James,Fleming,F.,Major General,False
+Mine Creek,US,1,90849b39-6f3a-4d88-af29-ddded5d1733a,Pleasonton,Alfred,,,Major General,False
+Fort Pillow,Confederate,1,02b4fa9a-541a-45c7-9097-ab1aee538c6c,Forrest,Nathan,Bedford,B.,Major General,False
+Fort Pillow,US,1,5d3d236b-0b8d-48c6-9fa0-6e0a74d03904,Booth,Lionel,,F.,Major,False
+Fort Pillow,US,2,ce80fc18-1765-4e09-9333-858f7e9fdd6b,Bradford,William,,F.,Major,False
+Brice's Crossroads,Confederate,1,02b4fa9a-541a-45c7-9097-ab1aee538c6c,Forrest,Nathan,Bedford,B.,Major General,False
+Brice's Crossroads,US,1,4a50678b-9211-4c6a-828e-d9607876849a,Sturgis,Samuel,Davis,D.,Brigadier General,False
+Tupelo,Confederate,1,8f59c204-3c38-4233-8ff0-3b70562303ca,Lee,Stephen,Dill,D.,Lieutenant General,False
+Tupelo,Confederate,2,02b4fa9a-541a-45c7-9097-ab1aee538c6c,Forrest,Nathan,Bedford,B.,Major General,False
+Tupelo,US,1,869b58fb-03ee-4ad7-bfd4-faf6f24b9378,Smith,Andrew,Jackson,J.,Major General,False
+Selma,Confederate,1,02b4fa9a-541a-45c7-9097-ab1aee538c6c,Forrest,Nathan,Bedford,B.,Lieutenant General,False
+Selma,US,1,460c9e8f-625e-490f-8eda-7385907b8d3f,Wilson,James,Harrison,H.,Major General,False
+New Hope Church,Confederate,1,b0f7a304-f6c5-4a8d-b816-066426e5dc1c,Johnston,Joseph,,E.,General,False
+New Hope Church,US,1,72fc916d-f36e-4ffa-ab9c-bec7bde07002,Sherman,William,Tecumsheh,,Major General,False
+New Hope Church,US,2,cfa9a700-f979-46ff-bfb1-4615441ccd55,Hooker,Joseph,,,Major General,False
+Kennesaw Mountain,Confederate,1,b0f7a304-f6c5-4a8d-b816-066426e5dc1c,Johnston,Joseph,,E.,General,False
+Kennesaw Mountain,US,1,72fc916d-f36e-4ffa-ab9c-bec7bde07002,Sherman,William,Tecumsheh,,Major General,False
+Peachtree Creek,Confederate,1,84b6d739-3384-4291-86ba-f75ae6637069,Hood,John,Bell,B.,General,False
+Peachtree Creek,US,1,6951057d-db32-4db5-8b3e-dea0c1101a5f,Thomas,George,,H.,Major General,False
+Atlanta,Confederate,1,84b6d739-3384-4291-86ba-f75ae6637069,Hood,John,Bell,B.,General,False
+Atlanta,US,1,72fc916d-f36e-4ffa-ab9c-bec7bde07002,Sherman,William,Tecumsheh,,Major General,False
+Ezra Church,Confederate,1,84b6d739-3384-4291-86ba-f75ae6637069,Hood,John,Bell,B.,General,False
+Ezra Church,US,1,fe627383-b1ba-4c9a-b23f-75a2cd4b5c42,Howard,Oliver,,O.,Major General,False
+Jonesboro,Confederate,1,b01714aa-b252-4944-816d-be76a9070175,Hardee,William,Joseph,J.,Lieutenant General,False
+Jonesboro,US,1,72fc916d-f36e-4ffa-ab9c-bec7bde07002,Sherman,William,Tecumsheh,,Major General,False
+Allatoona,Confederate,1,2306a312-6705-4e62-893d-8789639a1555,French,Samuel,Gibbs,G.,Major General,False
+Allatoona,US,1,157b4c7c-6c0e-4aa8-9b7f-44ccb3754a88,Corse,John,Murray,M.,Brigadier General,False
+Franklin,Confederate,1,84b6d739-3384-4291-86ba-f75ae6637069,Hood,John,Bell,B.,General,False
+Franklin,US,1,d3b0a222-2294-41d9-96b9-bc78996d55ae,Schofield,John,McAllister,M.,Major General,False
+Nashville,Confederate,1,84b6d739-3384-4291-86ba-f75ae6637069,Hood,John,Bell,B.,General,False
+Nashville,US,1,6951057d-db32-4db5-8b3e-dea0c1101a5f,Thomas,George,,H.,Major General,False
+Griswoldville,Confederate,1,febc5475-788a-489f-a2df-ab0aa9ab65ee,Philips,Pleasant,,J.,Brigadier General,False
+Griswoldville,Confederate,2,22dc9bfe-6bfa-4f8a-a48f-694e947cc8d7,Wheeler,Joseph,,,Major General,False
+Griswoldville,US,1,92e6e174-42f6-43f7-a778-dd620c12a02c,Walcutt,Charles,Carroll,C.,Brigadier General,False
+Mobile Bay,Confederate,1,12c2d009-5e2f-47cb-b9e7-31e07bc73edd,Buchanan,Frankiln,,,Admiral,True
+Mobile Bay,Confederate,2,0aae1532-be13-4465-b162-a89c8b8dda4a,Page,Richard,Lucian,L.,Brigadier General,False
+Mobile Bay,US,1,7a5f39ff-efc9-4ccd-a5ed-56ad106e2f26,Farragut,David,Glasgow,G.,Rear Admiral,True
+Mobile Bay,US,2,c66b4ad0-8194-4dda-a234-c04e1e4e502e,Granger,Gordon,,,Major General,False
+Fort Fisher,Confederate,1,4b5a15e5-6c5d-492c-9ab7-32d50419cf80,Bragg,Braxton,,,General,False
+Fort Fisher,Confederate,2,6650b484-9515-4e17-bafe-7110fbbf68e2,Hoke,Robert,Frederick,F.,Major General,False
+Fort Fisher,Confederate,3,95b3e009-6f58-43ad-aed1-baf83100fbbd,Lamb,Charles,,,Colonel,False
+Fort Fisher,US,1,8da88a4c-d429-4247-a6e8-cba41f280a10,Porter,David,Dixon,D.,Rear Admiral,True
+Fort Fisher,US,2,5128b598-2305-4d47-8406-f865aefdc4c7,Terry,Alfred,Howe,H.,Major General,False
+Hatcher's Run (second),Confederate,1,bc4a67e5-b1be-43e1-9a83-240f4fe5346b,Gordon,John,Brown,B.,Major General,False
+Hatcher's Run (second),US,1,0739970d-f176-49aa-958c-f26397e326bb,Humphreys,Andrew,Atkinson,A.,Major General,False
+Hatcher's Run (second),US,2,8ca13860-937b-4df4-8f84-df7a2bf51224,Warren,Gouverneur,Kemble,K.,Major General,False
+Fort Stedman,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Fort Stedman,Confederate,2,bc4a67e5-b1be-43e1-9a83-240f4fe5346b,Gordon,John,Brown,B.,Major General,False
+Fort Stedman,US,1,87cff8b4-f792-44ed-a7cc-9bc684d88994,Parke,John,Grubb,G.,Major General,False
+Five Forks,Confederate,1,e4e99b96-0c8c-43c9-b2b2-79cfdb9ed800,Pickett,George,,,Major General,False
+Five Forks,US,1,407e5664-e1ff-49aa-984d-79f7508a5e7f,Sheridan,Philip,Henry,H.,Major General,False
+Petersburg (second assault),Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Petersburg (second assault),US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Lieutenant General,False
+Fort Gregg,Confederate,1,d428cfef-5c7a-4230-b394-b195481d9a9f,Lee,Robert,,E.,General,False
+Fort Gregg,US,1,f4036249-0d0f-4c0f-aa2e-557890e1e475,Grant,Ulysses,Simon,S.,Lieutenant General,False
+Sayler's Creek,Confederate,1,aa9a80fb-49e3-41d4-8ce5-3f5cbd961625,Ewell,Richard,Stoddert,S.,Lieutenant General,False
+Sayler's Creek,Confederate,2,bc4a67e5-b1be-43e1-9a83-240f4fe5346b,Gordon,John,Brown,B.,Major General,False
+Sayler's Creek,US,1,407e5664-e1ff-49aa-984d-79f7508a5e7f,Sheridan,Philip,Henry,H.,Major General,False
+Kinston,Confederate,1,6bce5d35-7ced-46f5-8786-31eb932c1354,Evans,Nathan,George,G.,Brigadier General,False
+Kinston,US,1,f7a09726-833c-415e-acbc-7eab70718f97,Foster,John,Gray,G.,Brigadier General,False
+Averasboro,Confederate,1,b01714aa-b252-4944-816d-be76a9070175,Hardee,William,Joseph,J.,Lieutenant General,False
+Averasboro,US,1,f0e3ce2c-892e-4ae0-9995-3d864cb98ac1,Slocum,Henry,Warner,W.,Major General,False
+Bentonville,Confederate,1,b0f7a304-f6c5-4a8d-b816-066426e5dc1c,Johnston,Joseph,,E.,General,False
+Bentonville,US,1,033ec012-d845-474f-bf9c-28366e02d1a4,Sherman,William,Tecumseh,T.,Major General,False
+Bentonville,US,2,f0e3ce2c-892e-4ae0-9995-3d864cb98ac1,Slocum,Henry,Warner,W.,Major General,False

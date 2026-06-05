@@ -1,0 +1,548 @@
+battle,state,location
+AL001,AL,Cullman County
+AL001,AL,Morgan County
+AL002,AL,Limestone County
+AL002,AL,Morgan County
+AL002,TN,Giles County
+AL003,AL,Mobile County
+AL003,AL,Baldwin County
+AL004,AL,Lawrence County
+AL004,AL,Limestone County
+AL004,AL,Morgan County
+AL005,AL,Baldwin County
+AL006,AL,Baldwin County
+AL007,AL,Dallas County
+AR001,AR,Benton County
+AR002,AR,Arkansas County
+AR003,AR,Woodruff County
+AR004,AR,Washington County
+AR005,AR,Washington County
+AR006,AR,Arkansas County
+AR007,AR,Clay County
+AR008,AR,Phillips County
+AR009,AR,Sebastian County
+AR010,AR,Pulaski County
+AR011,AR,Jefferson County
+AR012,AR,Nevada County
+AR012,AR,Clark County
+AR013,AR,Nevada County
+AR014,AR,Ouachita County
+AR015,AR,Cleveland County
+AR016,AR,Grant County
+AR017,AR,Chicot County
+AR018,AR,Pulaski County
+CO001,CO,Kiowa County
+DC001,DC,District of Columbia
+FL001,FL,Escambia County
+FL002,FL,City of Tampa
+FL003,FL,Duval County
+FL004,FL,City of Tampa
+FL005,FL,Baker County
+FL006,FL,Leon County
+FL006,FL,Wakulla County
+GA001,GA,Chatham County
+GA001,SC,Jasper County
+GA002,GA,Bryan County
+GA002,GA,Chatham County
+GA003,GA,Dade County
+GA003,GA,Catoosa County
+GA003,GA,Walker County
+GA004,GA,Catoosa County
+GA004,GA,Walker County
+GA004,TN,City of Chattanooga
+GA005,GA,Catoosa County
+GA006,GA,Whitfield County
+GA006,GA,Catoosa County
+GA007,GA,Whitfield County
+GA007,GA,Catoosa County
+GA007,GA,Walker County
+GA007,GA,Gordon County
+GA008,GA,Gordon County
+GA008,GA,Whitfield County
+GA009,GA,Gordon County
+GA009,GA,Bartow County
+GA010,GA,Paulding County
+GA011,GA,Paulding County
+GA012,GA,Paulding County
+GA013,GA,Cobb County
+GA013,GA,Fulton County
+GA013,GA,Paulding County
+GA014,GA,Cobb County
+GA015,GA,Cobb County
+GA016,GA,Fulton County
+GA017,GA,Dekalb County
+GA017,GA,Fulton County
+GA018,GA,Fulton County
+GA019,GA,Fulton County
+GA020,GA,Whitfield County
+GA020,GA,Gordon County
+GA021,GA,Clayton County
+GA021,GA,Henry County
+GA022,GA,Clayton County
+GA023,GA,Bartow County
+GA023,GA,Cobb County
+GA025,GA,Jones County
+GA025,GA,Twiggs County
+GA026,GA,Burke County
+GA026,GA,Jenkins County
+GA027,GA,Burke County
+GA028,GA,Bryan County
+GA028,GA,Chatham County
+ID001,ID,Franklin County
+IN001,IN,Harrison County
+IN001,KY,Meade County
+KS001,KS,Douglas County
+KS002,KS,Cherokee County
+KS003,KS,Linn County
+KS004,KS,Linn County
+KY001,KY,Knox County
+KY002,KY,Laurel County
+KY003,KY,Floyd County
+KY004,KY,Hart County
+KY005,KY,Floyd County
+KY006,KY,Pulaski County
+KY006,KY,Wayne County
+KY007,KY,Madison County
+KY008,KY,Hart County
+KY009,KY,Boyle County
+KY010,KY,McCracken County
+KY011,KY,Harrison County
+LA001,LA,Plaquemines Parish
+LA002,LA,St. Bernard Parish
+LA002,LA,Orleans Parish
+LA002,LA,Plaquemines Parish
+LA002,LA,Jefferson Parish
+LA003,LA,East Baton Rouge Parish
+LA003,LA,West Baton Rouge Parish
+LA004,LA,Ascension Parish
+LA005,LA,Assumption Parish
+LA005,LA,Lafourche Parish
+LA006,LA,St. Mary Parish
+LA006,LA,St. Martin Parish
+LA007,LA,St. Mary Parish
+LA008,LA,Lafayette Parish
+LA009,LA,East Baton Rouge Parish
+LA010,LA,East Baton Rouge Parish
+LA010,LA,East Feliciana Parish
+LA011,LA,Madison Parish
+LA011,MS,Warren County
+LA012,LA,Lafourche Parish
+LA012,LA,Assumption Parish
+LA013,LA,Ascension Parish
+LA014,LA,East Carroll Parish
+LA014,MS,Isaquena County
+LA015,LA,Ascension Parish
+LA015,LA,Assumption Parish
+LA016,LA,Point Coupee Parish
+LA016,LA,St. Landy Parish
+LA017,LA,Avoyelles Parish
+LA018,LA,DeSoto Parish
+LA019,LA,DeSoto Parish
+LA019,LA,Sabine Parish
+LA020,LA,Red River Parish
+LA020,LA,Natchitoches Parish
+LA021,LA,Natchitoches Parish
+LA022,LA,Avoyelles Parish
+LA023,LA,Avoyelles Parish
+LA023,LA,Point Coupee Parish
+MD001,MD,Washington County
+MD001,WV,Morgan County
+MD002,MD,Frederick County
+MD002,MD,Washington County
+MD003,MD,Washington County
+MD003,WV,Jefferson County
+MD004,MD,Washington County
+MD004,WV,Berkeley County
+MD004,PA,Franklin County
+MD006,MD,Washington County
+MD007,MD,Frederick County
+MD008,MD,Allegany County
+MN001,MN,Nicolett County
+MN002,MN,Yellow Medicine County
+MO001,MO,Cooper County
+MO001,MO,Howard County
+MO002,MO,Jasper County
+MO003,MO,Clay County
+MO003,MO,Jackson County
+MO004,MO,Greene County
+MO004,MO,Christian County
+MO005,MO,Vernon County
+MO006,MO,Lafayette County
+MO007,MO,Madison County
+MO008,MO,Greene County
+MO009,MO,Mississippi County
+MO009,KY,Hickman County
+MO010,MO,Boone County
+MO011,MO,Randolf County
+MO011,MO,Howard County
+MO012,MO,New Madrid County
+MO012,TN,Lake County
+MO012,KY,Fulton County
+MO013,MO,Adair County
+MO013,MO,Macon County
+MO014,MO,Jackson County
+MO015,MO,Jackson County
+MO015,MO,Johnson County
+MO015,MO,Lafayette County
+MO016,MO,Newton County
+MO017,MO,Douglas County
+MO018,MO,Greene County
+MO019,MO,Wright County
+MO019,MO,Webster County
+MO020,MO,Cape Girardeau County
+MO020,IL,Alexander County
+MO021,MO,Iron County
+MO022,MO,Howard County
+MO022,MO,Saline County
+MO023,MO,Lafayette County
+MO024,MO,Jackson County
+MO025,MO,Jackson County
+MO026,MO,Jackson County
+MO027,MO,Jackson County
+MO028,MO,Vernon County
+MO028,KS,Bourbon County
+MO029,MO,Newton County
+MS001,MS,Tishomingo County
+MS002,MS,Alcorn County
+MS002,TN,McNairy County
+MS003,MS,Warren County
+MS004,MS,Claiborne County
+MS004,LA,Tensas Parish
+MS005,MS,Warren County
+MS006,MS,Claiborne County
+MS007,MS,Hinds County
+MS008,MS,Hinds County
+MS009,MS,Hinds County
+MS010,MS,Hinds County
+MS010,MS,Warren County
+MS011,MS,Warren County
+MS012,MS,Lauderdale County
+MS013,MS,Chickasaw County
+MS013,MS,Pontotoc County
+MS013,MS,Monroe County
+MS013,MS,Clay County
+MS014,MS,Prentiss County
+MS014,MS,Union County
+MS014,MS,Tippah County
+MS014,MS,Lee County
+MS015,MS,Lee County
+MS016,MS,Alcorn County
+MS016,TN,Hardin County
+MS016,TN,McNairy County
+NC001,NC,Dare County
+NC001,NC,Hyde County
+NC002,NC,Dare County
+NC003,NC,Craven County
+NC004,NC,Carteret County
+NC005,NC,Camden County
+NC006,NC,Beaufort County
+NC006,NC,Pitt County
+NC007,NC,Lenoir County
+NC008,NC,Wayne County
+NC008,NC,Duplin County
+NC009,NC,Wayne County
+NC010,NC,Craven County
+NC010,NC,Jones County
+NC011,NC,Beaufort County
+NC011,NC,Craven County
+NC012,NC,Washington County
+NC012,NC,Bertie County
+NC012,NC,Martin County
+NC013,NC,Chowan County
+NC013,NC,Bertie County
+NC013,NC,Washington County
+NC014,NC,New Hanover County
+NC015,NC,New Hanover County
+NC015,NC,Brunswick County
+NC016,NC,New Hanover County
+NC016,NC,Brunswick County
+NC017,NC,Lenoir County
+NC017,NC,Craven County
+NC017,NC,Jones County
+NC018,NC,Cumberland County
+NC018,NC,Hoke County
+NC018,NC,Moore County
+NC019,NC,Harnett County
+NC019,NC,Cumberland County
+NC020,NC,Johnston County
+NC020,NC,Sampson County
+NC020,NC,Wayne County
+ND001,ND,Kidder County
+ND002,ND,Kidder County
+ND003,ND,Burleigh County
+ND004,ND,Dickey County
+ND005,ND,Dunn County
+NM001,NM,Socorro County
+NM002,NM,Santa Fe County
+NM002,NM,San Miguel County
+OH001,OH,Meigs County
+OH002,OH,Columbiana County
+OK001,OK,Not determined
+OK002,OK,Tulsa County
+OK003,OK,Osage County
+OK004,OK,Delaware County
+OK004,AR,Benton County
+OK006,OK,Mayes County
+OK007,OK,Muskogee County
+OK007,OK,McIntosh County
+PA001,PA,York County
+PA002,PA,Adams County
+SC001,SC,City of Charleston
+SC002,SC,City of Charleston
+SC003,SC,City of Charleston
+SC004,SC,City of Charleston
+SC005,SC,City of Charleston
+SC006,SC,City of Charleston
+SC007,SC,City of Charleston
+SC008,SC,City of Charleston
+SC009,SC,Charleston County
+SC010,SC,Jasper County
+SC011,SC,Bamberg County
+TN001,TN,Stewart County
+TN001,TN,Henry Counties
+TN001,KY,Calloway County
+TN002,TN,Stewart County
+TN003,TN,Hardin County
+TN004,TN,Shelby County
+TN004,AR,Crittenden County
+TN005,TN,Hamilton County
+TN005,TN,City of Chattanooga
+TN006,TN,Rutherford County
+TN007,TN,Hardeman County
+TN007,TN,McNairy County
+TN007,MS,Alcorn County
+TN008,TN,Trousdale County
+TN009,TN,Madison County
+TN010,TN,Rutherford County
+TN011,TN,Henderson County
+TN012,TN,Stewart County
+TN013,TN,Williamson County
+TN014,TN,Rutherford County
+TN015,TN,Williamson County
+TN016,TN,Williamson County
+TN017,TN,Bedford County
+TN017,TN,Rutherford County
+TN018,TN,Hamilton County
+TN018,TN,City of Chattanooga
+TN019,TN,Sullivan County
+TN020,TN,Greene County
+TN021,TN,Hamilton County
+TN021,TN,Marion County
+TN021,TN,Dade County
+TN022,TN,Shelby County
+TN023,TN,Knox County
+TN024,TN,Hamilton County
+TN024,TN,City of Chattanooga
+TN025,TN,Knox County
+TN026,TN,Grainger County
+TN027,TN,Jefferson County
+TN028,TN,Jefferson County
+TN029,TN,Sevier County
+TN030,TN,Lauderdale County
+TN031,TN,Shelby County
+TN032,TN,Benton County
+TN033,TN,Hamblen County County
+TN033,TN,Greene County
+TN034,TN,Maury County
+TN035,TN,Maury County
+TN036,TN,Williamson County
+TN036,TN,City of Franklin
+TN037,TN,Rutherford County
+TN038,TN,Davidson County
+TX001,TX,Jefferson County
+TX002,TX,Galveston County
+TX003,TX,Galveston County
+TX005,TX,Cameron County
+TX006,TX,Jefferson County
+VA001,VA,City of Norfolk
+VA002,VA,Stafford County
+VA002,MD,Charles County
+VA003,VA,York County
+VA003,VA,Hampton County
+VA004,VA,Prince William and Fairfax Counties
+VA005,VA,Fairfax County
+VA005,VA,Prince William County
+VA006,VA,Loudoun County
+VA006,MD,Montgomery County
+VA007,VA,Fairfax County
+VA008,VA,City of Hampton
+VA009,VA,York County
+VA009,VA,City of Newport News
+VA010,VA,York County
+VA010,VA,City of Williamsburg
+VA011,VA,New Kent County
+VA012,VA,Chesterfield County
+VA013,VA,Hanover County
+VA014,VA,Henrico County
+VA015,VA,Henrico County
+VA016,VA,Hanover County
+VA017,VA,Hanover County
+VA018,VA,Henrico County
+VA019,VA,Henrico County
+VA020,VA,Henrico County
+VA021,VA,Henrico County
+VA022,VA,Culpeper County
+VA023,VA,Culpeper County
+VA023,VA,Fauquier County
+VA024,VA,Prince William County
+VA025,VA,Fauquier County
+VA025,VA,Prince William County
+VA026,VA,Prince William County
+VA027,VA,Fairfax County
+VA028,VA,Spotsylvania County
+VA028,VA,City of Fredericksburg
+VA029,VA,Culpeper County
+VA029,VA,Fauquier Counties
+VA030,VA,City of Suffolk
+VA030,VA,Isle of Wight County
+VA031,VA,City of Suffolk
+VA032,VA,Spotsylvania County
+VA032,VA,Stafford County
+VA033,VA,Spotsylvania County
+VA033,VA,Stafford County
+VA034,VA,City of Fredericksburg
+VA035,VA,Culpeper County
+VA035,VA,Fauquier County
+VA036,VA,Loudoun County
+VA037,VA,Loudoun County
+VA038,VA,Loudoun County
+VA039,VA,Fauquier County
+VA040,VA,Prince William County
+VA041,VA,Fauquier County
+VA042,VA,Fauquier County
+VA042,VA,Prince William Counties
+VA043,VA,Fauquier County
+VA043,VA,Culpeper County
+VA044,VA,Orange County
+VA045,VA,Orange County
+VA045,VA,Culpeper County
+VA046,VA,Spotsylvania County
+VA046,VA,Orange County
+VA046,VA,Culpeper County
+VA047,VA,Chesterfield County
+VA048,VA,Spotsylvania County
+VA049,VA,Pulaski County
+VA050,VA,Chesterfield County
+VA051,VA,Chesterfield County
+VA052,VA,Henrico County
+VA053,VA,Chesterfield County
+VA054,VA,Chesterfield County
+VA055,VA,Caroline County
+VA055,VA,Hanover County
+VA056,VA,Charles City County
+VA056,VA,Prince George County
+VA057,VA,Hanover County
+VA058,VA,Hanover County
+VA059,VA,Hanover County
+VA062,VA,Hanover County
+VA063,VA,City of Petersburg
+VA064,VA,City of Lynchburg
+VA065,VA,Dinwiddie County
+VA065,VA,City of Petersburg
+VA066,VA,Charles City County
+VA067,VA,Sussex County
+VA068,VA,Dinwiddie County
+VA069,VA,Henrico County
+VA070,VA,City of Petersburg
+VA071,VA,Henrico County
+VA072,VA,Dinwiddie County
+VA073,VA,Dinwiddie County
+VA074,VA,Dinwiddie County
+VA075,VA,Henrico County
+VA076,VA,Smyth County
+VA076,VA,Washington County
+VA077,VA,Henrico County
+VA078,VA,Henrico County
+VA079,VA,Dinwiddie County
+VA080,VA,Henrico County
+VA081,VA,Smyth County
+VA082,VA,Smyth County
+VA082,VA,Washington County
+VA083,VA,Dinwiddie County
+VA084,VA,City of Petersburg
+VA085,VA,Dinwiddie County
+VA086,VA,Dinwiddie County
+VA087,VA,Dinwiddie County
+VA088,VA,Dinwiddie County
+VA089,VA,City of Petersburg
+VA090,VA,Dinwiddie County
+VA091,VA,Amelia County
+VA092,VA,Prince Edward County
+VA093,VA,Amelia County
+VA093,VA,Prince Edward County
+VA093,VA,Nottoway County
+VA094,VA,Cumberland County
+VA095,VA,Prince Edward County
+VA095,VA,Cumberland County
+VA096,VA,Appomattox County
+VA097,VA,Appomattox County
+VA098,VA,City of Petersburg
+VA099,VA,Louisa County
+VA100,VA,Prince William County
+VA100,MD,Charles County
+VA101,VA,Frederick County
+VA101,VA,City of Winchester
+VA102,VA,Highland County
+VA102,VA,Augusta County
+VA103,VA,Warren County
+VA104,VA,Frederick County
+VA104,VA,City of Winchester
+VA105,VA,Rockingham County
+VA106,VA,Rockingham County
+VA107,VA,Frederick County
+VA107,VA,City of Winchester
+VA108,VA,Warren County
+VA109,VA,Wythe County
+VA110,VA,Shenandoah County
+VA110,VA,Rockingham County
+VA111,VA,Augusta County
+VA113,VA,Halifax County
+VA113,VA,Charlotte County
+VA114,VA,Clarke County
+VA115,VA,Frederick County County
+VA115,VA,City of Winchester
+VA116,VA,Frederick County
+VA116,VA,City of Winchester
+VA117,VA,Warren County
+VA118,VA,Clarke County
+VA119,VA,Frederick County
+VA119,VA,Clarke County
+VA120,VA,Shenandoah County
+VA121,VA,Shenandoah County
+VA122,VA,Frederick County
+VA122,VA,Shenandoah County
+VA122,VA,Warren County
+VA123,VA,Augusta County
+VA124,VA,Amelia County
+VA125,VA,King County
+VA125,VA,Queen County
+WV001,WV,Barbour County
+WV001,WV,Taylor County
+WV002,WV,Berkeley County
+WV003,WV,Randolph County
+WV004,WV,Nicholas County
+WV004,WV,Fayette County
+WV005,WV,Randolph County
+WV005,WV,Pocahontas County
+WV006,WV,Nicholas County
+WV006,WV,Fayette County
+WV007,WV,Pocahontas County
+WV007,WV,Randolph County
+WV008,WV,Pocahontas County
+WV008,WV,Randolph County
+WV009,WV,Mercer County
+WV010,WV,Jefferson County
+WV010,MD,Washington County
+WV010,VA,Loudoun County
+WV012,WV,Pocahontas County
+WV012,WV,Greenbrier County
+WV013,WV,Hardy County
+WV013,WV,Hampshire County
+WV013,WV,Mineral County
+WV014,WV,Jefferson County
+WV014,VA,Clarke County
+WV014,VA,Frederick County
+WV015,WV,Jefferson County
+WV015,WV,Berkeley County
+WV016,WV,Jefferson County
+WV016,MD,Washington County

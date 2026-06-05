@@ -1,0 +1,6 @@
+id,period,start_date,description,favor,war_aims_change,comment
+1,Summer 1862,1862-6-25,Confederacy counter-offensives in Virginia and the West stop a forthcoming Union victory,Confederacy,None,Start date is the start of the Seven Days Battles.
+2,Autumn 1862,1862-9-17,Union victories and Antietam and Perryville stop Confederate inviation of the North and ends possible European intervention,Union,Union increase,Start date is the date of the Battle of Antietam
+3,Summer/Autumn 1863,1863-07-01,"Union victories at Gettysburg, Vicksburg and Chattanooga",Union,None,Start date is start of the Battle of Gettysburg
+4,Summer 1864,1864-5-5,Confederate victories increased war fatigue in the Union.,Confederacy,None,"Start date is the start the Battle of the Wilderness, and start of the overland campaign."
+5,Fall 1864-Spring 1865,1864-9-1,Union capture of Atlanta and destruction of Jubal Early's army in Virginia,Union,Union decrease,Start date is the date of the capture of Atlanta.

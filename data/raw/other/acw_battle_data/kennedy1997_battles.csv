@@ -1,0 +1,383 @@
+battle_id,battle_name,state,county,start_date,end_date,casualties_min,casualties_max,casualties_text,cwsac_id
+AL001,Day's Gap,AL,Cullman County,1863-04-30,1863-04-30,,,"23 US, 65 CS",AL001
+AL002,Athens,AL,Limestone County,1864-01-26,1864-01-26,,,"20 US, 30 CS",AL002
+AL003,Mobile Bay,AL,Mobile and Baldwin Counties,1864-08-02,1864-08-23,,,"327 US, 1,500 CS",AL003
+AL004,Decatur,AL,Morgan and Limestone Counties,1864-10-26,1864-10-29,,,"155 US, 200 CS",AL004
+AL005,Spanish Fort,AL,Baldwin County,1865-03-27,1865-04-08,,,"657 US, 741 CS",AL005
+AL006,Fort Blakely,AL,Baldwin County,1865-04-02,1865-04-09,,,"775 US, 3,700 (including 3,200 prisoners) CS",AL006
+AL007,Selma,AL,Dallas County,1865-04-02,1865-04-02,,,"359 US, 2,700 CS",AL007
+AR001,Pea Ridge,AR,Benton County,1862-03-06,1862-03-08,,,"1,384 US, 2,000 CS",AR001
+AR002,St. Charles,AR,Arkansas County,1862-06-17,1862-06-17,,,"160 US, 40 CS",AR002
+AR003,Hill's Plantation,AR,Woodruff County,1862-07-07,1862-07-07,,,"63 US, 250 CS",AR003
+AR004,Cane Hill,AR,Washington County,1862-11-28,1862-11-28,,,"41 US, 45 CS",AR004
+AR005,Prairie Grove,AR,Washington County,1862-12-07,1862-12-07,,,"1,251 US, 1,317 CS",AR005
+AR006,Arkansas Post,AR,Arkansas County,1863-01-09,1863-01-11,,,"1,092 US, 5,004 CS",AR006
+AR007,Chalk Bluff,AR,Clay County,1863-05-01,1863-05-02,0,100,fewer than 100,AR007
+AR008,Helena,AR,Phillips County,1863-07-04,1863-07-04,,,"239 US, 1,636 CS",AR008
+AR009,Devil's Backbone,AR,Sebastian County,1863-09-01,1863-09-01,,,"14 US, 17 CS",AR009
+AR010,Bayou Fourche (Little Rock),AR,Pulaski County,1863-09-10,1863-09-10,,,"72 US, 64 CS",AR010
+AR011,Pine Bluff,AR,Jefferson County,1863-10-25,1863-10-25,,,"56, including 17 freedmen, US, 40 CS",AR011
+AR012,Elkin's Ferry,AR,Clark and Nevada Counties,1864-04-03,1864-04-04,,,"26 US, 29 CS",AR012
+AR013,Prairie D'Ane,AR,Nevada County,1864-04-10,1864-04-13,,,"100 US, 50 CS",AR013
+AR014,Poison Spring,AR,Ouachita County,1864-04-18,1864-04-18,,,"301 US, 114 CS",AR014
+AR015,Marks' Mills,AR,Cleveland County,1864-04-25,1864-04-25,,,"1,500 US, 293 CS",AR015
+AR016,Jenkins' Ferry,AR,Grant County,1864-04-30,1864-04-30,,,"700 US, 1,000 CS",AR016
+AR017,Ditch Bayou (Old River Lake),AR,Chicot County,1864-06-06,1864-06-06,,,"133 US, 37 CS",AR017
+CO001,Sand Creek,CO,Kiowa and/or Cheyenne Counties,1864-11-29,1864-11-29,,,"48 US, 150 Southern Cheyenne and Southern Arapaho",CO001
+DC001,Fort Stevens,DC,District of Columbia,1864-07-11,1864-07-12,,,"373 US, 500 CS",DC001
+FL001,Santa Rosa Island,FL,Escambia County,1861-10-09,1861-10-09,,,"67 US, 87 CS",FL001
+FL002,Tampa,FL,Tampa,1862-06-30,1862-07-01,0,0,none,FL002
+FL003,St. Johns Bluff,FL,Duval County,1862-10-01,1862-10-03,,,unknown,FL003
+FL004,Fort Brooke,FL,Tampa,1863-10-16,1863-10-18,,,"16 US, unknown CS",FL004
+FL005,Olustee,FL,Baker County,1864-02-20,1864-02-20,,,"1,861 US, 946 CS",FL005
+FL006,Natural Bridge,FL,Leon County,1865-03-06,1865-03-06,,,"148 US, 25 CS",FL006
+GA001,Fort Pulaski,GA,Chatham County,1862-04-10,1862-04-11,,,"1 US, 1 CS",GA001
+GA002,Fort McAllister I,GA,Bryan County,1863-01-27,1863-03-03,,,"0 US, 1 CS",GA002
+GA003,Davis' Cross Roads,GA,Dade and Walker Counties,1863-09-10,1863-09-11,,,unknown,GA003
+GA004,Chickamauga,GA,Catoosa and Walker Counties,1863-09-18,1863-09-20,,,"16,170 US, 18,454 CS",GA004
+GA005,Ringgold Gap,GA,Catoosa County,1863-11-27,1863-11-27,,,"507 US, 221 CS",GA005
+GA006,Dalton I,GA,Whitfield County and Dalton,1864-02-22,1864-02-27,,,"289 US, 140 CS",GA006
+GA007,Rocky Face Ridge,GA,Whitfield County and Dalton,1864-05-07,1864-05-13,,,"837 US, 600 CS",GA007
+GA008,Resaca,GA,Whitfield and Gordon Counties,1864-05-13,1864-05-15,,,"2,747 US, 2,800 CS",GA008
+GA009,Adairsville,GA,Bartow and Gordon Counties,1864-05-17,1864-05-17,,,"200 US, unknown CS",GA009
+GA010,New Hope Church,GA,Paulding County,1864-05-25,1864-05-26,,,"665 US, 350 CS",GA010
+GA011,Dallas,GA,Paulding County,1864-05-28,1864-05-28,,,"380 US, 1,000-1,500 CS",GA011
+GA012,Pickett's Mill,GA,Paulding County,1864-05-27,1864-05-27,,,"1,600 US, 450 CS",GA012
+GA013,Lost Mountain-Brushy Mountain Line,GA,Paulding and Cobb Counties,1864-06-09,1864-06-18,,,unknown,GA013
+GA014,Kolb's Farm,GA,Cobb County,1864-06-22,1864-06-22,,,"350 US, 1,000 CS",GA014
+GA015,Kennesaw Mountain,GA,Cobb County,1864-06-27,1864-06-27,,,"3,000 US, 1,000 CS",GA015
+GA016,Peachtree Creek,GA,Fulton County,1864-07-20,1864-07-20,,,"1,710 US, 4,796 CS",GA016
+GA017,Atlanta,GA,Fulton and DeKalb Counties,1864-07-22,1864-07-22,,,"3,641 US, 8,499 CS",GA017
+GA018,Ezra Church,GA,Fulton County,1864-07-28,1864-07-28,,,"700 US, 4,642 CS",GA018
+GA019,Utoy Creek,GA,Fulton County,1864-08-05,1864-08-07,,,"400 US, 225 CS",GA019
+GA020,Dalton II,GA,Whitfield County and Dalton,1864-08-14,1864-08-15,,,unknown,GA020
+GA021,Lovejoy's Station,GA,Clayton County,1864-08-20,1864-08-20,,,"237 US, 240 CS",GA021
+GA022,Jonesboro,GA,Clayton County,1864-08-31,1864-09-01,,,"1,149 US, 2,000 CS",GA022
+GA023,Allatoona,GA,Bartow County,1864-10-05,1864-10-05,,,"706 US, 897 CS",GA023
+GA024,Dalton III,GA,Whitfield County and Dalton,1864-10-13,1864-10-13,,,"751 prisoners US, 0 CS",GA024
+GA025,Griswoldville,GA,Twiggs and Jones Counties,1864-11-22,1864-11-22,,,"62 US, 650 CS",GA025
+GA026,Buck Head Creek,GA,Jenkins County,1864-11-28,1864-11-28,,,"46 US, 600 CS",GA026
+GA027,Waynesborough,GA,Burke County,1864-12-04,1864-12-04,,,"190 US, 250 CS",GA027
+GA028,Fort McAllister II,GA,Bryan County,1864-12-13,1864-12-13,,,"134 US, 230 CS",GA028
+ID001,Bear River,ID,Franklin County,1863-01-29,1863-01-29,,,"65 US, 250 Shoshoni",ID001
+IN001,Corydon,IN,Harrison County,1863-07-09,1863-07-09,,,"360 US, 51 CS",IN001
+KS001,Lawrence,KS,Douglas County,1863-08-21,1863-08-21,,,"150 US, unknown CS",KS001
+KS002,Baxter Springs,KS,Cherokee County,1863-10-06,1863-10-06,,,"103 US, 3 CS",KS002
+KS003,Mine Creek,KS,Linn County,1864-10-25,1864-10-25,,,"110 US, 1,200 CS",KS003
+KS004,Marais des Cygnes,KS,Linn County,1864-10-25,1864-10-25,,,unknown,KS004
+KY001,Barbourville,KY,Knox County,1861-09-19,1861-09-19,,,"15 US, 5 CS",KY001
+KY002,Camp Wildcat,KY,Laurel County,1861-10-21,1861-10-21,,,"43 US, 53 CS",KY002
+KY003,Ivy Mountain,KY,Floyd County,1861-11-08,1861-11-09,,,"30 US, 263 CS",KY003
+KY004,Rowlett's Station,KY,Hart County,1861-12-17,1861-12-17,,,"40 US, 91 CS",KY004
+KY005,Middle Creek,KY,Floyd County,1862-01-10,1862-01-10,,,"27 US, 65 CS",KY005
+KY006,Mill Springs,KY,Pulaski and Wayne Counties,1862-01-19,1862-01-19,,,"262 US, 529 CS",KY006
+KY007,Richmond,KY,Madison County,1862-08-29,1862-08-30,,,"5,623 US, 600 CS",KY007
+KY008,Munfordville (Battle for the Bridge),KY,Hart County,1862-09-14,1862-09-17,,,"4,148 US, 285 CS",KY008
+KY009,Perryville,KY,Boyle County,1862-10-08,1862-10-08,,,"4,211 US, 3,396 CS",KY009
+KY010,Paducah,KY,McCracken County,1864-03-25,1864-03-25,,,"90 US, 50 CS",KY010
+KY011,Cynthiana,KY,Harrison County,1864-06-11,1864-06-12,,,"1,092 US, 1,000 CS",KY011
+LA001,Fort Jackson and Fort St. Philip,LA,Plaquemines Parish,1862-04-16,1862-04-28,,,"229 US, 782 CS",LA001
+LA002,New Orleans,LA,St. Bernard and Orleans Parishes,1862-04-25,1862-05-01,0,0,none,LA002
+LA003,Baton Rouge,LA,East Baton Rouge Parish,1862-08-05,1862-08-05,,,"371 US, 478 CS",LA003
+LA004,Donaldsonville I,LA,Ascension Parish,1862-08-09,1862-08-09,,,unknown,LA004
+LA005,Georgia Landing,LA,Lafourche Parish,1862-10-27,1862-10-27,,,"86 US, 229 CS",LA005
+LA006,Fort Bisland,LA,St. Mary Parish,1863-04-12,1863-04-13,,,"224 US, 450 CS",LA006
+LA007,Irish Bend,LA,St. Mary Parish,1863-04-14,1863-04-14,,,"353 US, unknown CS",LA007
+LA008,Vermillion Bayou,LA,Lafayette Parish,1863-04-17,1863-04-17,,,unknown,LA008
+LA009,Plains Store,LA,East Baton Rouge Parish,1863-05-21,1863-05-21,,,"150 US, 100 CS",LA009
+LA010,Siege of Port Hudson,LA,East Baton Rouge and East Feliciana Parishes,1863-05-22,1863-07-09,,,"10,000 US, 7,500 CS",LA010
+LA011,Milliken's Bend,LA,Madison Parish,1863-06-07,1863-06-07,,,"652 US, 185 CS",LA011
+LA012,Lafourche Crossing,LA,Lafourche Parish,1863-06-20,1863-06-21,,,"49 US, 219 CS",LA012
+LA013,Donaldsonville II,LA,Ascension Parish,1863-06-28,1863-06-28,,,"23 US, 301 CS",LA013
+LA014,Goodrich's Landing,LA,East Carroll Parish,1863-06-29,1863-06-30,,,"150 US, 6 CS",LA014
+LA015,Kock's Plantation,LA,Ascension Parish,1863-07-12,1863-07-13,,,"465 US, 33 CS",LA015
+LA016,Stirling's Plantation,LA,Pointe Coupee Parish,1863-09-29,1863-09-29,,,"515 US, 121 CS",LA016
+LA017,Fort DeRussy,LA,Avoyelles Parish,1864-03-14,1864-03-14,,,"48 US, 269 CS",LA017
+LA018,Mansfield,LA,DeSoto Parish,1864-04-08,1864-04-08,,,"2,235 US, 1,000 CS",LA018
+LA019,Pleasant Hill,LA,DeSoto and Sabine Parishes,1864-04-09,1864-04-09,,,"1,369 US, 1,626 CS",LA019
+LA020,Blair's Landing,LA,Red River Parish,1864-04-12,1864-04-12,,,"60 US, 57 CS",LA020
+LA021,Monett's Ferry,LA,Natchitoches Parish,1864-04-23,1864-04-23,,,"200 US, 400 CS",LA021
+LA022,Mansura,LA,Avoyelles Parish,1864-05-16,1864-05-16,,,"unknown US, unknown CS",LA022
+LA023,Yellow Bayou,LA,Avoyelles Parish,1864-05-18,1864-05-18,,,"360 US, 500 CS",LA023
+MD001,Hancock,MD,"Washington County, Maryland, and Morgan County, West Virginia",1862-01-05,1862-01-06,25,25,25 total,MD001
+MD002,South Mountain,MD,Washington and Frederick Counties,1862-09-14,1862-09-14,,,"2,325 US, 2,300 CS",MD002
+MD003,Antietam,MD,Washington County,1862-09-17,1862-09-17,,,"12,400 US, 10,300 CS",MD003
+MD004,Williamsport,MD,Washington County,1863-07-06,1863-07-06,,,"400 US, 254 CS",MD004
+MD006,Boonsboro-Funkstown-Falling Waters,MD,Washington County,1863-07-08,1863-07-14,,,"158 US, 920 CS",MD006
+MD007,Monocacy,MD,Frederick County,1864-07-09,1864-07-09,,,"1,294 US, 700-900 CS",MD007
+MD008,Folck's Mill,MD,Allegany County,1864-08-01,1864-08-01,,,"30 US, 30 CS",MD008
+MN001,Fort Ridgely,MN,Nicollet County,1862-08-20,1862-08-22,,,"26 US, unknown Dakotas",MN001
+MN002,Wood Lake,MN,Yellow Medicine County,1862-09-23,1862-09-23,,,"41 US, 25 Dakotas",MN002
+MO001,Boonville,MO,Cooper County,1861-06-17,1861-06-17,,,"12 US, 8-12 MSG",MO001
+MO002,Carthage,MO,Jasper County,1861-07-05,1861-07-05,,,"44 US, 74 MSG",MO002
+MO003,Liberty (Blue Mills Landing),MO,Clay County,1861-09-17,1861-09-17,,,"56 US, 70 MSG",MO003
+MO004,Wilson's Creek,MO,Greene and Christian Counties,1861-08-10,1861-08-10,,,"1,317 US, 464 CS, 758 MSG",MO004
+MO005,Dry Wood Creek,MO,Vernon County,1861-09-02,1861-09-02,,,"14 US, unknown MSG",MO005
+MO006,Lexington I,MO,Lafayette County,1861-09-13,1861-09-20,,,"3,500 US, 100 MSG",MO006
+MO007,Fredericktown,MO,Madison County,1861-10-21,1861-10-21,,,"unknown US, 62 MSG",MO007
+MO008,Springfield I,MO,Greene County,1861-10-25,1861-10-25,,,"85 US, 133 MSG",MO008
+MO009,Belmont,MO,Mississippi County,1861-11-07,1861-11-07,,,"607 US, 641 CS",MO009
+MO010,Mount Zion Church,MO,Boone County,1861-12-28,1861-12-28,,,"72 US, 210 MSG",MO010
+MO011,Roan's Tan Yard,MO,Randolph County,1862-01-08,1862-01-08,,,"11 US, 80 MSG",MO011
+MO012,New Madrid/Island No. 10,MO,"New Madrid, Missouri, and Lake County, Tennessee",1862-02-28,1862-04-08,,,"51 US, 7,000 surrendered CS",MO012
+MO013,Kirksville,MO,Adair County,1862-08-06,1862-08-09,,,"88 US, 368 CS",MO013
+MO014,Independence I,MO,Jackson County,1862-08-11,1862-08-11,,,"344 US, unknown MSG",MO014
+MO015,Lone Jack,MO,Jackson County,1862-08-15,1862-08-16,,,"272 US, unknown CS",MO015
+MO016,Newtonia I,MO,Newton County,1862-09-30,1862-09-30,,,"245 US, 78 CS",MO016
+MO017,Clark's Mill,MO,Douglas County,1862-11-07,1862-11-07,,,"119, including 113 prisoners, US, 34 CS",MO017
+MO018,Springfield II,MO,Greene County,1863-01-08,1863-01-08,,,"163 US, 240 CS",MO018
+MO019,Hartville,MO,Wright County,1863-01-09,1863-01-11,,,"78 US, 329 CS",MO019
+MO020,Cape Girardeau,MO,Cape Girardeau,1863-04-26,1863-04-26,,,"12 US, 325 CS",MO020
+MO021,Pilot Knob,MO,Iron County,1864-09-26,1864-09-28,,,"213 US, 800-1,000 CS",MO021
+MO022,Glasgow,MO,Howard County,1864-10-15,1864-10-15,,,"400 US, 50 CS",MO022
+MO023,Lexington II,MO,Lafayette County,1864-10-19,1864-10-19,,,unknown,MO023
+MO024,Little Blue River,MO,Jackson County,1864-10-21,1864-10-21,,,unknown,MO024
+MO025,Independence II,MO,Jackson County,1864-10-22,1864-10-22,,,"unknown US, 140 CS",MO025
+MO026,Big Blue River (Byram's Ford),MO,Jackson County,1864-10-22,1864-10-23,,,unknown,MO026
+MO027,Westport,MO,Jackson County,1864-10-23,1864-10-23,,,"1,500 US, 1,500 CS",MO027
+MO028,Marmaton River,MO,Vernon County,1864-10-25,1864-10-25,,,unknown,MO028
+MO029,Newtonia II,MO,Newton County,1864-10-28,1864-10-28,,,"26 US, 24 CS",MO029
+MS001,Iuka,MS,Tishomingo County,1862-09-19,1862-09-19,,,"790 US, 594 CS",MS001
+MS002,Corinth,MS,Alcorn County and Corinth,1862-10-03,1862-10-04,,,"2,350 US, 4,800 CS",MS002
+MS003,Chickasaw Bayou,MS,Warren County,1862-12-26,1862-12-29,,,"1,176 US, 187 CS",MS003
+MS004,Grand Gulf,MS,Claiborne County,1863-04-29,1863-04-29,,,"80 US, unknown CS",MS004
+MS005,Snyder's Bluff,MS,Warren County,1863-04-29,1863-05-01,,,unknown,MS005
+MS006,Port Gibson,MS,Claiborne County,1863-05-01,1863-05-01,,,"875 US, 787 CS",MS006
+MS007,Raymond,MS,Hinds County,1863-05-12,1863-05-12,,,"442 US, 514 CS",MS007
+MS008,Jackson,MS,Hinds County and Jackson,1863-05-14,1863-05-14,,,"286 US, 850 CS",MS008
+MS009,Champion Hill,MS,Hinds County,1863-05-16,1863-05-16,,,"2,441 US, 3,840 CS",MS009
+MS010,Big Black River Bridge,MS,Hinds and Warren Counties,1863-05-17,1863-05-17,,,"276 US, 1,751 CS",MS010
+MS011,Battle and Siege of Vicksburg,MS,Warren County and Vicksburg,1863-05-18,1863-07-04,,,"4,835 US, 32,697 (29,495 surrendered) CS",MS011
+MS012,Meridian,MS,Lauderdale County,1864-02-14,1864-02-20,,,"170 US, unknown CS",MS012
+MS013,Okolona,MS,Chickasaw County,1864-02-22,1864-02-22,,,"388 US, 144 CS",MS013
+MS014,Brices Cross Roads,MS,"Union, Prentiss, and Lee Counties",1864-06-10,1864-06-10,,,"2,612 US, 493 CS",MS014
+MS015,Tupelo,MS,Lee County and Tupelo,1864-07-14,1864-07-15,,,"674 US, 1,326 CS",MS015
+MS016,Siege of Corinth,MS,Alcorn County and Corinth,1862-04-29,1862-05-30,,,"1,000 US, 1,000 CS",MS016
+NC001,Hatteras Inlet Forts,NC,Dare County,1861-08-28,1861-08-29,,,"3 US, 670 CS",NC001
+NC002,Roanoke Island,NC,Dare County,1862-02-07,1862-02-08,,,"264 US, 2,643 CS",NC002
+NC003,New Bern,NC,Craven County,1862-03-14,1862-03-14,,,"476 US, 609 CS",NC003
+NC004,Fort Macon,NC,Carteret County,1862-03-23,1862-04-26,,,"3 US, 439 CS",NC004
+NC005,South Mills,NC,Camden County,1862-04-19,1862-04-19,,,"114 US, 25 CS",NC005
+NC006,Tranter's Creek,NC,Pitt County,1862-06-05,1862-06-05,40,40,40 total,NC006
+NC007,Kinston,NC,Lenoir County,1862-12-14,1862-12-14,,,"160 US, 525 CS",NC007
+NC008,White Hall,NC,Wayne County,1862-12-16,1862-12-16,150,150,150 total,NC008
+NC009,Goldsboro Bridge,NC,Wayne County,1862-12-17,1862-12-17,220,220,220 total,NC009
+NC010,Fort Anderson,NC,Craven County,1863-03-13,1863-03-15,7,7,7 total,NC010
+NC011,Washington,NC,Beaufort County,1863-03-30,1863-04-20,100,100,100 total,NC011
+NC012,Plymouth,NC,Washington County,1864-04-17,1864-04-20,,,"2,900 (including 2,834 prisoners) US, 300 CS",NC012
+NC013,Albemarle Sound,NC,Chowan and Washington Counties,1864-05-05,1864-05-05,88,88,88 total,NC013
+NC014,Fort Fisher I,NC,New Hanover County,1864-12-07,1864-12-27,320,320,320 total,NC014
+NC015,Fort Fisher II,NC,New Hanover County,1865-01-13,1865-01-15,,,"1,059 US, 400-500 (plus 2,083 prisoners) CS",NC015
+NC016,Wilmington,NC,New Hanover County,1865-02-12,1865-02-22,1150,1150,"1,150 total",NC016
+NC017,Wyse Fork,NC,Lenoir County,1865-03-07,1865-03-10,,,"1,300 US, 1,500 CS",NC017
+NC018,Monroe's Cross Roads,NC,Hoke County,1865-03-10,1865-03-10,,,"183 US, 86 CS",NC018
+NC019,Averasboro,NC,Harnett and Cumberland Counties,1865-03-16,1865-03-16,,,"682 US, 865 CS",NC019
+NC020,Bentonville,NC,Johnston County,1865-03-19,1865-03-21,,,"1,527 US, 2,606 CS",NC020
+ND001,Big Mound,ND,Kidder County,1863-07-24,1863-07-24,,,"7 US, 80 Dakotas",ND001
+ND002,Dead Buffalo Lake,ND,Kidder County,1863-07-26,1863-07-26,,,"1 US, 9 Dakotas and Lakotas",ND002
+ND003,Stony Lake,ND,Burleigh County,1863-07-28,1863-07-28,,,"0 US, unknown Dakotas and Lakotas",ND003
+ND004,Whitestone Hill,ND,Dickey County,1863-09-03,1863-09-04,,,"70 US, 550 Dakotas",ND004
+ND005,Killdeer Mountain,ND,Dunn County,1864-07-28,1864-07-29,,,"15 US, 31 Dakotas and Lakotas",ND005
+NM001,Valverde,NM,Socorro County,1862-02-20,1862-02-21,,,"263 US, 187 CS",NM001
+NM002,Glorieta Pass,NM,Santa Fe and San Miguel Counties,1862-03-26,1862-03-28,,,"132 US, 227 CS",NM002
+OH001,Buffington Island,OH,Meigs County,1863-07-19,1863-07-19,,,"25 US, 900 CS",OH001
+OH002,Salineville,OH,Columbiana County,1863-07-26,1863-07-26,,,"0 US, 364 CS",OH002
+OK001,Round Mountain,OK,county unknown,1861-11-19,1861-11-19,,,"unknown Unionist Indians, 10 CS",OK001
+OK002,Chusto-Talasah,OK,Tulsa County,1861-12-09,1861-12-09,,,"412 Unionist Indians, 52 CS",OK002
+OK003,Chustenahlah,OK,Osage County,1861-12-26,1861-12-26,,,"211 Unionist Indians, 40 CS",OK003
+OK005,Middle Boggy,OK,Atoka County,1864-02-13,1864-02-13,,,"0 US, 47 CS",OK005
+OK006,Cabin Creek,OK,Mayes County,1863-07-01,1863-07-02,,,"21 US, 59 CS",OK006
+OK007,Honey Springs,OK,Muskogee and McIntosh Counties,1863-07-17,1863-07-17,,,"77 US, 134 CS",OK007
+PA001,Hanover,PA,York County,1863-06-30,1863-06-30,,,"154 US, 74 CS",PA001
+PA002,Gettysburg,PA,Adams County,1863-07-01,1863-07-03,,,"23,000 US, 28,000 CS",PA002
+SC001,Fort Sumter I,SC,Charleston County,1861-04-12,1861-04-14,,,"11 US, 4 CS",SC001
+SC002,Secessionville,SC,Charleston County,1862-06-16,1862-06-16,,,"683 US, 204 CS",SC002
+SC003,Simmons' Bluff,SC,Charleston County,1862-06-21,1862-06-21,,,none,SC003
+SC004,Charleston Harbor I,SC,Charleston County,1863-04-07,1863-04-07,,,"22 US, 14 CS",SC004
+SC005,"Fort Wagner I, Morris Island",SC,Charleston County,1863-07-10,1863-07-11,,,"339 US, 12 CS",SC005
+SC006,Grimball's Landing,SC,"Charleston County, James Island",1863-07-16,1863-07-16,,,"46 US, 18 CS",SC006
+SC007,"Fort Wagner II, Morris Island",SC,Charleston County,1863-07-18,1863-07-18,,,"1,515 US, 222 CS",SC007
+SC008,Fort Sumter II,SC,Charleston County,1863-08-17,1863-09-09,,,unknown,SC008
+SC009,Charleston Harbor II,SC,Charleston County,1863-09-05,1863-09-07,,,"117 US, 100 CS",SC009
+SC010,Honey Hill,SC,Jasper County,1864-11-30,1864-11-30,,,"746 US, 50 CS",SC010
+SC011,Rivers Bridge,SC,Bamberg County,1865-02-02,1865-02-03,,,"92 US, 170 CS",SC011
+TN001,Fort Henry,TN,Stewart County,1862-02-06,1862-02-06,,,"47 US, 99 CS",TN001
+TN002,Fort Donelson,TN,Stewart County,1862-02-12,1862-02-16,,,"2,832 US, 17,000 CS",TN002
+TN003,Shiloh,TN,Hardin County,1862-04-06,1862-04-07,,,"13,047 US, 10,699 CS",TN003
+TN004,Memphis I,TN,Memphis,1862-06-06,1862-06-06,,,"1 US, 180 CS",TN004
+TN005,Chattanooga I,TN,Hamilton County and Chattanooga,1862-06-07,1862-06-08,,,"unknown US, 3 CS",TN005
+TN006,Murfreesboro I,TN,Rutherford County,1862-07-13,1862-07-13,,,"1,200 US, 150 CS",TN006
+TN007,Davis Bridge (Hatchie Bridge),TN,Hardeman and McNairy Counties,1862-10-06,1862-10-06,,,"500 US, 400 CS",TN007
+TN008,Hartsville,TN,Trousdale County,1862-12-07,1862-12-07,,,"2,096 US, 139 CS",TN008
+TN009,Jackson,TN,Madison County,1862-12-19,1862-12-19,,,"6 US, unknown CS",TN009
+TN010,Stones River,TN,Rutherford County,1862-12-31,1863-01-02,,,"13,000 US, 10,000 CS",TN010
+TN011,Parker's Cross Roads,TN,Henderson County,1862-12-31,1862-12-31,,,"237 US, 500 CS",TN011
+TN012,Dover,TN,Stewart County,1863-02-03,1863-02-03,,,"110 US, 855 CS",TN012
+TN013,Thompson's Station,TN,Williamson County,1863-03-04,1863-03-05,,,"1,600 US, 357 CS",TN013
+TN014,Vaught's Hill,TN,Rutherford County,1863-03-20,1863-03-20,,,"38 US, 150 CS",TN014
+TN015,Brentwood,TN,Williamson County,1863-03-25,1863-03-25,,,"529 US, 3 CS",TN015
+TN016,Franklin I,TN,Williamson County and Franklin,1863-04-10,1863-04-10,,,"100 US, 137 CS",TN016
+TN017,Hoover's Gap,TN,Bedford and Rutherford Counties,1863-06-24,1863-06-26,,,"583 US, unknown CS",TN017
+TN018,Chattanooga II,TN,Hamilton County and Chattanooga,1863-08-21,1863-08-21,,,unknown,TN018
+TN019,Blountville,TN,Sullivan County,1863-09-22,1863-09-22,,,"27 US, 165 CS",TN019
+TN020,Blue Springs,TN,Greene County,1863-10-10,1863-10-10,,,"100 US, 216 CS",TN020
+TN021,Wauhatchie,TN,"Hamilton, Marion, and Dade Counties",1863-10-28,1863-10-29,,,"216 US, 356 CS",TN021
+TN022,Collierville,TN,Shelby County,1863-11-03,1863-11-03,,,"60 US, 95 CS",TN022
+TN023,Campbell's Station,TN,Knox County,1863-11-16,1863-11-16,,,"400 US, 570 CS",TN023
+TN024,Chattanooga III,TN,Hamilton County and Chattanooga,1863-11-23,1863-11-25,,,"5,815 US, 6,667 CS",TN024
+TN025,Fort Sanders,TN,Knox County,1863-11-29,1863-11-29,,,"15 US, 800 CS",TN025
+TN026,Bean's Station,TN,Grainger County,1863-12-14,1863-12-14,,,"115 US, 222 CS",TN026
+TN027,Mossy Creek,TN,Jefferson County,1863-12-29,1863-12-29,,,"151 US, unknown CS",TN027
+TN028,Dandridge,TN,Jefferson County,1864-01-17,1864-01-17,,,"150 US, unknown CS",TN028
+TN029,Fair Garden,TN,Sevier County,1864-01-27,1864-01-28,,,"100 US, 165 CS",TN029
+TN030,Fort Pillow,TN,Lauderdale County,1864-04-12,1864-04-12,,,"549 US, 100 CS",TN030
+TN031,Memphis II,TN,Memphis,1864-08-21,1864-08-21,,,"80 (plus 400 prisoners) US, 62 CS",TN031
+TN032,Johnsonville,TN,Benton County,1864-11-03,1864-11-04,,,unknown,TN032
+TN033,Bull's Gap,TN,Hamblen and Greene Counties,1864-11-11,1864-11-14,,,"24 (plus 300 prisoners) US, 100 CS",TN033
+TN034,Columbia,TN,Maury County,1864-11-24,1864-11-29,,,unknown,TN034
+TN035,Spring Hill,TN,Maury County and Spring Hill,1864-11-29,1864-11-29,,,"350 US, 500 CS",TN035
+TN036,Franklin II,TN,Williamson County and Franklin,1864-11-30,1864-11-30,,,"2,633 US, 7,300 CS",TN036
+TN037,Murfreesboro II,TN,Rutherford County,1864-12-05,1864-12-07,,,"208 US, 214 CS",TN037
+TN038,Nashville,TN,Davidson County,1864-12-15,1864-12-16,,,"3,061 US, 6,500 CS",TN038
+TX001,Sabine Pass I,TX,Jefferson County,1862-09-24,1862-09-25,,,unknown,TX001
+TX002,Galveston I,TX,Galveston County,1862-10-04,1862-10-04,,,unknown,TX002
+TX003,Galveston II,TX,Galveston County,1863-01-01,1863-01-01,,,"600 US, 50 CS",TX003
+TX005,Palmito Ranch ,TX,Cameron County,1865-05-12,1865-05-13,,,"30 US, 118 CS",TX005
+TX006,Sabine Pass II,TX,Jefferson County,1863-09-08,1863-09-08,,,"350 US, 0 CS",TX006
+VA001,Sewell's Point,VA,Norfolk,1861-05-18,1861-05-19,10,10,10 total,VA001
+VA002,Aquia Creek,VA,Stafford County,1861-05-29,1861-06-01,0,0,0 total,VA002
+VA003,Big Bethel,VA,York County and Hampton,1861-06-10,1861-06-10,,,"76 US, 8 CS",VA003
+VA004,Blackburn's Ford,VA,Prince William and Fairfax Counties,1861-07-18,1861-07-18,,,"83 US, 68 CS",VA004
+VA005,First Manassas,VA,Prince William County,1861-07-21,1861-07-21,,,"2,896 US, 1,982 CS",VA005
+VA006,Ball's Bluff,VA,Loudoun County,1861-10-21,1861-10-21,,,"921 US, 149 CS",VA006
+VA007,Dranesville,VA,Fairfax County,1861-12-20,1861-12-20,,,"71 US, 230 CS",VA007
+VA008,Hampton Roads,VA,Hampton Roads,1862-03-08,1862-03-09,,,"409 US, 24 CS",VA008
+VA009,Siege of Yorktown,VA,York County and Newport News,1862-04-15,1862-05-04,,,"182 US, 300 CS",VA009
+VA010,Williamsburg,VA,York County and Williamsburg,1862-05-05,1862-05-05,,,"2,283 US, 1,560 CS",VA010
+VA011,Eltham's Landing,VA,New Kent County,1862-05-07,1862-05-07,,,"186 US, 48 CS",VA011
+VA012,Drewry's Bluff,VA,Chesterfield County,1862-05-15,1862-05-15,,,"24 US, 15 CS",VA012
+VA013,Hanover Court House,VA,Hanover County,1862-05-27,1862-05-27,,,"355 US, 746 CS",VA013
+VA014,Seven Pines,VA,Henrico County,1862-05-31,1862-06-01,,,"5,000 US, 6,100 CS",VA014
+VA015,Oak Grove,VA,Henrico County,1862-06-25,1862-06-25,,,"626 US, 441 CS",VA015
+VA016,Beaver Dam Creek (Mechanicsville/ Ellerson's Mill),VA,Hanover County,1862-06-26,1862-06-26,,,"361 US, 1,484 CS",VA016
+VA017,Gaines' Mill,VA,Hanover County,1862-06-27,1862-06-27,,,"6,837 US, 8,750 CS",VA017
+VA018,Garnett's and Golding's Farms,VA,Henrico County,1862-06-27,1862-06-28,,,"189 US, 438 CS",VA018
+VA019,Savage's Station,VA,Henrico County,1862-06-29,1862-06-29,,,"919 US, 444 CS",VA019
+VA020,Glendale and White Oak Swamp,VA,Henrico County,1862-06-30,1862-06-30,,,"2,700 US, 3,600 CS",VA020
+VA021,Malvern Hill,VA,Henrico County,1862-07-01,1862-07-01,,,"3,000 US, 5,355 CS",VA021
+VA022,Cedar Mountain,VA,Culpeper County,1862-08-09,1862-08-09,,,"2,500 US, 1,400 CS",VA022
+VA023,Rappahannock River,VA,Culpeper and Fauquier Counties,1862-08-22,1862-08-25,225,225,225 total,VA023
+VA024,Manassas Station/Junction,VA,Prince William County,1862-08-26,1862-08-27,,,unknown,VA024
+VA025,Thoroughfare Gap,VA,Prince William and Fauquier Counties,1862-08-28,1862-08-28,100,100,100 total,VA025
+VA026,Second Manassas,VA,Prince William County,1862-08-28,1862-08-30,,,"13,826 US, 8,353 CS",VA026
+VA027,Chantilly,VA,Fairfax County,1862-09-01,1862-09-01,,,"1,300 US, 800 CS",VA027
+VA028,Fredericksburg I,VA,Spotsylvania County and Fredericksburg,1862-12-11,1862-12-15,,,"12,600 US, 5,300 CS",VA028
+VA029,Kelly's Ford,VA,Culpeper County,1863-03-17,1863-03-17,,,"99 US, 80 CS",VA029
+VA030,Suffolk I,VA,Suffolk,1863-04-13,1863-04-15,,,,VA030
+VA031,Suffolk II (Hill's Point),VA,Suffolk,1863-04-19,1863-04-19,1160,1160,"1,160 total for the entire siege of Suffolk, from April 11 to May 4; 260 US, 900 CS",VA031
+VA032,Chancellorsville,VA,Spotsylvania County,1863-04-30,1863-05-06,,,"18,000 US, 12,800 CS, including the engagements at Fredericksburg and Salem Church",VA032
+VA033,Salem Church,VA,Spotsylvania County,1863-05-03,1863-05-04,,,,VA033
+VA034,Fredericksburg II,VA,Fredericksburg,1863-05-03,1863-05-03,,,,VA034
+VA035,Brandy Station,VA,Culpeper County,1863-06-09,1863-06-09,,,"868 US, 515 CS",VA035
+VA036,Aldie,VA,Loudoun County,1863-06-17,1863-06-17,,,,VA036
+VA037,Middleburg,VA,Loudoun and Fauquier Counties,1863-06-17,1863-06-19,,,,VA037
+VA038,Upperville,VA,Loudoun and Fauquier Counties,1863-06-21,1863-06-21,,,"for Aldie, Middleburg, and Upperville, 827 US, 510 CS",VA038
+VA039,Auburn I,VA,Fauquier County,1863-10-13,1863-10-13,50,50,50 total,VA039
+VA040,Bristoe Station,VA,Prince William County,1863-10-14,1863-10-14,,,"540 US, 1,380 CS",VA040
+VA041,Auburn II,VA,Fauquier County,1863-10-14,1863-10-14,113,113,113 total,VA041
+VA042,Buckland Mills,VA,Fauquier County,1863-10-19,1863-10-19,230,230,230 total,VA042
+VA043,Rappahannock Station,VA,Culpeper and Fauquier Counties,1863-11-07,1863-11-07,,,"461 US, 2,041 CS",VA043
+VA044,Mine Run,VA,Orange County,1863-11-26,1863-12-02,,,"1,633 US, 795 CS",VA044
+VA045,Morton's Ford,VA,Orange and Culpeper Counties,1864-02-06,1864-02-07,723,723,723 total,VA045
+VA046,Wilderness,VA,Spotsylvania County,1864-05-05,1864-05-06,,,"18,000 US, 10,800 CS",VA046
+VA047,Port Walthall Junction,VA,Chesterfield County,1864-05-06,1864-05-07,560,560,550 total,VA047
+VA048,Spotsylvania Court House,VA,Spotsylvania County,1864-05-08,1864-05-21,,,"18,000 US, 9,000-10,000 CS",VA048
+VA049,Cloyd's Mountain,VA,Pulaski County,1864-05-09,1864-05-09,,,"688 US, 538 CS",VA049
+VA050,Swift Creek and Fort Clifton,VA,Chesterfield County,1864-05-09,1864-05-09,990,990,990 total,VA050
+VA051,Chester Station,VA,Chesterfield County,1864-05-10,1864-05-10,569,569,569 total,VA051
+VA052,Yellow Tavern,VA,Henrico County,1864-05-11,1864-05-11,800,800,800 total,VA052
+VA053,Proctor's Creek (Drewry's Bluff),VA,Chesterfield County,1864-05-12,1864-05-16,,,"3,004 US, 1,000 CS",VA053
+VA054,Ware Bottom Church and Howlett Line,VA,Chesterfield County,1864-05-20,1864-05-20,1500,1500,"1,500 total",VA054
+VA055,North Anna,VA,Hanover and Caroline Counties,1864-05-23,1864-05-26,,,"2,623 US, 2,517 CS",VA055
+VA056,Wilson's Wharf,VA,Charles City County,1864-05-24,1864-05-24,,,"26 US, 140 CS",VA056
+VA057,Totopotomoy Creek and Bethesda Church,VA,Hanover County,1864-05-28,1864-05-30,,,"731 US, 1,159 CS",VA057
+VA058,Haw's Shop,VA,Hanover County,1864-05-28,1864-05-28,,,"344 US, 400 CS",VA058
+VA059,Matadequin Creek (Old Church),VA,Hanover County,1864-05-30,1864-05-30,,,"90 US, unknown CS",VA059
+VA062,Cold Harbor,VA,Hanover County,1864-05-31,1864-06-12,,,"13,000 US, 5,000 CS",VA062
+VA063,Petersburg II,VA,Prince George County and Petersburg,1864-06-15,1864-06-18,,,"9,964-10,600 US, 2,974-4,700 CS",VA063
+VA064,Lynchburg,VA,Lynchburg,1864-06-17,1864-06-18,,,"700 US, 200 CS",VA064
+VA065,Jerusalem Plank Road,VA,Dinwiddie County and Petersburg,1864-06-21,1864-06-23,,,"2,962 US, 572 CS",VA065
+VA067,Sappony Church,VA,Sussex County,1864-06-28,1864-06-28,,,see below,VA067
+VA068,Reams Station I,VA,Dinwiddie County,1864-06-29,1864-06-29,1445,1445,"1,445 total for the raid",VA068
+VA069,First Deep Bottom,VA,Henrico County,1864-07-27,1864-07-29,1000,1000,"1,000 total",VA069
+VA070,The Crater,VA,Petersburg,1864-07-30,1864-07-30,,,"3,798 US, 1,491 CS",VA070
+VA071,Second Deep Bottom,VA,Henrico County,1864-08-13,1864-08-20,,,"2,900 US, 1,300 CS",VA071
+VA072,Globe Tavern,VA,Dinwiddie County,1864-08-18,1864-08-21,,,"4,455 US, 1,600 CS",VA072
+VA073,Reams Station II,VA,Dinwiddie County,1864-08-25,1864-08-25,,,"2,742 US, 814 CS",VA073
+VA074,Peebles' Farm,VA,Dinwiddie County,1864-09-30,1864-10-02,,,"2,869 US, 1,300 CS",VA074
+VA075,Chaffin's Farm and New Market Heights,VA,Henrico County,1864-09-29,1864-09-30,,,"(VA075A) 3,300 US, 1,700 CS; (VA075B) 850 US, 50 CS",VA075
+VA076,Saltville I,VA,Smyth County,1864-10-02,1864-10-02,,,"350 US, 108 CS",VA076
+VA077,Darbytown and New Market Roads,VA,Henrico County,1864-10-07,1864-10-07,,,"458 US, 700 CS",VA077
+VA078,Darbytown Road,VA,Henrico County,1864-10-13,1864-10-13,,,"437 US, 50 CS",VA078
+VA079,Boydton Plank Road,VA,Dinwiddie County,1864-10-27,1864-10-27,,,"1,758 US, about 1,300CS",VA079
+VA080,Fair Oaks and Darbytown Road,VA,Henrico County,1864-10-27,1864-10-28,,,"1,603 US, 100 CS",VA080
+VA081,Marion,VA,Smyth County,1864-12-16,1864-12-18,300,300,300 total,VA081
+VA082,Saltville II,VA,Smyth County,1864-12-20,1864-12-21,,,unknown,VA082
+VA083,Hatcher's Run,VA,Dinwiddie County,1865-02-05,1865-02-07,,,"1,539 US, 1,000 CS",VA083
+VA084,Fort Stedman,VA,Petersburg,1865-03-25,1865-03-25,,,"1,017 US, 2,681 (including 1,949 captured) CS",VA084
+VA085,Lewis's Farm,VA,Dinwiddie County,1865-03-29,1865-03-29,,,"381 US, 371 CS",VA085
+VA086,Dinwiddie Court House,VA,Dinwiddie County,1865-03-31,1865-03-31,,,"354 US, 760 CS",VA086
+VA087,White Oak Road,VA,Dinwiddie County,1865-03-31,1865-03-31,,,"1,781 US, 900- 1,235 CS",VA087
+VA088,Five Forks,VA,Dinwiddie County,1865-04-01,1865-04-01,,,"830 US, 3,000 CS",VA088
+VA089,Petersburg III,VA,Dinwiddie County and Petersburg,1865-04-02,1865-04-02,,,"3,894 US, 4,852 CS",VA089
+VA090,Sutherland Station,VA,Dinwiddie County,1865-04-02,1865-04-02,,,"366 US, 600 CS",VA090
+VA091,Amelia Springs,VA,Amelia County,1865-04-05,1865-04-05,,,"158 US, unknown CS",VA091
+VA092,Rice's Station,VA,Prince Edward County,1865-04-06,1865-04-06,,,"66 US, unknown CS",VA092
+VA093,Sailor's Creek,VA,"Amelia, Nottaway, and Prince Edward Counties",1865-04-06,1865-04-06,,,"1,148 US, 7,700 CS",VA093
+VA094,Cumberland Church,VA,Cumberland County,1865-04-07,1865-04-07,,,"571 US, unknown CS",VA094
+VA095,High Bridge,VA,Prince Edward and Cumberland Counties,1865-04-06,1865-04-07,,,"847 (including 800 captured) US, 100 CS",VA095
+VA096,Appomattox Station,VA,Appomattox County,1865-04-08,1865-04-08,,,"48 US, 1,000 captured, unknown killed and wounded CS",VA096
+VA097,Appomattox Court House,VA,Appomattox County,1865-04-09,1865-04-09,,,"164 US, 500 CS (surrendered and paroled: 28,231)",VA097
+VA098,Petersburg I,VA,Petersburg,1864-06-09,1864-06-09,120,120,120 total,VA098
+VA099,Trevilian Station,VA,Louisa County,1864-06-11,1864-06-12,,,"1,007 US, 1,071 CS",VA099
+VA100,Cockpit Point,VA,Prince William County,1862-01-03,1862-01-03,,,none,VA100
+VA101,First Kernstown,VA,Frederick County and Winchester,1862-03-23,1862-03-23,,,"590 US, 718 CS",VA101
+VA102,McDowell,VA,Highland County,1862-05-08,1862-05-08,,,"256 US, 500 CS",VA102
+VA103,Front Royal,VA,Warren County,1862-05-23,1862-05-23,,,"904 US, 56 CS",VA103
+VA104,First Winchester,VA,Frederick County and Winchester,1862-05-25,1862-05-25,,,"2,019 US, 400 CS",VA104
+VA105,Cross Keys,VA,Rockingham County,1862-06-08,1862-06-08,,,"684 US, 288 CS",VA105
+VA106,Port Republic,VA,Rockingham County,1862-06-09,1862-06-09,,,"800-1,000 US, 800 CS",VA106
+VA107,Second Winchester,VA,Frederick County and Winchester,1863-06-13,1863-06-15,,,"4,443 US, 266 CS",VA107
+VA108,Manassas Gap,VA,Warren and Fauquier Counties,1863-07-23,1863-07-23,440,440,440 total,VA108
+VA109,Cove Mountain,VA,Wythe County,1864-05-10,1864-05-10,300,300,300 total,VA109
+VA110,New Market,VA,Shenandoah County,1864-05-15,1864-05-15,,,"841 US, 520 CS",VA110
+VA111,Piedmont,VA,Augusta County,1864-06-05,1864-06-05,,,"875 US, 1,600 CS",VA111
+VA066,Samaria Church (Saint Mary's Church),VA,Charles City County,1864-06-24,1864-06-24,,,"350 US, 250 CS",VA066
+VA113,Staunton River Bridge,VA,Halifax and Charlotte Counties,1864-06-25,1864-06-25,150,150,150 total,VA113
+VA114,Cool Spring,VA,Clarke County,1864-07-17,1864-07-18,,,"422 US, 397 CS",VA114
+VA115,Rutherford's Farm,VA,Frederick County and Winchester,1864-07-20,1864-07-20,,,"242 US, 500 CS",VA115
+VA116,Second Kernstown,VA,Frederick County and Winchester,1864-07-24,1864-07-24,,,"1,185 US, 600 CS",VA116
+VA117,Guard Hill,VA,Warren County,1864-08-16,1864-08-16,,,"71 US, 480 CS",VA117
+VA118,Berryville,VA,Clarke County,1864-09-03,1864-09-04,,,"312 US, 195 CS",VA118
+VA119,Opequon (Third Winchester),VA,Frederick and Clarke Counties and Winchester,1864-09-19,1864-09-19,,,"5,020 US, 3,610 CS",VA119
+VA120,Fisher's Hill,VA,Shenandoah County,1864-09-21,1864-09-22,,,"528 US, 1,235 CS",VA120
+VA121,Tom's Brook,VA,Shenandoah County,1864-10-09,1864-10-09,,,"57 US, 350 CS",VA121
+VA122,Cedar Creek,VA,"Frederick, Shenandoah, and Warren Counties",1864-10-19,1864-10-19,,,"5,672 US, 2,910 CS",VA122
+VA123,Waynesboro,VA,Augusta County,1865-03-02,1865-03-02,,,"30 US, 1,600 prisoners CS",VA123
+VA124,Namozine Church,VA,Amelia County,1865-04-03,1865-04-03,,,"81 US, unknown CS",VA124
+VA125,Walkerton,VA,King and Queen County,1864-03-02,1864-03-02,,,"100 US, none CS",VA125
+WV001,Philippi,WV,Barbour County,1861-06-03,1861-06-03,,,"5 US, 6 CS",WV001
+WV002,Hoke's Run (Falling Waters),WV,Berkeley County,1861-07-02,1861-07-02,,,"73 US, 25 CS",WV002
+WV003,Rich Mountain,WV,Randolph County,1861-07-11,1861-07-11,,,"74 US, 88 CS",WV003
+WV004,Kessler's Cross Lanes,WV,Nicholas County,1861-08-26,1861-08-26,,,"132 US, 40 CS",WV004
+WV005,Cheat Mountain,WV,Pocahontas County,1861-09-12,1861-09-15,,,"71 US, 100 CS",WV005
+WV006,Carnifex Ferry,WV,Nicholas County,1861-09-10,1861-09-10,,,"158 US, 32 CS",WV006
+WV007,Greenbrier River,WV,Pocahontas County,1861-10-03,1861-10-03,,,"43 US, 52 CS",WV007
+WV008,Camp Allegheny,WV,Pocahontas County,1861-12-13,1861-12-13,,,"137 US, 146 CS",WV008
+WV009,Princeton Court House Princeton,WV,Mercer County,1862-05-15,1862-05-17,,,"129 US, 16 CS",WV009
+WV010,Harpers Ferry,WV,Jefferson County,1862-09-12,1862-09-15,,,"12,719 US, 286 CS",WV010
+WV012,Droop Mountain,WV,Pocahontas County,1863-11-06,1863-11-06,,,"140 US, 275 CS",WV012
+WV013,Moorefield,WV,Hardy County,1864-08-07,1864-08-07,,,"31 US, 500 CS",WV013
+WV014,Summit Point and Cameron's Depot,WV,Jefferson County,1864-08-21,1864-08-21,,,"600 US, 400 CS",WV014
+WV015,Smithfield Crossing,WV,Jefferson and Berkeley Counties,1864-08-28,1864-08-29,,,"100 US, 200 CS",WV015
+WV016,Shepherdstown,WV,Jefferson County,1862-09-19,1862-09-20,,,"363 US, 291 CS",WV016

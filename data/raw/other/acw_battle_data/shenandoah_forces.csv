@@ -1,0 +1,32 @@
+battle_id,belligerent,description,strength_min,strength_max,casualties_text,casualties,killed,wounded,missing_captured
+1,US,"One infantry division of three brigades (Kimball, Sullivan, and Tyler), 24 guns, and 16 companies of cavalry underBroadhead; total force between 8,500 and 9,000, three-fourths of which were brought into action.",8500,9500,590 (118k/450w/22mc),590,118,450,22
+1,Confederate,"Jackson's infantry division of three brigades (Garnett, Burks, and Fulkerson), 27 guns, and a cavalry contingent under Col. Turner Ashby; total strength did not exceed about 3,600-3,800, of which most were engaged",3600,3800,718 (80k/375w/263mc),718,80,375,263
+10,US,"Three infantry brigades of Crook's Corps (about 3,250 men), supported by batteries and a division of the VI Corps, about 5,000 engaged.",5000,5000,422 (65k/301w/56m),422,65,301,56
+10,Confederate,"Three infantry divisions under Gordon, Wharton, and Rodes, about 8,000, and at least 3 batteries",8000,8000,397 (80k/300w/17m),397,80,300,17
+11,US,"Three infantry divisions (Thoburn, Duval, and Mulligan), two cavalry divisions (Averell and Duffie), and three batteries of artillery, numbering about 10,000.",10000,10000,"about 1,200 (120k/600w/480mc)",1200,120,600,480
+11,Confederate,"Four infantry divisions (Gordon, Rodes, Ramseur, and Breckinridge/Wharton), four brigades of cavalry, and artillery, totalling about 13,000",13000,13000,"unreported, est. 600 (100k/500w)",600,100,500,0
+7,US,"Three infantry brigades (Elliott, Ely, McReynolds), numbering about 7,000",7000,7000,"4,443 (95k/373w/3,975mc)",4443,95,373,3975
+7,Confederate,"Second Corps ANV, two divisions (Early and Johnson), about 12,500",12500,12500,269 (47k/219w/3m),269,47,219,3
+6,US,"Two brigades of Shields's division (Tyler and Carroll), about 3,500",3500,3500,"1,002 (67k/361w/574mc)",1002,67,361,574
+6,Confederate,"Jackson's and Ewell's divisions, about 6,000 engaged",6000,6000,816 (88k/535w/34m),816,88,535,34
+9,US,"Sullivan's division (two brigades under Moor and Thoburn), Stahel's cavalry division, and artillery under DuPont, about 8,500",8500,8500,875 (150k/650w/75m),875,150,650,75
+9,Confederate,"Two infantry brigades (Jones and Browne), home guards, and cavalry under Imboden and Vaughn, about 5,500",5500,5500,"about 1,500 (100k/500w/900mc)",1500,100,500,900
+14,US,"Two cavalry divisions  (Wesley Merritt and  George A. Custer), about 6,300",6300,6300,57 (10k/47w),57,10,47,0
+14,Confederate,"Two cavalry divisions (Rosser and Lomax) about 3,500",3500,3500,350 (20k/50w/280mc),350,20,50,280
+5,US,"Blenker's infantry division (three brigades), three attached brigades (Cluseret, Milroy, Schenck), Bayard's cavalry, and nine batteries, about 11,500 men",11500,11500,664 (114k/443w/127m),664,114,443,127
+5,Confederate,"Three of four brigades of Ewell's division (Trimble, Elzey, Steuart) and Patton's brigade, about 8,500 engaged",8500,8500,287 (42k/230w/15m),287,42,230,15
+4,US,"Banks's command of two brigades of infantry (Donelly, Gordon), two regiments of mixed cavalry, and three batteries (16 guns), about 6,500.",6500,6500,"2,019 (62k/243w/1,714mc)",2019,62,243,1714
+4,Confederate,"Jackson's division of three brigades (Winder, Campbell, Taliaferro) and Ewell's division of four brigades (Taylor, Trimble, Elzey, Scott), three regiments of cavalry, and 11 batteries (48 guns), about 16,000",16000,16000,400 (68k/329w/3m),400,68,329,3
+15,US,"Three infantry corps (Wright, Emory, Crook), two cavalry divisions (Merritt and Custer), numbering 31,944.",31944,31944,"5,665 (644k/3,430w/1,591m)",5665,644,3430,1591
+15,Confederate,"Five infantry divisions (Gordon, Wharton, Ramseur, Pegram, Kershaw), two cavalry divisions, about 15,265",15265,15265,"2,910 (320k/1,540w/1,050m);",2910,320,1540,1050
+8,US,"
+One infantry division under Sullivan (two brigades: Moor and Thoburn), cavalry division under Stahel (two brigades: Tibbits and Wynkoop), and five batteries of artillery, totaling 8,940 of which 6,275 were engaged",8940,8940,841 (96k/520w/225m),841,96,520,225
+8,Confederate,"Two infantry brigades (Echols and Wharton), VMI cadet battalion, Imboden's cavalry brigade, and several batteries, totaling about 5,335, 4,087 of which were engaged""",5335,5335,540 (50k/480w/10m),540,50,480,10
+12,US,"Three infantry corps (Wright, Emory, Crook), cavalry corps (Torbert), about 39,236.",39236,39236,"5,018 (697k/3,983w/338m)",5018,697,3983,338
+12,Confederate,"Four divisions (Gordon, Rodes, Ramseur, Breckinridge/Wharton), two cavalry divisions (Fitz Lee, Lomax), about 15,200",15200,15200,"3,611 (226k/1,567w/1,818mc)",3611,226,1567,1818
+3,US,"Reinforced regiment under Col. J. R. Kenly, about 1,063 and two guns",1063,1063,904 (32k/122w/750 captured),904,32,122,750
+3,Confederate,"Jackson's and Ewell's divisions and three regiments of cavalry, about 16,500, 48 guns; only about 3,000 were actively engaged at Front Royal",3000,3000,50 k/w/m,50,,,
+2,US,"Two brigades (Milroy and Schenck), about 6,500.  Milroy attacked Sitlington's Hill with 2,250.",6500,6500,about 260 k/w/m.,360,,,
+2,Confederate,"Johnson's brigade (six regts.) and Taliaferro's (3 regts.), about 6,000 engaged.",6000,6000,about 500 k/w/m (12GA suffered about 175 k/w/m),500,,,
+13,US,"Three infantry corps (Wright, Emory, Crook), Averell's cavalry division, about 29,444.",29444,29444,528 (52k/457w/19m),528,52,457,19
+13,Confederate,"Four infantry divisions (Wharton, Gordon, Pegram, Ramseur), one cavalry division (Lomax), about 9,500",9500,9500,"1,235 (30k/210w/995mc)",1235,30,210,995

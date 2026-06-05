@@ -1,0 +1,31 @@
+battle_id,cwsac_id,belligerent,last_name,first_name,middle_name,rank
+1,VA101,US,Kimball,Nathan,,Col.
+1,VA101,Confederate,Jackson,A.,Thomas,Maj. Gen.
+10,VA114,US,Thoburn,Joseph,,Col.
+10,VA114,Confederate,Rodes,Robert,E.,Maj. Gen.
+11,VA116,US,Crook,George,,Brig. Gen.
+11,VA116,Confederate,Early,Jubal,,Lt. Gen.
+7,VA107,US,Milroy,Robert,H.,Maj. Gen.
+7,VA107,Confederate,Ewell,Richard,S.,Lt. Gen.
+6,VA106,US,Tyler,E.,B.,Brig. Gen.
+6,VA106,Confederate,Jackson,T.,J.,Maj. Gen.
+9,VA111,US,Hunter,David,,Maj. Gen.
+9,VA111,Confederate,Jones,William,E.,Brig. Gen.
+14,VA121,US,Torbert,Alfred,,Brig. Gen.
+14,VA121,Confederate,Lomax,Lunsford,,Maj. Gen.
+5,VA105,US,Fremont,John,C.,Maj. Gen.
+5,VA105,Confederate,Trimble,Isaac,,Brig. Gen.
+4,VA104,US,Banks,Nathaniel,,Maj. Gen.
+4,VA104,Confederate,Jackson,T.,J.,Maj. Gen.
+15,VA122,US,Wright,Horatio,,Maj. Gen.
+15,VA122,Confederate,Early,Jubal,A.,Lt. Gen.
+8,VA110,US,Sigel,Franz,,Maj. Gen.
+8,VA110,Confederate,Breckinridge,John,C.,Maj. Gen.
+12,VA119,US,Sheridan,Philip,,Maj. Gen.
+12,VA119,Confederate,Early,Jubal,,Lt. Gen.
+3,VA103,US,Kenly,J.,R.,Col.
+3,VA103,Confederate,Jackson,T.,J.,Maj. Gen.
+2,VA102,US,Milroy,R.,,Brig. Gen.
+2,VA102,Confederate,Johnson,Edward,,Brig. Gen.
+13,VA120,US,Sheridan,Philip,H.,Maj. Gen.
+13,VA120,Confederate,Early,Jubal,A.,Lt. Gen.
