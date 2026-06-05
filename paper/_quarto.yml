@@ -1,10 +1,10 @@
 project:
-  title: "The Spectre of Slavery"
+  title: "[PROJECT TITLE]"
   execute-dir: project
   output-dir: ../_output
 
-title: "The Spectre of Slavery"
-subtitle: "Newspaper Politicking During the American Civil War"
+title: "[PAPER TITLE]"
+subtitle: "[SUBTITLE]"
 author:
   - name: Patrick Crawford
     email: pcrawfo6@gmu.edu

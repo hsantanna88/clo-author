@@ -1,11 +1,8 @@
 # Plan: Enforcement Layer — Lessons from Escafoldiamento
 
-**Status:** COMPLETED
-**Date:** 2026-04-09
-**Origin:** Comparative analysis of cattvs (Escafoldiamento) architecture
-**Scope:** 5 improvements to clo-author's enforcement mechanisms, borrowing patterns from cattvs's contract-driven, grep-verified, hook-enforced approach
+**Status:** COMPLETED **Date:** 2026-04-09 **Origin:** Comparative analysis of cattvs (Escafoldiamento) architecture **Scope:** 5 improvements to clo-author's enforcement mechanisms, borrowing patterns from cattvs's contract-driven, grep-verified, hook-enforced approach
 
----
+------------------------------------------------------------------------
 
 ## Context
 
@@ -13,7 +10,7 @@ The cattvs scaffold uses a defensive engineering pattern: contracts as source of
 
 These 5 changes add hard enforcement without compromising the creative architecture.
 
----
+------------------------------------------------------------------------
 
 ## Item 1: Grep-Based Verification Checks for R/Python/Julia Scripts
 
@@ -21,12 +18,11 @@ These 5 changes add hard enforcement without compromising the creative architect
 
 **Why:** The coder-critic's 16 check categories are judgment-based. Mechanical checks catch the obvious stuff instantly and let the critic focus on harder questions (strategy alignment, numerical discipline edge cases).
 
-**Files to modify:**
-- `.claude/skills/review/SKILL.md` — add a `--lint` mode or integrate into existing `--code` flow
-- Alternatively: create `.claude/skills/tools/SKILL.md` new subcommand `/tools lint`
+**Files to modify:** - `.claude/skills/review/SKILL.md` — add a `--lint` mode or integrate into existing `--code` flow - Alternatively: create `.claude/skills/tools/SKILL.md` new subcommand `/tools lint`
 
 **Checks to implement (R):**
-```bash
+
+``` bash
 # set.seed() present exactly once, near top of script
 grep -c 'set\.seed(' script.R
 
@@ -50,7 +46,8 @@ grep -n '^[^#]*print(' script.R
 ```
 
 **Checks to implement (Python):**
-```bash
+
+``` bash
 # No absolute paths
 grep -n '/Users/\|/home/\|C:\\' script.py
 
@@ -63,7 +60,7 @@ grep -n '^import \|^from ' script.py | awk -F: '$1 > 30 {print "FAIL: import at 
 
 **Effort:** Small. 1-2 hours. Mostly writing grep patterns and adding them to a skill.
 
----
+------------------------------------------------------------------------
 
 ## Item 2: Pre-Flight Loading in /analyze
 
@@ -71,12 +68,11 @@ grep -n '^import \|^from ' script.py | awk -F: '$1 > 30 {print "FAIL: import at 
 
 **Why:** The cattvs `/pre-code` skill forces contract loading before implementation. Currently, the coder agent is *instructed* to read the strategy memo, but there's no verification it actually did, and no explicit mapping from strategy concepts to code variable names.
 
-**Files to modify:**
-- `.claude/skills/analyze/SKILL.md` — restructure Step 1 to require explicit output
-- `.claude/agents/coder.md` — add a "Pre-Code Report" section as mandatory first output
+**Files to modify:** - `.claude/skills/analyze/SKILL.md` — restructure Step 1 to require explicit output - `.claude/agents/coder.md` — add a "Pre-Code Report" section as mandatory first output
 
 **Pre-Code Report format:**
-```markdown
+
+``` markdown
 ## Pre-Code Report
 **Strategy memo:** [path or "not found"]
 **Paper type:** [reduced-form / structural / theory+empirics / descriptive]
@@ -94,7 +90,7 @@ Proceeding to implementation.
 
 **Effort:** Small. 30 minutes. Edit two files.
 
----
+------------------------------------------------------------------------
 
 ## Item 3: Numbered Content Invariants
 
@@ -102,12 +98,11 @@ Proceeding to implementation.
 
 **Why:** These rules currently exist scattered across `content-standards.md`, `working-paper-format.md`, agent prompts, and journal profiles. A single numbered list makes enforcement unambiguous and gives critics a canonical reference to cite in deductions.
 
-**File to create:**
-- `.claude/rules/content-invariants.md`
+**File to create:** - `.claude/rules/content-invariants.md`
 
 **Draft invariants:**
 
-```markdown
+``` markdown
 # Content Invariants
 
 These are non-negotiable. Every agent checks against them. Violations are deductions, not suggestions.
@@ -141,13 +136,9 @@ These are non-negotiable. Every agent checks against them. Violations are deduct
 
 **Effort:** Small. 1 hour. Consolidate existing scattered rules, number them, write the file. Update agent prompts to reference it.
 
-**Files to also update (add "Check content-invariants.md" to review criteria):**
-- `.claude/agents/writer-critic.md`
-- `.claude/agents/coder-critic.md`
-- `.claude/agents/storyteller-critic.md`
-- `.claude/agents/verifier.md`
+**Files to also update (add "Check content-invariants.md" to review criteria):** - `.claude/agents/writer-critic.md` - `.claude/agents/coder-critic.md` - `.claude/agents/storyteller-critic.md` - `.claude/agents/verifier.md`
 
----
+------------------------------------------------------------------------
 
 ## Item 4: Strategy Decision Records
 
@@ -155,11 +146,11 @@ These are non-negotiable. Every agent checks against them. Violations are deduct
 
 **Why:** Strategy memos are prose. The coder reads them to understand *what* to implement, but not *why* this approach was chosen over alternatives. When a referee later asks "why not use IV instead of DiD?", the response letter writer needs to know what was considered and rejected. ADR-style records capture this.
 
-**File to modify:**
-- `.claude/skills/strategize/SKILL.md` — add Step 4: save strategy decision record
+**File to modify:** - `.claude/skills/strategize/SKILL.md` — add Step 4: save strategy decision record
 
 **Template:**
-```markdown
+
+``` markdown
 # Strategy Decision Record — [Date]
 
 ## Research Question
@@ -192,7 +183,7 @@ These are non-negotiable. Every agent checks against them. Violations are deduct
 
 **Effort:** Small. 30 minutes. Edit the skill, add template.
 
----
+------------------------------------------------------------------------
 
 ## Item 5: PostToolUse Hook for R Script Linting
 
@@ -200,12 +191,11 @@ These are non-negotiable. Every agent checks against them. Violations are deduct
 
 **Why:** Cattvs runs cppcheck after every edit automatically. A lightweight lint on R scripts would catch absolute paths, missing `set.seed()`, misplaced `library()` calls, and other mechanical issues before the coder-critic is even dispatched.
 
-**Files to modify:**
-- `.claude/settings.json` — add PostToolUse hook
-- `.claude/hooks/lint-scripts.sh` — new hook script
+**Files to modify:** - `.claude/settings.json` — add PostToolUse hook - `.claude/hooks/lint-scripts.sh` — new hook script
 
 **Hook logic (lint-scripts.sh):**
-```bash
+
+``` bash
 #!/bin/bash
 # Only run on R/Python files
 FILE="$CLAUDE_TOOL_ARG_FILE_PATH"
@@ -235,7 +225,8 @@ exit 0  # Advisory, not blocking
 ```
 
 **Settings.json addition:**
-```json
+
+``` json
 {
   "matcher": "Edit|Write",
   "hooks": [{
@@ -250,21 +241,21 @@ exit 0  # Advisory, not blocking
 
 **Effort:** Small-medium. 1 hour. Write the hook, test it, add to settings.
 
----
+------------------------------------------------------------------------
 
 ## Implementation Order
 
 | Order | Item | Effort | Dependencies |
-|-------|------|--------|-------------|
+|----------------|----------------|----------------|-------------------------|
 | 1 | Item 3: Content invariants | 1 hour | None — standalone file + agent refs |
 | 2 | Item 2: Pre-flight in /analyze | 30 min | None |
 | 3 | Item 1: Grep-based verification | 1-2 hours | Item 3 (references invariants) |
 | 4 | Item 4: Strategy decision records | 30 min | None |
 | 5 | Item 5: PostToolUse lint hook | 1 hour | Test across a real project first |
 
-Total: ~4-5 hours. Could be a single session or spread across two.
+Total: \~4-5 hours. Could be a single session or spread across two.
 
----
+------------------------------------------------------------------------
 
 ## What This Does NOT Change
 
@@ -275,7 +266,7 @@ Total: ~4-5 hours. Could be a single session or spread across two.
 
 This adds an **enforcement layer underneath** the existing creative orchestration. The agents still do judgment work. The new layer catches mechanical violations before judgment is even needed.
 
----
+------------------------------------------------------------------------
 
 ## Version
 

@@ -1,14 +1,10 @@
 # Session Log: Guide Restructure into 3-Document Quarto Website
 
-**Date:** 2026-02-25
-**Goal:** Split monolithic `guide/workflow-guide.qmd` (~1700 lines) into 3 focused documents rendered as a Quarto website with sidebar navigation.
+**Date:** 2026-02-25 **Goal:** Split monolithic `guide/workflow-guide.qmd` (\~1700 lines) into 3 focused documents rendered as a Quarto website with sidebar navigation.
 
 ## Plan
 
-Approved plan: `quality_reports/plans/` (saved in prior session). Split into:
-1. `index.qmd` — Quick Start landing page (~120 lines)
-2. `user-guide.qmd` — User Guide: what you can do (~500 lines)
-3. `architecture.qmd` — Architecture Reference: how the system works (~700 lines)
+Approved plan: `quality_reports/plans/` (saved in prior session). Split into: 1. `index.qmd` — Quick Start landing page (\~120 lines) 2. `user-guide.qmd` — User Guide: what you can do (\~500 lines) 3. `architecture.qmd` — Architecture Reference: how the system works (\~700 lines)
 
 ## Decisions
 
@@ -21,15 +17,15 @@ Approved plan: `quality_reports/plans/` (saved in prior session). Split into:
 
 ## Implementation (completed)
 
-1. Rewrote `guide/_quarto.yml` as website project config
-2. Created `guide/index.qmd` (116 lines) — Quick Start
-3. Created `guide/user-guide.qmd` (365 lines) — User Guide
-4. Created `guide/architecture.qmd` (628 lines) — Architecture Reference
-5. Updated `guide/custom.scss` — replaced WIP notice with navbar styling
-6. Deleted `guide/workflow-guide.qmd`, `docs/index.html`, `docs/workflow-guide.html`
-7. Ran `quarto render` — all 3 pages rendered successfully
-8. Updated `README.md` guide link → `hugosantanna.github.io/clo-author`
-9. Updated `CLAUDE.md` comment reference
+1.  Rewrote `guide/_quarto.yml` as website project config
+2.  Created `guide/index.qmd` (116 lines) — Quick Start
+3.  Created `guide/user-guide.qmd` (365 lines) — User Guide
+4.  Created `guide/architecture.qmd` (628 lines) — Architecture Reference
+5.  Updated `guide/custom.scss` — replaced WIP notice with navbar styling
+6.  Deleted `guide/workflow-guide.qmd`, `docs/index.html`, `docs/workflow-guide.html`
+7.  Ran `quarto render` — all 3 pages rendered successfully
+8.  Updated `README.md` guide link → `hugosantanna.github.io/clo-author`
+9.  Updated `CLAUDE.md` comment reference
 10. Rewrote `hsantanna-site-local/clo-author.md` as redirect page
 11. Removed sidebar nav block from `hsantanna-site-local/_data/navigation.yml`
 
@@ -46,67 +42,48 @@ Approved plan: `quality_reports/plans/` (saved in prior session). Split into:
 - **Done:** Full restructure implemented and verified
 - **Pending:** Commit, push, test Jekyll redirect locally, verify GitHub Pages deployment
 
-
 ---
 **Context compaction (auto) at 20:00**
 Check git log and quality_reports/plans/ for current state.
-
-
 ---
-**Context compaction (auto) at 21:50**
-Check git log and quality_reports/plans/ for current state.
 
+**Context compaction (auto) at 21:50** Check git log and quality_reports/plans/ for current state.
 
 ---
 **Context compaction (auto) at 22:42**
 Check git log and quality_reports/plans/ for current state.
-
-
 ---
-**Context compaction (auto) at 23:17**
-Check git log and quality_reports/plans/ for current state.
 
+**Context compaction (auto) at 23:17** Check git log and quality_reports/plans/ for current state.
 
 ---
 **Context compaction (auto) at 00:00**
 Check git log and quality_reports/plans/ for current state.
-
-
 ---
-**Context compaction (auto) at 11:48**
-Check git log and quality_reports/plans/ for current state.
 
+**Context compaction (auto) at 11:48** Check git log and quality_reports/plans/ for current state.
 
 ---
 **Context compaction (auto) at 12:25**
 Check git log and quality_reports/plans/ for current state.
-
-
 ---
-**Context compaction (auto) at 13:29**
-Check git log and quality_reports/plans/ for current state.
 
+**Context compaction (auto) at 13:29** Check git log and quality_reports/plans/ for current state.
 
 ---
 **Context compaction (auto) at 14:04**
 Check git log and quality_reports/plans/ for current state.
-
-
 ---
-**Context compaction (auto) at 14:51**
-Check git log and quality_reports/plans/ for current state.
 
+**Context compaction (auto) at 14:51** Check git log and quality_reports/plans/ for current state.
 
 ---
 **Context compaction (manual) at 16:27**
 Check git log and quality_reports/plans/ for current state.
-
-
 ---
-**Context compaction (manual) at 16:27**
-Check git log and quality_reports/plans/ for current state.
 
+**Context compaction (manual) at 16:27** Check git log and quality_reports/plans/ for current state.
 
----
-**Context compaction (manual) at 16:28**
-Check git log and quality_reports/plans/ for current state.
+------------------------------------------------------------------------
+
+**Context compaction (manual) at 16:28** Check git log and quality_reports/plans/ for current state.

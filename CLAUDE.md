@@ -1,6 +1,6 @@
 # CLAUDE.MD -- Empirical Economics Research with Claude Code
 
-**Project:** The Spectre of Slavery: Newspaper Politicking During the American Civil War
+**Project:** [PROJECT NAME]
 **Institution:** George Mason University
 **Field:** Economic History & Political Economy
 **Branch:** main
@@ -31,44 +31,32 @@ quarto preview paper/main.qmd
 ```
 
 Config: `paper/_quarto.yml` | Bibliography: `paper/references.bib`
-Templates: `paper/preambles/draft-article/` and `paper/preambles/beamer/`
 
 ------------------------------------------------------------------------
 
 ## Pipeline
 
+Update this section to reflect your project's analysis pipeline. Example:
+
 ```
-Python notebooks (scripts/python/)
-    text processing, BERTopic, sentiment
-    --> data/cleaned/bertopic_panel_{MODEL}.csv  [gitignored, on HuggingFace]
+Python notebooks (scripts/python/) OR R scripts (scripts/R/)
+    text/data processing
+    --> data/cleaned/
 
 R scripts (scripts/R/)
-    01_build_panel.R    -->  data/cleaned/cong_pnl*.rds, pres_pnl*.rds
-    02_event_study.R    -->  paper/figures/02_event_study/
-    03_crosssection.R   -->  paper/tables/03_crosssection/
-    04_mechanisms.R     -->  paper/tables/04_mechanisms/, paper/figures/04_mechanisms/
+    01_build_panel.R  -->  data/cleaned/*.rds
+    02_analysis.R     -->  paper/figures/02_analysis/, paper/tables/02_analysis/
 
 Quarto
-    paper/main.qmd      -->  _output/main.pdf
+    paper/main.qmd    -->  _output/main.pdf
 ```
-
-**Column names from notebooks:**
-- `cos_sim_politics`, `cos_sim_slavery_direct`, `cos_sim_slavery_ideology`
-- `cos_sim_abolition`, `cos_sim_race`, `cos_sim_black_military`
-- `vader_compound` (mean VADER compound per lccn-month)
-
-**Panel structure:** `lccn x year_month` aggregated (notebooks handle article-level to panel)
-
-**Large files:** HuggingFace repo `patrickjcrawford/civil-war-news`
-- `bertopic_panel_{MODEL}.csv`, `bertopic_results_{MODEL}.csv`, `sentiment_results.csv`
-- Place in `data/cleaned/` before running `01_build_panel.R`
 
 ------------------------------------------------------------------------
 
 ## Folder Structure
 
 ```
-acw-newspapers/
+[YOUR-PROJECT]/
 ├── CLAUDE.md
 ├── .claude/                     # Rules, skills, agents, hooks
 ├── paper/                       # Quarto manuscript (source of truth)
@@ -77,33 +65,18 @@ acw-newspapers/
 │   ├── references.bib           # Bibliography
 │   ├── figures/                 # Generated figures (by-script subdirs)
 │   ├── tables/                  # Generated tables (by-script subdirs)
-│   ├── sections/                # Section-level .qmd files
-│   ├── preambles/               # LaTeX templates for PDF output
-│   └── _extensions/             # Quarto extensions
+│   ├── sections/                # Section-level .qmd files (optional)
+│   └── preambles/               # LaTeX templates for PDF output
 ├── data/
-│   ├── raw/                     # Small files committed; large gitignored
-│   └── cleaned/                 # RDS panels + bertopic CSVs (gitignored)
+│   ├── raw/                     # Original data (large files gitignored)
+│   └── cleaned/                 # Analysis-ready datasets (gitignored)
 ├── scripts/
-│   ├── python/                  # Jupyter notebooks (text processing pipeline)
-│   └── R/                       # Regression + table scripts
+│   ├── python/                  # Python/notebook scripts
+│   └── R/                       # R analysis scripts
 ├── quality_reports/             # Plans, session logs, reviews
+├── explorations/                # Research sandbox
 └── master_supporting_docs/      # Reference papers and data docs
 ```
-
-------------------------------------------------------------------------
-
-## Hypotheses
-
-| ID | Description | Script |
-|----|-------------|--------|
-| H1 | Slavery discourse spikes pre-election | 02_event_study.R |
-| H2 | Higher cos_sim -> higher Dem vote share | 03_crosssection.R |
-| H3 | Effect null/weaker for Rep vote share | 03_crosssection.R |
-| H4 | cos_sim x negative sentiment amplifies H2 | 03_crosssection.R |
-| H5 | Effect larger for Dem-leaning newspapers | 04_mechanisms.R |
-| H6 | Spatial spillovers across county lines | 04_mechanisms.R |
-| H7 | Effect holds in presidential elections | 04_mechanisms.R |
-| H8 | Battle proximity attenuates effect | 04_mechanisms.R |
 
 ------------------------------------------------------------------------
 
@@ -135,6 +108,14 @@ acw-newspapers/
 
 ------------------------------------------------------------------------
 
+## Beamer Custom Environments (Talks)
+
+| Environment  | Effect          | Use Case        |
+|--------------|-----------------|-----------------|
+| `[your-env]` | [Description]   | [When to use]   |
+
+------------------------------------------------------------------------
+
 ## Output Organization
 
 Output organization: by-script
@@ -144,11 +125,7 @@ Output organization: by-script
 ## Current Project State
 
 | Component | File | Status | Description |
-|------------------|-------------------------------|------------|-------------------------------|
-| Paper | `paper/main.qmd` | not started | Quarto manuscript skeleton |
-| Panel build | `scripts/R/01_build_panel.R` | ready | Awaits bertopic_panel_*.csv |
-| Event study | `scripts/R/02_event_study.R` | ready | H1 |
-| Cross-section | `scripts/R/03_crosssection.R` | ready | H2 to H4 |
-| Mechanisms | `scripts/R/04_mechanisms.R` | ready | H5 to H8 |
-| Notebooks | `scripts/python/` | complete | 6 BERTopic pipeline notebooks |
+|-----------|------|--------|-------------|
+| Paper | `paper/main.qmd` | not started | [Brief description] |
+| Data | `scripts/R/` | not started | [Analysis description] |
 | Replication | `paper/replication/` | not started | -- |
