@@ -15,8 +15,8 @@ Create, audit, or compile presentations (Beamer or Quarto RevealJS).
 
 ## Modes
 
-### `/talk create [format]` — Create Quarto RevealJS Talk (default)
-### `/talk create [format] --beamer` — Create Beamer Talk
+### `/talk create [format]` — Create Beamer Talk via Quarto (default)
+### `/talk create [format] --revealjs` — Create RevealJS Talk
 
 Generate a presentation from the paper.
 
@@ -37,7 +37,7 @@ Generate a presentation from the paper.
 
 - **Format** (required): `job-market` | `seminar` | `short` | `lightning`
 - **Paper path** (optional): defaults to `paper/main.tex`
-- **Engine**: Quarto RevealJS (default) or Beamer (`--beamer`)
+- **Engine**: Beamer via Quarto (default) or RevealJS (`--revealjs`)
 - If no format specified, ask the user.
 
 **Step 2: Dispatch Storyteller**
@@ -51,9 +51,9 @@ The Storyteller follows these design principles:
 - **Transition slides between major sections** — signal where the talk is going
 - **All claims must appear in the paper** — the paper is the single source of truth; never add results or claims that are not in the manuscript
 
-Compile with `quarto render` (Quarto) or XeLaTeX (Beamer).
+Compile with `quarto render [file].qmd` for both formats.
 
-Save to `paper/quarto/[format]_talk.qmd` (Quarto, default) or `paper/talks/[format]_talk.tex` (Beamer).
+Save to `paper/talks/[format]_talk.qmd` (all formats).
 
 **Step 3: Dispatch Storyteller-Critic**
 
@@ -101,15 +101,11 @@ Run visual quality checks:
 
 ### `/talk compile [file]` — Compile Talk
 
-Automated compilation via latexmk:
 ```bash
-cd paper/talks && latexmk [file]
+quarto render paper/talks/[file].qmd
 ```
 
-For Quarto:
-```bash
-cd paper/quarto && quarto render [file]
-```
+All talks are `.qmd` files compiled via Quarto regardless of output format (Beamer PDF or RevealJS HTML). The active format is controlled by the `format:` key in the file's YAML front matter.
 
 ---
 
@@ -119,8 +115,8 @@ cd paper/quarto && quarto render [file]
 |----------|------|-----------------|
 | Narrative arcs | `talk/templates/narrative-arcs.md` | Paper-type-specific story structures (reduced-form, structural, theory+empirics, descriptive) with pacing and audience calibration |
 | Format constraints | `talk/templates/format-constraints.md` | Slide counts, durations, per-format rules for all 4 formats |
-| Quarto scaffold | `talk/templates/quarto-scaffold.qmd` | RevealJS skeleton with YAML config, section dividers, figure/equation slots (default) |
-| Beamer scaffold | `talk/templates/beamer-scaffold.tex` | Minimal Beamer skeleton with standard sections (use with `--beamer`) |
+| Slides scaffold | `talk/templates/slides-scaffold.qmd` | Quarto Beamer skeleton — default. Change `format:` in YAML to switch to RevealJS. |
+| RevealJS scaffold | `talk/templates/quarto-scaffold.qmd` | RevealJS-specific skeleton with custom.scss theme and RevealJS-only features. |
 | Slide design | `talk/references/slide-design-principles.md` | Visual design principles: font sizes, colors, builds, rhythm |
 | Gotchas | `talk/gotchas.md` | Known failure points and edge cases |
 

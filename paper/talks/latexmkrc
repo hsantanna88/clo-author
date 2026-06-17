@@ -1,5 +1,7 @@
 # latexmkrc — Talk build configuration
-# Inherits XeLaTeX mode from parent; adds preamble search path for talks.
+# NOTE: Talks are now .qmd files compiled via `quarto render`. Quarto handles
+# its own LaTeX passes internally. This file is only needed if you run latexmk
+# directly on a .tex file outside Quarto (e.g., a one-off raw Beamer file).
 
 $pdf_mode = 5;
 $postscript_mode = $dvi_mode = 0;

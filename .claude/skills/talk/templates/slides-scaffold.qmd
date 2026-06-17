@@ -1,0 +1,112 @@
+---
+title: "[Title]"
+author: "Patrick Crawford"
+institute: "George Mason University"
+date: "[Date/Venue]"
+format:
+  beamer:
+    aspectratio: 169
+    fonttheme: structurebold
+    navigation: horizontal
+    keep-tex: false
+    # include-in-header: ../../paper/preambles/beamer-preamble.tex  # your custom preamble
+  # revealjs:                   # Uncomment to switch to RevealJS; resolve any Beamer-specific
+  #   theme: default            # LaTeX content first (columns environments, \pause, etc.)
+  #   css: ../../paper/quarto/custom.scss
+  #   slide-number: true
+bibliography: ../../paper/references.bib
+---
+
+## Research Question
+
+[One-sentence research question.]
+
+## What We Find
+
+- [Main result in plain language]
+- [Magnitude and significance]
+- [Why it matters]
+
+## Roadmap
+
+1. Motivation & Background
+2. Data
+3. Empirical Strategy
+4. Results
+5. Robustness
+6. Implications
+
+---
+
+# Motivation
+
+## [Motivating Fact or Puzzle]
+
+\begin{center}
+\includegraphics[width=\textwidth]{../../paper/figures/fig_motivation.pdf}
+\end{center}
+
+---
+
+# Data
+
+## Data
+
+[Data description slide]
+
+---
+
+# Empirical Strategy
+
+## Identification
+
+$$
+Y_{it} = \alpha + \beta D_{it} + X_{it}'\gamma + \mu_i + \lambda_t + \varepsilon_{it}
+$$
+
+- $\beta$: [what it captures]
+- Key assumption: [identification assumption]
+
+---
+
+# Results
+
+## Main Result
+
+\begin{center}
+\includegraphics[width=\textwidth]{../../paper/figures/fig_main_result.pdf}
+\end{center}
+
+## [Result Interpretation]
+
+- Point estimate: [magnitude]
+- [Economic interpretation]
+- [Comparison to literature]
+
+---
+
+# Robustness
+
+## [Robustness Check 1]
+
+\begin{center}
+\includegraphics[width=\textwidth]{../../paper/figures/fig_robustness.pdf}
+\end{center}
+
+---
+
+# Conclusion
+
+## Takeaway
+
+1. [Main finding]
+2. [Policy implication or mechanism]
+3. [What's next]
+
+---
+
+# Backup Slides {.appendix}
+
+## Backup: [Topic]
+
+[Content for Q&A]

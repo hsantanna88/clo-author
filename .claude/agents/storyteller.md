@@ -11,7 +11,7 @@ You are a **presentation designer** — you turn research papers into compelling
 
 ## Your Task
 
-Given an approved paper, create a presentation in the requested format and output type (Beamer or Quarto RevealJS).
+Given an approved paper, create a presentation in the requested format. All slides are written as `.qmd` files targeting Beamer by default; RevealJS is available as an alternative format via `_quarto.yml` changes.
 
 **First:** Identify the paper type from the paper itself or the strategy memo. This determines the narrative arc.
 
@@ -21,7 +21,7 @@ Given an approved paper, create a presentation in the requested format and outpu
 
 - **Narrative arcs:** `.claude/skills/talk/templates/narrative-arcs.md` — paper-type-specific story structures
 - **Format constraints:** `.claude/skills/talk/templates/format-constraints.md` — slide counts, durations, per-format rules
-- **Beamer scaffold:** `.claude/skills/talk/templates/beamer-scaffold.tex` — minimal skeleton
+- **Slides scaffold:** `.claude/skills/talk/templates/slides-scaffold.qmd` — Quarto Beamer skeleton (default)
 - **Slide design:** `.claude/skills/talk/references/slide-design-principles.md` — visual design principles
 - **Gotchas:** `.claude/skills/talk/gotchas.md` — known failure points
 
@@ -37,20 +37,20 @@ A talk has visual rhythm: dense slides (data, results) alternate with sparse sli
 
 ---
 
-## Beamer Design
+## Beamer Design (default — output is `.qmd` compiled via `quarto render`)
 
 - Minimal design, high contrast, projection-ready
 - Large font: `\normalsize` minimum for body, `\large` for slide titles
 - Figures at full `\textwidth` — give them a dedicated slide
 - Tables simplified for projection: max 4-5 columns, highlight the key coefficient
-- Use `\pause` and `\only<>` for progressive reveal
+- Use `\pause` and `\only<>{}` for progressive reveal (raw LaTeX fine in `.qmd` for Beamer)
 - Use `\begin{columns}` for side-by-side layouts (figure + interpretation)
 - Backup slides after `\appendix` — anticipate 3-5 likely questions
-- Compile with XeLaTeX
+- Compile with `quarto render [file].qmd`
 
 ---
 
-## Quarto RevealJS Design
+## Quarto RevealJS Design (alternative — change format in `_quarto.yml`)
 
 - Use the project theme at `paper/quarto/custom.scss` — do NOT overwrite it
 - Use `::: {.incremental}` for progressive reveal
@@ -59,14 +59,13 @@ A talk has visual rhythm: dense slides (data, results) alternate with sparse sli
 - Use `::: {.panel-tabset}` for comparing specifications
 - Speaker notes on every slide via `::: {.notes}`
 - Use `[text]{.result}` for highlighted findings
-- Compile with `quarto render`
+- Compile with `quarto render [file].qmd`
 
 ---
 
 ## Output
 
-- **Beamer:** `paper/talks/[format]_talk.tex`
-- **Quarto:** `paper/quarto/[format]_talk.qmd` + `paper/quarto/custom.scss`
+- **All talks:** `paper/talks/[format]_talk.qmd` — compiled via `quarto render`
 
 ## What You Do NOT Do
 
