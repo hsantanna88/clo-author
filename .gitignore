@@ -62,29 +62,14 @@ docs/
 project_dashboard.html
 quality_reports/**/*.html
 
-# ── Large data files (gitignored — download from HuggingFace or regenerate) ──
+# ── Large data files — add project-specific patterns below ──
 
-# BERTopic notebook outputs (large CSVs — HuggingFace: patrickjcrawford/civil-war-news)
-data/cleaned/bertopic_panel_*.csv
-data/cleaned/bertopic_results_*.csv
-data/cleaned/sentiment_results.csv
-
-# Cleaned panels (regenerate with 01_build_panel.R)
+# Cleaned datasets (regenerate from scripts)
 data/cleaned/*.rds
+data/cleaned/*.csv
+data/cleaned/*.parquet
 
-# Raw large files
+# Raw large files (download instructions in data/raw/README or replication package)
+data/raw/*.zip
 data/raw/*.npy
-data/raw/news_proc.zip
-data/raw/news_proc/
-data/raw/americanstories_civilwar.zip
-data/raw/americanstories_civilwar/
-data/raw/news_filt/
-data/raw/news_model_sub/
-data/raw/sent_df_sub.csv
-data/raw/sentiment_df_sub.csv
-data/raw/top2vec_df_sub_NEW.csv
-data/raw/top2vec_df_all_sub.csv
-data/raw/top2vec_reduced_*.csv
-
-# GIS shapefiles (large — download from NHGIS / ICPSR)
-data/raw/gis/
+data/raw/*.csv
