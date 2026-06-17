@@ -66,7 +66,9 @@ Quarto
 │   ├── figures/                 # Generated figures (by-script subdirs)
 │   ├── tables/                  # Generated tables (by-script subdirs)
 │   ├── sections/                # Section-level .qmd files (optional)
-│   └── preambles/               # LaTeX templates for PDF output
+│   ├── preambles/               # LaTeX templates for PDF output
+│   ├── talks/                   # Presentation slides (.qmd → Beamer or RevealJS)
+│   └── outreach/                # Public-facing writing (op-eds, ProMarket, press)
 ├── data/
 │   ├── raw/                     # Original data (large files gitignored)
 │   └── cleaned/                 # Analysis-ready datasets (gitignored)
