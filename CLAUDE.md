@@ -5,9 +5,9 @@
      Keep this file under ~150 lines — Claude loads it every session.
      See the guide at https://hugosantanna.github.io/clo-author/ for full documentation. -->
 
-**Project:** [YOUR PROJECT NAME]
-**Institution:** [YOUR INSTITUTION]
-**Field:** [YOUR FIELD — Economics by default. Can be adapted to Finance, Accounting, Marketing, etc.]
+**Project:** Efectos de la Derogación de la Ley de Promoción Agraria sobre los Ingresos Laborales en Perú
+**Institution:** Universidad / IPA
+**Field:** Economía Agrícola — Quasi-experimental labor economics
 **Branch:** main
 
 ---
@@ -134,7 +134,32 @@ Output organization: by-script
 
 | Component | File | Status | Description |
 |-----------|------|--------|-------------|
-| Paper | `paper/main.tex` | [draft/submitted/R&R] | [Brief description] |
-| Data | `scripts/R/` | [complete/in-progress] | [Analysis description] |
-| Replication | `paper/replication/` | [not started/ready] | [Deposit status] |
-| Job Market Talk | `paper/talks/job_market_talk.tex` | -- | [Status] |
+| Paper | `paper/main.tex` | draft | DiD analysis of Ley 31110 on agricultural worker incomes |
+| Data | `data/raw/enaho/` | in-progress | ENAHO Módulo 500, años 2004-2024 |
+| Scripts | `scripts/stata/` | in-progress | Panel construction + DiD estimation |
+| Replication | `paper/replication/` | not started | Pending analysis completion |
+
+---
+
+## Research Design
+
+**Pregunta:** ¿Cuál fue el efecto de la Ley 31110 (dic 2020) sobre los ingresos laborales de trabajadores del sector agrícola en Perú?
+
+**Estrategia:** Difference-in-Differences con event study
+- **Tratado:** Trabajadores en empresas cubiertas por Ley 27360/31110 — CIIU Rev.3 p506 ∈ {111,112,113,121,122,130,140}
+- **Control:** Trabajadores en sectores excluidos — CIIU Rev.3 p506 ∈ {200,500,1512}
+- **Pre-tratamiento:** 2004–2020 (17 años)
+- **Post-tratamiento:** 2021–2024
+- **Variable dependiente:** log(ingreso laboral mensual), deflactado
+
+**Datos:** ENAHO Módulo 500 (empleo e ingresos), INEI — años 2004–2024
+- Variable sector: p506 (CIIU Rev.3 — consistente en todos los años)
+- Efectos fijos: conglomerado + año
+- Clustering: a nivel conglomerado (wild cluster bootstrap)
+- Paquete Stata: reghdfe, coefplot
+
+**Referencia metodológica:** Yagan (2015) NBER WP — DiD con grupos definidos por cobertura de política
+
+---
+
+## Beamer Custom Environments (Talks)
