@@ -41,7 +41,7 @@ Claude reads the config, plans the approach, you approve, it runs. Works in the 
 
 ## Commands
 
-13 skills, each with modes:
+14 skills, each with modes:
 
 | Skill | What It Does |
 |-------|-------------|
@@ -56,6 +56,7 @@ Claude reads the config, plans the approach, you approve, it runs. Works in the 
 | `/submit` | Journal targeting, replication package, final gate |
 | `/tools` | Utilities: commit, compile, validate-bib, journal, deploy |
 | `/checkpoint` | Session handoff: saves progress to memory + Obsidian |
+| `/dashboard` | Generate/refresh the single-page HTML project dashboard |
 | `/freeze` | Lock directories from accidental edits |
 | `/careful` | Block destructive shell commands |
 
