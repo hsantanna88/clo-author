@@ -113,6 +113,36 @@ Adding a new agent: create the agent file in `.claude/agents/`, add an entry her
 - **ESCALATION_TARGET:** Writer — talk narrative issues stem from paper structure
 - **QUALITY_WEIGHT:** Advisory (reported, non-blocking)
 
+## coherence-specification / coherence-claims / coherence-continuity / coherence-notation / coherence-theory
+- **PHASE:** Any — runs standalone wherever a manuscript exists
+- **PARALLEL_GROUP:** coherence-finders (all five dispatch concurrently)
+- **REQUIRES:** `quality_reports/coherence/slices/{name}.json`, produced by `scripts/paper_coherence.py --slices`
+- **PRODUCES:** candidate findings (JSON, in-memory) — no files
+- **CRITIC:** coherence-skeptic — one instance per candidate finding, prompted to refute
+- **ESCALATION_TARGET:** coherence-consolidator
+- **QUALITY_WEIGHT:** None — advisory layer, never blocks
+- **CONDITIONAL:** Each agent is skipped when its slice is empty. `coherence-theory` produces nothing on applied papers using off-the-shelf estimators, which is the correct result.
+
+## coherence-skeptic
+- **PHASE:** Any
+- **PARALLEL_GROUP:** coherence-verify (one instance per candidate finding)
+- **REQUIRES:** One candidate finding from a coherence finder
+- **PRODUCES:** A refutation verdict, optionally a corrected finding
+- **CRITIC:** None — this agent *is* the verification step
+- **ESCALATION_TARGET:** coherence-consolidator
+- **QUALITY_WEIGHT:** None
+- **NOTE:** Defaults to refuted when uncertain. Fan-out multiplies the false-positive surface; this stage is what pays for it.
+
+## coherence-consolidator
+- **PHASE:** Any
+- **PARALLEL_GROUP:** None — single merge stage, runs after the fan-out barrier
+- **REQUIRES:** Surviving findings from all finders, plus the Layer 1 deterministic findings
+- **PRODUCES:** `## Reasoning layer` section appended to `quality_reports/coherence/YYYY-MM-DD_report.md`
+  - Required content: funnel counts (candidates → survived → merged), ranked findings
+- **CRITIC:** None — infrastructure agent
+- **ESCALATION_TARGET:** User — prose and table disagree and only the author knows which is stale
+- **QUALITY_WEIGHT:** None. Coherence is a gate, not a score: Layer 1 findings block at zero tolerance rather than deducting points; reasoning findings never block.
+
 ## verifier
 - **PHASE:** Submission
 - **PARALLEL_GROUP:** submission

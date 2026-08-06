@@ -72,4 +72,6 @@ These are non-negotiable. Every agent checks against them. Violations are deduct
 | **coder-critic** | INV-13 through INV-19 | Deduct per scoring rubric |
 | **storyteller-critic** | INV-20, INV-21 | Deduct per scoring rubric |
 | **verifier** | INV-9, INV-10, INV-14, INV-15, INV-16, INV-19, INV-23, INV-24, INV-25 | FAIL if present |
+| **/coherence** (deterministic) | INV-7, INV-11, INV-13, INV-23 | Blocking finding — mechanically detected, zero tolerance |
+| **coherence-auditor** (reasoning) | INV-7, INV-8, INV-11 | Advisory finding — never blocks |
 | **lint hook** | INV-14, INV-15, INV-16, INV-19 | Advisory warning |
