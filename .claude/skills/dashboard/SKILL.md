@@ -56,12 +56,33 @@ Append a new entry to the changelog section with today's date. Prompts for:
 | 2 | Data | `#data` | Role inventory + file-level tables with sizes |
 | 3 | Identification | `#identification` | IV/design, specifications, threats, fallback |
 | 4 | Literature | `#literature` | Positioning, proximity, gaps |
-| 5 | Code | `#code` | Scripts list with run status |
+| 5 | Code | `#code` | Scripts list with run status **and understanding status** |
 | 6 | Quality | `#quality` | Component scores and gate status |
 | 7 | History | `#history` | Timeline of quality reports |
 | 8 | Plans | `#plans` | Active plans (DRAFT/APPROVED/COMPLETED) |
 | 9 | Paper | `#paper` | Figures/tables plan, word allocation |
 | 10 | Changelog | `#changelog` | Reverse-chronological milestone log |
+
+---
+
+## Understanding Column (Code section)
+
+The Code section carries a status pill per script from:
+
+```bash
+python3 scripts/explainer_status.py --json
+```
+
+| Status | Pill | Meaning |
+|--------|------|---------|
+| PASSED | green | Current explainer, quiz passed at this fingerprint |
+| UNTESTED | amber | Explainer current, quiz not taken |
+| STALE | amber | Script changed since the explainer was written |
+| MISSING | grey | No explainer |
+
+Link each pill to `quality_reports/explainers/{script}_explainer.md` when it exists. This is the
+early-warning surface for INV-26 — the gate itself fires at `/submit`, and by then a STALE row is
+a deadline problem. See `.claude/rules/understanding.md`.
 
 ---
 

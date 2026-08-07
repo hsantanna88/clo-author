@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<!--
+  MICRO-WORLD SKELETON — clo-author /explain
+
+  A micro-world is a small interactive world where the author turns the knobs that mattered
+  in the analysis and watches the estimate move. Reading code gives you the what; this gives
+  you the feel. Sliders, a live number, a plot. No build step, no CDN, one file.
+
+  TWO HONEST MODES — declare which one in data-mode below, and the banner follows:
+
+    data-mode="precomputed"  The analysis was re-run over the parameter grid and the results
+                             are embedded in GRID below. Real estimates. Preferred.
+    data-mode="illustrative" A toy DGP that shows the mechanism. NOT this paper's numbers.
+                             The banner says so, loudly, and stays visible.
+
+  Never ship an illustrative page that could be mistaken for results.
+
+  TO USE: replace GRID, the PARAMS definitions, and the render() body. Delete this comment.
+-->
+<html lang="en" data-mode="precomputed">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Micro-world: [script name]</title>
+<style>
+:root{
+  --ivory:#faf9f5; --paper:#fff; --slate:#141413; --clay:#d97757; --clay-d:#b85c3e;
+  --oat:#e3dacc; --g100:#f0eee6; --g200:#e6e3da; --g300:#d1cfc5; --g500:#87867f; --g700:#3d3d3a;
+  --warn:#b8860b;
+  --serif:ui-serif,Georgia,'Times New Roman',Times,serif;
+  --sans:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  --mono:ui-monospace,'SF Mono',Menlo,Monaco,Consolas,monospace;
+  --max-w:880px; --radius:10px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ivory:#1a1917; --paper:#222220; --slate:#e8e6e0; --g100:#2a2926; --g200:#333230;
+    --g300:#4a4945; --g500:#9a998f; --g700:#c8c6be; --oat:#3d3830; --clay:#e0896a; --clay-d:#c97050;
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ivory);color:var(--slate);font-family:var(--sans);
+  font-size:15px;line-height:1.6}
+.page{max-width:var(--max-w);margin:0 auto;padding:36px 24px 80px}
+h1{font-family:var(--serif);font-size:26px;font-weight:600;margin:0 0 4px}
+.sub{color:var(--g500);font-size:13.5px;margin:0 0 24px}
+.banner{border-radius:var(--radius);padding:12px 16px;margin:0 0 24px;font-size:13.5px;
+  border:1.5px solid var(--g300);background:var(--g100)}
+.banner.illustrative{border-color:var(--warn);background:color-mix(in srgb,var(--warn) 12%,transparent)}
+.banner strong{font-weight:650}
+.panel{background:var(--paper);border:1px solid var(--g200);border-radius:var(--radius);
+  padding:22px 24px;margin:0 0 20px}
+.knob{margin:0 0 20px}
+.knob:last-child{margin-bottom:0}
+.knob label{display:flex;justify-content:space-between;align-items:baseline;
+  font-size:13.5px;font-weight:550;margin:0 0 6px}
+.knob .val{font-family:var(--mono);font-size:13px;color:var(--clay)}
+.knob .hint{font-size:12.5px;color:var(--g500);font-weight:400;margin:4px 0 0}
+input[type=range]{width:100%;accent-color:var(--clay);cursor:pointer}
+.toggle{display:flex;gap:8px;flex-wrap:wrap}
+.toggle button{font:inherit;font-size:13px;padding:6px 14px;border-radius:999px;cursor:pointer;
+  border:1.5px solid var(--g300);background:transparent;color:var(--g500)}
+.toggle button.on{border-color:var(--clay);color:var(--clay)}
+.readout{display:flex;gap:32px;flex-wrap:wrap;align-items:flex-end}
+.stat{min-width:120px}
+.stat .k{font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--g500)}
+.stat .v{font-family:var(--mono);font-size:28px;font-weight:600;line-height:1.2}
+.stat .v.muted{color:var(--g500);font-size:20px}
+.stat .se{font-family:var(--mono);font-size:13px;color:var(--g500)}
+figure{margin:20px 0 0}
+svg{width:100%;height:auto;display:block}
+.note{font-size:12.5px;color:var(--g500);margin:20px 0 0;padding-top:14px;
+  border-top:1px solid var(--g200)}
+@media print{input,.toggle{display:none}}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <h1>Micro-world: [what this explores]</h1>
+  <p class="sub">Companion to <code>quality_reports/explainers/[script]_explainer.md</code></p>
+
+  <!-- Precomputed banner. Swap for the illustrative one below when data-mode="illustrative". -->
+  <div class="banner">
+    <strong>Real estimates.</strong> Every cell was produced by re-running
+    <code>scripts/R/NN_name.R</code> over a [N]-point grid on YYYY-MM-DD. Moving a slider reads
+    off that grid — it does not re-estimate anything in your browser.
+  </div>
+  <!--
+  <div class="banner illustrative">
+    <strong>Illustrative — simulated data.</strong> These are not this paper's estimates. The
+    page shows how the mechanism behaves under a toy data-generating process. Do not cite a
+    number from this page.
+  </div>
+  -->
+
+  <div class="panel">
+    <div class="knob">
+      <label for="k1">Balanced-panel window (years)<span class="val" id="k1v">7</span></label>
+      <input type="range" id="k1" min="3" max="9" step="1" value="7">
+      <p class="hint">Longer windows buy cleaner within-worker variation and cost you the
+        establishments that churn. Watch N and the estimate move together.</p>
+    </div>
+
+    <div class="knob">
+      <label>Clustering level</label>
+      <div class="toggle" id="k2">
+        <button data-v="muni" class="on">Municipality</button>
+        <button data-v="state">State</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="readout">
+      <div class="stat">
+        <div class="k">Estimate</div>
+        <div class="v" id="beta">—</div>
+        <div class="se" id="se">—</div>
+      </div>
+      <div class="stat">
+        <div class="k">Sample N</div>
+        <div class="v muted" id="n">—</div>
+      </div>
+      <div class="stat">
+        <div class="k">vs. main spec</div>
+        <div class="v muted" id="delta">—</div>
+      </div>
+    </div>
+
+    <figure>
+      <svg id="plot" viewBox="0 0 720 260" role="img"
+           aria-label="Estimate and confidence interval across the parameter grid"></svg>
+    </figure>
+  </div>
+
+  <p class="note">
+    Built by <code>/explain --microworld</code>. The point is intuition, not results: nothing on
+    this page belongs in the paper unless it also appears in a table produced by the script.
+  </p>
+
+</div>
+
+<script>
+// ---------------------------------------------------------------------------
+// GRID — replace with real output. Emit this from the analysis script as JSON:
+//   jsonlite::write_json(grid_results, "quality_reports/explainers/NN_grid.json")
+// then paste it here so the page stays a single self-contained file.
+// Key convention: "<param1>|<param2>" -> {b, se, n}
+// ---------------------------------------------------------------------------
+const GRID = {
+  "3|muni":  {b:-0.031, se:0.009, n:35442880},
+  "5|muni":  {b:-0.038, se:0.010, n:32118904},
+  "7|muni":  {b:-0.043, se:0.011, n:29004551},
+  "9|muni":  {b:-0.047, se:0.014, n:24880112},
+  "3|state": {b:-0.031, se:0.017, n:35442880},
+  "5|state": {b:-0.038, se:0.018, n:32118904},
+  "7|state": {b:-0.043, se:0.019, n:29004551},
+  "9|state": {b:-0.047, se:0.023, n:24880112}
+};
+const MAIN = "7|muni";          // the specification the paper actually reports
+const K1_STEPS = [3,5,7,9];     // grid points for the slider (snap to these)
+
+const $ = id => document.getElementById(id);
+let k1 = 7, k2 = "muni";
+
+const fmtN = n => n.toLocaleString("en-US");
+const nearest = v => K1_STEPS.reduce((a,b) => Math.abs(b-v) < Math.abs(a-v) ? b : a);
+
+function render(){
+  const cell = GRID[`${k1}|${k2}`];
+  $("k1v").textContent = k1;
+  if(!cell){ $("beta").textContent = "—"; return; }
+
+  $("beta").textContent = cell.b.toFixed(3);
+  $("se").textContent   = `(${cell.se.toFixed(3)})`;
+  $("n").textContent    = fmtN(cell.n);
+
+  const main = GRID[MAIN];
+  const pct  = 100 * (cell.b - main.b) / Math.abs(main.b);
+  $("delta").textContent = (`${k1}|${k2}` === MAIN)
+    ? "main spec"
+    : `${pct > 0 ? "+" : ""}${pct.toFixed(0)}%`;
+
+  drawPlot();
+}
+
+function drawPlot(){
+  const svg = $("plot"), W = 720, H = 260, P = {t:20,r:20,b:38,l:56};
+  const cells = K1_STEPS.map(s => ({s, ...GRID[`${s}|${k2}`]})).filter(d => d.b !== undefined);
+  const lo = Math.min(...cells.map(d => d.b - 1.96*d.se));
+  const hi = Math.max(...cells.map(d => d.b + 1.96*d.se));
+  const pad = (hi - lo) * 0.25 || 0.01;
+  const y = v => P.t + (H-P.t-P.b) * (1 - (v - (lo-pad)) / ((hi+pad) - (lo-pad)));
+  const x = i => P.l + (W-P.l-P.r) * (cells.length===1 ? 0.5 : i/(cells.length-1));
+  const css = k => getComputedStyle(document.documentElement).getPropertyValue(k).trim();
+
+  let out = `<line x1="${P.l}" x2="${W-P.r}" y1="${y(0)}" y2="${y(0)}"
+    stroke="${css('--g300')}" stroke-dasharray="3 3"/>`;
+  cells.forEach((d,i) => {
+    const sel = d.s === k1;
+    out += `<line x1="${x(i)}" x2="${x(i)}" y1="${y(d.b-1.96*d.se)}" y2="${y(d.b+1.96*d.se)}"
+      stroke="${sel?css('--clay'):css('--g300')}" stroke-width="${sel?2.5:1.5}"/>`;
+    out += `<circle cx="${x(i)}" cy="${y(d.b)}" r="${sel?6:4}"
+      fill="${sel?css('--clay'):css('--g500')}"/>`;
+    out += `<text x="${x(i)}" y="${H-14}" text-anchor="middle" font-size="12"
+      fill="${sel?css('--clay'):css('--g500')}" font-family="${css('--sans')}">${d.s}y</text>`;
+  });
+  [lo, (lo+hi)/2, hi].forEach(v => {
+    out += `<text x="${P.l-10}" y="${y(v)+4}" text-anchor="end" font-size="11"
+      fill="${css('--g500')}" font-family="${css('--mono')}">${v.toFixed(3)}</text>`;
+  });
+  svg.innerHTML = out;
+}
+
+$("k1").addEventListener("input", e => { k1 = nearest(+e.target.value); render(); });
+$("k2").addEventListener("click", e => {
+  const btn = e.target.closest("button"); if(!btn) return;
+  [...$("k2").children].forEach(b => b.classList.toggle("on", b === btn));
+  k2 = btn.dataset.v; render();
+});
+matchMedia("(prefers-color-scheme:dark)").addEventListener("change", drawPlot);
+render();
+</script>
+</body>
+</html>

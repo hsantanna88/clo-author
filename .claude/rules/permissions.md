@@ -66,6 +66,17 @@ Adding a new agent: create the agent file in `.claude/agents/`, add an entry her
 - **ESCALATION_TARGET:** strategist-critic — re-evaluates whether the strategy memo is implementable
 - **QUALITY_WEIGHT:** 15% (code quality)
 
+## explainer
+- **PHASE:** Execution
+- **PARALLEL_GROUP:** execution-explain
+- **REQUIRES:** `scripts/` contains the target script AND coder-critic score >= 80
+- **PRODUCES:** `quality_reports/explainers/`
+  - Required files: `{script}_explainer.md`, `{script}_quiz.md`, `{script}_quiz_key.md`
+  - Required sections (explainer): Headline, Sample construction ledger, Variable construction, Judgment calls, What would change the answer, Open questions
+- **CRITIC:** None — the quiz is the verification, and the author is who it verifies
+- **ESCALATION_TARGET:** coder — the sample ledger came back `NOT INSTRUMENTED`, so the script must print drop counts before an honest explainer can exist
+- **QUALITY_WEIGHT:** None. Understanding is a gate, not a score (see `.claude/rules/understanding.md`) — a quiz result is a fact about the author, not the artifact.
+
 ## writer
 - **PHASE:** Execution
 - **PARALLEL_GROUP:** execution-write
@@ -164,6 +175,7 @@ Agents in the same parallel group can run concurrently when their REQUIRES are m
 | strategy | strategist, theorist | After Discovery (literature OR data assessment) |
 | execution-data | data-engineer | After Strategy (approved strategy memo) |
 | execution-code | coder | After Strategy (approved strategy memo) |
+| execution-explain | explainer | After Code (approved code output) — parallel with execution-write |
 | execution-write | writer | After Code (approved code output) |
 | peer-review | editor, domain-referee, methods-referee | After Execution (approved paper + code) |
 | presentation | storyteller | After Write (approved paper) — can run parallel with Peer Review |

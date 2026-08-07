@@ -100,12 +100,38 @@ If coder-critic finds Critical or Major issues:
 1. Re-dispatch Coder with specific fixes (max 3 rounds)
 2. Re-run coder-critic to verify fixes
 
-### Step 6: Present Results
+### Step 6: Explainer and Quiz (mandatory once code review passes)
+
+Code review answers "is this correct?" It does not answer "does the author understand it?" Those
+are different questions and only the first one scales — nobody reads a 2,000-line cleaning
+pipeline line by line, and the sample restrictions buried in it are what a referee will ask about.
+
+Once coder-critic scores >= 80, dispatch the **explainer** agent (see `.claude/agents/explainer.md`):
+
+```
+quality_reports/explainers/{script}_explainer.md    # delta against the strategy memo
+quality_reports/explainers/{script}_quiz.md         # 5 questions
+quality_reports/explainers/{script}_quiz_key.md     # answers + traces, separate file
+```
+
+**If the sample construction ledger comes back `NOT INSTRUMENTED`**, the script is not printing
+drop counts. Re-dispatch the Coder to add them to the restriction block, re-run, then re-dispatch
+the explainer. Never let the explainer estimate a count it could not read.
+
+Then present the explainer and offer the quiz. Taking it is the author's call — the gate does not
+block here. It blocks at `/submit`, warns at `/write results`, and `python3
+scripts/explainer_status.py` reports coverage at any time. See `.claude/rules/understanding.md`.
+
+Full protocol, grading, and micro-worlds: `/explain`.
+
+### Step 7: Present Results
 1. **Results summary** — key estimates with SEs and interpretation (from `results_summary.md`)
 2. **Scripts created** — paths and descriptions
 3. **Output files** — tables in `paper/tables/`, figures in `paper/figures/`
 4. **Code review score** — from coder-critic
-5. **TODO items** — missing data, additional specifications needed
+5. **Sample ledger headline** — the restriction that dropped the most observations, with counts
+6. **Quiz** — offered, and its result if taken
+7. **TODO items** — missing data, additional specifications needed
 
 ---
 
@@ -225,6 +251,7 @@ Inspired by Scott Cunningham's replication methodology: **if two independent imp
 - **Show your work.** Print summary statistics before jumping to regressions.
 - **Strategy alignment.** If strategy memo exists, code MUST implement it faithfully.
 - **Worker-critic pairing.** Coder creates, coder-critic critiques. Never skip review.
+- **Correct is not the same as understood.** Every passing script gets an explainer and a quiz. If you cannot say which restriction cost you the most observations, you do not yet own the result.
 - **saveRDS everything.** Every computed object gets saved via `saveRDS()` for downstream use -- model fits, cleaned data frames, summary statistics, not just final tables.
 - **Publication-ready output.** Tables and figures directly includable in the paper.
 - **Cross-language convergence.** When `--dual` is used, divergence is a bug until proven otherwise.

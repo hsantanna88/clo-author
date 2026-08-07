@@ -35,6 +35,19 @@ No component can be below 80 for submission. A perfect literature review can't c
 | Submission | >= 95 | >= 80 per component | Allowed |
 | Below 80 | < 80 | — | Blocked |
 
+### Gates That Are Not Scores
+
+Two checks sit outside the weighted aggregate entirely — they are pass/fail and never deduct:
+
+| Gate | Rule | Blocks at |
+|------|------|-----------|
+| Coherence (Layer 1) | `.claude/rules/content-invariants.md` | Zero tolerance, any phase |
+| Understanding (INV-26) | `.claude/rules/understanding.md` | `/submit` |
+
+The understanding gate is excluded from the score by design: a quiz result is a fact about the
+author, not the artifact. Folding it in would let good code compensate for an author who cannot
+explain it — which is the exact trade the gate exists to block.
+
 ### When Components Are Missing
 
 Not every project uses all components. If a component hasn't been scored:

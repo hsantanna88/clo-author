@@ -19,6 +19,7 @@
 - **Single source of truth** -- Paper `main.tex` is authoritative; talks and supplements derive from it
 - **Quality gates** -- weighted aggregate score; nothing ships below 80/100; see `quality.md`
 - **Worker-critic pairs** -- every creator has a paired critic; critics never edit files
+- **Understand before you ship** -- every script behind an exhibit gets an explainer and a quiz; `/submit` blocks without a passing attempt (`understanding.md`)
 - **Auto-memory** -- corrections and preferences are saved automatically via Claude Code's built-in memory system
 
 ---
@@ -99,6 +100,7 @@ See `quality.md` for weighted aggregation formula.
 | `/discover [mode] [topic]` | Discovery: interview, literature, data, ideation |
 | `/strategize [mode] [question]` | Identification strategy, pre-analysis plan, or formal theory section (`theory` mode) |
 | `/analyze [dataset]` | End-to-end data analysis |
+| `/explain [script]` | Explainer + 5-question quiz for code an agent wrote (`--microworld`, `--status`) |
 | `/write [section]` | Draft paper sections + humanizer pass (`style-guide` mode extracts voice from prior papers) |
 | `/coherence [file]` | Internal-consistency audit: cross-refs, citation keys, claim numbers vs tables |
 | `/review [file/--flag]` | Quality reviews (routes by target: paper, code, peer) |

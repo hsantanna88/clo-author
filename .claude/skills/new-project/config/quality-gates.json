@@ -18,6 +18,16 @@
   },
   "peer_review_to_submission": {
     "required_overall": 95,
-    "required_per_component": 80
+    "required_per_component": 80,
+    "required_gates": [
+      {
+        "name": "understanding",
+        "rule": ".claude/rules/understanding.md",
+        "command": "python3 scripts/explainer_status.py --gate",
+        "pass_on_exit": 0,
+        "scored": false,
+        "comment": "INV-26: every script behind a paper exhibit needs a current explainer and a passing quiz attempt. Pass/fail, never weighted."
+      }
+    ]
   }
 }

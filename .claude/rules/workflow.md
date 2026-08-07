@@ -195,6 +195,7 @@ All skills in the reference below work without pipeline context when invoked dir
 | `/discover` | Literature search + data discovery |
 | `/strategize` | Identification strategy design + review |
 | `/analyze` | End-to-end data analysis (code + debug) |
+| `/explain` | Explainer + quiz for a script — the comprehension gate |
 | `/write` | Draft paper sections + humanizer pass |
 | `/review` | Simulated peer review (domain + methods referees) |
 | `/revise` | R&R routing per revision-protocol |

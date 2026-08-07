@@ -90,6 +90,19 @@ Rscript scripts/R/FILENAME.R 2>&1 | tail -20
 - Instructions for replication
 - List of tables and figures with generating scripts
 
+### 11. Understanding Coverage (INV-26)
+```bash
+python3 scripts/explainer_status.py --gate
+```
+- Every script producing a file in `paper/tables/` or `paper/figures/` has a current explainer
+- The explainer's front-matter fingerprint matches the script's current hash (not STALE)
+- A passing quiz attempt is logged at that fingerprint in `understanding_log.md`
+- FAIL lists the offending scripts and their status (MISSING / STALE / UNTESTED)
+
+**Report this check separately from the score.** It is a pass/fail gate on the author, not a
+measure of the artifact — it does not enter the Verifier's 5% weight. See
+`.claude/rules/understanding.md`.
+
 ---
 
 ## Scoring
