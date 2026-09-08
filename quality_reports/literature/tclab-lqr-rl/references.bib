@@ -1,0 +1,1218 @@
+% ==============================================================================
+% references.bib — Busqueda de literatura: LQR + RL sobre TCLab
+% Proyecto: tclab-lqr-rl
+% Generado: 2026-09-07 por el agente librarian
+% Revisado:  2026-09-08 — ronda 1 de correccion (informe librarian-critic, 72/100)
+% ==============================================================================
+%
+% CONVENCION DE MARCAS
+%
+%   (sin marca)     Todos los campos verificados contra Crossref (api.crossref.org)
+%                   o contra la pagina oficial de actas (PMLR, NeurIPS Proceedings,
+%                   AAAI OJS). Consultadas efectivamente durante esta busqueda.
+%
+%   % UNVERIFIED    Al menos un campo NO fue confirmado contra una fuente
+%                   efectivamente abierta. La nota adjunta dice EXACTAMENTE que
+%                   campo. No citar en la tesis hasta confirmarlo.
+%
+%   % PUBLICACION_NO_COMPROBADA
+%                   Todos los campos declarados SI estan verificados (pagina de
+%                   arXiv abierta directamente), pero no se comprobo si existe
+%                   version publicada revisada por pares. La entrada ES CITABLE
+%                   como preprint. Antes de la entrega final conviene revisar si
+%                   apareció version publicada, y en tal caso citar esa.
+%
+% SOBRE EL GRADO DE EVIDENCIA: una pagina que aparece en los resultados de una
+% busqueda NO cuenta como consultada. Solo cuenta abrirla. Las entradas cuyos
+% campos provienen de sintesis de resultados llevan % UNVERIFIED, aunque el dato
+% probablemente sea correcto.
+%
+% REGLA: ninguna cita fue inventada. Ningun autor, anio, volumen, pagina ni DOI
+% de este archivo fue completado de memoria. Donde no hubo confirmacion, hay marca.
+%
+% NOTA: este archivo es un ANEXO a Bibliography_base.bib, no un reemplazo.
+% Las entradas semilla ya presentes alli (Kalman, Sutton-Barto, DDPG, PPO, SAC,
+% Ljung, Ogata, etc.) NO se duplican aqui, salvo cuando esta busqueda corrigio
+% o completo un campo; en ese caso se incluye la version corregida con la nota
+% "CORRIGE Bibliography_base.bib".
+%
+% ==============================================================================
+
+
+% ==============================================================================
+% 1. PLATAFORMA TCLab
+% ==============================================================================
+
+@article{Park2020_tclab_benchmark,
+  author  = {Park, Junho and Martin, R. Abraham and Kelly, Jeffrey D.
+             and Hedengren, John D.},
+  title   = {Benchmark temperature microcontroller for process dynamics and control},
+  journal = {Computers \& Chemical Engineering},
+  volume  = {135},
+  pages   = {106736},
+  year    = {2020},
+  doi     = {10.1016/j.compchemeng.2020.106736}
+  % VERIFICADO integramente contra Crossref (10.1016/j.compchemeng.2020.106736):
+  % autores, revista, volumen, numero de articulo, anio. NO tiene rango de
+  % paginas: 106736 es numero de articulo, no pagina inicial.
+  % CORRIGE Bibliography_base.bib -> clave antigua Park2020_tclab.
+}
+
+@article{Patel2023_practical_rl_process,
+  author  = {Patel, Kalpesh M.},
+  title   = {A practical Reinforcement Learning implementation approach for
+             continuous process control},
+  journal = {Computers \& Chemical Engineering},
+  volume  = {174},
+  pages   = {108232},
+  year    = {2023},
+  doi     = {10.1016/j.compchemeng.2023.108232}
+  % VERIFICADO contra Crossref. 108232 es numero de articulo.
+  % Aplica DDPG a una columna de destilacion simulada y al TCLab fisico.
+}
+
+@article{SozaMamani2025_nmpc_drl_thermal,
+  author  = {Soza Mamani, Kevin Marlon and Prado Romo, Alvaro Javier},
+  title   = {Integrating Model Predictive Control with Deep Reinforcement Learning
+             for Robust Control of Thermal Processes with Long Time Delays},
+  journal = {Processes},
+  volume  = {13},
+  number  = {6},
+  pages   = {1627},
+  year    = {2025},
+  doi     = {10.3390/pr13061627}
+  % VERIFICADO contra Crossref. ATENCION: una sintesis de resultados de busqueda
+  % atribuyo este articulo a "Onyenanu, Okyere, Kim y Kim". Esa atribucion es
+  % INCORRECTA. Los autores correctos son los registrados en Crossref y aqui.
+}
+
+@article{Rossiter2019_take_home_kit,
+  author  = {Rossiter, J. A. and Pope, S. A. and Jones, B. Ll. and Hedengren, J. D.},
+  title   = {Evaluation and demonstration of take home laboratory kit},
+  journal = {IFAC-PapersOnLine},
+  volume  = {52},
+  number  = {9},
+  pages   = {56--61},
+  year    = {2019},
+  doi     = {10.1016/j.ifacol.2019.08.124}
+  % VERIFICADO integramente contra Crossref.
+}
+
+@article{MouraOliveira2020_digital_controllers_tclab,
+  author  = {de Moura Oliveira, P. B. and Hedengren, John D. and Rossiter, J. A.},
+  title   = {Introducing Digital Controllers to Undergraduate Students using the
+             {TCLab} {A}rduino Kit},
+  journal = {IFAC-PapersOnLine},
+  volume  = {53},
+  number  = {2},
+  pages   = {17524--17529},
+  year    = {2020},
+  doi     = {10.1016/j.ifacol.2020.12.2662}
+  % VERIFICADO: Crossref confirmo autores, paginas y DOI. El volumen 53 y el
+  % numero 2 se corroboran ademas en la cabecera del PDF depositado en White Rose
+  % ("IFAC PapersOnLine 53-2 (2020) 17524-17529"), consultada durante la busqueda.
+}
+
+@inproceedings{Insuasti2022_tclab_compensators,
+  author    = {Insuasti, Sebastian and Paredes, Jose Luis and Camacho, Oscar},
+  title     = {Controllers and Compensators Design for Undergraduate Control
+               Students: Testing with {TCLab} {A}rduino kit},
+  booktitle = {2022 IEEE Sixth Ecuador Technical Chapters Meeting (ETCM)},
+  pages     = {1--6},
+  year      = {2022},
+  doi       = {10.1109/ETCM56276.2022.9935740}
+  % VERIFICADO contra Crossref.
+}
+
+
+% ==============================================================================
+% 2. RL EN CONTROL DE PROCESOS: REVISIONES Y BENCHMARKS
+% ==============================================================================
+
+@article{Faria2022_rl_meets_process_control,
+  author  = {de Rezende Faria, Ruan and Capron, Bruno Didier Olivier
+             and Secchi, Argimiro Resende and de Souza Jr., Maur{\'i}cio B.},
+  title   = {Where Reinforcement Learning Meets Process Control: Review and Guidelines},
+  journal = {Processes},
+  volume  = {10},
+  number  = {11},
+  pages   = {2311},
+  year    = {2022},
+  doi     = {10.3390/pr10112311}
+  % VERIFICADO contra Crossref (autores, revista, volumen, numero, articulo, anio).
+}
+
+@article{Park2025_rl_process_control_review,
+  author  = {Park, Joonsoo and Jung, Hyein and Kim, Jong Woo and Lee, Jong Min},
+  title   = {Reinforcement Learning for Process Control: Review and Benchmark Problems},
+  journal = {International Journal of Control, Automation and Systems},
+  volume  = {23},
+  number  = {1},
+  pages   = {1--40},
+  year    = {2025},
+  doi     = {10.1007/s12555-024-0990-1}
+  % VERIFICADO contra Crossref.
+}
+
+@article{Bloor2026_pcgym,
+  author  = {Bloor, Maximilian and Torraca, Jos{\'e} and Sandoval, Ilya Orson
+             and Ahmed, Akhil and White, Martha and Mercang{\"o}z, Mehmet
+             and Tsay, Calvin and del R{\'i}o-Chanona, Ehecatl Antonio
+             and Mowbray, Max},
+  title   = {{PC-Gym}: Benchmark environments for process control problems},
+  journal = {Computers \& Chemical Engineering},
+  volume  = {204},
+  pages   = {109363},
+  year    = {2026},
+  doi     = {10.1016/j.compchemeng.2025.109363}
+  % VERIFICADO contra Crossref. Preprint previo: arXiv:2410.22093 (2024).
+  % Notese el desfase: DOI con anio 2025, fecha de publicacion 2026.
+}
+
+@article{Reiter2026_mpc_rl_survey,
+  author  = {Reiter, Rudolf and Hoffmann, Jasper and Reinhardt, Dirk
+             and Messerer, Florian and Baumg{\"a}rtner, Katrin and Sawant, Shambhuraj
+             and Boedecker, Joschka and Diehl, Moritz and Gros, Sebastien},
+  title   = {Synthesis of model predictive control and reinforcement learning:
+             Survey and classification},
+  journal = {Annual Reviews in Control},
+  volume  = {61},
+  pages   = {101045},
+  year    = {2026},
+  doi     = {10.1016/j.arcontrol.2026.101045}
+  % VERIFICADO contra Crossref. Preprint previo: arXiv:2502.02133.
+  % RONDA 1: resumen del preprint LEIDO directamente en arxiv.org/abs/2502.02133.
+  % La categorizacion NO es la triada que se le atribuyo en la ronda 0. Segun el
+  % resumen, la base de la categorizacion es "the versatile actor-critic RL
+  % approach", y el eje examinado es como la optimizacion en linea del MPC puede
+  % usarse para mejorar el desempeno en lazo cerrado de una politica. Corregido
+  % en annotated_bibliography.md y frontier_map.md.
+}
+
+@misc{Lin2024_transfer_learning_process_rl,
+  author       = {Lin, Runze and Chen, Junghui and Xie, Lei and Su, Hongye
+                  and Huang, Biao},
+  title        = {Facilitating Reinforcement Learning for Process Control Using
+                  Transfer Learning: Overview and Perspectives},
+  howpublished = {arXiv:2404.00247},
+  year         = {2024}
+  % UNVERIFIED: sede de publicacion. Una sintesis de resultados de busqueda
+  % indica "Asian Control Conference (ASCC) 2024", pero NO lo confirme contra
+  % Crossref ni contra las actas. Citar como preprint hasta confirmar.
+}
+
+
+% ==============================================================================
+% 3. RL QUE APRENDE SOBRE UN CONTROLADOR CLASICO (ejes a y b)
+% ==============================================================================
+
+@article{Lawrence2022_shallow_controllers,
+  author  = {Lawrence, Nathan P. and Forbes, Michael G. and Loewen, Philip D.
+             and McClement, Daniel G. and Backstr{\"o}m, Johan U.
+             and Gopaluni, R. Bhushan},
+  title   = {Deep reinforcement learning with shallow controllers: An experimental
+             application to {PID} tuning},
+  journal = {Control Engineering Practice},
+  volume  = {121},
+  pages   = {105046},
+  year    = {2022},
+  doi     = {10.1016/j.conengprac.2021.105046}
+  % VERIFICADO contra Crossref. Preprint previo: arXiv:2111.07171.
+  % 105046 es numero de articulo.
+}
+
+@article{McClement2022_meta_rl_pi_tuning,
+  author  = {McClement, Daniel G. and Lawrence, Nathan P. and Backstr{\"o}m, Johan U.
+             and Loewen, Philip D. and Forbes, Michael G. and Gopaluni, R. Bhushan},
+  title   = {Meta-reinforcement learning for the tuning of {PI} controllers:
+             An offline approach},
+  journal = {Journal of Process Control},
+  volume  = {118},
+  pages   = {139--152},
+  year    = {2022},
+  doi     = {10.1016/j.jprocont.2022.08.002}
+  % VERIFICADO contra Crossref (consulta bibliografica).
+}
+
+@article{Lawrence2020_pid_antiwindup_rl,
+  author  = {Lawrence, Nathan P. and Stewart, Gregory E. and Loewen, Philip D.
+             and Forbes, Michael G. and Backstr{\"o}m, Johan U.
+             and Gopaluni, R. Bhushan},
+  title   = {Optimal {PID} and Antiwindup Control Design as a Reinforcement
+             Learning Problem},
+  journal = {IFAC-PapersOnLine},
+  volume  = {53},
+  year    = {2020}
+  % UNVERIFIED: numero (issue) y rango de paginas. Una sintesis de busqueda
+  % indica 53(2):236-241, pero NO lo confirme contra Crossref. El volumen 53 y
+  % el anio 2020 (IFAC World Congress) si son consistentes en varias fuentes.
+  % Preprint: arXiv:2005.04539.
+}
+
+@article{Bloor2025_cirl,
+  author  = {Bloor, Maximilian and Ahmed, Akhil and Kotecha, Niki
+             and Mercang{\"o}z, Mehmet and Tsay, Calvin
+             and del R{\'i}o-Chanona, Ehecatl Antonio},
+  title   = {Control-Informed Reinforcement Learning for Chemical Processes},
+  journal = {Industrial \& Engineering Chemistry Research},
+  volume  = {64},
+  number  = {9},
+  pages   = {4966--4978},
+  year    = {2025},
+  doi     = {10.1021/acs.iecr.4c03233}
+  % VERIFICADO integramente contra Crossref. Preprint previo: arXiv:2408.13566.
+}
+
+@article{GrosZanon2020_economic_nmpc_rl,
+  author  = {Gros, Sebastien and Zanon, Mario},
+  title   = {Data-Driven Economic {NMPC} Using Reinforcement Learning},
+  journal = {IEEE Transactions on Automatic Control},
+  volume  = {65},
+  number  = {2},
+  pages   = {636--648},
+  year    = {2020},
+  doi     = {10.1109/TAC.2019.2913768}
+  % VERIFICADO contra Crossref (consulta bibliografica).
+}
+
+
+% ==============================================================================
+% 4. EJE (a): RL RESIDUAL
+% ==============================================================================
+
+@misc{Silver2018_residual_policy_learning,
+  author       = {Silver, Tom and Allen, Kelsey R. and Tenenbaum, Josh
+                  and Kaelbling, Leslie Pack},
+  title        = {Residual Policy Learning},
+  howpublished = {arXiv:1812.06298},
+  year         = {2018}
+  % PUBLICACION_NO_COMPROBADA: busque version publicada revisada por pares y los
+  % resultados solo muestran el preprint (v2, enero 2019). Los campos declarados
+  % estan verificados: la entrada es CITABLE como preprint.
+  % Segundo nombre de la segunda autora: "Kelsey R. Allen" segun la pagina de
+  % arXiv; la entrada semilla de Bibliography_base.bib omite la inicial.
+  % Citar como preprint es correcto MIENTRAS no aparezca version publicada.
+  % RONDA 1: OpenAlex W2905364877, 52 obras citantes, ninguna en control de
+  % procesos ni en plantas termicas. Ver frontier_map.md seccion de citas.
+}
+
+@inproceedings{Johannink2019_residual_rl_robot,
+  author    = {Johannink, Tobias and Bahl, Shikhar and Nair, Ashvin and Luo, Jianlan
+               and Kumar, Avinash and Loskyll, Matthias and Ojea, Juan Aparicio
+               and Solowjow, Eugen and Levine, Sergey},
+  title     = {Residual Reinforcement Learning for Robot Control},
+  booktitle = {2019 International Conference on Robotics and Automation (ICRA)},
+  pages     = {6023--6029},
+  year      = {2019},
+  doi       = {10.1109/ICRA.2019.8794127}
+  % VERIFICADO contra Crossref: los 9 autores, en ese orden, mas paginas y DOI.
+  % CORRIGE la marca "% VERIFICAR lista completa de autores" de
+  % Bibliography_base.bib: la lista alli era correcta y esta ahora confirmada.
+  % RONDA 1: OpenAlex W2904746163, 45 obras citantes, ninguna en control de
+  % procesos ni en plantas termicas. Ver frontier_map.md seccion de citas.
+}
+
+@misc{Ishihara2023_residual_rl_quadcopter,
+  author       = {Ishihara, Yu and Hazama, Yuichi and Suzuki, Kousuke
+                  and Yokono, Jerry Jun and Sabe, Kohtaro and Kawamoto, Kenta},
+  title        = {Improving Wind Resistance Performance of Cascaded {PID} Controlled
+                  Quadcopters using Residual Reinforcement Learning},
+  howpublished = {arXiv:2308.01648},
+  year         = {2023}
+  % UNVERIFIED: sede de publicacion y paginas. Una sintesis de busqueda indica
+  % IROS 2023, pero la consulta a Crossref NO devolvio este trabajo. Citar la
+  % version arXiv hasta confirmar las actas.
+}
+
+@article{Furieri2024_performance_boosting,
+  author  = {Furieri, Luca and Galimberti, Clara Luc{\'i}a
+             and Ferrari-Trecate, Giancarlo},
+  title   = {Learning to Boost the Performance of Stable Nonlinear Systems},
+  journal = {IEEE Open Journal of Control Systems},
+  volume  = {3},
+  pages   = {342--357},
+  year    = {2024},
+  doi     = {10.1109/OJCSYS.2024.3441768}
+  % VERIFICADO contra Crossref. Existe fe de erratas publicada:
+  % IEEE Open Journal of Control Systems, vol. 4, p. 53, 2025,
+  % DOI 10.1109/OJCSYS.2025.3529361. Revisarla antes de citar resultados.
+  % RONDA 1: resumen del preprint LEIDO en arxiv.org/abs/2405.00871. Confirma
+  % literalmente: "we guarantee L_p closed-loop stability even if optimization is
+  % halted prematurely, and even when the ground-truth dynamics are unknown".
+  % El metodo se apoya en el principio de Internal Model Control (IMC) no lineal.
+  % El resumen dice "several numerical experiments" y NO nombra ninguna planta:
+  % es simulacion, sin hardware declarado.
+}
+
+@article{HoltArmellin2025_rl_enhanced_lqr,
+  author  = {Holt, Harry and Armellin, Roberto},
+  title   = {Reinforcement Learning Enhanced {LQR} and Control {L}yapunov Functions
+             for Spacecraft Proximity Operations},
+  journal = {IEEE Transactions on Robotics},
+  volume  = {41},
+  pages   = {5117--5129},
+  year    = {2025},
+  doi     = {10.1109/TRO.2025.3600160}
+  % VERIFICADO contra Crossref.
+}
+
+
+% ==============================================================================
+% 5. EJE (b): SINTONIA AUTOMATICA DE Q Y R
+% ==============================================================================
+
+@inproceedings{Marco2016_automatic_lqr_tuning,
+  author    = {Marco, Alonso and Hennig, Philipp and Bohg, Jeannette
+               and Schaal, Stefan and Trimpe, Sebastian},
+  title     = {Automatic {LQR} tuning based on {G}aussian process global optimization},
+  booktitle = {2016 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages     = {270--277},
+  year      = {2016},
+  doi       = {10.1109/ICRA.2016.7487144}
+  % VERIFICADO contra Crossref.
+}
+
+@article{Zhang2026_hrl_lqr_weights,
+  author  = {Zhang, Yong and Yan, Xiangrui and Yang, Weiqing and Zhou, Yuyang},
+  title   = {Hierarchical Reinforcement Learning--Based Optimal Control for
+             Model-Free Linear Systems},
+  journal = {Mathematics},
+  volume  = {14},
+  number  = {5},
+  pages   = {895},
+  year    = {2026},
+  doi     = {10.3390/math14050895}
+  % VERIFICADO contra Crossref (autores, revista, volumen, numero, articulo, anio).
+  % SOBRE "SOLO SIMULACION": el resumen habla de "testing on linear systems" y no
+  % menciona hardware, pero NO lei el articulo y la ausencia de mencion en el
+  % resumen no prueba la ausencia de experimento. Esta afirmacion es LOAD-BEARING:
+  % sobre ella descansa el vacio declarado del eje (b). CONFIRMAR leyendo el
+  % articulo (es de acceso abierto en MDPI) antes de apoyar en ella una decision.
+}
+
+@misc{Yildiran2023_rl_based_lqr_pendulum,
+  author       = {Yildiran, Ugur},
+  title        = {Adaptive Control of an Inverted Pendulum by a Reinforcement
+                  Learning-based {LQR} Method},
+  howpublished = {arXiv:2310.04436},
+  year         = {2023}
+  % PUBLICACION_NO_COMPROBADA: campos declarados verificados en la pagina de
+  % arXiv, consultada directamente. CITABLE como preprint.
+}
+
+
+% ==============================================================================
+% 6. EJE (c): RL SEGURO, ESCUDOS Y FILTROS DE SEGURIDAD
+% ==============================================================================
+
+@article{Alshiekh2018_shielding,
+  author  = {Alshiekh, Mohammed and Bloem, Roderick and Ehlers, R{\"u}diger
+             and K{\"o}nighofer, Bettina and Niekum, Scott and Topcu, Ufuk},
+  title   = {Safe Reinforcement Learning via Shielding},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume  = {32},
+  number  = {1},
+  pages   = {2669--2678},
+  year    = {2018},
+  doi     = {10.1609/aaai.v32i1.11797}
+  % PARCIAL: pagina oficial de AAAI OJS consultada; DOI y volumen confirmados.
+  % UNVERIFIED: rango de paginas. 2669-2678 proviene de la sintesis de
+  % resultados, no de la pagina abierta. Confirmar antes de citar el rango.
+}
+
+@article{Cheng2019_cbf_end_to_end_safe_rl,
+  author  = {Cheng, Richard and Orosz, G{\'a}bor and Murray, Richard M.
+             and Burdick, Joel W.},
+  title   = {End-to-End Safe Reinforcement Learning through Barrier Functions for
+             Safety-Critical Continuous Control Tasks},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume  = {33},
+  number  = {1},
+  pages   = {3387--3395},
+  year    = {2019},
+  doi     = {10.1609/aaai.v33i01.33013387}
+  % VERIFICADO: pagina oficial de AAAI OJS consultada; DOI, volumen y paginas
+  % confirmados de forma consistente en AAAI OJS y ACM DL.
+}
+
+@article{WabersichZeilinger2021_predictive_safety_filter,
+  author  = {Wabersich, Kim Peter and Zeilinger, Melanie N.},
+  title   = {A predictive safety filter for learning-based control of constrained
+             nonlinear dynamical systems},
+  journal = {Automatica},
+  volume  = {129},
+  pages   = {109597},
+  year    = {2021},
+  doi     = {10.1016/j.automatica.2021.109597}
+  % VERIFICADO integramente contra Crossref. 109597 es numero de articulo.
+}
+
+@article{ZanonGros2021_safe_rl_robust_mpc,
+  author  = {Zanon, Mario and Gros, Sebastien},
+  title   = {Safe Reinforcement Learning Using Robust {MPC}},
+  journal = {IEEE Transactions on Automatic Control},
+  volume  = {66},
+  number  = {8},
+  pages   = {3638--3652},
+  year    = {2021},
+  doi     = {10.1109/TAC.2020.3024161}
+  % VERIFICADO contra Crossref (consulta bibliografica).
+}
+
+@inproceedings{Berkenkamp2017_safe_mbrl_stability,
+  author    = {Berkenkamp, Felix and Turchetta, Matteo and Schoellig, Angela P.
+               and Krause, Andreas},
+  title     = {Safe Model-based Reinforcement Learning with Stability Guarantees},
+  booktitle = {Advances in Neural Information Processing Systems 30 (NeurIPS)},
+  year      = {2017}
+  % UNVERIFIED: rango de paginas. Una sintesis de busqueda indica 908-919, pero
+  % no lo confirme contra la pagina oficial de NeurIPS Proceedings (que consulte
+  % solo para confirmar la existencia y los autores del articulo). Las actas de
+  % NeurIPS suelen citarse sin paginas; esa es la forma segura.
+}
+
+@misc{Fernandez2020_drl_lqr_regions,
+  author       = {Fernandez, Gabriel I. and Togashi, Colin and Hong, Dennis W.
+                  and Yang, Lin F.},
+  title        = {Deep Reinforcement Learning with Linear Quadratic Regulator Regions},
+  howpublished = {arXiv:2002.09820},
+  year         = {2020}
+  % PUBLICACION_NO_COMPROBADA: autores, titulo y resumen verificados en la
+  % pagina de arXiv, consultada directamente. CITABLE como preprint.
+  % Transferencia sim-to-real validada sobre pendulo invertido.
+}
+
+@article{Brunke2022_safe_learning_robotics,
+  author  = {Brunke, Lukas and Greeff, Melissa and Hall, Adam W. and Yuan, Zhaocong
+             and Zhou, Siqi and Panerati, Jacopo and Schoellig, Angela P.},
+  title   = {Safe Learning in Robotics: From Learning-Based Control to Safe
+             Reinforcement Learning},
+  journal = {Annual Review of Control, Robotics, and Autonomous Systems},
+  volume  = {5},
+  number  = {1},
+  pages   = {411--444},
+  year    = {2022},
+  doi     = {10.1146/annurev-control-042920-020211}
+  % VERIFICADO integramente contra Crossref.
+}
+
+@article{Hewing2020_learning_based_mpc,
+  author  = {Hewing, Lukas and Wabersich, Kim P. and Menner, Marcel
+             and Zeilinger, Melanie N.},
+  title   = {Learning-Based Model Predictive Control: Toward Safe Learning in Control},
+  journal = {Annual Review of Control, Robotics, and Autonomous Systems},
+  volume  = {3},
+  number  = {1},
+  pages   = {269--296},
+  year    = {2020},
+  doi     = {10.1146/annurev-control-090419-075625}
+  % VERIFICADO integramente contra Crossref.
+}
+
+
+% ==============================================================================
+% 7. EJE (d): COMPARATIVAS Y RL EN EL MUNDO REAL
+% ==============================================================================
+
+@misc{Agyei2025_drl_applied_control,
+  author       = {Agyei, Klinsmann and Sarhadi, Pouria and Polani, Daniel},
+  title        = {Deep Reinforcement Learning in Applied Control: Challenges,
+                  Analysis, and Insights},
+  howpublished = {arXiv:2507.08196},
+  year         = {2025}
+  % PUBLICACION_NO_COMPROBADA: autores, titulo y fecha verificados en la pagina
+  % de arXiv, consultada directamente. CITABLE como preprint. NO pude extraer
+  % el cuerpo del PDF: las cifras comparativas LQR/LQI vs DDPG que se citaron en
+  % la ronda 0 provenian de sintesis de busqueda, NO del articulo; se retiraron.
+}
+
+@article{DulacArnold2021_realworld_rl_challenges,
+  author  = {Dulac-Arnold, Gabriel and Levine, Nir and Mankowitz, Daniel J.
+             and Li, Jerry and Paduraru, Cosmin and Gowal, Sven and Hester, Todd},
+  title   = {Challenges of real-world reinforcement learning: definitions,
+             benchmarks and analysis},
+  journal = {Machine Learning},
+  volume  = {110},
+  number  = {9},
+  pages   = {2419--2468},
+  year    = {2021},
+  doi     = {10.1007/s10994-021-05961-4}
+  % VERIFICADO integramente contra Crossref.
+  % NOTA: el preprint arXiv:2003.11881 lleva otro titulo ("An empirical
+  % investigation of the challenges of real-world reinforcement learning").
+  % Citar la version PUBLICADA, que es la de arriba.
+}
+
+
+% ==============================================================================
+% 8. PUENTE TEORICO LQR <-> RL
+% ==============================================================================
+
+@inproceedings{Bradtke1994_adaptive_lq_policy_iteration,
+  author    = {Bradtke, Steven J. and Ydstie, B. Erik and Barto, Andrew G.},
+  title     = {Adaptive linear quadratic control using policy iteration},
+  booktitle = {Proceedings of 1994 American Control Conference (ACC)},
+  volume    = {3},
+  pages     = {3475--3479},
+  year      = {1994},
+  doi       = {10.1109/ACC.1994.735224}
+  % VERIFICADO contra Crossref: volumen 3, paginas 3475-3479, DOI.
+  % CORRIGE la marca "% VERIFICAR volumen y paginas" de Bibliography_base.bib.
+}
+
+@inproceedings{Fazel2018_policy_gradient_lqr,
+  author    = {Fazel, Maryam and Ge, Rong and Kakade, Sham M. and Mesbahi, Mehran},
+  title     = {Global Convergence of Policy Gradient Methods for the Linear
+               Quadratic Regulator},
+  booktitle = {Proceedings of the 35th International Conference on Machine
+               Learning (ICML)},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {80},
+  pages     = {1467--1476},
+  year      = {2018}
+  % UNVERIFIED: paginas y sede. La pagina PMLR v80
+  % (proceedings.mlr.press/v80/fazel18a.html) aparecio en los resultados pero NO
+  % se abrio. Los datos son casi con certeza correctos; falta la confirmacion
+  % directa. Preprint: arXiv:1801.05039.
+}
+
+@inproceedings{TuRecht2018_lstd_lqr,
+  author    = {Tu, Stephen and Recht, Benjamin},
+  title     = {Least-Squares Temporal Difference Learning for the Linear Quadratic
+               Regulator},
+  booktitle = {Proceedings of the 35th International Conference on Machine
+               Learning (ICML)},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {80},
+  pages     = {5005--5014},
+  year      = {2018}
+  % UNVERIFIED: paginas y sede. La pagina PMLR v80
+  % (proceedings.mlr.press/v80/tu18a.html) no se abrio directamente.
+  % Preprint: arXiv:1712.08642.
+}
+
+@article{Dean2020_sample_complexity_lqr,
+  author  = {Dean, Sarah and Mania, Horia and Matni, Nikolai and Recht, Benjamin
+             and Tu, Stephen},
+  title   = {On the Sample Complexity of the Linear Quadratic Regulator},
+  journal = {Foundations of Computational Mathematics},
+  volume  = {20},
+  number  = {4},
+  pages   = {633--679},
+  year    = {2020},
+  doi     = {10.1007/s10208-019-09426-y}
+  % VERIFICADO integramente contra Crossref, INCLUIDO el numero (issue 4), que
+  % la entrada semilla omitia. CORRIGE la marca "% VERIFICAR paginas" de
+  % Bibliography_base.bib: 633-679 es correcto.
+}
+
+@article{Recht2019_tour_rl,
+  author  = {Recht, Benjamin},
+  title   = {A Tour of Reinforcement Learning: The View from Continuous Control},
+  journal = {Annual Review of Control, Robotics, and Autonomous Systems},
+  volume  = {2},
+  number  = {1},
+  pages   = {253--279},
+  year    = {2019},
+  doi     = {10.1146/annurev-control-053018-023825}
+  % VERIFICADO integramente contra Crossref. CORRIGE la marca "% VERIFICAR
+  % paginas": 253-279 es correcto. Se anade el numero (issue 1) y el DOI.
+}
+
+@inproceedings{Mania2018_random_search,
+  author    = {Mania, Horia and Guy, Aurelia and Recht, Benjamin},
+  title     = {Simple random search of static linear policies is competitive for
+               reinforcement learning},
+  booktitle = {Advances in Neural Information Processing Systems 31 (NeurIPS)},
+  year      = {2018}
+  % UNVERIFIED: sede. La pagina de NeurIPS Proceedings aparecio en resultados
+  % con el hash truncado (proceedings.neurips.cc/paper/2018/hash/7634ea...), no
+  % se abrio. Sin paginas: las actas de NeurIPS se citan sin rango de paginas.
+}
+
+@article{LewisVrabie2009_rl_adp_feedback_control,
+  author  = {Lewis, Frank L. and Vrabie, Draguna},
+  title   = {Reinforcement learning and adaptive dynamic programming for
+             feedback control},
+  journal = {IEEE Circuits and Systems Magazine},
+  volume  = {9},
+  number  = {3},
+  pages   = {32--50},
+  year    = {2009},
+  doi     = {10.1109/MCAS.2009.933854}
+  % VERIFICADO integramente contra Crossref.
+}
+
+@article{Annaswamy2023_adaptive_control_rl,
+  author  = {Annaswamy, Anuradha M.},
+  title   = {Adaptive Control and Intersections with Reinforcement Learning},
+  journal = {Annual Review of Control, Robotics, and Autonomous Systems},
+  volume  = {6},
+  number  = {1},
+  pages   = {65--93},
+  year    = {2023},
+  doi     = {10.1146/annurev-control-062922-090153}
+  % VERIFICADO integramente contra Crossref.
+}
+
+
+% ==============================================================================
+% 9. CORRECCIONES / COMPLETADOS A ENTRADAS SEMILLA
+%    (versiones mejoradas de entradas ya presentes en Bibliography_base.bib)
+% ==============================================================================
+
+@inproceedings{Haarnoja2018_sac,
+  author    = {Haarnoja, Tuomas and Zhou, Aurick and Abbeel, Pieter and Levine, Sergey},
+  title     = {Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement
+               Learning with a Stochastic Actor},
+  booktitle = {Proceedings of the 35th International Conference on Machine
+               Learning (ICML)},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {80},
+  pages     = {1861--1870},
+  year      = {2018}
+  % UNVERIFIED: paginas y sede. RONDA 1: degradada por coherencia con Fazel y
+  % TuRecht. La pagina PMLR v80 (proceedings.mlr.press/v80/haarnoja18b.html)
+  % aparecio en los resultados de busqueda pero NO se abrio, que es exactamente
+  % el mismo grado de evidencia que en esas dos entradas. El dato es casi con
+  % certeza correcto; falta la confirmacion directa.
+  % COMPLETA la entrada semilla, que carecia de serie, volumen y paginas.
+}
+
+@inproceedings{Lillicrap2016_ddpg,
+  author    = {Lillicrap, Timothy P. and Hunt, Jonathan J. and Pritzel, Alexander
+               and Heess, Nicolas and Erez, Tom and Tassa, Yuval and Silver, David
+               and Wierstra, Daan},
+  title     = {Continuous control with deep reinforcement learning},
+  booktitle = {4th International Conference on Learning Representations (ICLR)},
+  address   = {San Juan, Puerto Rico},
+  year      = {2016},
+  note      = {arXiv:1509.02971}
+  % UNVERIFIED: sede. ICLR 2016 (San Juan, Puerto Rico) e identificador arXiv
+  % provienen de la sintesis de busqueda, sin fuente nombrada ni abierta.
+  % Las actas de ICLR no llevan paginas.
+}
+
+@book{Bertsekas2017_dynamic_programming_vol1,
+  author    = {Bertsekas, Dimitri P.},
+  title     = {Dynamic Programming and Optimal Control, Vol. {I}},
+  publisher = {Athena Scientific},
+  address   = {Belmont, MA},
+  edition   = {4},
+  year      = {2017},
+  isbn      = {9781886529434}
+  % VERIFICADO parcialmente: la 4.a edicion del VOLUMEN I es de 2017, ISBN
+  % 9781886529434 (multiples catalogos de libreria consultados, coincidentes).
+  % ATENCION: la 4.a edicion del VOLUMEN II es de 2012, no 2017. La entrada
+  % semilla no declaraba volumen; HAY QUE DECLARARLO, porque el contenido
+  % relevante para el puente LQR-RL (programacion dinamica aproximada) esta
+  % en el Vol. II. Confirmar cual volumen se consulta antes de citar.
+  % UNVERIFIED: no consulte la pagina del editor (athenasc.com) directamente.
+}
+
+@book{Ogata2010_control_moderna,
+  author    = {Ogata, Katsuhiko},
+  title     = {Ingenier{\'i}a de Control Moderna},
+  publisher = {Pearson Educaci{\'o}n},
+  address   = {Madrid},
+  edition   = {5},
+  year      = {2010},
+  isbn      = {9788483226605}
+  % VERIFICADO: 5.a edicion en espanol, Pearson Educacion, Madrid, 2010,
+  % ISBN 9788483226605. Fuentes secundarias coincidentes (catalogo AbeBooks y
+  % ficha bibliografica de SciEPub). Traduccion de S. Dormido Canto y
+  % R. Dormido Canto.
+  % UNVERIFIED: no consulte el catalogo del editor directamente.
+}
+
+@article{Kalman1960_contributions,
+  author  = {Kalman, Rudolf E.},
+  title   = {Contributions to the theory of optimal control},
+  journal = {Bolet{\'i}n de la Sociedad Matem{\'a}tica Mexicana},
+  volume  = {5},
+  pages   = {102--119},
+  year    = {1960}
+  % VERIFICADO por convergencia de fuentes secundarias: la referencia
+  % "Bol. Soc. Mat. Mexicana 5:102-119, 1960" aparece de forma consistente en
+  % un registro de Google Scholar, en el capitulo comentado de M. Raginsky
+  % (SFI Press, "The State-Space Revolution") y en varias listas de lectura.
+  % UNVERIFIED: no consulte el original ni un registro editorial autoritativo
+  % (la revista de 1960 no esta indexada en Crossref). El titulo va en
+  % minusculas ("theory of optimal control"), que es como lo registran las
+  % fuentes; la entrada semilla lo capitalizaba.
+}
+
+
+% ##############################################################################
+% ###  ENTRADAS ANADIDAS EN LA RONDA 1 DE CORRECCION (2026-09-08)            ###
+% ##############################################################################
+%
+% Ninguna de las claves siguientes colisiona con Bibliography_base.bib ni con
+% las secciones 1-9 de este archivo. Comprobado con:
+%   grep -o '^@[a-z]*{[^,]*' | sed 's/.*{//' | sort | uniq -d
+%
+% ==============================================================================
+% 10. TCLab — HALLAZGOS DEL ENCADENAMIENTO DE CITAS  (resuelve H-8)
+%     Obras que citan a Park et al. (2020) y trabajan sobre TCLab. NINGUNA de
+%     estas aparecio en la busqueda por palabras clave de la ronda 0. Es la
+%     demostracion de que el encadenamiento de citas era necesario.
+% ==============================================================================
+
+@inproceedings{Patel2022_safe_fast_explainable_rl,
+  author    = {Patel, Kalpesh M.},
+  title     = {Safe, Fast and Explainable Online Reinforcement Learning for
+               Continuous Process Control},
+  booktitle = {2022 IEEE International Symposium on Advanced Control of
+               Industrial Processes (AdCONIP)},
+  pages     = {54--60},
+  year      = {2022},
+  doi       = {10.1109/ADCONIP55568.2022.9894195}
+  % VERIFICADO contra Crossref. Version de congreso PRECURSORA de
+  % Patel2023_practical_rl_process. Mismo autor unico.
+  % NIVEL DE LECTURA: [META].
+}
+
+@article{Manurung2021_energy_balance_ekf,
+  author  = {Manurung, Auralius and Kristiana, Lisa and Aryanta, Dwi},
+  title   = {An Energy Balance Model Parameter Estimation with an Extended
+             {K}alman Filter},
+  journal = {IFAC-PapersOnLine},
+  volume  = {54},
+  number  = {20},
+  pages   = {735--740},
+  year    = {2021},
+  doi     = {10.1016/j.ifacol.2021.11.259}
+  % VERIFICADO contra Crossref. Cita a Park et al. (2020).
+  % NIVEL DE LECTURA: [META]. NO lei el resumen. Que el banco sea el TCLab se
+  % INFIERE de que cita a Park (2020) y del titulo; no esta confirmado.
+  % Si se confirma, es la referencia mas cercana a un OBSERVADOR sobre esta
+  % plataforma y sostiene el requisito estructural de H-9e.
+}
+
+@inproceedings{PaezArdila2022_comparative_lab_kit,
+  author    = {Paez Ardila, Diego and Martinez Reyes, Diana
+               and Valencia Ni{\~n}o, Cesar and Tanscheit, Ricardo
+               and Vellasco, Marley},
+  title     = {Comparative Study of {PID}, {DMC}, and Fuzzy {PD+I} Controllers
+               in a Control Laboratory Kit},
+  booktitle = {2022 IEEE Latin American Conference on Computational
+               Intelligence (LA-CCI)},
+  pages     = {1--6},
+  year      = {2022},
+  doi       = {10.1109/LA-CCI54402.2022.9981589}
+  % VERIFICADO contra Crossref. NIVEL DE LECTURA: [META].
+  % Doble utilidad: documenta la saturacion del eje (d) (H-10) y es literatura
+  % latinoamericana sobre esta plataforma (H-9f).
+}
+
+% ---- Literatura iberoamericana sobre plataformas tipo TCLab (H-9f) ----
+
+@article{RicoAzagra2024_plataforma_temperatura,
+  author  = {Rico-Azagra, Javier and Gil-Mart{\'i}nez, Montserrat
+             and N{\'a}jera-Canal, Silvano},
+  title   = {Nueva plataforma de control de temperatura de bajo coste para la
+             educaci{\'o}n en ingenier{\'i}a de control},
+  journal = {Jornadas de Autom{\'a}tica},
+  volume  = {45},
+  year    = {2024},
+  doi     = {10.17979/ja-cea.2024.45.10931}
+  % VERIFICADO contra Crossref (autores, sede, volumen, anio, DOI).
+  % Jornadas de Automatica es el congreso anual del Comite Espanol de Automatica
+  % (CEA). Cita a Park et al. (2020). NIVEL DE LECTURA: [META].
+}
+
+@incollection{RicoAzagra2021_rediseno_plataforma,
+  author    = {Rico-Azagra, Javier and Gil-Mart{\'i}nez, Montserrat},
+  title     = {Redise{\~n}o de una plataforma de control de temperatura de bajo
+               coste para la educaci{\'o}n en ingenier{\'i}a de control},
+  booktitle = {XLII Jornadas de Autom{\'a}tica: libro de actas},
+  pages     = {275--281},
+  year      = {2021},
+  doi       = {10.17979/spudc.9788497498043.275}
+  % VERIFICADO contra Crossref. NIVEL DE LECTURA: [META].
+}
+
+% ---- RL residual en control de procesos: el hallazgo mas relevante del
+%      encadenamiento para el eje (a) ----
+
+@article{Alqithami2026_agenttwin,
+  author  = {Alqithami, Saad},
+  title   = {{AgentTwin}: A multi-agent digital-twin testbed for supervisory
+             operating-mode scheduling and residual regulatory control on the
+             {T}ennessee {E}astman {P}rocess with a solver-backed safety shield},
+  journal = {Journal of Process Control},
+  year    = {2026},
+  doi     = {10.1016/j.jprocont.2026.103735}
+  % VERIFICADO contra Crossref: autor unico, revista, anio, DOI.
+  % UNVERIFIED: volumen y numero de articulo (Crossref aun no los expone).
+  % NIVEL DE LECTURA: [META]. Hallado por busqueda del corpus completo
+  % "residual reinforcement learning" en OpenAlex (187 registros). Es la UNICA
+  % obra de ese corpus situada en control de procesos quimicos. Combina residuo
+  % sobre control regulatorio con un escudo de seguridad: ejes (a) x (c).
+  % LECTURA PRIORITARIA: acota el vacio que la ronda 0 declaro "el mas limpio".
+}
+
+
+% ==============================================================================
+% 11. METODOLOGIA DE EVALUACION EN RL PROFUNDO  (resuelve H-9a)
+%     Sostienen el protocolo de N semillas que el proyecto propone como margen
+%     de contribucion. Sin ellas ese protocolo es exigencia interna del
+%     proyecto, no estandar reconocido del campo.
+% ==============================================================================
+
+@article{Henderson2018_drl_that_matters,
+  author  = {Henderson, Peter and Islam, Riashat and Bachman, Philip
+             and Pineau, Joelle and Precup, Doina and Meger, David},
+  title   = {Deep Reinforcement Learning That Matters},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume  = {32},
+  number  = {1},
+  year    = {2018},
+  doi     = {10.1609/aaai.v32i1.11694}
+  % VERIFICADO contra Crossref: autores, sede, volumen, numero, anio, DOI.
+  % UNVERIFIED: rango de paginas (Crossref no lo expone para este registro).
+  % NIVEL DE LECTURA: [META].
+}
+
+@inproceedings{Agarwal2021_statistical_precipice,
+  author    = {Agarwal, Rishabh and Schwarzer, Max and Castro, Pablo Samuel
+               and Courville, Aaron C. and Bellemare, Marc G.},
+  title     = {Deep Reinforcement Learning at the Edge of the Statistical
+               Precipice},
+  booktitle = {Advances in Neural Information Processing Systems 34 (NeurIPS)},
+  pages     = {29304--29320},
+  year      = {2021}
+  % UNVERIFIED: rango de paginas y forma exacta de la lista de autores. Ambos
+  % provienen de una sintesis de resultados; no abri la pagina de NeurIPS
+  % Proceedings. Titulo, anio y sede aparecen de forma consistente en varias
+  % fuentes (poster virtual de NeurIPS, Semantic Scholar, web del proyecto
+  % rliable). NIVEL DE LECTURA: [SERP].
+}
+
+
+% ==============================================================================
+% 12. LQG, OBSERVADOR Y ACCION INTEGRAL  (resuelve H-9e)
+%     Requisito estructural, no adorno: el TCLab mide 2 temperaturas de una
+%     planta 2x2 de orden superior, asi que el LQR por realimentacion de estados
+%     exigira observador. Y el LQR es un REGULADOR, mientras que todo el
+%     proyecto habla de seguimiento de setpoint: hace falta la formulacion
+%     servo / con accion integral.
+% ==============================================================================
+
+@article{Kalman1960_filter,
+  author  = {Kalman, Rudolf E.},
+  title   = {A New Approach to Linear Filtering and Prediction Problems},
+  journal = {Journal of Basic Engineering},
+  volume  = {82},
+  number  = {1},
+  pages   = {35--45},
+  year    = {1960},
+  doi     = {10.1115/1.3662552}
+  % VERIFICADO integramente contra Crossref.
+  % OJO: es una obra DISTINTA de Kalman1960_contributions (el articulo del LQR).
+  % Ambas son de 1960 y del mismo autor. No confundirlas ni fusionarlas.
+}
+
+@article{Luenberger1971_observers,
+  author  = {Luenberger, David G.},
+  title   = {An introduction to observers},
+  journal = {IEEE Transactions on Automatic Control},
+  volume  = {16},
+  number  = {6},
+  pages   = {596--602},
+  year    = {1971},
+  doi     = {10.1109/TAC.1971.1099826}
+  % VERIFICADO contra Crossref (que registra el autor como "D. Luenberger").
+  % UNVERIFIED: la expansion "David G." no la tome de la fuente consultada.
+}
+
+@article{Tan2022_state_space_pid,
+  author  = {Tan, Wen and Han, Wenjie and Xu, Jiaohu},
+  title   = {State-Space {PID}: A Missing Link Between Classical and Modern
+             Control},
+  journal = {IEEE Access},
+  volume  = {10},
+  pages   = {116540--116553},
+  year    = {2022},
+  doi     = {10.1109/ACCESS.2022.3218657}
+  % VERIFICADO integramente contra Crossref. Cita a Park et al. (2020), asi que
+  % pertenece al entorno de literatura del TCLab. Conecta el PID con el espacio
+  % de estados, que es el puente que la tesis necesita entre su linea base
+  % clasica y el LQR. NIVEL DE LECTURA: [META].
+}
+
+
+% ==============================================================================
+% 13. SIM-TO-REAL: ANCLAS METODOLOGICAS  (resuelve H-9b)
+% ==============================================================================
+
+@inproceedings{Tobin2017_domain_randomization,
+  author    = {Tobin, Josh and Fong, Rachel and Ray, Alex and Schneider, Jonas
+               and Zaremba, Wojciech and Abbeel, Pieter},
+  title     = {Domain randomization for transferring deep neural networks from
+               simulation to the real world},
+  booktitle = {2017 IEEE/RSJ International Conference on Intelligent Robots and
+               Systems (IROS)},
+  pages     = {23--30},
+  year      = {2017},
+  doi       = {10.1109/IROS.2017.8202133}
+  % VERIFICADO integramente contra Crossref. Es el origen del termino
+  % "domain randomization", aunque su version original es VISUAL (texturas).
+}
+
+@inproceedings{Peng2018_dynamics_randomization,
+  author    = {Peng, Xue Bin and Andrychowicz, Marcin and Zaremba, Wojciech
+               and Abbeel, Pieter},
+  title     = {Sim-to-Real Transfer of Robotic Control with Dynamics
+               Randomization},
+  booktitle = {2018 IEEE International Conference on Robotics and Automation
+               (ICRA)},
+  pages     = {3803--3810},
+  year      = {2018},
+  doi       = {10.1109/ICRA.2018.8460528}
+  % VERIFICADO integramente contra Crossref. Es la variante PERTINENTE para el
+  % TCLab: aleatorizar la DINAMICA (parametros fisicos: capacidad termica,
+  % coeficiente de conveccion, retardo), no la textura visual.
+}
+
+@inproceedings{Zhao2020_sim2real_survey,
+  author    = {Zhao, Wenshuai and Pe{\~n}a Queralta, Jorge and Westerlund, Tomi},
+  title     = {Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics:
+               a Survey},
+  booktitle = {2020 IEEE Symposium Series on Computational Intelligence (SSCI)},
+  pages     = {737--744},
+  year      = {2020},
+  doi       = {10.1109/SSCI47803.2020.9308468}
+  % VERIFICADO integramente contra Crossref.
+}
+
+
+% ==============================================================================
+% 14. EJE (c): ANCLAS SEMINALES QUE FALTABAN  (resuelve H-9c)
+% ==============================================================================
+
+@article{Ames2017_cbf_qp,
+  author  = {Ames, Aaron D. and Xu, Xiangru and Grizzle, Jessy W.
+             and Tabuada, Paulo},
+  title   = {Control Barrier Function Based Quadratic Programs for Safety
+             Critical Systems},
+  journal = {IEEE Transactions on Automatic Control},
+  volume  = {62},
+  number  = {8},
+  pages   = {3861--3876},
+  year    = {2017},
+  doi     = {10.1109/TAC.2016.2638961}
+  % VERIFICADO integramente contra Crossref. Referencia canonica del CBF como
+  % programa cuadratico; es la base sobre la que se apoya Cheng et al. (2019).
+}
+
+@article{GarciaFernandez2015_safe_rl_survey,
+  author  = {Garc{\'i}a, Javier and Fern{\'a}ndez, Fernando},
+  title   = {A comprehensive survey on safe reinforcement learning},
+  journal = {Journal of Machine Learning Research},
+  volume  = {16},
+  number  = {1},
+  pages   = {1437--1480},
+  year    = {2015}
+  % UNVERIFIED: paginas y numero. Provienen de sintesis de busqueda; JMLR no
+  % esta en Crossref y no abri jmlr.org. El registro de dblp
+  % (journals/jmlr/GarciaF15) confirma autores, revista, volumen y anio.
+  % NIVEL DE LECTURA: [SERP].
+}
+
+@article{PerkinsBarto2002_lyapunov_safe_rl,
+  author  = {Perkins, Theodore J. and Barto, Andrew G.},
+  title   = {Lyapunov Design for Safe Reinforcement Learning},
+  journal = {Journal of Machine Learning Research},
+  volume  = {3},
+  pages   = {803--832},
+  year    = {2002}
+  % UNVERIFIED: paginas. Provienen de sintesis de busqueda; no abri
+  % jmlr.org/papers/v3/perkins02a.html, que si aparecio en los resultados.
+  % NIVEL DE LECTURA: [SERP].
+  % IMPORTANCIA: es el precedente DIRECTO del eje (c). El agente conmuta entre
+  % controladores base disenados con conocimiento de Lyapunov, de modo que
+  % CUALQUIER politica de conmutacion resulta segura. Es la forma mas antigua y
+  % mas simple de "el controlador clasico como respaldo seguro del RL", y la mas
+  % proporcionada al nivel de un trabajo de pregrado: no exige sintetizar un CBF.
+}
+
+
+% ==============================================================================
+% 15. EJE (b): CONTROL OPTIMO DIFERENCIABLE Y ADAPTATIVO  (resuelve H-9d)
+% ==============================================================================
+
+@inproceedings{Amos2018_differentiable_mpc,
+  author    = {Amos, Brandon and Jimenez, Ivan and Sacks, Jacob and Boots, Byron
+               and Kolter, J. Zico},
+  title     = {Differentiable {MPC} for End-to-end Planning and Control},
+  booktitle = {Advances in Neural Information Processing Systems 31 (NeurIPS)},
+  year      = {2018}
+  % UNVERIFIED: forma exacta del nombre del segundo autor. Algunos registros lo
+  % dan como "Ivan Dario Jimenez Rodriguez". Titulo, sede y anio aparecen en la
+  % pagina de NeurIPS Proceedings que salio en los resultados; no la abri.
+  % NIVEL DE LECTURA: [SERP].
+  % Relevancia para el eje (b): deriva a traves de las condiciones KKT para
+  % APRENDER el costo y la dinamica del controlador de extremo a extremo. Es la
+  % via "diferenciable" de sintonizar el costo, alternativa al RL.
+}
+
+@inproceedings{East2020_infinite_horizon_diff_mpc,
+  title     = {Infinite-Horizon Differentiable Model Predictive Control},
+  booktitle = {8th International Conference on Learning Representations (ICLR)},
+  year      = {2020}
+  % UNVERIFIED — CAMPO author AUSENTE A PROPOSITO, NO OLVIDADO.
+  % No pude confirmar la lista de autores contra ninguna fuente abierta:
+  % OpenReview devolvio una pagina de verificacion de navegador y Crossref no
+  % indexa ICLR. El apellido "East" proviene del encargo del coordinador, NO de
+  % una fuente que yo consultara, asi que NO lo escribo como dato.
+  % NO CITAR hasta completar el campo author contra openreview.net.
+  % Contenido (de sintesis de busqueda, [SERP]): MPC lineal-cuadratico de
+  % horizonte infinito derivable, con solucion en forma cerrada de la derivada
+  % de la DARE asociada al LQR. Es la conexion mas directa entre el eje (b) y
+  % el LQR: permite derivar la ganancia K respecto de Q y R.
+}
+
+@article{Kiumarsi2018_optimal_autonomous_rl_survey,
+  author  = {Kiumarsi, Bahare and Vamvoudakis, Kyriakos G. and Modares, Hamidreza
+             and Lewis, Frank L.},
+  title   = {Optimal and Autonomous Control Using Reinforcement Learning:
+             A Survey},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  volume  = {29},
+  number  = {6},
+  pages   = {2042--2062},
+  year    = {2018},
+  doi     = {10.1109/TNNLS.2017.2773458}
+  % VERIFICADO integramente contra Crossref. Es la revision del puente LQR-RL
+  % escrita DESDE la comunidad de control, no desde la de aprendizaje
+  % automatico. Complementa a Recht (2019), que mira el mismo puente desde el
+  % otro lado. Para un jurado de ingenieria de control, esta cita pesa mas.
+}
+
+@article{Priess2015_inverse_lqr,
+  author  = {Priess, M. Cody and Conway, Richard and Choi, Jongeun
+             and Popovich, John M. and Radcliffe, Clark},
+  title   = {Solutions to the Inverse {LQR} Problem With Application to
+             Biological Systems Analysis},
+  journal = {IEEE Transactions on Control Systems Technology},
+  volume  = {23},
+  number  = {2},
+  pages   = {770--777},
+  year    = {2015},
+  doi     = {10.1109/TCST.2014.2343935}
+  % VERIFICADO integramente contra Crossref. LQR INVERSO: dado un comportamiento
+  % observado, recuperar las matrices Q y R que lo hacen optimo. Es el
+  % planteamiento clasico del eje (b), anterior al RL, y por tanto la referencia
+  % contra la que el eje (b) tiene que diferenciarse explicitamente.
+}
+
+
+% ==============================================================================
+% 16. EJE (d): COMPARATIVAS NOMBRADAS  (resuelve H-10)
+% ==============================================================================
+
+@article{Machacuay2025_ddpg_pnmpc_quadruple_tank,
+  author  = {Machacuay, Javier and Ipanaqu{\'e}, William},
+  title   = {{DDPG} and {PNMPC} controller design comparison for a
+             Quadruple-tank process control benchmark},
+  journal = {Optimization and Engineering},
+  year    = {2025},
+  doi     = {10.1007/s11081-025-09990-z}
+  % VERIFICADO contra Crossref: autores, revista, anio, DOI.
+  % UNVERIFIED: volumen, numero y paginas (Crossref aun no los expone).
+  % NIVEL DE LECTURA: [META]. Autores de la Universidad de Piura (Peru):
+  % cuenta a la vez como comparativa (H-10) y como literatura latinoamericana
+  % de control de procesos (H-9f).
+}
+
+@inproceedings{Machacuay2024_zeroshot_ddpg_quadruple_tank,
+  author    = {Machacuay, Javier and Ipanaqu{\'e}, William},
+  title     = {Zero-Shot {DDPG} Controller Design for Liquid Level Control of a
+               Benchmark Quadruple-Tank Process},
+  booktitle = {2024 10th International Conference on Control, Decision and
+               Information Technologies (CoDIT)},
+  pages     = {1--6},
+  year      = {2024},
+  doi       = {10.1109/CODIT62066.2024.10708234}
+  % VERIFICADO integramente contra Crossref. "Zero-shot" = entrenar en
+  % simulacion y desplegar sin reentrenar: es exactamente el problema
+  % sim-to-real del proyecto, en una planta de procesos y por un grupo
+  % latinoamericano. NIVEL DE LECTURA: [META].
+}
+
+
+% ==============================================================================
+% RECONCILIACION CON Bibliography_base.bib  (resuelve H-6 del informe del critico)
+% ==============================================================================
+%
+% Este archivo y Bibliography_base.bib NO se pueden pasar los dos a biber tal
+% como estan: hay 6 claves identicas y 7 obras duplicadas bajo claves distintas.
+% Una clave repetida hace que biber use silenciosamente una de las dos; una obra
+% duplicada bajo dos claves aparece dos veces en la bibliografia final.
+%
+% ---- A. COLISIONES EXACTAS (6) — la version de ESTE archivo es la correcta ----
+%
+% En los seis casos esta busqueda confirmo o corrigio campos contra Crossref o
+% contra las actas oficiales. ACCION: borrar la entrada de Bibliography_base.bib
+% y conservar la de aqui.
+%
+%   Kalman1960_contributions          paginas confirmadas (5:102-119)
+%   Haarnoja2018_sac                  PMLR 80:1861-1870 anadido (ver marca)
+%   Lillicrap2016_ddpg                sede ICLR 2016 anadida (ver marca UNVERIFIED)
+%   Dean2020_sample_complexity_lqr    issue 4 anadido
+%   Recht2019_tour_rl                 issue 1 anadido
+%   Fazel2018_policy_gradient_lqr     PMLR 80:1467-1476 anadido (ver marca)
+%
+% ---- B. MISMA OBRA, CLAVE DISTINTA (7) — elegir UNA y borrar la otra ----
+%
+%   SEMILLA                                    ESTE ARCHIVO                        ACCION
+%   Park2020_tclab                          -> Park2020_tclab_benchmark            usar esta; anade art. 106736 y DOI
+%   Silver2018_residual_policy              -> Silver2018_residual_policy_learning usar esta; corrige inicial de la 2a autora
+%   Johannink2019_residual_rl               -> Johannink2019_residual_rl_robot     usar esta; anade pp. 6023-6029 y DOI
+%   Berkenkamp2017_safe_rl                  -> Berkenkamp2017_safe_mbrl_stability  usar esta (paginas sin confirmar en ambas)
+%   Bradtke1994_adaptive_lq                 -> Bradtke1994_adaptive_lq_policy_iteration  usar esta; vol. 3, pp. 3475-3479, DOI
+%   Ogata_control_moderna                   -> Ogata2010_control_moderna           usar esta; ISBN y editorial
+%   Bertsekas_dynamic_programming           -> Bertsekas2017_dynamic_programming_vol1    DECISION PENDIENTE, ver abajo
+%
+% ---- C. DECISION PENDIENTE DEL ESTUDIANTE: Bertsekas ----
+%
+% La entrada semilla no declaraba volumen, y eso oculta un error de anio:
+%   Vol. I,  4a ed. -> 2017
+%   Vol. II, 4a ed. -> 2012
+% El contenido relevante para el puente LQR<->RL (programacion dinamica
+% aproximada, iteracion de politicas) esta en el Vol. II. Si citas el Vol. II,
+% el anio 2017 de la semilla es INCORRECTO.
+% ACCION: decidir que volumen citas antes de usar esta referencia.
+%
+% ---- D. ENTRADAS DE LA SEMILLA NO VERIFICADAS Y NO MARCADAS ----
+%
+% Estas dos no llevan marca en Bibliography_base.bib pero tampoco fueron
+% verificadas por esta busqueda. No estar marcada NO significa estar verificada:
+%   AndersonMoore1990_optimal_control
+%   AstromHagglund2006_advanced_pid
+% Ademas: AstromMurray2008_feedback_systems tiene 2a edicion (2021). Decidir cual
+% edicion se cita y verificarla.
+%
+% ---- D-bis. AVISO ANADIDO EN LA RONDA 1: dos obras de Kalman de 1960 ----
+%
+% Este archivo contiene ahora DOS entradas de Kalman fechadas en 1960:
+%   Kalman1960_contributions  -> el articulo del LQR (Bol. Soc. Mat. Mexicana)
+%   Kalman1960_filter         -> el articulo del filtro (J. Basic Engineering)
+% Son obras distintas. biblatex las desambiguara como "1960a" y "1960b". No
+% fusionarlas ni borrar una creyendo que es duplicado.
+%
+% ---- E. PROCEDIMIENTO SUGERIDO ----
+%
+%   1. Borrar de Bibliography_base.bib las 6 claves de la lista A
+%   2. Borrar de Bibliography_base.bib las 7 claves de la columna SEMILLA de B
+%   3. Concatenar este archivo al final de Bibliography_base.bib
+%   4. Resolver la decision C (volumen de Bertsekas)
+%   5. Verificar las tres entradas de D
+%   6. Completar el campo author de East2020_infinite_horizon_diff_mpc o
+%      eliminar la entrada
+%   7. Comprobar que no queden claves repetidas:
+%        grep -o '^@[a-z]*{[^,]*' Bibliography_base.bib | sed 's/.*{//' | sort | uniq -d
+%      Debe no imprimir nada.
+%
+% ==============================================================================
