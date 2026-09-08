@@ -37,7 +37,7 @@ cd paper && latexmk main.tex 2>&1 | tail -30
 
 ### 2. Script Execution
 ```bash
-Rscript scripts/R/FILENAME.R 2>&1 | tail -20
+python scripts/python/ARCHIVO.py 2>&1 | tail -20
 ```
 - Check exit code
 - Verify output files created

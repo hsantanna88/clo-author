@@ -1,0 +1,87 @@
+% ====== Preambulo compartido — tesis TCLab (LQR + RL) ======
+% Estandar definido en .claude/rules/thesis-format.md
+
+% --- Idioma (primero: condiciona el resto) ---
+\usepackage[spanish,es-tabla,es-noquoting]{babel}
+\usepackage{csquotes}
+
+% --- Diseno de pagina ---
+\usepackage[left=3cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+% --- Tipografia (XeLaTeX) ---
+\usepackage{fontspec}
+\setmainfont{Latin Modern Roman}
+\usepackage{microtype}
+
+% --- Titulos ---
+\usepackage{titlesec}
+\usepackage[title]{appendix}
+
+% --- Matematicas ---
+\usepackage{amssymb, amsmath, amsfonts, mathtools}
+\usepackage{amsthm}
+\theoremstyle{plain}
+\newtheorem{teorema}{Teorema}[chapter]
+\newtheorem{proposicion}[teorema]{Proposición}
+\newtheorem{lema}[teorema]{Lema}
+\newtheorem{corolario}[teorema]{Corolario}
+\theoremstyle{definition}
+\newtheorem{definicion}[teorema]{Definición}
+\newtheorem{supuesto}[teorema]{Supuesto}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator{\tr}{tr}
+\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+\newcommand{\transpose}{^{\mathsf{T}}}
+
+% --- Tablas ---
+\usepackage{array, booktabs, makecell}
+\usepackage{siunitx}
+\sisetup{output-decimal-marker={,}}
+\usepackage[flushleft]{threeparttable}
+\usepackage{tabularx, rotating}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs, siunitx}
+
+% --- Figuras ---
+\usepackage{graphicx, subcaption}
+\usepackage{float}
+\usepackage{caption}
+\captionsetup{font=small, labelfont=bf, justification=justified}
+
+% --- Diagramas de bloques ---
+\usepackage{tikz}
+\usetikzlibrary{shapes, arrows.meta, positioning, calc}
+
+% --- Codigo fuente ---
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily\small, breaklines=true, frame=single,
+        showstringspaces=false, captionpos=b}
+
+% --- Listas ---
+\usepackage{enumitem}
+
+% --- Bibliografia: biblatex + biber, estilo IEEE ---
+\usepackage{xurl}
+\usepackage{xcolor}
+\definecolor{citationcolor}{RGB}{0, 90, 160}
+\usepackage[backend=biber, style=ieee, sorting=none, maxbibnames=99]{biblatex}
+\addbibresource{Bibliography_base.bib}
+
+% --- Notas al pie ---
+\interfootnotelinepenalty=10000
+
+% --- hyperref (penultimo) ---
+\usepackage[breaklinks, colorlinks=true,
+            linkcolor=citationcolor, citecolor=citationcolor,
+            urlcolor=citationcolor]{hyperref}
+
+% --- cleveref (despues de hyperref) ---
+\usepackage[spanish,nameinlink]{cleveref}

@@ -38,8 +38,8 @@ Read these templates for review checklists, rubrics, and report format:
 
 - **8 check categories:** `review/templates/manuscript-review-8-categories.md`
 - **Scoring rubric:** `review/config/scoring-rubrics.md` (writer-critic section)
-- **Content invariants:** `.claude/rules/content-invariants.md` -- enforce INV-1 through INV-13 and INV-22
-- **Format rules:** `.claude/rules/working-paper-format.md` -- enforce all Required items
+- **Content invariants:** `.claude/rules/content-invariants.md` -- enforce INV-1 through INV-13 and INV-27
+- **Format rules:** `.claude/rules/thesis-format.md` -- enforce all Required items
 
 ## Standalone Mode
 
@@ -59,4 +59,4 @@ Strike 3 -> escalates to **Orchestrator**: "The manuscript has structural issues
 4. **Cite invariants.** Every deduction references the invariant it enforces (e.g., "violates INV-11").
 5. **Paper-type aware.** Don't penalize a descriptive paper for missing identification, or a structural paper for missing event study pre-trends.
 6. **Voice fidelity is scored ONLY when the style guide has real content.** If it's still the template, report that fact and skip the category.
-7. **Claim-source traceability is non-negotiable.** Every numerical claim must trace to a script and output file (INV-22).
+7. **Claim-source traceability is non-negotiable.** Every numerical claim must trace to a script and output file (INV-27).

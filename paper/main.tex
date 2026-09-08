@@ -1,0 +1,82 @@
+% ============================================================================
+% Trabajo de grado — Universidad Distrital Francisco Jose de Caldas
+% Ingenieria de Sistemas
+%
+% Compilar:  cd paper && latexmk main.tex
+% ============================================================================
+\documentclass[12pt,letterpaper,oneside]{report}
+
+\input{preambulo}
+
+% ---- Datos del trabajo (actualizar) ----
+\newcommand{\titulotesis}{Control de temperatura en la planta TCLab mediante LQR
+combinado con aprendizaje por refuerzo}
+\newcommand{\autortesis}{[Nombre del autor]}
+\newcommand{\codigoestudiante}{[Codigo estudiantil]}
+\newcommand{\directortesis}{[Nombre del director]}
+\newcommand{\aniotesis}{2026}
+
+\begin{document}
+
+% ============================ PORTADA ============================
+\begin{titlepage}
+\thispagestyle{empty}
+\centering
+
+{\large\bfseries \titulotesis \par}
+\vspace{2.5cm}
+
+{\normalsize \autortesis \par}
+{\normalsize Código: \codigoestudiante \par}
+\vspace{2.5cm}
+
+{\normalsize Trabajo de grado para optar al título de\\
+Ingeniero de Sistemas \par}
+\vspace{2cm}
+
+{\normalsize Director:\\ \directortesis \par}
+\vfill
+
+{\normalsize
+Universidad Distrital Francisco José de Caldas\\
+Facultad de Ingeniería\\
+Ingeniería de Sistemas\\
+Bogotá D.C.\\
+\aniotesis \par}
+
+\end{titlepage}
+
+% ==================== PAGINAS PRELIMINARES ====================
+\pagenumbering{roman}
+\setcounter{page}{2}
+
+\input{sections/00_resumen}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+% ======================== CUERPO ========================
+\cleardoublepage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\input{sections/01_introduccion}
+\input{sections/02_marco_teorico}
+\input{sections/03_estado_del_arte}
+\input{sections/04_metodologia}
+\input{sections/05_implementacion}
+\input{sections/06_resultados}
+\input{sections/07_discusion}
+\input{sections/08_conclusiones}
+
+% ===================== REFERENCIAS =====================
+\cleardoublepage
+\printbibliography[heading=bibintoc, title={Referencias}]
+
+% ======================= ANEXOS =======================
+\begin{appendices}
+\input{sections/09_anexos}
+\end{appendices}
+
+\end{document}

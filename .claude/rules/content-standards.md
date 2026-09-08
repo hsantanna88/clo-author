@@ -22,7 +22,7 @@ paths:
 - **tabularray (`tblr` / `talltblr`)** — modern key-value interface. Preferred for hand-written tables in `main.tex`.
 - **`tabular` + `booktabs` + `threeparttable`** — traditional stack. Required for R/Python/Julia-generated output (scripts export bare `tabular`).
 
-Journal-specific conventions (significance stars, note format) adapt to the target journal — see journal-profiles.md.
+Note format follows the evaluation profile in journal-profiles.md. Performance metrics never use significance stars (INV-4).
 
 ### No In-Table Titles or Notes
 
@@ -78,18 +78,25 @@ Every table uses exactly three horizontal rules and **zero vertical lines**:
 - **Hand-written tables:** prefer `talltblr` with `note{}` keys — unifies caption, label, and notes
 - **Never** use `\hline`, `|`, or any vertical rules
 
-### Coefficient Display
+### Presentación de métricas
 
-- Point estimates on one row, standard errors in parentheses on the row below
-- Standard errors labeled in the table note (e.g., "Robust standard errors in parentheses" or "Clustered at municipality level")
+- Una fila por métrica, una columna por controlador o configuración
+- Media y dispersión en la misma celda (`12,4 ± 0,8`) o la dispersión en la fila inferior entre
+  paréntesis. Declarar cuál se usa en la nota de la tabla
+- **Unidades en el encabezado de fila**, no repetidas en cada celda: `IAE (°C·s)`
+- Coma decimal (documento en español); usar `siunitx` con `output-decimal-marker={,}`
+- La nota indica el número de corridas N y las condiciones experimentales (INV-1, INV-4)
 
-**Significance reporting depends on the target journal:**
+**Sin estrellas de significancia.** Esta no es una disciplina de contraste de hipótesis sobre
+datos observacionales: se reportan métricas medidas con su dispersión. Una diferencia se declara
+relevante solo si supera la dispersión entre corridas de la misma configuración.
 
-| Context | Convention |
-|---------|-----------|
-| **Working papers (default)** | Stars: `*` p < 0.10, `**` p < 0.05, `***` p < 0.01. Note at bottom: `\textit{Notes:} * p < 0.10, ** p < 0.05, *** p < 0.01` |
-| **AEA journals** (AER, AEJ:Applied, AEJ:Policy, AER:Insights) | No significance stars. Report standard errors in parentheses. Use exact p-values or confidence intervals for key results. See the [AEA Style Guide](https://www.aeaweb.org/journals/aeri/style-guide). |
-| **All other journals** | Stars acceptable. Follow journal-specific conventions in journal-profiles.md. |
+Ejemplo de nota:
+```
+\textit{Notas:} Media ± desviación estándar sobre N = 5 corridas por configuración.
+Todas las corridas comparten perfil de setpoints, Ts = 1 s y temperatura ambiente
+inicial en el rango 22–24 °C. Fuente: scripts/python/analysis/metricas.py.
+```
 
 Working paper default example:
 ```
@@ -132,93 +139,60 @@ For tables with multiple panels:
 - `\midrule` after each panel label
 - Small vertical space (`\\[0.5em]`) between panels
 
-### Preferred R Packages
+### Generación de tablas desde Python
 
-**Primary: `modelsummary`**
+Las tablas se exportan como `tabular` desnudo (INV-13). El documento las envuelve en
+`threeparttable` y añade `\caption{}` y notas.
 
-```r
-library(modelsummary)
-
-modelsummary(
-  models,
-  output   = "latex_tabular",  # bare tabular, no wrapper
-  stars    = c("*" = 0.10, "**" = 0.05, "***" = 0.01),  # set FALSE for AEA journals
-  coef_rename = c(
-    "treatment"  = "Treatment",
-    "log_income" = "Log income"
-  ),
-  gof_map = c("nobs", "r.squared", "adj.r.squared"),
-  escape  = FALSE
-)
+```python
+def exportar_tabular(df: pd.DataFrame, ruta: Path, columnas: str) -> None:
+    """Exporta un DataFrame como tabular desnudo con reglas booktabs."""
+    cuerpo = df.to_latex(
+        index=False,
+        escape=False,
+        column_format=columnas,
+        float_format=lambda x: f"{x:.2f}".replace(".", ","),  # coma decimal
+    )
+    # to_latex ya emite toprule/midrule/bottomrule con booktabs habilitado;
+    # verificar que no incluya \begin{table} ni \caption
+    ruta.write_text(cuerpo)
 ```
 
-**Alternative: `fixest::etable`**
+Reglas al exportar:
 
-```r
-fixest::etable(
-  models,
-  tex      = TRUE,
-  style.tex = style.tex(
-    main     = "aer",
-    depvar.title = "",
-    fixef.title  = "",
-    yesNo    = c("Yes", "No")
-  ),
-  se.below = TRUE,
-  signif.code = c("***" = 0.01, "**" = 0.05, "*" = 0.10)  # omit for AEA journals
-)
-```
+- Nunca `\begin{table}`, `\caption{}` ni notas dentro del archivo generado (INV-13)
+- Reglas `booktabs`, nunca `\hline` ni líneas verticales (INV-3)
+- Coma decimal en el formato numérico
+- Las unidades van en el encabezado de fila o columna, no repetidas por celda
+- El nombre del archivo y su carpeta identifican qué contiene la tabla
 
-**For summary / descriptive tables: `kableExtra`**
+Para tablas escritas a mano en el documento, preferir `talltblr` (tabularray), que unifica
+leyenda, etiqueta y notas en una sola interfaz.
 
-```r
-library(kableExtra)
-
-kbl(df, format = "latex", booktabs = TRUE, escape = FALSE,
-    align = c("l", rep("c", ncol(df) - 1))) |>
-  kable_styling(latex_options = "hold_position")
-```
-
-### Typography
-
-- Serif font throughout (inherits from document class — no extra commands needed)
-- `\small` or `\footnotesize` for tables that need to fit within column width
-- Variable names in plain text, panel labels in `\textit{}`
-- Never bold table body content; bold only for rare emphasis in headers
-
-### Export
-
-```r
-# Write .tex fragment (no \begin{table} wrapper -- added in main.tex)
-writeLines(tex_output, file.path("paper/tables", "reg_main_specification.tex"))
-```
-
-- Output **bare `tabular` environment** (no `\begin{table}` float)
-- The paper's `main.tex` wraps it with `\begin{table}`, `\caption{}`, and `\input{}`
 - Write to `paper/tables/`
 
 ### File Naming
 
 ```
 tables/
-├── descriptive/
-│   ├── sumstats_main_sample.tex
-│   └── balance_treatment_control.tex
-├── estimation/
-│   ├── reg_main_specification.tex
-│   ├── reg_heterogeneity_gender.tex
-│   └── did_event_study_coefficients.tex
-└── robustness/
-    └── reg_alternative_controls.tex
+├── identificacion/
+│   ├── modelo_ss_parametros.tex
+│   └── modelo_ajuste_validacion.tex
+├── evaluacion/
+│   ├── metricas_lqr.tex
+│   ├── metricas_rl.tex
+│   └── comparacion_controladores.tex
+└── configuracion/
+    └── hiperparam_agente.tex
 ```
 
 Pattern: `{table_type}_{content_description}.tex`
 
-- `sumstats_` for summary statistics
-- `balance_` for balance / pre-treatment tests
-- `reg_` for regression output
-- `did_` for difference-in-differences specific tables
-- `first_stage_` for IV first stage
+- `resumen_` for descriptive summaries of a run
+- `modelo_` for identified model parameters and fit criteria
+- `metricas_` for controller performance metrics
+- `comparacion_` for controller-vs-controller tables
+- `hiperparam_` for RL hyperparameter tables
 
 ### Prohibited Patterns
 
@@ -227,11 +201,11 @@ Pattern: `{table_type}_{content_description}.tex`
 | Title row inside the table | Titles go in `\caption{}`, not the table body |
 | Notes embedded in table body | Notes go below via `\begin{tablenotes}` |
 | `\hline` | Use `\toprule` / `\midrule` / `\bottomrule` (booktabs) |
-| Vertical rules (`\|` in column spec) | Never used in economics journals |
-| `stargazer` package | Deprecated workflow; use `modelsummary` or `fixest::etable` |
+| Vertical rules (`\|` in column spec) | Never used in publication-quality tables |
 | Raw variable names in labels | Human-readable labels required |
-| `xtable` without booktabs | Produces non-journal-quality output |
-| `\begin{table}` in R output | R exports bare `tabular`; float wrapper lives in `main.tex` |
+| Metric without units | A number without units is unreadable (INV-4) |
+| Point decimal in a Spanish document | Use comma via `siunitx` |
+| `\begin{table}` in generated output | Scripts export bare `tabular`; the float wrapper lives in `main.tex` (INV-13) |
 
 ### Table Type Templates
 

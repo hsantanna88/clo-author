@@ -46,7 +46,7 @@ Adding a new agent: create the agent file in `.claude/agents/`, add an entry her
 - **CRITIC:** theorist-critic
 - **ESCALATION_TARGET:** User — proof-level disagreement, user adjudicates whether the result holds
 - **QUALITY_WEIGHT:** 20% (theory, when present)
-- **CONDITIONAL:** Only for paper types with formal theory: econometric methods, theory+empirics, structural identification, methodological reduced-form. Excluded and weight renormalized for applied papers using off-the-shelf estimators.
+- **CONDITIONAL:** Only when the work carries formal results: stability or convergence guarantees for the learned component, safety certificates, or a derived identification result. Excluded and weight renormalized for a purely applied thesis that uses established LQR and RL methods off the shelf — which is the expected case here.
 
 ## data-engineer
 - **PHASE:** Execution

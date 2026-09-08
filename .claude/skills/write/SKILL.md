@@ -132,7 +132,7 @@ Principles for the extraction:
 - **Ground every claim in the corpus.** Each pattern must have at least one quoted example.
 - **Extract, don't prescribe.** The guide records the author's observed behavior, not what the Writer thinks is good style.
 - **Don't duplicate `domain-profile.md`.** The style guide is about voice; the domain profile is about field conventions.
-- **Don't override working-paper-format invariants.** Voice doesn't trump INV-1..21.
+- **Don't override thesis-format invariants.** Voice doesn't trump INV-1..21.
 
 ### `/write humanize [file]` — Cleanup Pass Only
 Strip AI writing patterns from existing text without rewriting content.

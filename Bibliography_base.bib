@@ -1,31 +1,187 @@
 % ==============================================================================
-% Bibliography Template
+% Bibliografia — Tesis: LQR + aprendizaje por refuerzo sobre TCLab
 % ==============================================================================
 %
-% Add your project bibliography entries here.
-% This file is referenced by Paper/main.tex and Paper/talks/.
+% Convencion de claves: AutorAnio_palabraclave
 %
-% Naming convention: AuthorYear_keyword
-% Example: Angrist2009_mostly_harmless
+% REGLA (INV-28): ninguna referencia se cita en el documento hasta que sus datos
+% esten verificados. Las lineas marcadas con "% VERIFICAR" senalan campos que NO
+% se han confirmado contra la fuente. Confirmar con /tools validate-bib o contra
+% el articulo antes de usar.
 %
 % ==============================================================================
 
-% --- Example entries (replace with your own) ---
+% ------------------------------ Control optimo ------------------------------
 
-@book{Angrist2009_mostly_harmless,
-  author    = {Angrist, Joshua D. and Pischke, J{\"o}rn-Steffen},
-  title     = {Mostly Harmless Econometrics: An Empiricist's Companion},
-  publisher = {Princeton University Press},
-  year      = {2009},
-  address   = {Princeton, NJ}
+@article{Kalman1960_contributions,
+  author  = {Kalman, Rudolf E.},
+  title   = {Contributions to the Theory of Optimal Control},
+  journal = {Bolet{\'i}n de la Sociedad Matem{\'a}tica Mexicana},
+  volume  = {5},
+  pages   = {102--119},          % VERIFICAR paginas exactas
+  year    = {1960}
 }
 
-@article{Imbens2004_nonparametric,
-  author  = {Imbens, Guido W.},
-  title   = {Nonparametric Estimation of Average Treatment Effects Under Exogeneity: A Review},
-  journal = {Review of Economics and Statistics},
-  volume  = {86},
-  number  = {1},
-  pages   = {4--29},
-  year    = {2004}
+@book{AndersonMoore1990_optimal_control,
+  author    = {Anderson, Brian D. O. and Moore, John B.},
+  title     = {Optimal Control: Linear Quadratic Methods},
+  publisher = {Prentice Hall},
+  address   = {Englewood Cliffs, NJ},
+  year      = {1990}
+}
+
+@book{Bertsekas_dynamic_programming,
+  author    = {Bertsekas, Dimitri P.},
+  title     = {Dynamic Programming and Optimal Control},
+  publisher = {Athena Scientific},
+  address   = {Belmont, MA},
+  year      = {2017},            % VERIFICAR edicion y anio de la que se consulte
+  edition   = {4}
+}
+
+% --------------------------- Fundamentos de control ---------------------------
+
+@book{AstromMurray2008_feedback_systems,
+  author    = {{\AA}str{\"o}m, Karl Johan and Murray, Richard M.},
+  title     = {Feedback Systems: An Introduction for Scientists and Engineers},
+  publisher = {Princeton University Press},
+  address   = {Princeton, NJ},
+  year      = {2008}
+}
+
+@book{Ogata_control_moderna,
+  author    = {Ogata, Katsuhiko},
+  title     = {Ingenier{\'i}a de Control Moderna},
+  publisher = {Pearson},
+  edition   = {5},
+  year      = {2010}             % VERIFICAR anio de la edicion en espanol
+}
+
+@book{AstromHagglund2006_advanced_pid,
+  author    = {{\AA}str{\"o}m, Karl Johan and H{\"a}gglund, Tore},
+  title     = {Advanced PID Control},
+  publisher = {ISA — The Instrumentation, Systems and Automation Society},
+  year      = {2006}
+}
+
+% ------------------------ Identificacion de sistemas ------------------------
+
+@book{Ljung1999_system_identification,
+  author    = {Ljung, Lennart},
+  title     = {System Identification: Theory for the User},
+  publisher = {Prentice Hall},
+  address   = {Upper Saddle River, NJ},
+  edition   = {2},
+  year      = {1999}
+}
+
+% --------------------------- Aprendizaje por refuerzo ---------------------------
+
+@book{SuttonBarto2018_rl,
+  author    = {Sutton, Richard S. and Barto, Andrew G.},
+  title     = {Reinforcement Learning: An Introduction},
+  publisher = {MIT Press},
+  address   = {Cambridge, MA},
+  edition   = {2},
+  year      = {2018}
+}
+
+@inproceedings{Lillicrap2016_ddpg,
+  author    = {Lillicrap, Timothy P. and Hunt, Jonathan J. and Pritzel, Alexander
+               and Heess, Nicolas and Erez, Tom and Tassa, Yuval and Silver, David
+               and Wierstra, Daan},
+  title     = {Continuous Control with Deep Reinforcement Learning},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2016}
+}
+
+@article{Schulman2017_ppo,
+  author  = {Schulman, John and Wolski, Filip and Dhariwal, Prafulla
+             and Radford, Alec and Klimov, Oleg},
+  title   = {Proximal Policy Optimization Algorithms},
+  journal = {arXiv preprint arXiv:1707.06347},
+  year    = {2017}
+}
+
+@inproceedings{Haarnoja2018_sac,
+  author    = {Haarnoja, Tuomas and Zhou, Aurick and Abbeel, Pieter and Levine, Sergey},
+  title     = {Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement
+               Learning with a Stochastic Actor},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year      = {2018}
+}
+
+% ----------------------- Puente entre RL y control LQ -----------------------
+
+@inproceedings{Bradtke1994_adaptive_lq,
+  author    = {Bradtke, Steven J. and Ydstie, B. Erik and Barto, Andrew G.},
+  title     = {Adaptive Linear Quadratic Control Using Policy Iteration},
+  booktitle = {Proceedings of the American Control Conference (ACC)},
+  year      = {1994}             % VERIFICAR volumen y paginas
+}
+
+@inproceedings{Fazel2018_policy_gradient_lqr,
+  author    = {Fazel, Maryam and Ge, Rong and Kakade, Sham M. and Mesbahi, Mehran},
+  title     = {Global Convergence of Policy Gradient Methods for the Linear
+               Quadratic Regulator},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year      = {2018}
+}
+
+@article{Dean2020_sample_complexity_lqr,
+  author  = {Dean, Sarah and Mania, Horia and Matni, Nikolai and Recht, Benjamin
+             and Tu, Stephen},
+  title   = {On the Sample Complexity of the Linear Quadratic Regulator},
+  journal = {Foundations of Computational Mathematics},
+  volume  = {20},
+  pages   = {633--679},          % VERIFICAR paginas
+  year    = {2020}
+}
+
+@article{Recht2019_tour_rl,
+  author  = {Recht, Benjamin},
+  title   = {A Tour of Reinforcement Learning: The View from Continuous Control},
+  journal = {Annual Review of Control, Robotics, and Autonomous Systems},
+  volume  = {2},
+  pages   = {253--279},          % VERIFICAR paginas
+  year    = {2019}
+}
+
+% --------------------- RL residual y RL con garantias ---------------------
+
+@inproceedings{Johannink2019_residual_rl,
+  author    = {Johannink, Tobias and Bahl, Shikhar and Nair, Ashvin and Luo, Jianlan
+               and Kumar, Avinash and Loskyll, Matthias and Ojea, Juan Aparicio
+               and Solowjow, Eugen and Levine, Sergey},
+  title     = {Residual Reinforcement Learning for Robot Control},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2019}             % VERIFICAR lista completa de autores
+}
+
+@article{Silver2018_residual_policy,
+  author  = {Silver, Tom and Allen, Kelsey and Tenenbaum, Josh and Kaelbling, Leslie},
+  title   = {Residual Policy Learning},
+  journal = {arXiv preprint arXiv:1812.06298},
+  year    = {2018}
+}
+
+@inproceedings{Berkenkamp2017_safe_rl,
+  author    = {Berkenkamp, Felix and Turchetta, Matteo and Schoellig, Angela P.
+               and Krause, Andreas},
+  title     = {Safe Model-Based Reinforcement Learning with Stability Guarantees},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2017}
+}
+
+% ------------------------------- Plataforma TCLab -------------------------------
+
+@article{Park2020_tclab,
+  author  = {Park, Junho and Martin, R. Abraham and Kelly, Jeffrey D.
+             and Hedengren, John D.},
+  title   = {Benchmark Temperature Microcontroller for Process Dynamics and Control},
+  journal = {Computers \& Chemical Engineering},
+  volume  = {135},
+  year    = {2020}
+  % VERIFICAR: autores, volumen, numero de articulo y paginas. Entrada
+  % reconstruida de memoria; confirmar contra la publicacion antes de citar.
 }

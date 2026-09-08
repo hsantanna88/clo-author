@@ -1,0 +1,21 @@
+# Hiperparametros del agente de RL (INV-23).
+# PENDIENTE: la formulacion del MDP se define tras /discover interview.
+
+agente:
+  algoritmo: "SAC"         # PENDIENTE: justificar la eleccion en el memorando
+  semillas: [0, 1, 2, 3, 4]   # N semillas independientes (INV-14)
+  pasos_entrenamiento: 200000
+  # Los hiperparametros concretos se completan al fijar el algoritmo
+
+entorno:
+  # PENDIENTE: definir tras la formulacion del MDP
+  estado: []               # que observa el agente
+  accion: []               # que controla y en que rango
+  recompensa:
+    peso_seguimiento: null
+    peso_esfuerzo: null
+    peso_suavidad: null
+  duracion_episodio_s: 600
+  aleatorizacion:
+    ambiente_C: null       # rango de temperatura ambiente inicial
+    parametros_modelo: null   # domain randomization para reducir la brecha sim-to-real

@@ -89,4 +89,4 @@
 ### Intermediate Objects
 | File | Description |
 |------|-------------|
-| `scripts/R/output/[name].rds` | [what it contains] |
+| `scripts/python/results/[nombre].npz` | [what it contains] |

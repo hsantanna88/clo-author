@@ -1,0 +1,15 @@
+# Matrices de peso del LQR (INV-23).
+# PENDIENTE: los valores son marcadores. Se fijan tras la identificacion,
+# con el criterio de eleccion documentado en el memorando de estrategia.
+
+lqr:
+  discreto: true           # disenar con dlqr sobre el modelo muestreado a ts_s
+  Q: [[1.0, 0.0],          # penalizacion del error de estado
+      [0.0, 1.0]]
+  R: [[0.1, 0.0],          # penalizacion del esfuerzo de control
+      [0.0, 0.1]]
+  accion_integral: false   # true si se aumenta el estado para eliminar error estacionario
+
+modelo:
+  archivo: "results/modelo_ss.mat"
+  ts_s: 1.0                # DEBE coincidir con muestreo.ts_s de planta.yaml

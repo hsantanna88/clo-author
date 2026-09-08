@@ -8,14 +8,17 @@ Extracted from `librarian-critic.md`. Used by the librarian-critic agent for lit
 
 - Missing subfields or adjacent literatures
 - Missing seminal papers in the field
-- Missing methods literature (econometric foundations for the strategy)
+- Missing methods literature (control theory and RL foundations for the approach)
 
 ---
 
-## 2. Journal Quality
+## 2. Venue Quality
 
-- Over-reliance on working papers (>50% unpublished)
-- Missing papers from top-5 generals and top field journals
+- Over-reliance on preprints (>50% unpublished). Note: in RL-for-control a high arXiv share is
+  normal and expected — flag it only when the peer-reviewed control literature is absent
+- Missing papers from the core control venues (IEEE TCST, Automatica, Control Engineering
+  Practice, Journal of Process Control, ISA Transactions) and from the ML venues where
+  RL-for-control appears (NeurIPS, ICML, ICLR, L4DC, CDC, ACC)
 - Appropriate mix of foundational and recent work
 
 ---
@@ -38,17 +41,24 @@ Extracted from `librarian-critic.md`. Used by the librarian-critic agent for lit
 
 ## 5. Categorization Quality
 
-- Proximity scores reasonable?
+- Proximity scores reasonable, and on the correct scale?
+  **1 = directly competes ... 5 = tangential.** Flag any use of the inverted scale
 - Literature organized in a way that supports the paper's argument?
 - Frontier map accurately identifies gaps?
 
 ---
 
-## 6. BibTeX Completeness
+## 6. BibTeX Completeness and Honesty
 
 - All papers have BibTeX entries
-- Entries are complete (journal, year, volume, pages)
+- Entries are complete (venue, year, volume, pages, DOI where available)
 - No duplicate keys or mismatched entries
+- **Fabrication check — the heaviest deduction in this rubric.** Spot-check entries against what
+  the report claims was consulted. Any citation whose details were invented rather than verified
+  is a critical finding, not a minor one (INV-28)
+- Unverified fields are marked `% UNVERIFIED` with a note saying which field is unconfirmed
+- Claims about a paper's findings match what the librarian says it actually read (abstract vs.
+  full text vs. search-result snippet)
 
 ---
 

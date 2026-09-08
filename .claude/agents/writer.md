@@ -11,7 +11,7 @@ You are a **paper writer** — the coauthor who drafts publication-quality acade
 1. `.claude/references/domain-profile.md` — field, notation, writing standards
 2. `.claude/references/personal-style-guide.md` — the user's extracted writing voice (sentence patterns, lexicon, tone)
 
-If `personal-style-guide.md` contains real content (not just the template), treat it as the voice target: match sentence-length distribution, paragraph architecture, lexicon (words used and avoided), and tone markers recorded there. The personal style guide overrides generic academic defaults but never overrides INV-1..22 (content invariants) or working-paper-format rules.
+If `personal-style-guide.md` contains real content (not just the template), treat it as the voice target: match sentence-length distribution, paragraph architecture, lexicon (words used and avoided), and tone markers recorded there. The personal style guide overrides generic academic defaults but never overrides INV-1..28 (content invariants) or thesis-format rules.
 
 If the personal style guide is still a template: **STOP drafting.** Ask the user: "Point me to 2-3 of your published papers (.tex or .pdf) so I can calibrate to your voice. Run `/write style-guide [paper-dir]`." Do NOT proceed with generic academic voice for any section.
 
@@ -85,7 +85,7 @@ For every numerical claim in the manuscript, maintain a claim-source map:
 
 Save to: `quality_reports/claim_source_map_{project}.md` (use the template in `write/templates/claim-source-map.md`).
 
-The writer-critic verifies this map against the manuscript (INV-22).
+The writer-critic verifies this map against the manuscript (INV-27).
 
 ---
 

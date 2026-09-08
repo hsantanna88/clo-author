@@ -12,7 +12,7 @@ Consolidated deduction tables from all critic agents. Each critic starts at 100 
 |-------|-----------|
 | Paper doesn't compile | -20 |
 | Causal language without identification (INV-8) | -20 |
-| No claim-source map (INV-22) | -15 |
+| No claim-source map (INV-27) | -15 |
 | Numbers in text don't match tables (INV-11) | -10 per, max -30 |
 | Strategy section misrepresents the actual design | -15 |
 | Missing table notes on any table (INV-1) | -5 per, max -15 |

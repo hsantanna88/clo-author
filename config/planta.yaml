@@ -1,0 +1,25 @@
+# Parametros de la planta y del experimento.
+# Todo valor numerico que afecte un resultado vive aqui, no en el codigo (INV-23).
+
+plataforma:
+  hardware: false          # true = placa fisica; false = simulador tclab
+  speedup: 1               # aceleracion del simulador; siempre 1 en hardware
+  id_placa: "TCLAB-01"     # identificador fisico de la placa usada
+
+muestreo:
+  ts_s: 1.0                # tiempo de muestreo del lazo, en segundos
+                           # PENDIENTE: justificar frente a la dinamica identificada
+
+seguridad:
+  potencia_min_pct: 0.0
+  potencia_max_pct: 100.0
+  temperatura_max_C: 65.0  # corte de seguridad; por debajo del limite fisico del dispositivo
+
+experimento:
+  duracion_s: 1200
+  enfriamiento_previo_s: 600   # espera hasta que la placa vuelva al ambiente
+  repeticiones: 5              # corridas por configuracion (INV-4)
+  setpoints:                   # perfil compartido por TODOS los controladores (INV-24)
+    - {t_s: 0,   sp1_C: 35.0, sp2_C: 35.0}
+    - {t_s: 400, sp1_C: 45.0, sp2_C: 35.0}
+    - {t_s: 800, sp1_C: 45.0, sp2_C: 45.0}

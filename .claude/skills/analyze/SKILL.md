@@ -57,7 +57,7 @@ Dispatch **Coder** agent:
 - Stage 2: Robustness checks
 - Stage 3: Publication-ready output (tables to `paper/tables/`, figures to `paper/figures/`)
 - Produce `results_summary.md` with all estimates, SEs, and key statistics (MANDATORY)
-- Save scripts to `scripts/R/` (or appropriate language directory)
+- Save scripts to `scripts/python/` (o el subdirectorio del lenguaje que corresponda)
 
 The Coder follows these principles:
 - **Script structure:** Use the Script Structure Template below
@@ -139,8 +139,8 @@ dir.create("paper/figures", recursive = TRUE, showWarnings = FALSE)
 # 4. Tables and Figures ----
 
 # 5. Export ----
-# saveRDS(model_fit, "scripts/R/output/model_fit.rds")
-# saveRDS(main_results, "scripts/R/output/main_results.rds")
+# np.savez("results/modelo_ajustado.npz", **modelo)
+# np.savez("results/metricas.npz", **metricas)
 ```
 
 ---

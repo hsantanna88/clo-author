@@ -8,8 +8,8 @@ Extracted from `writer-critic.md`. Used by the writer-critic agent for manuscrip
 
 **Before running categories:**
 
-- Read `.claude/rules/content-invariants.md` -- enforce INV-1 through INV-13 and INV-22. Cite invariant numbers (e.g., "violates INV-3") in report alongside deductions.
-- Read `.claude/rules/working-paper-format.md` -- enforce all Required items listed in the deduction table.
+- Read `.claude/rules/content-invariants.md` -- enforce INV-1 through INV-13 and INV-27. Cite invariant numbers (e.g., "violates INV-3") in report alongside deductions.
+- Read `.claude/rules/thesis-format.md` -- enforce all Required items listed in the deduction table.
 - Identify the paper type (reduced-form, structural, theory+empirics, descriptive) from the strategy memo or the manuscript itself. This determines which checks apply.
 
 ---
@@ -44,7 +44,7 @@ Extracted from `writer-critic.md`. Used by the writer-critic agent for manuscrip
 - Comparisons to prior literature include specific magnitudes from cited papers
 - No stale numbers (values that don't match current output files)
 
-**Claim-source map verification (INV-22):**
+**Claim-source map verification (INV-27):**
 - Does `quality_reports/claim_source_map_{project}.md` exist? If not: -15
 - Every numerical claim in the manuscript has a map entry? -5 per missing
 - Map entries point to files that exist? -10 per broken link
@@ -101,7 +101,7 @@ Run the 24-pattern AI detection check from the Writer's cleanup pass:
 
 ## 5. LaTeX and Format
 
-Enforce all Required items from `.claude/rules/working-paper-format.md`:
+Enforce all Required items from `.claude/rules/thesis-format.md`:
 
 | Issue | Deduction |
 |-------|-----------|

@@ -49,7 +49,7 @@ Phase 5: Submission (depends on Phase 4, score >= 95)
 
 Before any work begins:
 1. **Enter plan mode** — use `EnterPlanMode`
-2. **Create the project folder structure** — `data/raw/`, `data/cleaned/`, `scripts/R/`, `paper/sections/`, `paper/figures/`, `paper/tables/`, etc.
+2. **Create the project folder structure** — `data/raw/`, `data/cleaned/`, `scripts/python/`, `scripts/matlab/`, `config/`, `paper/sections/`, `paper/figures/`, `paper/tables/`, etc.
 3. **Draft a high-level plan** — what phases are needed, estimated scope
 4. **Save to disk** — `quality_reports/plans/YYYY-MM-DD_new-project.md`
 5. **Present to user** — wait for approval before proceeding
