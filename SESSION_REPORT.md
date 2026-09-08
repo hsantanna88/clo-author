@@ -47,3 +47,36 @@ Registro cronológico de sesiones de trabajo. Solo se agrega, nunca se reescribe
 - Pendiente: instalar TeX Live y crear el entorno Python 3.12 (requieren sudo);
   compilación de `paper/main.tex` SIN VERIFICAR por ausencia de LaTeX;
   ejecutar `/discover interview` para definir la pregunta de investigación
+
+## 2026-09-08 10:15 — Revisión de literatura: rondas 0 a 2 (incompleta)
+
+**Operaciones:**
+- `/discover literature TCLab + RL + LQR`: librarian → librarian-critic, tres rondas
+- Recalibrado `.claude/agents/librarian.md` (venues de control, escala de proximidad corregida)
+  y `.claude/skills/review/templates/literature-review-6-categories.md`
+- Cinco entregables en `quality_reports/literature/tclab-lqr-rl/` más dos informes críticos
+- Correcciones deterministas hechas por el orquestador: H-7 contaminación, H-6 reconciliación
+  BibTeX, H-3/H-4 coherencia de marcas, H-5 magnitudes sin fuente, H-2 hedge a Zhang
+
+**Decisiones:**
+- Escala de proximidad unificada en 1 = compite directamente (el librarian usaba la inversa)
+- Adjudicación CMDP: el creador tenía razón en el fondo (es alternativa, no componente del eje c),
+  pero debe figurar en positioning §6 porque su ausencia hace que (c) parezca más caro
+- Trabajo dividido entre orquestador (determinista) y librarian (requiere búsqueda) para
+  reducir consumo de límite de sesión
+
+**Resultados:**
+- Encadenamiento de citas sobre OpenAlex corrigió dos de cinco vacíos declarados
+- Puntajes: 72/100 (ronda 0), 73/100 (ronda 1). Umbral 80 no alcanzado
+- Ninguna ronda halló citas fabricadas
+
+**Commits:**
+- `e9e76d6` Adaptar el repositorio de economía empírica a control automático
+- `666d3cc` Revisión de literatura: ronda 1 y dos revisiones críticas
+- `547a79f` Cambios durante la 2da revisión de literatura
+
+**Estado:**
+- Done: adaptación del repo completa; literatura en ronda 2 parcial
+- Pending: ver `quality_reports/ESTADO_ACTUAL.md` — archivos de literatura en estado MIXTO
+  (references.bib es ronda 2, los otros cuatro son ronda 1)
+- Bloqueado: push a GitHub (sin credenciales en la máquina); límite de API resetea 2:20pm
